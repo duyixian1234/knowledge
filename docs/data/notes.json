@@ -1,0 +1,1920 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1660236155498,
+      "created": 1660236155498,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "20dxao0uf8892hiam7spier": {
+      "id": "20dxao0uf8892hiam7spier",
+      "title": "Root",
+      "desc": "",
+      "updated": 1660232005340,
+      "created": 1660230632683,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "bb70302b08968852d01de7e886efccc5",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "basic",
+          "alias": "basic",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 3,
+              "offset": 19
+            },
+            "end": {
+              "line": 6,
+              "column": 12,
+              "offset": 28
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "basic"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages",
+          "alias": "programming-languages",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 31
+            },
+            "end": {
+              "line": 7,
+              "column": 28,
+              "offset": 56
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "architecture",
+          "alias": "architecture",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 3,
+              "offset": 59
+            },
+            "end": {
+              "line": 8,
+              "column": 19,
+              "offset": 75
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "architecture"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "frontend",
+          "alias": "frontend",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 3,
+              "offset": 78
+            },
+            "end": {
+              "line": 9,
+              "column": 15,
+              "offset": 90
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "frontend"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "database",
+          "alias": "database",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 3,
+              "offset": 93
+            },
+            "end": {
+              "line": 10,
+              "column": 15,
+              "offset": 105
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "database"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "security",
+          "alias": "security",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 3,
+              "offset": 108
+            },
+            "end": {
+              "line": 11,
+              "column": 15,
+              "offset": 120
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "security"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "sofrware-enginering",
+          "alias": "sofrware-enginering",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 3,
+              "offset": 123
+            },
+            "end": {
+              "line": 12,
+              "column": 26,
+              "offset": 146
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "sofrware-enginering"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "project-management",
+          "alias": "project-management",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 3,
+              "offset": 149
+            },
+            "end": {
+              "line": 13,
+              "column": 25,
+              "offset": 171
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "project-management"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "dev-ops",
+          "alias": "dev-ops",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 3,
+              "offset": 174
+            },
+            "end": {
+              "line": 14,
+              "column": 14,
+              "offset": 185
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "dev-ops"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "opensource",
+          "alias": "opensource",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 3,
+              "offset": 188
+            },
+            "end": {
+              "line": 15,
+              "column": 17,
+              "offset": 202
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "opensource"
+          }
+        }
+      ],
+      "anchors": {
+        "个人知识库": {
+          "type": "header",
+          "text": "个人知识库",
+          "value": "个人知识库",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "目录": {
+          "type": "header",
+          "text": "目录",
+          "value": "目录",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "6xsd9waf7ho7as5kzccut5h",
+        "e8hgfaxvmfjj1h1wq7pe5he",
+        "roizuhueed0r7bqvid0nz7l",
+        "8pwefou38xgvyum1pfgl3r8",
+        "m86229vfqs59h7tbphp9j45",
+        "p59utz7mf12ic3lqw8y8tbs",
+        "oasz9131g7t831nyxuti1qf",
+        "iy0dbws3a27yprk37a315x1",
+        "a44h4sj21jfb19ymoovvuzr",
+        "i5z2gw9ou7tmimbwdsltnnz"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "i5z2gw9ou7tmimbwdsltnnz": {
+      "id": "i5z2gw9ou7tmimbwdsltnnz",
+      "title": "Sofrware Enginering",
+      "desc": "",
+      "updated": 1660231869679,
+      "created": 1660231869679,
+      "custom": {},
+      "fname": "sofrware-enginering",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "87046800422417e2e2abf26b671ab6ec",
+      "links": [
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 3,
+              "offset": 123
+            },
+            "end": {
+              "line": 12,
+              "column": 26,
+              "offset": 146
+            },
+            "indent": []
+          },
+          "value": "sofrware-enginering",
+          "alias": "sofrware-enginering"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "20dxao0uf8892hiam7spier",
+      "data": {}
+    },
+    "a44h4sj21jfb19ymoovvuzr": {
+      "id": "a44h4sj21jfb19ymoovvuzr",
+      "title": "Security",
+      "desc": "",
+      "updated": 1660231836464,
+      "created": 1660231836464,
+      "custom": {},
+      "fname": "security",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "ef27bb1c78067a020bda88fa0b36c685",
+      "links": [
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 3,
+              "offset": 108
+            },
+            "end": {
+              "line": 11,
+              "column": 15,
+              "offset": 120
+            },
+            "indent": []
+          },
+          "value": "security",
+          "alias": "security"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "20dxao0uf8892hiam7spier",
+      "data": {}
+    },
+    "iy0dbws3a27yprk37a315x1": {
+      "id": "iy0dbws3a27yprk37a315x1",
+      "title": "Project Management",
+      "desc": "",
+      "updated": 1660231894846,
+      "created": 1660231894846,
+      "custom": {},
+      "fname": "project-management",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "0d9b8405ec7fba4be0413d859184c795",
+      "links": [
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 3,
+              "offset": 149
+            },
+            "end": {
+              "line": 13,
+              "column": 25,
+              "offset": 171
+            },
+            "indent": []
+          },
+          "value": "project-management",
+          "alias": "project-management"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "20dxao0uf8892hiam7spier",
+      "data": {}
+    },
+    "oasz9131g7t831nyxuti1qf": {
+      "id": "oasz9131g7t831nyxuti1qf",
+      "title": "Programming Languages",
+      "desc": "",
+      "updated": 1660231153587,
+      "created": 1660231149510,
+      "custom": {},
+      "fname": "programming-languages",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "8c75b1715f557e3364b2b8d49e14a02c",
+      "links": [
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 31
+            },
+            "end": {
+              "line": 7,
+              "column": 28,
+              "offset": 56
+            },
+            "indent": []
+          },
+          "value": "programming-languages",
+          "alias": "programming-languages"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "xxicc2psl6e5w1svw3bkh3u",
+        "969nhjubxljoqfh93w6cd8p",
+        "timf6fz47pcux97itx9t9pz",
+        "5ao7xb0vcwvs84380v8sbwh",
+        "72lkyo4ytbsj2w2w7rkdor7",
+        "l0uijxo05lrlktn8uszxu3a",
+        "i7qra5ip0gwchs30f5at7rx",
+        "n2k5mir21lfaxzegmq4vs47",
+        "1s674rtewls01u0m0zuze3n"
+      ],
+      "parent": "20dxao0uf8892hiam7spier",
+      "data": {}
+    },
+    "1s674rtewls01u0m0zuze3n": {
+      "id": "1s674rtewls01u0m0zuze3n",
+      "title": "TypeScript",
+      "desc": "",
+      "updated": 1660233217549,
+      "created": 1660233217549,
+      "custom": {},
+      "fname": "programming-languages.typescript",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "e432c5608a3be8000e51d1a2a58a73ed",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "oasz9131g7t831nyxuti1qf",
+      "data": {}
+    },
+    "n2k5mir21lfaxzegmq4vs47": {
+      "id": "n2k5mir21lfaxzegmq4vs47",
+      "title": "Rust",
+      "desc": "",
+      "updated": 1660233222733,
+      "created": 1660233222733,
+      "custom": {},
+      "fname": "programming-languages.rust",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "31c60126be2bf2867091b751b21205e7",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "oasz9131g7t831nyxuti1qf",
+      "data": {}
+    },
+    "i7qra5ip0gwchs30f5at7rx": {
+      "id": "i7qra5ip0gwchs30f5at7rx",
+      "title": "Python",
+      "desc": "",
+      "updated": 1660233198308,
+      "created": 1660233198308,
+      "custom": {},
+      "fname": "programming-languages.python",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "4d2e1fa9be764f5fe01e727bee00fa3c",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "oasz9131g7t831nyxuti1qf",
+      "data": {}
+    },
+    "l0uijxo05lrlktn8uszxu3a": {
+      "id": "l0uijxo05lrlktn8uszxu3a",
+      "title": "JavaScript",
+      "desc": "",
+      "updated": 1660233210310,
+      "created": 1660233210310,
+      "custom": {},
+      "fname": "programming-languages.javascript",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "72218ee331b45529ed53359d4b70000b",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "oasz9131g7t831nyxuti1qf",
+      "data": {}
+    },
+    "72lkyo4ytbsj2w2w7rkdor7": {
+      "id": "72lkyo4ytbsj2w2w7rkdor7",
+      "title": "Java",
+      "desc": "",
+      "updated": 1660233203797,
+      "created": 1660233203797,
+      "custom": {},
+      "fname": "programming-languages.java",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "1af3729313d5b4bb1aa4056680f63107",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "oasz9131g7t831nyxuti1qf",
+      "data": {}
+    },
+    "5ao7xb0vcwvs84380v8sbwh": {
+      "id": "5ao7xb0vcwvs84380v8sbwh",
+      "title": "Categories",
+      "desc": "",
+      "updated": 1660234866919,
+      "created": 1660231167782,
+      "custom": {},
+      "fname": "programming-languages.categories",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "b1ffc9917132ebd30d8021f45cb9ae4a",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "oasz9131g7t831nyxuti1qf",
+      "data": {}
+    },
+    "timf6fz47pcux97itx9t9pz": {
+      "id": "timf6fz47pcux97itx9t9pz",
+      "title": "C",
+      "desc": "",
+      "updated": 1660233183887,
+      "created": 1660233183887,
+      "custom": {},
+      "fname": "programming-languages.c",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "b01dd5d522eba436074cd8ed48c1dd03",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "oasz9131g7t831nyxuti1qf",
+      "data": {}
+    },
+    "969nhjubxljoqfh93w6cd8p": {
+      "id": "969nhjubxljoqfh93w6cd8p",
+      "title": "C++",
+      "desc": "",
+      "updated": 1660233192318,
+      "created": 1660233192318,
+      "custom": {},
+      "fname": "programming-languages.c++",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "adf6c90c041a8a0bec1ac4c0b8a152ef",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "oasz9131g7t831nyxuti1qf",
+      "data": {}
+    },
+    "xxicc2psl6e5w1svw3bkh3u": {
+      "id": "xxicc2psl6e5w1svw3bkh3u",
+      "title": "C#",
+      "desc": "",
+      "updated": 1660233228469,
+      "created": 1660233228469,
+      "custom": {},
+      "fname": "programming-languages.c#",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "5159be7abf1e948a3cd438462363bdc1",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "oasz9131g7t831nyxuti1qf",
+      "data": {}
+    },
+    "p59utz7mf12ic3lqw8y8tbs": {
+      "id": "p59utz7mf12ic3lqw8y8tbs",
+      "title": "Opensource",
+      "desc": "",
+      "updated": 1660232000598,
+      "created": 1660232000598,
+      "custom": {},
+      "fname": "opensource",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "be6de27f6219b3e8dfa75710ee6e1541",
+      "links": [
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 3,
+              "offset": 188
+            },
+            "end": {
+              "line": 15,
+              "column": 17,
+              "offset": 202
+            },
+            "indent": []
+          },
+          "value": "opensource",
+          "alias": "opensource"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "jni6v9l7eg361jsmwiimvzv"
+      ],
+      "parent": "20dxao0uf8892hiam7spier",
+      "data": {}
+    },
+    "jni6v9l7eg361jsmwiimvzv": {
+      "id": "jni6v9l7eg361jsmwiimvzv",
+      "title": "License",
+      "desc": "",
+      "updated": 1660232022380,
+      "created": 1660232022380,
+      "custom": {},
+      "fname": "opensource.license",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "4e3c6f5741a18b1ccf3c65faac5aeb84",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "p59utz7mf12ic3lqw8y8tbs",
+      "data": {}
+    },
+    "m86229vfqs59h7tbphp9j45": {
+      "id": "m86229vfqs59h7tbphp9j45",
+      "title": "Frontend",
+      "desc": "",
+      "updated": 1660231786319,
+      "created": 1660231786319,
+      "custom": {},
+      "fname": "frontend",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "e3cf83da43613e797e65096c491a281a",
+      "links": [
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 3,
+              "offset": 78
+            },
+            "end": {
+              "line": 9,
+              "column": 15,
+              "offset": 90
+            },
+            "indent": []
+          },
+          "value": "frontend",
+          "alias": "frontend"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "20dxao0uf8892hiam7spier",
+      "data": {}
+    },
+    "8pwefou38xgvyum1pfgl3r8": {
+      "id": "8pwefou38xgvyum1pfgl3r8",
+      "title": "Dev Ops",
+      "desc": "",
+      "updated": 1660231981798,
+      "created": 1660231981798,
+      "custom": {},
+      "fname": "dev-ops",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "1ed2b463184bddd7bff987247ea96c2f",
+      "links": [
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 3,
+              "offset": 174
+            },
+            "end": {
+              "line": 14,
+              "column": 14,
+              "offset": 185
+            },
+            "indent": []
+          },
+          "value": "dev-ops",
+          "alias": "dev-ops"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "20dxao0uf8892hiam7spier",
+      "data": {}
+    },
+    "roizuhueed0r7bqvid0nz7l": {
+      "id": "roizuhueed0r7bqvid0nz7l",
+      "title": "Database",
+      "desc": "",
+      "updated": 1660231817502,
+      "created": 1660231817502,
+      "custom": {},
+      "fname": "database",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "84a4b4d4b6d1b23841ddbaf457ae28d5",
+      "links": [
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 3,
+              "offset": 93
+            },
+            "end": {
+              "line": 10,
+              "column": 15,
+              "offset": 105
+            },
+            "indent": []
+          },
+          "value": "database",
+          "alias": "database"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "20dxao0uf8892hiam7spier",
+      "data": {}
+    },
+    "e8hgfaxvmfjj1h1wq7pe5he": {
+      "id": "e8hgfaxvmfjj1h1wq7pe5he",
+      "title": "Basic",
+      "desc": "",
+      "updated": 1660231302202,
+      "created": 1660231300676,
+      "custom": {},
+      "fname": "basic",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "ef72b92816eea0a79003924826f77844",
+      "links": [
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 3,
+              "offset": 19
+            },
+            "end": {
+              "line": 6,
+              "column": 12,
+              "offset": 28
+            },
+            "indent": []
+          },
+          "value": "basic",
+          "alias": "basic"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "juqa13xh9vpcjjcwuaxpijf",
+        "6l2hd19rhsbeqnqzifx5y8n",
+        "dteprkzzkrstuocixsln0we"
+      ],
+      "parent": "20dxao0uf8892hiam7spier",
+      "data": {}
+    },
+    "dteprkzzkrstuocixsln0we": {
+      "id": "dteprkzzkrstuocixsln0we",
+      "title": "Software",
+      "desc": "",
+      "updated": 1660231319260,
+      "created": 1660231319260,
+      "custom": {},
+      "fname": "basic.software",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "588b451a02dd99d74146aa041a2865b6",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "9nuy42p9er5xi25in7cy0vq"
+      ],
+      "parent": "e8hgfaxvmfjj1h1wq7pe5he",
+      "data": {}
+    },
+    "9nuy42p9er5xi25in7cy0vq": {
+      "id": "9nuy42p9er5xi25in7cy0vq",
+      "title": "Operating System",
+      "desc": "",
+      "updated": 1660231756678,
+      "created": 1660231756678,
+      "custom": {},
+      "fname": "basic.software.operating-system",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "8f8fb787076463361e4ea562248faadc",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "dteprkzzkrstuocixsln0we",
+      "data": {}
+    },
+    "6l2hd19rhsbeqnqzifx5y8n": {
+      "id": "6l2hd19rhsbeqnqzifx5y8n",
+      "title": "Hardware",
+      "desc": "",
+      "updated": 1660231308862,
+      "created": 1660231308862,
+      "custom": {},
+      "fname": "basic.hardware",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "3fe0cb8bcdb60fbfa12f412d29c4f656",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "y5kiwrofq5xhekxxqxajxas",
+        "3cq5h2bn0k6q8yo4tfdp3yj",
+        "2lpt87f6lkomzhl37o9laax"
+      ],
+      "parent": "e8hgfaxvmfjj1h1wq7pe5he",
+      "data": {}
+    },
+    "2lpt87f6lkomzhl37o9laax": {
+      "id": "2lpt87f6lkomzhl37o9laax",
+      "title": "Storage",
+      "desc": "",
+      "updated": 1660234750791,
+      "created": 1660234750791,
+      "custom": {},
+      "fname": "basic.hardware.storage",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "790ad08b4df46160b62062d420692b4e",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "6l2hd19rhsbeqnqzifx5y8n",
+      "data": {}
+    },
+    "3cq5h2bn0k6q8yo4tfdp3yj": {
+      "id": "3cq5h2bn0k6q8yo4tfdp3yj",
+      "title": "Memory",
+      "desc": "",
+      "updated": 1660234740763,
+      "created": 1660234740763,
+      "custom": {},
+      "fname": "basic.hardware.memory",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "eba585765416327059a012d65ff8c6ad",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "6l2hd19rhsbeqnqzifx5y8n",
+      "data": {}
+    },
+    "y5kiwrofq5xhekxxqxajxas": {
+      "id": "y5kiwrofq5xhekxxqxajxas",
+      "title": "Cpu",
+      "desc": "",
+      "updated": 1660234731093,
+      "created": 1660234731093,
+      "custom": {},
+      "fname": "basic.hardware.cpu",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "d40ffec69f86644942310a39aaf1b18f",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "6l2hd19rhsbeqnqzifx5y8n",
+      "data": {}
+    },
+    "juqa13xh9vpcjjcwuaxpijf": {
+      "id": "juqa13xh9vpcjjcwuaxpijf",
+      "title": "Communication",
+      "desc": "",
+      "updated": 1660231333092,
+      "created": 1660231333092,
+      "custom": {},
+      "fname": "basic.communication",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "f48816e4385b27ed890ccda8bce27ce5",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "j1p2133sxm8xqu7etqqv5u1",
+        "zcrks6hqodblp70de8kvm4b",
+        "pqf7qvwgukb60h5r0vcmnzh"
+      ],
+      "parent": "e8hgfaxvmfjj1h1wq7pe5he",
+      "data": {}
+    },
+    "pqf7qvwgukb60h5r0vcmnzh": {
+      "id": "pqf7qvwgukb60h5r0vcmnzh",
+      "title": "Network",
+      "desc": "",
+      "updated": 1660231665904,
+      "created": 1660231665904,
+      "custom": {},
+      "fname": "basic.communication.network",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "caf97d2e34b65750f85d1e76057303c2",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "juqa13xh9vpcjjcwuaxpijf",
+      "data": {}
+    },
+    "zcrks6hqodblp70de8kvm4b": {
+      "id": "zcrks6hqodblp70de8kvm4b",
+      "title": "Compress",
+      "desc": "",
+      "updated": 1660231693784,
+      "created": 1660231693784,
+      "custom": {},
+      "fname": "basic.communication.compress",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "577616cd0f821a1bfc1e9049a52af229",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "juqa13xh9vpcjjcwuaxpijf",
+      "data": {}
+    },
+    "j1p2133sxm8xqu7etqqv5u1": {
+      "id": "j1p2133sxm8xqu7etqqv5u1",
+      "title": "Code",
+      "desc": "",
+      "updated": 1660231676656,
+      "created": 1660231676656,
+      "custom": {},
+      "fname": "basic.communication.code",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "83914482469dbe3c6a3eb0d0bde08236",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "juqa13xh9vpcjjcwuaxpijf",
+      "data": {}
+    },
+    "6xsd9waf7ho7as5kzccut5h": {
+      "id": "6xsd9waf7ho7as5kzccut5h",
+      "title": "Architecture",
+      "desc": "",
+      "updated": 1660231529945,
+      "created": 1660231529945,
+      "custom": {},
+      "fname": "architecture",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "712edc14aac13e50d57387bdc9cf3f1c",
+      "links": [
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 3,
+              "offset": 59
+            },
+            "end": {
+              "line": 8,
+              "column": 19,
+              "offset": 75
+            },
+            "indent": []
+          },
+          "value": "architecture",
+          "alias": "architecture"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "20dxao0uf8892hiam7spier",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "20dxao0uf8892hiam7spier",
+      "title": "Root",
+      "desc": "",
+      "updated": 1660232005340,
+      "created": 1660230632683,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "bb70302b08968852d01de7e886efccc5",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "basic",
+          "alias": "basic",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 3,
+              "offset": 19
+            },
+            "end": {
+              "line": 6,
+              "column": 12,
+              "offset": 28
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "basic"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages",
+          "alias": "programming-languages",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 31
+            },
+            "end": {
+              "line": 7,
+              "column": 28,
+              "offset": 56
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "architecture",
+          "alias": "architecture",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 3,
+              "offset": 59
+            },
+            "end": {
+              "line": 8,
+              "column": 19,
+              "offset": 75
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "architecture"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "frontend",
+          "alias": "frontend",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 3,
+              "offset": 78
+            },
+            "end": {
+              "line": 9,
+              "column": 15,
+              "offset": 90
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "frontend"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "database",
+          "alias": "database",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 3,
+              "offset": 93
+            },
+            "end": {
+              "line": 10,
+              "column": 15,
+              "offset": 105
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "database"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "security",
+          "alias": "security",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 3,
+              "offset": 108
+            },
+            "end": {
+              "line": 11,
+              "column": 15,
+              "offset": 120
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "security"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "sofrware-enginering",
+          "alias": "sofrware-enginering",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 3,
+              "offset": 123
+            },
+            "end": {
+              "line": 12,
+              "column": 26,
+              "offset": 146
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "sofrware-enginering"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "project-management",
+          "alias": "project-management",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 3,
+              "offset": 149
+            },
+            "end": {
+              "line": 13,
+              "column": 25,
+              "offset": 171
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "project-management"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "dev-ops",
+          "alias": "dev-ops",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 3,
+              "offset": 174
+            },
+            "end": {
+              "line": 14,
+              "column": 14,
+              "offset": 185
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "dev-ops"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "opensource",
+          "alias": "opensource",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 3,
+              "offset": 188
+            },
+            "end": {
+              "line": 15,
+              "column": 17,
+              "offset": 202
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "opensource"
+          }
+        }
+      ],
+      "anchors": {
+        "个人知识库": {
+          "type": "header",
+          "text": "个人知识库",
+          "value": "个人知识库",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "目录": {
+          "type": "header",
+          "text": "目录",
+          "value": "目录",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "6xsd9waf7ho7as5kzccut5h",
+        "e8hgfaxvmfjj1h1wq7pe5he",
+        "roizuhueed0r7bqvid0nz7l",
+        "8pwefou38xgvyum1pfgl3r8",
+        "m86229vfqs59h7tbphp9j45",
+        "p59utz7mf12ic3lqw8y8tbs",
+        "oasz9131g7t831nyxuti1qf",
+        "iy0dbws3a27yprk37a315x1",
+        "a44h4sj21jfb19ymoovvuzr",
+        "i5z2gw9ou7tmimbwdsltnnz"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "\n# 个人知识库\n\n## 目录\n\n- [[basic]]\n- [[programming-languages]]\n- [[architecture]]\n- [[frontend]]\n- [[database]]\n- [[security]]\n- [[sofrware-enginering]]\n- [[project-management]]\n- [[dev-ops]]\n- [[opensource]]\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "20dxao0uf8892hiam7spier",
+    "title": "Root",
+    "desc": "",
+    "updated": 1660232005340,
+    "created": 1660230632683,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "knowledge"
+    },
+    "contentHash": "bb70302b08968852d01de7e886efccc5",
+    "links": [
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "20dxao0uf8892hiam7spier",
+          "vaultName": "knowledge"
+        },
+        "value": "basic",
+        "alias": "basic",
+        "position": {
+          "start": {
+            "line": 6,
+            "column": 3,
+            "offset": 19
+          },
+          "end": {
+            "line": 6,
+            "column": 12,
+            "offset": 28
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "basic"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "20dxao0uf8892hiam7spier",
+          "vaultName": "knowledge"
+        },
+        "value": "programming-languages",
+        "alias": "programming-languages",
+        "position": {
+          "start": {
+            "line": 7,
+            "column": 3,
+            "offset": 31
+          },
+          "end": {
+            "line": 7,
+            "column": 28,
+            "offset": 56
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "programming-languages"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "20dxao0uf8892hiam7spier",
+          "vaultName": "knowledge"
+        },
+        "value": "architecture",
+        "alias": "architecture",
+        "position": {
+          "start": {
+            "line": 8,
+            "column": 3,
+            "offset": 59
+          },
+          "end": {
+            "line": 8,
+            "column": 19,
+            "offset": 75
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "architecture"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "20dxao0uf8892hiam7spier",
+          "vaultName": "knowledge"
+        },
+        "value": "frontend",
+        "alias": "frontend",
+        "position": {
+          "start": {
+            "line": 9,
+            "column": 3,
+            "offset": 78
+          },
+          "end": {
+            "line": 9,
+            "column": 15,
+            "offset": 90
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "frontend"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "20dxao0uf8892hiam7spier",
+          "vaultName": "knowledge"
+        },
+        "value": "database",
+        "alias": "database",
+        "position": {
+          "start": {
+            "line": 10,
+            "column": 3,
+            "offset": 93
+          },
+          "end": {
+            "line": 10,
+            "column": 15,
+            "offset": 105
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "database"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "20dxao0uf8892hiam7spier",
+          "vaultName": "knowledge"
+        },
+        "value": "security",
+        "alias": "security",
+        "position": {
+          "start": {
+            "line": 11,
+            "column": 3,
+            "offset": 108
+          },
+          "end": {
+            "line": 11,
+            "column": 15,
+            "offset": 120
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "security"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "20dxao0uf8892hiam7spier",
+          "vaultName": "knowledge"
+        },
+        "value": "sofrware-enginering",
+        "alias": "sofrware-enginering",
+        "position": {
+          "start": {
+            "line": 12,
+            "column": 3,
+            "offset": 123
+          },
+          "end": {
+            "line": 12,
+            "column": 26,
+            "offset": 146
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "sofrware-enginering"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "20dxao0uf8892hiam7spier",
+          "vaultName": "knowledge"
+        },
+        "value": "project-management",
+        "alias": "project-management",
+        "position": {
+          "start": {
+            "line": 13,
+            "column": 3,
+            "offset": 149
+          },
+          "end": {
+            "line": 13,
+            "column": 25,
+            "offset": 171
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "project-management"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "20dxao0uf8892hiam7spier",
+          "vaultName": "knowledge"
+        },
+        "value": "dev-ops",
+        "alias": "dev-ops",
+        "position": {
+          "start": {
+            "line": 14,
+            "column": 3,
+            "offset": 174
+          },
+          "end": {
+            "line": 14,
+            "column": 14,
+            "offset": 185
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "dev-ops"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "20dxao0uf8892hiam7spier",
+          "vaultName": "knowledge"
+        },
+        "value": "opensource",
+        "alias": "opensource",
+        "position": {
+          "start": {
+            "line": 15,
+            "column": 3,
+            "offset": 188
+          },
+          "end": {
+            "line": 15,
+            "column": 17,
+            "offset": 202
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "opensource"
+        }
+      }
+    ],
+    "anchors": {
+      "个人知识库": {
+        "type": "header",
+        "text": "个人知识库",
+        "value": "个人知识库",
+        "line": 8,
+        "column": 0,
+        "depth": 1
+      },
+      "目录": {
+        "type": "header",
+        "text": "目录",
+        "value": "目录",
+        "line": 10,
+        "column": 0,
+        "depth": 2
+      }
+    },
+    "children": [
+      "6xsd9waf7ho7as5kzccut5h",
+      "e8hgfaxvmfjj1h1wq7pe5he",
+      "roizuhueed0r7bqvid0nz7l",
+      "8pwefou38xgvyum1pfgl3r8",
+      "m86229vfqs59h7tbphp9j45",
+      "p59utz7mf12ic3lqw8y8tbs",
+      "oasz9131g7t831nyxuti1qf",
+      "iy0dbws3a27yprk37a315x1",
+      "a44h4sj21jfb19ymoovvuzr",
+      "i5z2gw9ou7tmimbwdsltnnz"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "\n# 个人知识库\n\n## 目录\n\n- [[basic]]\n- [[programming-languages]]\n- [[architecture]]\n- [[frontend]]\n- [[database]]\n- [[security]]\n- [[sofrware-enginering]]\n- [[project-management]]\n- [[dev-ops]]\n- [[opensource]]\n"
+  },
+  "vaults": [
+    {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "knowledge"
+    }
+  ]
+}

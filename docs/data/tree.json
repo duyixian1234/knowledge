@@ -1,0 +1,324 @@
+{
+  "roots": [
+    {
+      "key": "20dxao0uf8892hiam7spier",
+      "title": "Root",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "knowledge",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "6xsd9waf7ho7as5kzccut5h",
+          "title": "Architecture",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "e8hgfaxvmfjj1h1wq7pe5he",
+          "title": "Basic",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "juqa13xh9vpcjjcwuaxpijf",
+              "title": "Communication",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "j1p2133sxm8xqu7etqqv5u1",
+                  "title": "Code",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "zcrks6hqodblp70de8kvm4b",
+                  "title": "Compress",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "pqf7qvwgukb60h5r0vcmnzh",
+                  "title": "Network",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "6l2hd19rhsbeqnqzifx5y8n",
+              "title": "Hardware",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "y5kiwrofq5xhekxxqxajxas",
+                  "title": "Cpu",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "3cq5h2bn0k6q8yo4tfdp3yj",
+                  "title": "Memory",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "2lpt87f6lkomzhl37o9laax",
+                  "title": "Storage",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "dteprkzzkrstuocixsln0we",
+              "title": "Software",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "9nuy42p9er5xi25in7cy0vq",
+                  "title": "Operating System",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "roizuhueed0r7bqvid0nz7l",
+          "title": "Database",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "8pwefou38xgvyum1pfgl3r8",
+          "title": "Dev Ops",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "m86229vfqs59h7tbphp9j45",
+          "title": "Frontend",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "p59utz7mf12ic3lqw8y8tbs",
+          "title": "Opensource",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "jni6v9l7eg361jsmwiimvzv",
+              "title": "License",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "oasz9131g7t831nyxuti1qf",
+          "title": "Programming Languages",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "timf6fz47pcux97itx9t9pz",
+              "title": "C",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "xxicc2psl6e5w1svw3bkh3u",
+              "title": "C#",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "969nhjubxljoqfh93w6cd8p",
+              "title": "C++",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "5ao7xb0vcwvs84380v8sbwh",
+              "title": "Categories",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "72lkyo4ytbsj2w2w7rkdor7",
+              "title": "Java",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "l0uijxo05lrlktn8uszxu3a",
+              "title": "JavaScript",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "i7qra5ip0gwchs30f5at7rx",
+              "title": "Python",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "n2k5mir21lfaxzegmq4vs47",
+              "title": "Rust",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "1s674rtewls01u0m0zuze3n",
+              "title": "TypeScript",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "iy0dbws3a27yprk37a315x1",
+          "title": "Project Management",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "a44h4sj21jfb19ymoovvuzr",
+          "title": "Security",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "i5z2gw9ou7tmimbwdsltnnz",
+          "title": "Sofrware Enginering",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "navExclude": false,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "20dxao0uf8892hiam7spier": null,
+    "i5z2gw9ou7tmimbwdsltnnz": "20dxao0uf8892hiam7spier",
+    "a44h4sj21jfb19ymoovvuzr": "20dxao0uf8892hiam7spier",
+    "iy0dbws3a27yprk37a315x1": "20dxao0uf8892hiam7spier",
+    "oasz9131g7t831nyxuti1qf": "20dxao0uf8892hiam7spier",
+    "1s674rtewls01u0m0zuze3n": "oasz9131g7t831nyxuti1qf",
+    "n2k5mir21lfaxzegmq4vs47": "oasz9131g7t831nyxuti1qf",
+    "i7qra5ip0gwchs30f5at7rx": "oasz9131g7t831nyxuti1qf",
+    "l0uijxo05lrlktn8uszxu3a": "oasz9131g7t831nyxuti1qf",
+    "72lkyo4ytbsj2w2w7rkdor7": "oasz9131g7t831nyxuti1qf",
+    "5ao7xb0vcwvs84380v8sbwh": "oasz9131g7t831nyxuti1qf",
+    "timf6fz47pcux97itx9t9pz": "oasz9131g7t831nyxuti1qf",
+    "969nhjubxljoqfh93w6cd8p": "oasz9131g7t831nyxuti1qf",
+    "xxicc2psl6e5w1svw3bkh3u": "oasz9131g7t831nyxuti1qf",
+    "p59utz7mf12ic3lqw8y8tbs": "20dxao0uf8892hiam7spier",
+    "jni6v9l7eg361jsmwiimvzv": "p59utz7mf12ic3lqw8y8tbs",
+    "m86229vfqs59h7tbphp9j45": "20dxao0uf8892hiam7spier",
+    "8pwefou38xgvyum1pfgl3r8": "20dxao0uf8892hiam7spier",
+    "roizuhueed0r7bqvid0nz7l": "20dxao0uf8892hiam7spier",
+    "e8hgfaxvmfjj1h1wq7pe5he": "20dxao0uf8892hiam7spier",
+    "dteprkzzkrstuocixsln0we": "e8hgfaxvmfjj1h1wq7pe5he",
+    "9nuy42p9er5xi25in7cy0vq": "dteprkzzkrstuocixsln0we",
+    "6l2hd19rhsbeqnqzifx5y8n": "e8hgfaxvmfjj1h1wq7pe5he",
+    "2lpt87f6lkomzhl37o9laax": "6l2hd19rhsbeqnqzifx5y8n",
+    "3cq5h2bn0k6q8yo4tfdp3yj": "6l2hd19rhsbeqnqzifx5y8n",
+    "y5kiwrofq5xhekxxqxajxas": "6l2hd19rhsbeqnqzifx5y8n",
+    "juqa13xh9vpcjjcwuaxpijf": "e8hgfaxvmfjj1h1wq7pe5he",
+    "pqf7qvwgukb60h5r0vcmnzh": "juqa13xh9vpcjjcwuaxpijf",
+    "zcrks6hqodblp70de8kvm4b": "juqa13xh9vpcjjcwuaxpijf",
+    "j1p2133sxm8xqu7etqqv5u1": "juqa13xh9vpcjjcwuaxpijf",
+    "6xsd9waf7ho7as5kzccut5h": "20dxao0uf8892hiam7spier"
+  }
+}
