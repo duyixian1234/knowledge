@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1660280292581,
-      "created": 1660280292581,
+      "updated": 1660281307440,
+      "created": 1660281307440,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -91,7 +91,6 @@
         "6xsd9waf7ho7as5kzccut5h",
         "e8hgfaxvmfjj1h1wq7pe5he",
         "roizuhueed0r7bqvid0nz7l",
-        "m86229vfqs59h7tbphp9j45",
         "p59utz7mf12ic3lqw8y8tbs",
         "oasz9131g7t831nyxuti1qf",
         "a44h4sj21jfb19ymoovvuzr",
@@ -123,56 +122,15 @@
         "oxntr7pomidy0b02jx0ch0k",
         "i4aolyivyc5ooa7ldq2k3vu",
         "olreo7137fdt59hwv5pnwe9",
+        "qu30gr2fu9l2qy6dpy6wjs6",
+        "mbqttms3dcvg0rrucdg1cfc",
         "8pwefou38xgvyum1pfgl3r8",
         "el8pagw2eudjvjbvaepeukt",
-        "l0n8p6a22ndk4hwpm176fnn",
-        "20ycljd0k5xpdrenxjhxywa"
+        "m86229vfqs59h7tbphp9j45",
+        "415pfd1z8i5k9amwp7gkzlp",
+        "l0n8p6a22ndk4hwpm176fnn"
       ],
       "parent": "20dxao0uf8892hiam7spier",
-      "data": {}
-    },
-    "20ycljd0k5xpdrenxjhxywa": {
-      "fname": "software-develop.AP",
-      "stub": true,
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "schemaStub": false,
-      "type": "note",
-      "updated": 1660280292129,
-      "created": 1660280292129,
-      "id": "20ycljd0k5xpdrenxjhxywa",
-      "desc": "",
-      "links": [],
-      "anchors": {},
-      "children": [
-        "uyjg9t3i185v6fooeyjsj0m"
-      ],
-      "parent": "i5z2gw9ou7tmimbwdsltnnz",
-      "data": {},
-      "title": "AP"
-    },
-    "uyjg9t3i185v6fooeyjsj0m": {
-      "id": "uyjg9t3i185v6fooeyjsj0m",
-      "title": "Authentication",
-      "desc": "",
-      "updated": 1660279764815,
-      "created": 1660279764815,
-      "custom": {},
-      "fname": "software-develop.AP.Authentication",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "2964ec4d5475947126f642baaa1eb719",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "20ycljd0k5xpdrenxjhxywa",
       "data": {}
     },
     "l0n8p6a22ndk4hwpm176fnn": {
@@ -214,6 +172,48 @@
           "alias": "software-develop.refactoring"
         }
       ],
+      "anchors": {},
+      "children": [],
+      "parent": "i5z2gw9ou7tmimbwdsltnnz",
+      "data": {}
+    },
+    "415pfd1z8i5k9amwp7gkzlp": {
+      "id": "415pfd1z8i5k9amwp7gkzlp",
+      "title": "Mobile Application",
+      "desc": "",
+      "updated": 1660280723080,
+      "created": 1660280723080,
+      "custom": {},
+      "fname": "software-develop.mobile application",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "ea8f198ccf503e9973edced9f9a70a6e",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "i5z2gw9ou7tmimbwdsltnnz",
+      "data": {}
+    },
+    "m86229vfqs59h7tbphp9j45": {
+      "id": "m86229vfqs59h7tbphp9j45",
+      "title": "前端",
+      "desc": "",
+      "updated": 1660273148893,
+      "created": 1660231786319,
+      "custom": {},
+      "fname": "software-develop.frontend",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "74d1a09dafff00a61526877375a4950e",
+      "links": [],
       "anchors": {},
       "children": [],
       "parent": "i5z2gw9ou7tmimbwdsltnnz",
@@ -278,6 +278,48 @@
         "name": "knowledge"
       },
       "contentHash": "1ed2b463184bddd7bff987247ea96c2f",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "i5z2gw9ou7tmimbwdsltnnz",
+      "data": {}
+    },
+    "mbqttms3dcvg0rrucdg1cfc": {
+      "id": "mbqttms3dcvg0rrucdg1cfc",
+      "title": "Desktop Application",
+      "desc": "",
+      "updated": 1660280708531,
+      "created": 1660280708531,
+      "custom": {},
+      "fname": "software-develop.desktop application",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "b898642e0d81096272da47526607ba0a",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "i5z2gw9ou7tmimbwdsltnnz",
+      "data": {}
+    },
+    "qu30gr2fu9l2qy6dpy6wjs6": {
+      "id": "qu30gr2fu9l2qy6dpy6wjs6",
+      "title": "Command Line Tools",
+      "desc": "",
+      "updated": 1660280681099,
+      "created": 1660280681099,
+      "custom": {},
+      "fname": "software-develop.command line tools",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "126adff9f67a50f1cebd53c969eb0e4a",
       "links": [],
       "anchors": {},
       "children": [],
@@ -501,6 +543,7 @@
       "links": [],
       "anchors": {},
       "children": [
+        "uyjg9t3i185v6fooeyjsj0m",
         "orylzgbypdj9g3c2kxpw03i",
         "arfbr1udhmojggta8lrpeqs",
         "tv4vqfov2ijkqg2rvriiqun",
@@ -593,11 +636,32 @@
       "parent": "rmm2u11fx963i330c4adzsb",
       "data": {}
     },
+    "uyjg9t3i185v6fooeyjsj0m": {
+      "id": "uyjg9t3i185v6fooeyjsj0m",
+      "title": "Authentication",
+      "desc": "",
+      "updated": 1660279764815,
+      "created": 1660279764815,
+      "custom": {},
+      "fname": "software-develop.API.Authentication",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "2964ec4d5475947126f642baaa1eb719",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "rmm2u11fx963i330c4adzsb",
+      "data": {}
+    },
     "a44h4sj21jfb19ymoovvuzr": {
       "id": "a44h4sj21jfb19ymoovvuzr",
-      "title": "Security",
+      "title": "安全",
       "desc": "",
-      "updated": 1660231836464,
+      "updated": 1660280746953,
       "created": 1660231836464,
       "custom": {},
       "fname": "security",
@@ -607,7 +671,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "ef27bb1c78067a020bda88fa0b36c685",
+      "contentHash": "3b02f9d4cb17804db74e842661f50ddc",
       "links": [],
       "anchors": {},
       "children": [
@@ -1129,27 +1193,6 @@
       "parent": "p59utz7mf12ic3lqw8y8tbs",
       "data": {}
     },
-    "m86229vfqs59h7tbphp9j45": {
-      "id": "m86229vfqs59h7tbphp9j45",
-      "title": "前端",
-      "desc": "",
-      "updated": 1660273148893,
-      "created": 1660231786319,
-      "custom": {},
-      "fname": "frontend",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "74d1a09dafff00a61526877375a4950e",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "20dxao0uf8892hiam7spier",
-      "data": {}
-    },
     "roizuhueed0r7bqvid0nz7l": {
       "id": "roizuhueed0r7bqvid0nz7l",
       "title": "数据库",
@@ -1168,11 +1211,37 @@
       "links": [],
       "anchors": {},
       "children": [
+        "43c10amadccvfinwdkpct2g",
+        "y8ulhtvjnibnph2szwz5cv2",
         "wldafqi6ut0azf2kfwml6xz",
+        "mwtn7djpfomvmia0fpc7h5a",
         "t7855kfuaop93pqsjf3x0rg",
-        "dn79delz4v5n6rpf48x9166"
+        "7s217cy7iompjnsryjqwh6c",
+        "dn79delz4v5n6rpf48x9166",
+        "mnfy0gc6pw9onpkzq5wvniu"
       ],
       "parent": "20dxao0uf8892hiam7spier",
+      "data": {}
+    },
+    "mnfy0gc6pw9onpkzq5wvniu": {
+      "id": "mnfy0gc6pw9onpkzq5wvniu",
+      "title": "Time Series Databases",
+      "desc": "",
+      "updated": 1660280982773,
+      "created": 1660280982773,
+      "custom": {},
+      "fname": "database.Time Series Databases",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "e1959016265eb9772ae753ecd57a57a4",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "roizuhueed0r7bqvid0nz7l",
       "data": {}
     },
     "dn79delz4v5n6rpf48x9166": {
@@ -1190,6 +1259,72 @@
         "name": "knowledge"
       },
       "contentHash": "3010d72785c20281d7f164b2c10c2b39",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "8ogr5cpwvdapyccvek09rx5",
+        "07aamp2o6avoi9owmxhmn06"
+      ],
+      "parent": "roizuhueed0r7bqvid0nz7l",
+      "data": {}
+    },
+    "07aamp2o6avoi9owmxhmn06": {
+      "id": "07aamp2o6avoi9owmxhmn06",
+      "title": "SQLLite",
+      "desc": "",
+      "updated": 1660280934445,
+      "created": 1660280934445,
+      "custom": {},
+      "fname": "database.Relational Database.SQLLite",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "586c13669c92ad1da94686506c87b0e7",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "dn79delz4v5n6rpf48x9166",
+      "data": {}
+    },
+    "8ogr5cpwvdapyccvek09rx5": {
+      "id": "8ogr5cpwvdapyccvek09rx5",
+      "title": "MySQL",
+      "desc": "",
+      "updated": 1660280924915,
+      "created": 1660280924915,
+      "custom": {},
+      "fname": "database.Relational Database.MySQL",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "5e05cd16634a93e15be4fe6f5ba9c41f",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "dn79delz4v5n6rpf48x9166",
+      "data": {}
+    },
+    "7s217cy7iompjnsryjqwh6c": {
+      "id": "7s217cy7iompjnsryjqwh6c",
+      "title": "ORMs",
+      "desc": "",
+      "updated": 1660281046255,
+      "created": 1660281046255,
+      "custom": {},
+      "fname": "database.ORMs",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "fece4e2882615b95610a078a7a26f8c1",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1213,6 +1348,50 @@
       "contentHash": "580dc10a3a5f1c96d3fa7067c6ed269f",
       "links": [],
       "anchors": {},
+      "children": [
+        "spnk7q99fqp771b4ku33y80"
+      ],
+      "parent": "roizuhueed0r7bqvid0nz7l",
+      "data": {}
+    },
+    "spnk7q99fqp771b4ku33y80": {
+      "id": "spnk7q99fqp771b4ku33y80",
+      "title": "MongoDB",
+      "desc": "",
+      "updated": 1660280951010,
+      "created": 1660280951010,
+      "custom": {},
+      "fname": "database.NoSQL.MongoDB",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "62fa67aff0025ea193e9519d4cc786b6",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "t7855kfuaop93pqsjf3x0rg",
+      "data": {}
+    },
+    "mwtn7djpfomvmia0fpc7h5a": {
+      "id": "mwtn7djpfomvmia0fpc7h5a",
+      "title": "Indexes",
+      "desc": "",
+      "updated": 1660281017256,
+      "created": 1660281017256,
+      "custom": {},
+      "fname": "database.Indexes",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "aae65a3b3cb51f1bb1def69b341159fe",
+      "links": [],
+      "anchors": {},
       "children": [],
       "parent": "roizuhueed0r7bqvid0nz7l",
       "data": {}
@@ -1232,6 +1411,48 @@
         "name": "knowledge"
       },
       "contentHash": "731f185ee3b0b67d4b883de9421fe9be",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "roizuhueed0r7bqvid0nz7l",
+      "data": {}
+    },
+    "y8ulhtvjnibnph2szwz5cv2": {
+      "id": "y8ulhtvjnibnph2szwz5cv2",
+      "title": "CAP",
+      "desc": "",
+      "updated": 1660281036683,
+      "created": 1660281036683,
+      "custom": {},
+      "fname": "database.CAP",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "40df8a55ac98fed43b58fdf57e96f9e9",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "roizuhueed0r7bqvid0nz7l",
+      "data": {}
+    },
+    "43c10amadccvfinwdkpct2g": {
+      "id": "43c10amadccvfinwdkpct2g",
+      "title": "ACID",
+      "desc": "",
+      "updated": 1660281032152,
+      "created": 1660281032152,
+      "custom": {},
+      "fname": "database.ACID",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "8bc7c459119de20251fa81864f1747d0",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1326,8 +1547,141 @@
         }
       ],
       "anchors": {},
-      "children": [],
+      "children": [
+        "ukb27ukhtep8q42aczhb2cz",
+        "2rkux2b95mg0618bx5vhz8s",
+        "lhye4vil5un8143hanrbkni",
+        "sm3n32l3vnku7mk7ffncfx6",
+        "788pm603l0e2jbhxfxnds7f",
+        "40au7lj9ck2m1xlcyvrqxre"
+      ],
       "parent": "dteprkzzkrstuocixsln0we",
+      "data": {}
+    },
+    "40au7lj9ck2m1xlcyvrqxre": {
+      "id": "40au7lj9ck2m1xlcyvrqxre",
+      "title": "Threads And Concurrency",
+      "desc": "",
+      "updated": 1660280860593,
+      "created": 1660280860593,
+      "custom": {},
+      "fname": "basic.software.operating-system.Threads And Concurrency",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "5f611e23915b25ae05081f9b12b10bfa",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "9nuy42p9er5xi25in7cy0vq",
+      "data": {}
+    },
+    "788pm603l0e2jbhxfxnds7f": {
+      "id": "788pm603l0e2jbhxfxnds7f",
+      "title": "Process Management",
+      "desc": "",
+      "updated": 1660280823419,
+      "created": 1660280823419,
+      "custom": {},
+      "fname": "basic.software.operating-system.Process Management",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "5d97313dfe60ade7ea918c75a73c71cd",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "9nuy42p9er5xi25in7cy0vq",
+      "data": {}
+    },
+    "sm3n32l3vnku7mk7ffncfx6": {
+      "id": "sm3n32l3vnku7mk7ffncfx6",
+      "title": "POSIX Basics",
+      "desc": "",
+      "updated": 1660280876680,
+      "created": 1660280876680,
+      "custom": {},
+      "fname": "basic.software.operating-system.POSIX Basics",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "9ab9823de195cde1f947ad08e2e79f32",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "9nuy42p9er5xi25in7cy0vq",
+      "data": {}
+    },
+    "lhye4vil5un8143hanrbkni": {
+      "id": "lhye4vil5un8143hanrbkni",
+      "title": "Memory Management",
+      "desc": "",
+      "updated": 1660280832914,
+      "created": 1660280832914,
+      "custom": {},
+      "fname": "basic.software.operating-system.Memory Management",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "ad938fce2c98fef12f1c0c38a87d77ba",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "9nuy42p9er5xi25in7cy0vq",
+      "data": {}
+    },
+    "2rkux2b95mg0618bx5vhz8s": {
+      "id": "2rkux2b95mg0618bx5vhz8s",
+      "title": "Interprocess Communication",
+      "desc": "",
+      "updated": 1660280915380,
+      "created": 1660280900453,
+      "custom": {},
+      "fname": "basic.software.operating-system.Interprocess Communication",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "c2c0f811d15fc6b0d7ce2d03966899e4",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "9nuy42p9er5xi25in7cy0vq",
+      "data": {}
+    },
+    "ukb27ukhtep8q42aczhb2cz": {
+      "id": "ukb27ukhtep8q42aczhb2cz",
+      "title": "IO Management",
+      "desc": "",
+      "updated": 1660280842648,
+      "created": 1660280842648,
+      "custom": {},
+      "fname": "basic.software.operating-system.IO Management",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "d2ca9bbdaca5cebc4c0433a7d96581d2",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "9nuy42p9er5xi25in7cy0vq",
       "data": {}
     },
     "6l2hd19rhsbeqnqzifx5y8n": {
@@ -2611,7 +2965,6 @@
         "6xsd9waf7ho7as5kzccut5h",
         "e8hgfaxvmfjj1h1wq7pe5he",
         "roizuhueed0r7bqvid0nz7l",
-        "m86229vfqs59h7tbphp9j45",
         "p59utz7mf12ic3lqw8y8tbs",
         "oasz9131g7t831nyxuti1qf",
         "a44h4sj21jfb19ymoovvuzr",
@@ -2693,7 +3046,6 @@
       "6xsd9waf7ho7as5kzccut5h",
       "e8hgfaxvmfjj1h1wq7pe5he",
       "roizuhueed0r7bqvid0nz7l",
-      "m86229vfqs59h7tbphp9j45",
       "p59utz7mf12ic3lqw8y8tbs",
       "oasz9131g7t831nyxuti1qf",
       "a44h4sj21jfb19ymoovvuzr",
