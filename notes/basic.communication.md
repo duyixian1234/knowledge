@@ -1,7 +1,7 @@
 ---
 id: juqa13xh9vpcjjcwuaxpijf
-title: Communication
+title: 通信
 desc: ''
-updated: 1660231333092
+updated: 1660273070601
 created: 1660231333092
 ---

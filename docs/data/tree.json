@@ -2,133 +2,12 @@
   "roots": [
     {
       "key": "20dxao0uf8892hiam7spier",
-      "title": "Root",
+      "title": "个人知识库",
       "icon": null,
       "hasTitleNumberOutlined": false,
       "vaultName": "knowledge",
       "navExclude": false,
       "children": [
-        {
-          "key": "6xsd9waf7ho7as5kzccut5h",
-          "title": "Architecture",
-          "icon": null,
-          "hasTitleNumberOutlined": false,
-          "vaultName": "knowledge",
-          "navExclude": false,
-          "children": []
-        },
-        {
-          "key": "e8hgfaxvmfjj1h1wq7pe5he",
-          "title": "Basic",
-          "icon": null,
-          "hasTitleNumberOutlined": false,
-          "vaultName": "knowledge",
-          "navExclude": false,
-          "children": [
-            {
-              "key": "juqa13xh9vpcjjcwuaxpijf",
-              "title": "Communication",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": [
-                {
-                  "key": "j1p2133sxm8xqu7etqqv5u1",
-                  "title": "Code",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "zcrks6hqodblp70de8kvm4b",
-                  "title": "Compress",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "pqf7qvwgukb60h5r0vcmnzh",
-                  "title": "Network",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                }
-              ]
-            },
-            {
-              "key": "6l2hd19rhsbeqnqzifx5y8n",
-              "title": "Hardware",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": [
-                {
-                  "key": "y5kiwrofq5xhekxxqxajxas",
-                  "title": "Cpu",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "3cq5h2bn0k6q8yo4tfdp3yj",
-                  "title": "Memory",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "2lpt87f6lkomzhl37o9laax",
-                  "title": "Storage",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                }
-              ]
-            },
-            {
-              "key": "dteprkzzkrstuocixsln0we",
-              "title": "Software",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": [
-                {
-                  "key": "9nuy42p9er5xi25in7cy0vq",
-                  "title": "Operating System",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "roizuhueed0r7bqvid0nz7l",
-          "title": "Database",
-          "icon": null,
-          "hasTitleNumberOutlined": false,
-          "vaultName": "knowledge",
-          "navExclude": false,
-          "children": []
-        },
         {
           "key": "8pwefou38xgvyum1pfgl3r8",
           "title": "Dev Ops",
@@ -139,8 +18,8 @@
           "children": []
         },
         {
-          "key": "m86229vfqs59h7tbphp9j45",
-          "title": "Frontend",
+          "key": "a44h4sj21jfb19ymoovvuzr",
+          "title": "Security",
           "icon": null,
           "hasTitleNumberOutlined": false,
           "vaultName": "knowledge",
@@ -148,8 +27,129 @@
           "children": []
         },
         {
+          "key": "euj0yyfymzmig3lszs3vgow",
+          "title": "关于我",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "m86229vfqs59h7tbphp9j45",
+          "title": "前端",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "e8hgfaxvmfjj1h1wq7pe5he",
+          "title": "基础知识",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "6l2hd19rhsbeqnqzifx5y8n",
+              "title": "硬件",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "y5kiwrofq5xhekxxqxajxas",
+                  "title": "CPU",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "3cq5h2bn0k6q8yo4tfdp3yj",
+                  "title": "内存",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "2lpt87f6lkomzhl37o9laax",
+                  "title": "存储",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "dteprkzzkrstuocixsln0we",
+              "title": "软件",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "9nuy42p9er5xi25in7cy0vq",
+                  "title": "操作系统",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "juqa13xh9vpcjjcwuaxpijf",
+              "title": "通信",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "zcrks6hqodblp70de8kvm4b",
+                  "title": "压缩",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "j1p2133sxm8xqu7etqqv5u1",
+                  "title": "编码",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "pqf7qvwgukb60h5r0vcmnzh",
+                  "title": "网络",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
           "key": "p59utz7mf12ic3lqw8y8tbs",
-          "title": "Opensource",
+          "title": "开源",
           "icon": null,
           "hasTitleNumberOutlined": false,
           "vaultName": "knowledge",
@@ -157,7 +157,7 @@
           "children": [
             {
               "key": "jni6v9l7eg361jsmwiimvzv",
-              "title": "License",
+              "title": "开源协议",
               "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "knowledge",
@@ -167,8 +167,26 @@
           ]
         },
         {
+          "key": "roizuhueed0r7bqvid0nz7l",
+          "title": "数据库",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "6xsd9waf7ho7as5kzccut5h",
+          "title": "架构",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "navExclude": false,
+          "children": []
+        },
+        {
           "key": "oasz9131g7t831nyxuti1qf",
-          "title": "Programming Languages",
+          "title": "编程语言",
           "icon": null,
           "hasTitleNumberOutlined": false,
           "vaultName": "knowledge",
@@ -195,15 +213,6 @@
             {
               "key": "969nhjubxljoqfh93w6cd8p",
               "title": "C++",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "5ao7xb0vcwvs84380v8sbwh",
-              "title": "Categories",
               "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "knowledge",
@@ -254,30 +263,21 @@
               "vaultName": "knowledge",
               "navExclude": false,
               "children": []
+            },
+            {
+              "key": "5ao7xb0vcwvs84380v8sbwh",
+              "title": "编程语言分类",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "navExclude": false,
+              "children": []
             }
           ]
         },
         {
-          "key": "iy0dbws3a27yprk37a315x1",
-          "title": "Project Management",
-          "icon": null,
-          "hasTitleNumberOutlined": false,
-          "vaultName": "knowledge",
-          "navExclude": false,
-          "children": []
-        },
-        {
-          "key": "a44h4sj21jfb19ymoovvuzr",
-          "title": "Security",
-          "icon": null,
-          "hasTitleNumberOutlined": false,
-          "vaultName": "knowledge",
-          "navExclude": false,
-          "children": []
-        },
-        {
           "key": "i5z2gw9ou7tmimbwdsltnnz",
-          "title": "Sofrware Enginering",
+          "title": "软件开发",
           "icon": null,
           "hasTitleNumberOutlined": false,
           "vaultName": "knowledge",
@@ -292,7 +292,6 @@
     "20dxao0uf8892hiam7spier": null,
     "i5z2gw9ou7tmimbwdsltnnz": "20dxao0uf8892hiam7spier",
     "a44h4sj21jfb19ymoovvuzr": "20dxao0uf8892hiam7spier",
-    "iy0dbws3a27yprk37a315x1": "20dxao0uf8892hiam7spier",
     "oasz9131g7t831nyxuti1qf": "20dxao0uf8892hiam7spier",
     "1s674rtewls01u0m0zuze3n": "oasz9131g7t831nyxuti1qf",
     "n2k5mir21lfaxzegmq4vs47": "oasz9131g7t831nyxuti1qf",
@@ -319,6 +318,7 @@
     "pqf7qvwgukb60h5r0vcmnzh": "juqa13xh9vpcjjcwuaxpijf",
     "zcrks6hqodblp70de8kvm4b": "juqa13xh9vpcjjcwuaxpijf",
     "j1p2133sxm8xqu7etqqv5u1": "juqa13xh9vpcjjcwuaxpijf",
-    "6xsd9waf7ho7as5kzccut5h": "20dxao0uf8892hiam7spier"
+    "6xsd9waf7ho7as5kzccut5h": "20dxao0uf8892hiam7spier",
+    "euj0yyfymzmig3lszs3vgow": "20dxao0uf8892hiam7spier"
   }
 }

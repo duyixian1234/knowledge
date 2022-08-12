@@ -1,7 +1,7 @@
 ---
 id: zcrks6hqodblp70de8kvm4b
-title: Compress
+title: 压缩
 desc: ''
-updated: 1660231693784
+updated: 1660273063107
 created: 1660231693784
 ---

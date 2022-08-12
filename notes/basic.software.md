@@ -1,7 +1,7 @@
 ---
 id: dteprkzzkrstuocixsln0we
-title: Software
+title: 软件
 desc: ''
-updated: 1660231319260
+updated: 1660273123696
 created: 1660231319260
 ---
