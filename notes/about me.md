@@ -1,8 +1,8 @@
 ---
 id: euj0yyfymzmig3lszs3vgow
 title: 关于我
-desc: ""
-updated: 1660275785081
+desc: ''
+updated: 1660279712279
 created: 1660271259547
 ---
 
@@ -50,14 +50,14 @@ created: 1660271259547
 
 ### 软件开发
 
-- [[sofrware-develop.tdd]]
-- [[sofrware-develop.refactoring]]
-- [[sofrware-develop.fp]]
+- [[architecture.TDD]]
+- [[software-develop.refactoring]]
+- [[software-develop.fp]]
 
 ### DevOps
 
-- [[sofrware-develop.CI]] [[sofrware-develop.CD]]
-- [Git](https://git-scm.com/)
+- [[software-develop.CI]] [[software-develop.CD]]
+- [[software-develop.VCS.git]]
 - [Docker](https://www.docker.com/)
 - [Docker Compose](https://docs.docker.com/compose/)
 - [Kubernetes](https://kubernetes.io/)

@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1660275822182,
-      "created": 1660275822182,
+      "updated": 1660280292581,
+      "created": 1660280292581,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -91,7 +91,6 @@
         "6xsd9waf7ho7as5kzccut5h",
         "e8hgfaxvmfjj1h1wq7pe5he",
         "roizuhueed0r7bqvid0nz7l",
-        "8pwefou38xgvyum1pfgl3r8",
         "m86229vfqs59h7tbphp9j45",
         "p59utz7mf12ic3lqw8y8tbs",
         "oasz9131g7t831nyxuti1qf",
@@ -108,7 +107,7 @@
       "updated": 1660273242552,
       "created": 1660231869679,
       "custom": {},
-      "fname": "sofrware-develop",
+      "fname": "software-develop",
       "type": "note",
       "vault": {
         "fsPath": ".",
@@ -119,57 +118,61 @@
       "links": [],
       "anchors": {},
       "children": [
+        "rmm2u11fx963i330c4adzsb",
         "czseabqijp0teh66cxifpxr",
         "oxntr7pomidy0b02jx0ch0k",
+        "i4aolyivyc5ooa7ldq2k3vu",
+        "olreo7137fdt59hwv5pnwe9",
+        "8pwefou38xgvyum1pfgl3r8",
         "el8pagw2eudjvjbvaepeukt",
         "l0n8p6a22ndk4hwpm176fnn",
-        "1gtu3uf3ooijabsh55xsucj"
+        "20ycljd0k5xpdrenxjhxywa"
       ],
       "parent": "20dxao0uf8892hiam7spier",
       "data": {}
     },
-    "1gtu3uf3ooijabsh55xsucj": {
-      "id": "1gtu3uf3ooijabsh55xsucj",
-      "title": "测试驱动开发",
+    "20ycljd0k5xpdrenxjhxywa": {
+      "fname": "software-develop.AP",
+      "stub": true,
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1660280292129,
+      "created": 1660280292129,
+      "id": "20ycljd0k5xpdrenxjhxywa",
       "desc": "",
-      "updated": 1660275532083,
-      "created": 1660275526255,
+      "links": [],
+      "anchors": {},
+      "children": [
+        "uyjg9t3i185v6fooeyjsj0m"
+      ],
+      "parent": "i5z2gw9ou7tmimbwdsltnnz",
+      "data": {},
+      "title": "AP"
+    },
+    "uyjg9t3i185v6fooeyjsj0m": {
+      "id": "uyjg9t3i185v6fooeyjsj0m",
+      "title": "Authentication",
+      "desc": "",
+      "updated": 1660279764815,
+      "created": 1660279764815,
       "custom": {},
-      "fname": "sofrware-develop.tdd",
+      "fname": "software-develop.AP.Authentication",
       "type": "note",
       "vault": {
         "fsPath": ".",
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "c467a5ce8ee2f0d23a8a1f99a10bbf0e",
-      "links": [
-        {
-          "from": {
-            "fname": "about me",
-            "vaultName": "knowledge"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 46,
-              "column": 3,
-              "offset": 1579
-            },
-            "end": {
-              "line": 46,
-              "column": 27,
-              "offset": 1603
-            },
-            "indent": []
-          },
-          "value": "sofrware-develop.tdd",
-          "alias": "sofrware-develop.tdd"
-        }
-      ],
+      "contentHash": "2964ec4d5475947126f642baaa1eb719",
+      "links": [],
       "anchors": {},
       "children": [],
-      "parent": "i5z2gw9ou7tmimbwdsltnnz",
+      "parent": "20ycljd0k5xpdrenxjhxywa",
       "data": {}
     },
     "l0n8p6a22ndk4hwpm176fnn": {
@@ -179,14 +182,14 @@
       "updated": 1660275604054,
       "created": 1660275599105,
       "custom": {},
-      "fname": "sofrware-develop.refactoring",
+      "fname": "software-develop.refactoring",
       "type": "note",
       "vault": {
         "fsPath": ".",
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "036090352628ad3e91ea7e066dbe411a",
+      "contentHash": "de017b0d63c7a0f7f01fcc4dfbafc9f6",
       "links": [
         {
           "from": {
@@ -198,17 +201,17 @@
             "start": {
               "line": 47,
               "column": 3,
-              "offset": 1606
+              "offset": 1602
             },
             "end": {
               "line": 47,
               "column": 35,
-              "offset": 1638
+              "offset": 1634
             },
             "indent": []
           },
-          "value": "sofrware-develop.refactoring",
-          "alias": "sofrware-develop.refactoring"
+          "value": "software-develop.refactoring",
+          "alias": "software-develop.refactoring"
         }
       ],
       "anchors": {},
@@ -223,14 +226,14 @@
       "updated": 1660275578665,
       "created": 1660275570319,
       "custom": {},
-      "fname": "sofrware-develop.fp",
+      "fname": "software-develop.fp",
       "type": "note",
       "vault": {
         "fsPath": ".",
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "3ba03f040f9a06bc71d47de4c251b3cb",
+      "contentHash": "4cfb72aa610e6a774bc52faa833b35bf",
       "links": [
         {
           "from": {
@@ -242,22 +245,154 @@
             "start": {
               "line": 48,
               "column": 3,
-              "offset": 1641
+              "offset": 1637
             },
             "end": {
               "line": 48,
               "column": 26,
-              "offset": 1664
+              "offset": 1660
             },
             "indent": []
           },
-          "value": "sofrware-develop.fp",
-          "alias": "sofrware-develop.fp"
+          "value": "software-develop.fp",
+          "alias": "software-develop.fp"
         }
       ],
       "anchors": {},
       "children": [],
       "parent": "i5z2gw9ou7tmimbwdsltnnz",
+      "data": {}
+    },
+    "8pwefou38xgvyum1pfgl3r8": {
+      "id": "8pwefou38xgvyum1pfgl3r8",
+      "title": "Dev Ops",
+      "desc": "",
+      "updated": 1660231981798,
+      "created": 1660231981798,
+      "custom": {},
+      "fname": "software-develop.dev-ops",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "1ed2b463184bddd7bff987247ea96c2f",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "i5z2gw9ou7tmimbwdsltnnz",
+      "data": {}
+    },
+    "olreo7137fdt59hwv5pnwe9": {
+      "id": "olreo7137fdt59hwv5pnwe9",
+      "title": "VCS",
+      "desc": "",
+      "updated": 1660279200442,
+      "created": 1660279200442,
+      "custom": {},
+      "fname": "software-develop.VCS",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "2ecd4e5ab90cc84b04745472c88696e9",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "xxrwfft52a57a8c4tfrxnu3"
+      ],
+      "parent": "i5z2gw9ou7tmimbwdsltnnz",
+      "data": {}
+    },
+    "xxrwfft52a57a8c4tfrxnu3": {
+      "id": "xxrwfft52a57a8c4tfrxnu3",
+      "title": "git",
+      "desc": "",
+      "updated": 1660279209410,
+      "created": 1660279209410,
+      "custom": {},
+      "fname": "software-develop.VCS.git",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "fa9ffd17dd2d672c8d75f548428eefad",
+      "links": [
+        {
+          "from": {
+            "fname": "about me",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 53,
+              "column": 3,
+              "offset": 1726
+            },
+            "end": {
+              "line": 53,
+              "column": 31,
+              "offset": 1754
+            },
+            "indent": []
+          },
+          "value": "software-develop.VCS.git",
+          "alias": "software-develop.VCS.git"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "olreo7137fdt59hwv5pnwe9",
+      "data": {}
+    },
+    "i4aolyivyc5ooa7ldq2k3vu": {
+      "id": "i4aolyivyc5ooa7ldq2k3vu",
+      "title": "Testing",
+      "desc": "",
+      "updated": 1660279657218,
+      "created": 1660279657218,
+      "custom": {},
+      "fname": "software-develop.Testing",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "3b8836fc7c0e77ed8865662248eb88b6",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "arbd8296q9vfp2tql29v3rf"
+      ],
+      "parent": "i5z2gw9ou7tmimbwdsltnnz",
+      "data": {}
+    },
+    "arbd8296q9vfp2tql29v3rf": {
+      "id": "arbd8296q9vfp2tql29v3rf",
+      "title": "Unit Testing",
+      "desc": "",
+      "updated": 1660279990991,
+      "created": 1660279673198,
+      "custom": {},
+      "fname": "software-develop.Testing.Unit Testing",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "4af487125729f663182a59d22c44b490",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "i4aolyivyc5ooa7ldq2k3vu",
       "data": {}
     },
     "oxntr7pomidy0b02jx0ch0k": {
@@ -267,14 +402,14 @@
       "updated": 1660275755369,
       "created": 1660275748926,
       "custom": {},
-      "fname": "sofrware-develop.CI",
+      "fname": "software-develop.CI",
       "type": "note",
       "vault": {
         "fsPath": ".",
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "d63043bcb14f722aab249bf3bb4eb0e6",
+      "contentHash": "8ae7b5d6271140f1c01fa1a32a4df967",
       "links": [
         {
           "from": {
@@ -286,17 +421,17 @@
             "start": {
               "line": 52,
               "column": 3,
-              "offset": 1680
+              "offset": 1676
             },
             "end": {
               "line": 52,
               "column": 26,
-              "offset": 1703
+              "offset": 1699
             },
             "indent": []
           },
-          "value": "sofrware-develop.CI",
-          "alias": "sofrware-develop.CI"
+          "value": "software-develop.CI",
+          "alias": "software-develop.CI"
         }
       ],
       "anchors": {},
@@ -311,14 +446,14 @@
       "updated": 1660275774787,
       "created": 1660275768269,
       "custom": {},
-      "fname": "sofrware-develop.CD",
+      "fname": "software-develop.CD",
       "type": "note",
       "vault": {
         "fsPath": ".",
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "ef86f52058c86370525d43d8c1d46cff",
+      "contentHash": "266a2835eb7b8bfbb0e3b3413025bcda",
       "links": [
         {
           "from": {
@@ -330,22 +465,132 @@
             "start": {
               "line": 52,
               "column": 27,
-              "offset": 1704
+              "offset": 1700
             },
             "end": {
               "line": 52,
               "column": 50,
-              "offset": 1727
+              "offset": 1723
             },
             "indent": []
           },
-          "value": "sofrware-develop.CD",
-          "alias": "sofrware-develop.CD"
+          "value": "software-develop.CD",
+          "alias": "software-develop.CD"
         }
       ],
       "anchors": {},
       "children": [],
       "parent": "i5z2gw9ou7tmimbwdsltnnz",
+      "data": {}
+    },
+    "rmm2u11fx963i330c4adzsb": {
+      "id": "rmm2u11fx963i330c4adzsb",
+      "title": "API",
+      "desc": "",
+      "updated": 1660279614418,
+      "created": 1660279614418,
+      "custom": {},
+      "fname": "software-develop.API",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "fde9f6ec55afac44d8710f708f7985e7",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "orylzgbypdj9g3c2kxpw03i",
+        "arfbr1udhmojggta8lrpeqs",
+        "tv4vqfov2ijkqg2rvriiqun",
+        "r44zlpkuq0s59ykohntdjhb"
+      ],
+      "parent": "i5z2gw9ou7tmimbwdsltnnz",
+      "data": {}
+    },
+    "r44zlpkuq0s59ykohntdjhb": {
+      "id": "r44zlpkuq0s59ykohntdjhb",
+      "title": "gRPC",
+      "desc": "",
+      "updated": 1660279635169,
+      "created": 1660279635169,
+      "custom": {},
+      "fname": "software-develop.API.gRPC",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "7eccfa17748d8d9ea2dfd11d3d3d9c85",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "rmm2u11fx963i330c4adzsb",
+      "data": {}
+    },
+    "tv4vqfov2ijkqg2rvriiqun": {
+      "id": "tv4vqfov2ijkqg2rvriiqun",
+      "title": "REST",
+      "desc": "",
+      "updated": 1660279620073,
+      "created": 1660279620073,
+      "custom": {},
+      "fname": "software-develop.API.REST",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "4757333236090479d82da5255d6a9301",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "rmm2u11fx963i330c4adzsb",
+      "data": {}
+    },
+    "arfbr1udhmojggta8lrpeqs": {
+      "id": "arfbr1udhmojggta8lrpeqs",
+      "title": "Open API Spec",
+      "desc": "",
+      "updated": 1660279735997,
+      "created": 1660279735997,
+      "custom": {},
+      "fname": "software-develop.API.Open API Spec",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "0ff5685984e34a3b84beb1def57b123d",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "rmm2u11fx963i330c4adzsb",
+      "data": {}
+    },
+    "orylzgbypdj9g3c2kxpw03i": {
+      "id": "orylzgbypdj9g3c2kxpw03i",
+      "title": "GraphQL",
+      "desc": "",
+      "updated": 1660279628180,
+      "created": 1660279628180,
+      "custom": {},
+      "fname": "software-develop.API.GraphQL",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "a811d600f0caa531f8e9b70dccd95709",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "rmm2u11fx963i330c4adzsb",
       "data": {}
     },
     "a44h4sj21jfb19ymoovvuzr": {
@@ -365,8 +610,53 @@
       "contentHash": "ef27bb1c78067a020bda88fa0b36c685",
       "links": [],
       "anchors": {},
-      "children": [],
+      "children": [
+        "na2uf1zamwck4tfi1rcrmpv",
+        "5li2av5xhjpvuv0t0by2yyl"
+      ],
       "parent": "20dxao0uf8892hiam7spier",
+      "data": {}
+    },
+    "5li2av5xhjpvuv0t0by2yyl": {
+      "id": "5li2av5xhjpvuv0t0by2yyl",
+      "title": "OWASP",
+      "desc": "",
+      "updated": 1660279802009,
+      "created": 1660279802009,
+      "custom": {},
+      "fname": "security.OWASP",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "f831e81a9376a2f8b68d2a7dab786d07",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "a44h4sj21jfb19ymoovvuzr",
+      "data": {}
+    },
+    "na2uf1zamwck4tfi1rcrmpv": {
+      "id": "na2uf1zamwck4tfi1rcrmpv",
+      "title": "HTTPS",
+      "desc": "",
+      "updated": 1660280123083,
+      "created": 1660280123083,
+      "custom": {},
+      "fname": "security.HTTPS",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "43949d8bb661c1977ccefda1ad37d070",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "a44h4sj21jfb19ymoovvuzr",
       "data": {}
     },
     "oasz9131g7t831nyxuti1qf": {
@@ -860,27 +1150,6 @@
       "parent": "20dxao0uf8892hiam7spier",
       "data": {}
     },
-    "8pwefou38xgvyum1pfgl3r8": {
-      "id": "8pwefou38xgvyum1pfgl3r8",
-      "title": "Dev Ops",
-      "desc": "",
-      "updated": 1660231981798,
-      "created": 1660231981798,
-      "custom": {},
-      "fname": "dev-ops",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "1ed2b463184bddd7bff987247ea96c2f",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "20dxao0uf8892hiam7spier",
-      "data": {}
-    },
     "roizuhueed0r7bqvid0nz7l": {
       "id": "roizuhueed0r7bqvid0nz7l",
       "title": "数据库",
@@ -898,8 +1167,75 @@
       "contentHash": "12ce44732378aaeac5c6cc1bfb6f3b29",
       "links": [],
       "anchors": {},
-      "children": [],
+      "children": [
+        "wldafqi6ut0azf2kfwml6xz",
+        "t7855kfuaop93pqsjf3x0rg",
+        "dn79delz4v5n6rpf48x9166"
+      ],
       "parent": "20dxao0uf8892hiam7spier",
+      "data": {}
+    },
+    "dn79delz4v5n6rpf48x9166": {
+      "id": "dn79delz4v5n6rpf48x9166",
+      "title": "Relational Database",
+      "desc": "",
+      "updated": 1660279553083,
+      "created": 1660279553083,
+      "custom": {},
+      "fname": "database.Relational Database",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "3010d72785c20281d7f164b2c10c2b39",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "roizuhueed0r7bqvid0nz7l",
+      "data": {}
+    },
+    "t7855kfuaop93pqsjf3x0rg": {
+      "id": "t7855kfuaop93pqsjf3x0rg",
+      "title": "NoSQL",
+      "desc": "",
+      "updated": 1660279565638,
+      "created": 1660279565638,
+      "custom": {},
+      "fname": "database.NoSQL",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "580dc10a3a5f1c96d3fa7067c6ed269f",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "roizuhueed0r7bqvid0nz7l",
+      "data": {}
+    },
+    "wldafqi6ut0azf2kfwml6xz": {
+      "id": "wldafqi6ut0azf2kfwml6xz",
+      "title": "Graph Databases",
+      "desc": "",
+      "updated": 1660279838002,
+      "created": 1660279838002,
+      "custom": {},
+      "fname": "database.Graph Databases",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "731f185ee3b0b67d4b883de9421fe9be",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "roizuhueed0r7bqvid0nz7l",
       "data": {}
     },
     "e8hgfaxvmfjj1h1wq7pe5he": {
@@ -1170,8 +1506,97 @@
         }
       ],
       "anchors": {},
-      "children": [],
+      "children": [
+        "bgetpnvnoqvfa3aahgz2kwh",
+        "07vmn9ross3dwkjymi6vmcc",
+        "ltahj6egbdd3bc7tdrnym0p",
+        "d8t3jc0pnaunziddujlfb2d"
+      ],
       "parent": "juqa13xh9vpcjjcwuaxpijf",
+      "data": {}
+    },
+    "d8t3jc0pnaunziddujlfb2d": {
+      "id": "d8t3jc0pnaunziddujlfb2d",
+      "title": "UDP",
+      "desc": "",
+      "updated": 1660279014338,
+      "created": 1660279014338,
+      "custom": {},
+      "fname": "basic.communication.network.UDP",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "5960240047f20df038db4bf28e716dc9",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "pqf7qvwgukb60h5r0vcmnzh",
+      "data": {}
+    },
+    "ltahj6egbdd3bc7tdrnym0p": {
+      "id": "ltahj6egbdd3bc7tdrnym0p",
+      "title": "TCP",
+      "desc": "",
+      "updated": 1660278998745,
+      "created": 1660278998745,
+      "custom": {},
+      "fname": "basic.communication.network.TCP",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "7fae0a1ca276f22f5085f1dcf23c589d",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "pqf7qvwgukb60h5r0vcmnzh",
+      "data": {}
+    },
+    "07vmn9ross3dwkjymi6vmcc": {
+      "id": "07vmn9ross3dwkjymi6vmcc",
+      "title": "HTTP",
+      "desc": "",
+      "updated": 1660279077384,
+      "created": 1660279077384,
+      "custom": {},
+      "fname": "basic.communication.network.HTTP",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "8f13a830b4ceb9bf36cedd6f8c142cdd",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "pqf7qvwgukb60h5r0vcmnzh",
+      "data": {}
+    },
+    "bgetpnvnoqvfa3aahgz2kwh": {
+      "id": "bgetpnvnoqvfa3aahgz2kwh",
+      "title": "DNS",
+      "desc": "",
+      "updated": 1660279090448,
+      "created": 1660279090448,
+      "custom": {},
+      "fname": "basic.communication.network.DNS",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "3d145e87c1647c6ce50be33371eb6e51",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "pqf7qvwgukb60h5r0vcmnzh",
       "data": {}
     },
     "zcrks6hqodblp70de8kvm4b": {
@@ -1233,15 +1658,282 @@
       "contentHash": "c14c4c0e38b2161db996ae261462afbd",
       "links": [],
       "anchors": {},
-      "children": [],
+      "children": [
+        "jmyu2j127398lu5ze16czs7",
+        "0rwddi82jm0e3rhxjl6vlj9",
+        "shs2x76gfjtvi20xxziz4k2",
+        "m7gnr1kzd6q1pza1r7km5k7",
+        "fduzrhulz557t4yjske07k9",
+        "v03c4xgyco81innvtbwsn60",
+        "tg8qotpb8mcbg975s6juars",
+        "orjdxc68o38g2h5yennctf4"
+      ],
       "parent": "20dxao0uf8892hiam7spier",
+      "data": {}
+    },
+    "orjdxc68o38g2h5yennctf4": {
+      "id": "orjdxc68o38g2h5yennctf4",
+      "title": "YAGNI",
+      "desc": "",
+      "updated": 1660279927562,
+      "created": 1660279927562,
+      "custom": {},
+      "fname": "architecture.YAGNI",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "1e60966cd795129074ca9d6852742078",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "6xsd9waf7ho7as5kzccut5h",
+      "data": {}
+    },
+    "tg8qotpb8mcbg975s6juars": {
+      "id": "tg8qotpb8mcbg975s6juars",
+      "title": "TDD",
+      "desc": "",
+      "updated": 1660280084917,
+      "created": 1660279683551,
+      "custom": {},
+      "fname": "architecture.TDD",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "91efd6c528a9b48ac7cbdb4b4b98a4a4",
+      "links": [
+        {
+          "from": {
+            "fname": "about me",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 46,
+              "column": 3,
+              "offset": 1579
+            },
+            "end": {
+              "line": 46,
+              "column": 23,
+              "offset": 1599
+            },
+            "indent": []
+          },
+          "value": "architecture.TDD",
+          "alias": "architecture.TDD"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "6xsd9waf7ho7as5kzccut5h",
+      "data": {}
+    },
+    "v03c4xgyco81innvtbwsn60": {
+      "id": "v03c4xgyco81innvtbwsn60",
+      "title": "SOLID",
+      "desc": "",
+      "updated": 1660279910063,
+      "created": 1660279910063,
+      "custom": {},
+      "fname": "architecture.SOLID",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "38157bc63e47f8701d6be6e23c22ccdb",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "6xsd9waf7ho7as5kzccut5h",
+      "data": {}
+    },
+    "fduzrhulz557t4yjske07k9": {
+      "id": "fduzrhulz557t4yjske07k9",
+      "title": "KISS",
+      "desc": "",
+      "updated": 1660279919613,
+      "created": 1660279919613,
+      "custom": {},
+      "fname": "architecture.KISS",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "ca48f0c3e50ee5643efbd519225ad4e3",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "6xsd9waf7ho7as5kzccut5h",
+      "data": {}
+    },
+    "m7gnr1kzd6q1pza1r7km5k7": {
+      "id": "m7gnr1kzd6q1pza1r7km5k7",
+      "title": "Domain Driven Design",
+      "desc": "",
+      "updated": 1660279901970,
+      "created": 1660279901970,
+      "custom": {},
+      "fname": "architecture.Domain Driven Design",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "97d73ae2b4aae5e936e4fb86ed016c2e",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "6xsd9waf7ho7as5kzccut5h",
+      "data": {}
+    },
+    "shs2x76gfjtvi20xxziz4k2": {
+      "id": "shs2x76gfjtvi20xxziz4k2",
+      "title": "Design Patterns",
+      "desc": "",
+      "updated": 1660279888798,
+      "created": 1660279888798,
+      "custom": {},
+      "fname": "architecture.Design Patterns",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "2d2b567d93ac617229f8bc77dc1b782c",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "6xsd9waf7ho7as5kzccut5h",
+      "data": {}
+    },
+    "0rwddi82jm0e3rhxjl6vlj9": {
+      "id": "0rwddi82jm0e3rhxjl6vlj9",
+      "title": "DRY",
+      "desc": "",
+      "updated": 1660279935048,
+      "created": 1660279935048,
+      "custom": {},
+      "fname": "architecture.DRY",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "963d76c087c4b9232f89f2bf3e185304",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "6xsd9waf7ho7as5kzccut5h",
+      "data": {}
+    },
+    "jmyu2j127398lu5ze16czs7": {
+      "id": "jmyu2j127398lu5ze16czs7",
+      "title": "Cloud Native",
+      "desc": "",
+      "updated": 1660280156452,
+      "created": 1660280156452,
+      "custom": {},
+      "fname": "architecture.Cloud Native",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "937df203d741768e52c86dcf3b88f27c",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "a601pg6wo1lhqjafh63mls4",
+        "bpsbto9ra3e9vq6f0lvs7wl",
+        "9o3hmdtpkxdveqtttdxfhcg"
+      ],
+      "parent": "6xsd9waf7ho7as5kzccut5h",
+      "data": {}
+    },
+    "9o3hmdtpkxdveqtttdxfhcg": {
+      "id": "9o3hmdtpkxdveqtttdxfhcg",
+      "title": "PaaS",
+      "desc": "",
+      "updated": 1660280193152,
+      "created": 1660280175837,
+      "custom": {},
+      "fname": "architecture.Cloud Native.Paas",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "79b2242e41f7d0ef5afcfdd972d8fc40",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "jmyu2j127398lu5ze16czs7",
+      "data": {}
+    },
+    "bpsbto9ra3e9vq6f0lvs7wl": {
+      "id": "bpsbto9ra3e9vq6f0lvs7wl",
+      "title": "IaaS",
+      "desc": "",
+      "updated": 1660280168178,
+      "created": 1660280168178,
+      "custom": {},
+      "fname": "architecture.Cloud Native.IaaS",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "677e63459ef89030fca21a8bf6e4cca5",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "jmyu2j127398lu5ze16czs7",
+      "data": {}
+    },
+    "a601pg6wo1lhqjafh63mls4": {
+      "id": "a601pg6wo1lhqjafh63mls4",
+      "title": "FaaS",
+      "desc": "",
+      "updated": 1660280205572,
+      "created": 1660280205572,
+      "custom": {},
+      "fname": "architecture.Cloud Native.FaaS",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "e271d7e7a3245a750df1ff5824dfb0b5",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "jmyu2j127398lu5ze16czs7",
       "data": {}
     },
     "euj0yyfymzmig3lszs3vgow": {
       "id": "euj0yyfymzmig3lszs3vgow",
       "title": "关于我",
       "desc": "",
-      "updated": 1660275785081,
+      "updated": 1660279712279,
       "created": 1660271259547,
       "custom": {},
       "fname": "about me",
@@ -1251,7 +1943,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "fda3ee78367d6fddb71b38b0ba3aacae",
+      "contentHash": "3325e02d8628d1c5b8ae2ddae6af0d10",
       "links": [
         {
           "type": "wiki",
@@ -1568,8 +2260,8 @@
             "id": "euj0yyfymzmig3lszs3vgow",
             "vaultName": "knowledge"
           },
-          "value": "sofrware-develop.tdd",
-          "alias": "sofrware-develop.tdd",
+          "value": "architecture.TDD",
+          "alias": "architecture.TDD",
           "position": {
             "start": {
               "line": 46,
@@ -1578,15 +2270,15 @@
             },
             "end": {
               "line": 46,
-              "column": 27,
-              "offset": 1603
+              "column": 23,
+              "offset": 1599
             },
             "indent": []
           },
           "xvault": false,
           "sameFile": false,
           "to": {
-            "fname": "sofrware-develop.tdd"
+            "fname": "architecture.TDD"
           }
         },
         {
@@ -1596,25 +2288,25 @@
             "id": "euj0yyfymzmig3lszs3vgow",
             "vaultName": "knowledge"
           },
-          "value": "sofrware-develop.refactoring",
-          "alias": "sofrware-develop.refactoring",
+          "value": "software-develop.refactoring",
+          "alias": "software-develop.refactoring",
           "position": {
             "start": {
               "line": 47,
               "column": 3,
-              "offset": 1606
+              "offset": 1602
             },
             "end": {
               "line": 47,
               "column": 35,
-              "offset": 1638
+              "offset": 1634
             },
             "indent": []
           },
           "xvault": false,
           "sameFile": false,
           "to": {
-            "fname": "sofrware-develop.refactoring"
+            "fname": "software-develop.refactoring"
           }
         },
         {
@@ -1624,25 +2316,25 @@
             "id": "euj0yyfymzmig3lszs3vgow",
             "vaultName": "knowledge"
           },
-          "value": "sofrware-develop.fp",
-          "alias": "sofrware-develop.fp",
+          "value": "software-develop.fp",
+          "alias": "software-develop.fp",
           "position": {
             "start": {
               "line": 48,
               "column": 3,
-              "offset": 1641
+              "offset": 1637
             },
             "end": {
               "line": 48,
               "column": 26,
-              "offset": 1664
+              "offset": 1660
             },
             "indent": []
           },
           "xvault": false,
           "sameFile": false,
           "to": {
-            "fname": "sofrware-develop.fp"
+            "fname": "software-develop.fp"
           }
         },
         {
@@ -1652,25 +2344,25 @@
             "id": "euj0yyfymzmig3lszs3vgow",
             "vaultName": "knowledge"
           },
-          "value": "sofrware-develop.CI",
-          "alias": "sofrware-develop.CI",
+          "value": "software-develop.CI",
+          "alias": "software-develop.CI",
           "position": {
             "start": {
               "line": 52,
               "column": 3,
-              "offset": 1680
+              "offset": 1676
             },
             "end": {
               "line": 52,
               "column": 26,
-              "offset": 1703
+              "offset": 1699
             },
             "indent": []
           },
           "xvault": false,
           "sameFile": false,
           "to": {
-            "fname": "sofrware-develop.CI"
+            "fname": "software-develop.CI"
           }
         },
         {
@@ -1680,25 +2372,53 @@
             "id": "euj0yyfymzmig3lszs3vgow",
             "vaultName": "knowledge"
           },
-          "value": "sofrware-develop.CD",
-          "alias": "sofrware-develop.CD",
+          "value": "software-develop.CD",
+          "alias": "software-develop.CD",
           "position": {
             "start": {
               "line": 52,
               "column": 27,
-              "offset": 1704
+              "offset": 1700
             },
             "end": {
               "line": 52,
               "column": 50,
-              "offset": 1727
+              "offset": 1723
             },
             "indent": []
           },
           "xvault": false,
           "sameFile": false,
           "to": {
-            "fname": "sofrware-develop.CD"
+            "fname": "software-develop.CD"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "about me",
+            "id": "euj0yyfymzmig3lszs3vgow",
+            "vaultName": "knowledge"
+          },
+          "value": "software-develop.VCS.git",
+          "alias": "software-develop.VCS.git",
+          "position": {
+            "start": {
+              "line": 53,
+              "column": 3,
+              "offset": 1726
+            },
+            "end": {
+              "line": 53,
+              "column": 31,
+              "offset": 1754
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "software-develop.VCS.git"
           }
         },
         {
@@ -1891,7 +2611,6 @@
         "6xsd9waf7ho7as5kzccut5h",
         "e8hgfaxvmfjj1h1wq7pe5he",
         "roizuhueed0r7bqvid0nz7l",
-        "8pwefou38xgvyum1pfgl3r8",
         "m86229vfqs59h7tbphp9j45",
         "p59utz7mf12ic3lqw8y8tbs",
         "oasz9131g7t831nyxuti1qf",
@@ -1974,7 +2693,6 @@
       "6xsd9waf7ho7as5kzccut5h",
       "e8hgfaxvmfjj1h1wq7pe5he",
       "roizuhueed0r7bqvid0nz7l",
-      "8pwefou38xgvyum1pfgl3r8",
       "m86229vfqs59h7tbphp9j45",
       "p59utz7mf12ic3lqw8y8tbs",
       "oasz9131g7t831nyxuti1qf",
