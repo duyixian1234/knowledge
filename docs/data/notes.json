@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1660281307440,
-      "created": 1660281307440,
+      "updated": 1660281646111,
+      "created": 1660281646111,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -24,7 +24,7 @@
       "id": "20dxao0uf8892hiam7spier",
       "title": "个人知识库",
       "desc": "",
-      "updated": 1660271255333,
+      "updated": 1660281639286,
       "created": 1660230632683,
       "custom": {
         "nav_order": 0,
@@ -37,7 +37,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "9b7911866d7d2bbb876d0dccc1578056",
+      "contentHash": "4e88bc013efd25d43bfb128074fdedb5",
       "links": [
         {
           "type": "wiki",
@@ -50,14 +50,14 @@
           "alias": "about me",
           "position": {
             "start": {
-              "line": 6,
+              "line": 2,
               "column": 1,
-              "offset": 18
+              "offset": 1
             },
             "end": {
-              "line": 6,
+              "line": 2,
               "column": 13,
-              "offset": 30
+              "offset": 13
             },
             "indent": []
           },
@@ -68,24 +68,7 @@
           }
         }
       ],
-      "anchors": {
-        "个人知识库": {
-          "type": "header",
-          "text": "个人知识库",
-          "value": "个人知识库",
-          "line": 8,
-          "column": 0,
-          "depth": 1
-        },
-        "关于我": {
-          "type": "header",
-          "text": "关于我",
-          "value": "关于我",
-          "line": 10,
-          "column": 0,
-          "depth": 2
-        }
-      },
+      "anchors": {},
       "children": [
         "euj0yyfymzmig3lszs3vgow",
         "6xsd9waf7ho7as5kzccut5h",
@@ -2783,14 +2766,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 6,
+              "line": 2,
               "column": 1,
-              "offset": 18
+              "offset": 1
             },
             "end": {
-              "line": 6,
+              "line": 2,
               "column": 13,
-              "offset": 30
+              "offset": 13
             },
             "indent": []
           },
@@ -2898,7 +2881,7 @@
       "id": "20dxao0uf8892hiam7spier",
       "title": "个人知识库",
       "desc": "",
-      "updated": 1660271255333,
+      "updated": 1660281639286,
       "created": 1660230632683,
       "custom": {
         "nav_order": 0,
@@ -2911,7 +2894,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "9b7911866d7d2bbb876d0dccc1578056",
+      "contentHash": "4e88bc013efd25d43bfb128074fdedb5",
       "links": [
         {
           "type": "wiki",
@@ -2924,14 +2907,14 @@
           "alias": "about me",
           "position": {
             "start": {
-              "line": 6,
+              "line": 2,
               "column": 1,
-              "offset": 18
+              "offset": 1
             },
             "end": {
-              "line": 6,
+              "line": 2,
               "column": 13,
-              "offset": 30
+              "offset": 13
             },
             "indent": []
           },
@@ -2942,24 +2925,7 @@
           }
         }
       ],
-      "anchors": {
-        "个人知识库": {
-          "type": "header",
-          "text": "个人知识库",
-          "value": "个人知识库",
-          "line": 8,
-          "column": 0,
-          "depth": 1
-        },
-        "关于我": {
-          "type": "header",
-          "text": "关于我",
-          "value": "关于我",
-          "line": 10,
-          "column": 0,
-          "depth": 2
-        }
-      },
+      "anchors": {},
       "children": [
         "euj0yyfymzmig3lszs3vgow",
         "6xsd9waf7ho7as5kzccut5h",
@@ -2972,14 +2938,14 @@
       ],
       "parent": null,
       "data": {},
-      "body": "\n# 个人知识库\n\n## 关于我\n\n[[about me]]"
+      "body": "\n[[about me]]\n"
     }
   ],
   "noteIndex": {
     "id": "20dxao0uf8892hiam7spier",
     "title": "个人知识库",
     "desc": "",
-    "updated": 1660271255333,
+    "updated": 1660281639286,
     "created": 1660230632683,
     "custom": {
       "nav_order": 0,
@@ -2992,7 +2958,7 @@
       "selfContained": true,
       "name": "knowledge"
     },
-    "contentHash": "9b7911866d7d2bbb876d0dccc1578056",
+    "contentHash": "4e88bc013efd25d43bfb128074fdedb5",
     "links": [
       {
         "type": "wiki",
@@ -3005,14 +2971,14 @@
         "alias": "about me",
         "position": {
           "start": {
-            "line": 6,
+            "line": 2,
             "column": 1,
-            "offset": 18
+            "offset": 1
           },
           "end": {
-            "line": 6,
+            "line": 2,
             "column": 13,
-            "offset": 30
+            "offset": 13
           },
           "indent": []
         },
@@ -3023,24 +2989,7 @@
         }
       }
     ],
-    "anchors": {
-      "个人知识库": {
-        "type": "header",
-        "text": "个人知识库",
-        "value": "个人知识库",
-        "line": 8,
-        "column": 0,
-        "depth": 1
-      },
-      "关于我": {
-        "type": "header",
-        "text": "关于我",
-        "value": "关于我",
-        "line": 10,
-        "column": 0,
-        "depth": 2
-      }
-    },
+    "anchors": {},
     "children": [
       "euj0yyfymzmig3lszs3vgow",
       "6xsd9waf7ho7as5kzccut5h",
@@ -3053,7 +3002,7 @@
     ],
     "parent": null,
     "data": {},
-    "body": "\n# 个人知识库\n\n## 关于我\n\n[[about me]]"
+    "body": "\n[[about me]]\n"
   },
   "vaults": [
     {
