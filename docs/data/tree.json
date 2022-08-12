@@ -220,6 +220,15 @@
               "children": []
             },
             {
+              "key": "z1smovtlizxtgmha05vb7z1",
+              "title": "Golang",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "navExclude": false,
+              "children": []
+            },
+            {
               "key": "72lkyo4ytbsj2w2w7rkdor7",
               "title": "Java",
               "icon": null,
@@ -282,7 +291,53 @@
           "hasTitleNumberOutlined": false,
           "vaultName": "knowledge",
           "navExclude": false,
-          "children": []
+          "children": [
+            {
+              "key": "el8pagw2eudjvjbvaepeukt",
+              "title": "函数式编程",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "czseabqijp0teh66cxifpxr",
+              "title": "持续部署",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "oxntr7pomidy0b02jx0ch0k",
+              "title": "持续集成",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "1gtu3uf3ooijabsh55xsucj",
+              "title": "测试驱动开发",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "l0n8p6a22ndk4hwpm176fnn",
+              "title": "重构",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "navExclude": false,
+              "children": []
+            }
+          ]
         }
       ]
     }
@@ -291,6 +346,11 @@
     "403": null,
     "20dxao0uf8892hiam7spier": null,
     "i5z2gw9ou7tmimbwdsltnnz": "20dxao0uf8892hiam7spier",
+    "1gtu3uf3ooijabsh55xsucj": "i5z2gw9ou7tmimbwdsltnnz",
+    "l0n8p6a22ndk4hwpm176fnn": "i5z2gw9ou7tmimbwdsltnnz",
+    "el8pagw2eudjvjbvaepeukt": "i5z2gw9ou7tmimbwdsltnnz",
+    "oxntr7pomidy0b02jx0ch0k": "i5z2gw9ou7tmimbwdsltnnz",
+    "czseabqijp0teh66cxifpxr": "i5z2gw9ou7tmimbwdsltnnz",
     "a44h4sj21jfb19ymoovvuzr": "20dxao0uf8892hiam7spier",
     "oasz9131g7t831nyxuti1qf": "20dxao0uf8892hiam7spier",
     "1s674rtewls01u0m0zuze3n": "oasz9131g7t831nyxuti1qf",
@@ -298,6 +358,7 @@
     "i7qra5ip0gwchs30f5at7rx": "oasz9131g7t831nyxuti1qf",
     "l0uijxo05lrlktn8uszxu3a": "oasz9131g7t831nyxuti1qf",
     "72lkyo4ytbsj2w2w7rkdor7": "oasz9131g7t831nyxuti1qf",
+    "z1smovtlizxtgmha05vb7z1": "oasz9131g7t831nyxuti1qf",
     "5ao7xb0vcwvs84380v8sbwh": "oasz9131g7t831nyxuti1qf",
     "timf6fz47pcux97itx9t9pz": "oasz9131g7t831nyxuti1qf",
     "969nhjubxljoqfh93w6cd8p": "oasz9131g7t831nyxuti1qf",
