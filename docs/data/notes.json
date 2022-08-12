@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1660290542480,
-      "created": 1660290542480,
+      "updated": 1660319629690,
+      "created": 1660319629690,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -37,7 +37,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "4e88bc013efd25d43bfb128074fdedb5",
+      "contentHash": "a2b3900fb5691c097d09d2b88bb3a8af",
       "links": [
         {
           "type": "wiki",
@@ -52,12 +52,12 @@
             "start": {
               "line": 2,
               "column": 1,
-              "offset": 1
+              "offset": 2
             },
             "end": {
               "line": 2,
               "column": 13,
-              "offset": 13
+              "offset": 14
             },
             "indent": []
           },
@@ -97,217 +97,23 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "c6385963c9b2edb9d4d3d1e7a35376c3",
+      "contentHash": "0dfa212dedf215b05611934dcaf2f468",
       "links": [],
       "anchors": {},
       "children": [
         "rmm2u11fx963i330c4adzsb",
         "czseabqijp0teh66cxifpxr",
         "oxntr7pomidy0b02jx0ch0k",
-        "i4aolyivyc5ooa7ldq2k3vu",
-        "olreo7137fdt59hwv5pnwe9",
         "qu30gr2fu9l2qy6dpy6wjs6",
         "mbqttms3dcvg0rrucdg1cfc",
         "8pwefou38xgvyum1pfgl3r8",
-        "el8pagw2eudjvjbvaepeukt",
         "m86229vfqs59h7tbphp9j45",
         "415pfd1z8i5k9amwp7gkzlp",
-        "l0n8p6a22ndk4hwpm176fnn"
+        "l0n8p6a22ndk4hwpm176fnn",
+        "i4aolyivyc5ooa7ldq2k3vu",
+        "olreo7137fdt59hwv5pnwe9"
       ],
       "parent": "20dxao0uf8892hiam7spier",
-      "data": {}
-    },
-    "l0n8p6a22ndk4hwpm176fnn": {
-      "id": "l0n8p6a22ndk4hwpm176fnn",
-      "title": "重构",
-      "desc": "",
-      "updated": 1660275604054,
-      "created": 1660275599105,
-      "custom": {},
-      "fname": "software-develop.refactoring",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "de017b0d63c7a0f7f01fcc4dfbafc9f6",
-      "links": [
-        {
-          "from": {
-            "fname": "about me",
-            "vaultName": "knowledge"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 47,
-              "column": 3,
-              "offset": 1602
-            },
-            "end": {
-              "line": 47,
-              "column": 35,
-              "offset": 1634
-            },
-            "indent": []
-          },
-          "value": "software-develop.refactoring",
-          "alias": "software-develop.refactoring"
-        }
-      ],
-      "anchors": {},
-      "children": [],
-      "parent": "i5z2gw9ou7tmimbwdsltnnz",
-      "data": {}
-    },
-    "415pfd1z8i5k9amwp7gkzlp": {
-      "id": "415pfd1z8i5k9amwp7gkzlp",
-      "title": "Mobile Application",
-      "desc": "",
-      "updated": 1660280723080,
-      "created": 1660280723080,
-      "custom": {},
-      "fname": "software-develop.mobile application",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "ea8f198ccf503e9973edced9f9a70a6e",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "i5z2gw9ou7tmimbwdsltnnz",
-      "data": {}
-    },
-    "m86229vfqs59h7tbphp9j45": {
-      "id": "m86229vfqs59h7tbphp9j45",
-      "title": "前端",
-      "desc": "",
-      "updated": 1660273148893,
-      "created": 1660231786319,
-      "custom": {},
-      "fname": "software-develop.frontend",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "74d1a09dafff00a61526877375a4950e",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "i5z2gw9ou7tmimbwdsltnnz",
-      "data": {}
-    },
-    "el8pagw2eudjvjbvaepeukt": {
-      "id": "el8pagw2eudjvjbvaepeukt",
-      "title": "函数式编程",
-      "desc": "",
-      "updated": 1660275578665,
-      "created": 1660275570319,
-      "custom": {},
-      "fname": "software-develop.fp",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "4cfb72aa610e6a774bc52faa833b35bf",
-      "links": [
-        {
-          "from": {
-            "fname": "about me",
-            "vaultName": "knowledge"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 48,
-              "column": 3,
-              "offset": 1637
-            },
-            "end": {
-              "line": 48,
-              "column": 26,
-              "offset": 1660
-            },
-            "indent": []
-          },
-          "value": "software-develop.fp",
-          "alias": "software-develop.fp"
-        }
-      ],
-      "anchors": {},
-      "children": [],
-      "parent": "i5z2gw9ou7tmimbwdsltnnz",
-      "data": {}
-    },
-    "8pwefou38xgvyum1pfgl3r8": {
-      "id": "8pwefou38xgvyum1pfgl3r8",
-      "title": "Dev Ops",
-      "desc": "",
-      "updated": 1660231981798,
-      "created": 1660231981798,
-      "custom": {},
-      "fname": "software-develop.dev-ops",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "1ed2b463184bddd7bff987247ea96c2f",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "i5z2gw9ou7tmimbwdsltnnz",
-      "data": {}
-    },
-    "mbqttms3dcvg0rrucdg1cfc": {
-      "id": "mbqttms3dcvg0rrucdg1cfc",
-      "title": "Desktop Application",
-      "desc": "",
-      "updated": 1660280708531,
-      "created": 1660280708531,
-      "custom": {},
-      "fname": "software-develop.desktop application",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "b898642e0d81096272da47526607ba0a",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "i5z2gw9ou7tmimbwdsltnnz",
-      "data": {}
-    },
-    "qu30gr2fu9l2qy6dpy6wjs6": {
-      "id": "qu30gr2fu9l2qy6dpy6wjs6",
-      "title": "Command Line Tools",
-      "desc": "",
-      "updated": 1660280681099,
-      "created": 1660280681099,
-      "custom": {},
-      "fname": "software-develop.command line tools",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "126adff9f67a50f1cebd53c969eb0e4a",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "i5z2gw9ou7tmimbwdsltnnz",
       "data": {}
     },
     "olreo7137fdt59hwv5pnwe9": {
@@ -324,7 +130,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "2ecd4e5ab90cc84b04745472c88696e9",
+      "contentHash": "77d6fcbfe2ca79f8c4b881f3e2d0a415",
       "links": [],
       "anchors": {},
       "children": [
@@ -347,7 +153,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "fa9ffd17dd2d672c8d75f548428eefad",
+      "contentHash": "10003e9e9d53d3adb96ffbead666500c",
       "links": [
         {
           "from": {
@@ -359,12 +165,12 @@
             "start": {
               "line": 53,
               "column": 3,
-              "offset": 1726
+              "offset": 1778
             },
             "end": {
               "line": 53,
               "column": 31,
-              "offset": 1754
+              "offset": 1806
             },
             "indent": []
           },
@@ -391,7 +197,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "3b8836fc7c0e77ed8865662248eb88b6",
+      "contentHash": "62583f79db5872b4f07663f47ecbef5a",
       "links": [],
       "anchors": {},
       "children": [
@@ -414,11 +220,160 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "4af487125729f663182a59d22c44b490",
+      "contentHash": "0aa79df38f94ccde58febea9a6df08e5",
       "links": [],
       "anchors": {},
       "children": [],
       "parent": "i4aolyivyc5ooa7ldq2k3vu",
+      "data": {}
+    },
+    "l0n8p6a22ndk4hwpm176fnn": {
+      "id": "l0n8p6a22ndk4hwpm176fnn",
+      "title": "重构",
+      "desc": "",
+      "updated": 1660275604054,
+      "created": 1660275599105,
+      "custom": {},
+      "fname": "software-develop.refactoring",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "4a349cb4190868f335e000b1fa7c58d6",
+      "links": [
+        {
+          "from": {
+            "fname": "about me",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 47,
+              "column": 3,
+              "offset": 1648
+            },
+            "end": {
+              "line": 47,
+              "column": 35,
+              "offset": 1680
+            },
+            "indent": []
+          },
+          "value": "software-develop.refactoring",
+          "alias": "software-develop.refactoring"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "i5z2gw9ou7tmimbwdsltnnz",
+      "data": {}
+    },
+    "415pfd1z8i5k9amwp7gkzlp": {
+      "id": "415pfd1z8i5k9amwp7gkzlp",
+      "title": "Mobile Application",
+      "desc": "",
+      "updated": 1660280723080,
+      "created": 1660280723080,
+      "custom": {},
+      "fname": "software-develop.mobile application",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "af537b57a514f1d7087567c4edd0f405",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "i5z2gw9ou7tmimbwdsltnnz",
+      "data": {}
+    },
+    "m86229vfqs59h7tbphp9j45": {
+      "id": "m86229vfqs59h7tbphp9j45",
+      "title": "前端",
+      "desc": "",
+      "updated": 1660273148893,
+      "created": 1660231786319,
+      "custom": {},
+      "fname": "software-develop.frontend",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "946e1a896438f5a77bfc718b599c77a5",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "i5z2gw9ou7tmimbwdsltnnz",
+      "data": {}
+    },
+    "8pwefou38xgvyum1pfgl3r8": {
+      "id": "8pwefou38xgvyum1pfgl3r8",
+      "title": "Dev Ops",
+      "desc": "",
+      "updated": 1660231981798,
+      "created": 1660231981798,
+      "custom": {},
+      "fname": "software-develop.dev-ops",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "50ab460dfafa00a535a9f454d55eab65",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "i5z2gw9ou7tmimbwdsltnnz",
+      "data": {}
+    },
+    "mbqttms3dcvg0rrucdg1cfc": {
+      "id": "mbqttms3dcvg0rrucdg1cfc",
+      "title": "Desktop Application",
+      "desc": "",
+      "updated": 1660280708531,
+      "created": 1660280708531,
+      "custom": {},
+      "fname": "software-develop.desktop application",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "1760c4293941e81821c38fd0be624afb",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "i5z2gw9ou7tmimbwdsltnnz",
+      "data": {}
+    },
+    "qu30gr2fu9l2qy6dpy6wjs6": {
+      "id": "qu30gr2fu9l2qy6dpy6wjs6",
+      "title": "Command Line Tools",
+      "desc": "",
+      "updated": 1660280681099,
+      "created": 1660280681099,
+      "custom": {},
+      "fname": "software-develop.command line tools",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "b3f963f86087b9933919573dc54e8635",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "i5z2gw9ou7tmimbwdsltnnz",
       "data": {}
     },
     "oxntr7pomidy0b02jx0ch0k": {
@@ -435,7 +390,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "8ae7b5d6271140f1c01fa1a32a4df967",
+      "contentHash": "e02557d232c165c5e08f3a075a89a69f",
       "links": [
         {
           "from": {
@@ -447,12 +402,12 @@
             "start": {
               "line": 52,
               "column": 3,
-              "offset": 1676
+              "offset": 1727
             },
             "end": {
               "line": 52,
               "column": 26,
-              "offset": 1699
+              "offset": 1750
             },
             "indent": []
           },
@@ -479,7 +434,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "266a2835eb7b8bfbb0e3b3413025bcda",
+      "contentHash": "626b92724540be165c5dd27f6ca21935",
       "links": [
         {
           "from": {
@@ -491,12 +446,12 @@
             "start": {
               "line": 52,
               "column": 27,
-              "offset": 1700
+              "offset": 1751
             },
             "end": {
               "line": 52,
               "column": 50,
-              "offset": 1723
+              "offset": 1774
             },
             "indent": []
           },
@@ -523,38 +478,17 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "fde9f6ec55afac44d8710f708f7985e7",
+      "contentHash": "f06ece13d5916c06d4238005714b950a",
       "links": [],
       "anchors": {},
       "children": [
         "uyjg9t3i185v6fooeyjsj0m",
         "orylzgbypdj9g3c2kxpw03i",
+        "r44zlpkuq0s59ykohntdjhb",
         "arfbr1udhmojggta8lrpeqs",
-        "tv4vqfov2ijkqg2rvriiqun",
-        "r44zlpkuq0s59ykohntdjhb"
+        "tv4vqfov2ijkqg2rvriiqun"
       ],
       "parent": "i5z2gw9ou7tmimbwdsltnnz",
-      "data": {}
-    },
-    "r44zlpkuq0s59ykohntdjhb": {
-      "id": "r44zlpkuq0s59ykohntdjhb",
-      "title": "gRPC",
-      "desc": "",
-      "updated": 1660279635169,
-      "created": 1660279635169,
-      "custom": {},
-      "fname": "software-develop.API.gRPC",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "7eccfa17748d8d9ea2dfd11d3d3d9c85",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "rmm2u11fx963i330c4adzsb",
       "data": {}
     },
     "tv4vqfov2ijkqg2rvriiqun": {
@@ -571,7 +505,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "4757333236090479d82da5255d6a9301",
+      "contentHash": "6fe1a6a41aacf556d4a1f798cb3b861d",
       "links": [],
       "anchors": {},
       "children": [],
@@ -592,7 +526,28 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "0ff5685984e34a3b84beb1def57b123d",
+      "contentHash": "0b4b0d67c1120a712acd4c678bbc1c27",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "rmm2u11fx963i330c4adzsb",
+      "data": {}
+    },
+    "r44zlpkuq0s59ykohntdjhb": {
+      "id": "r44zlpkuq0s59ykohntdjhb",
+      "title": "gRPC",
+      "desc": "",
+      "updated": 1660279635169,
+      "created": 1660279635169,
+      "custom": {},
+      "fname": "software-develop.API.gRPC",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "a85781ac9579f7c377322c9689fc06ff",
       "links": [],
       "anchors": {},
       "children": [],
@@ -613,7 +568,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "a811d600f0caa531f8e9b70dccd95709",
+      "contentHash": "a6ece53c82009c59e3c50502ee3d651e",
       "links": [],
       "anchors": {},
       "children": [],
@@ -634,7 +589,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "2964ec4d5475947126f642baaa1eb719",
+      "contentHash": "7cc9888609d977ec6beed0f50a9810dc",
       "links": [],
       "anchors": {},
       "children": [],
@@ -655,7 +610,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "3b02f9d4cb17804db74e842661f50ddc",
+      "contentHash": "df5541b5d52f96544cc97f884615fd7c",
       "links": [],
       "anchors": {},
       "children": [
@@ -679,7 +634,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "f831e81a9376a2f8b68d2a7dab786d07",
+      "contentHash": "267a66bd71b4b3cbf2904642b3ebf16e",
       "links": [],
       "anchors": {},
       "children": [],
@@ -700,7 +655,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "43949d8bb661c1977ccefda1ad37d070",
+      "contentHash": "78419c1f2582e4475aa9079175aa901f",
       "links": [],
       "anchors": {},
       "children": [],
@@ -721,7 +676,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "5ec539bc278b2dbaac89a2394fcfb50e",
+      "contentHash": "3036daa9d5b177bff1248e79689f034d",
       "links": [],
       "anchors": {},
       "children": [
@@ -745,7 +700,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "c7fa8e60940904fa5acf881e42bac9dd",
+      "contentHash": "c118ec0c5d54bfc242ec92c3545f4a2e",
       "links": [],
       "anchors": {},
       "children": [],
@@ -766,7 +721,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "9f895f5ea3b589ba96d5daa73ee0feeb",
+      "contentHash": "e488b7ea8c4441fb6a9305e605220ad5",
       "links": [
         {
           "from": {
@@ -778,12 +733,12 @@
             "start": {
               "line": 4,
               "column": 1,
-              "offset": 8
+              "offset": 11
             },
             "end": {
               "line": 4,
               "column": 24,
-              "offset": 31
+              "offset": 34
             },
             "indent": []
           },
@@ -818,7 +773,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "424c0a2c1822e72e2c89dc0c8ffdc423",
+      "contentHash": "565645e405ac9f3cff4db81a6f9421f7",
       "links": [],
       "anchors": {},
       "children": [
@@ -826,11 +781,15 @@
         "969nhjubxljoqfh93w6cd8p",
         "timf6fz47pcux97itx9t9pz",
         "5ao7xb0vcwvs84380v8sbwh",
+        "q97jtd6kjanb5r4r31q1eva",
         "z1smovtlizxtgmha05vb7z1",
         "72lkyo4ytbsj2w2w7rkdor7",
         "l0uijxo05lrlktn8uszxu3a",
+        "qfmuh4r8hspzcvalako02we",
+        "sqm9rnf6pqj48jq2dcmu0ru",
         "i7qra5ip0gwchs30f5at7rx",
         "n2k5mir21lfaxzegmq4vs47",
+        "w1i2dw4t9w6wg81gl79dpks",
         "1s674rtewls01u0m0zuze3n"
       ],
       "parent": "20dxao0uf8892hiam7spier",
@@ -862,17 +821,61 @@
             "start": {
               "line": 20,
               "column": 3,
-              "offset": 477
+              "offset": 496
             },
             "end": {
               "line": 20,
               "column": 39,
-              "offset": 513
+              "offset": 532
             },
             "indent": []
           },
           "value": "programming-languages.typescript",
           "alias": "programming-languages.typescript"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "oasz9131g7t831nyxuti1qf",
+      "data": {}
+    },
+    "w1i2dw4t9w6wg81gl79dpks": {
+      "id": "w1i2dw4t9w6wg81gl79dpks",
+      "title": "结构化编程",
+      "desc": "",
+      "updated": 1660317992321,
+      "created": 1660317986745,
+      "custom": {},
+      "fname": "programming-languages.Structural Programming",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "34760e672989dcb7f917a11ded614d25",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 18,
+              "offset": 227
+            },
+            "end": {
+              "line": 11,
+              "column": 66,
+              "offset": 275
+            },
+            "indent": []
+          },
+          "value": "programming-languages.Structural Programming",
+          "alias": "programming-languages.Structural Programming"
         }
       ],
       "anchors": {},
@@ -906,12 +909,12 @@
             "start": {
               "line": 24,
               "column": 3,
-              "offset": 747
+              "offset": 770
             },
             "end": {
               "line": 24,
               "column": 33,
-              "offset": 777
+              "offset": 800
             },
             "indent": []
           },
@@ -928,7 +931,7 @@
       "id": "i7qra5ip0gwchs30f5at7rx",
       "title": "Python",
       "desc": "",
-      "updated": 1660233198308,
+      "updated": 1660319418897,
       "created": 1660233198308,
       "custom": {},
       "fname": "programming-languages.python",
@@ -938,8 +941,706 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "4d2e1fa9be764f5fe01e727bee00fa3c",
+      "contentHash": "0a9e474378eefe334c168af677ec5bcc",
       "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.Structural Programming",
+          "alias": "programming-languages.Structural Programming",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 18,
+              "offset": 227
+            },
+            "end": {
+              "line": 11,
+              "column": 66,
+              "offset": 275
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.Structural Programming"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.oop",
+          "alias": "programming-languages.oop",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 67,
+              "offset": 276
+            },
+            "end": {
+              "line": 11,
+              "column": 96,
+              "offset": 305
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.oop"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.functional programming",
+          "alias": "programming-languages.functional programming",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 97,
+              "offset": 306
+            },
+            "end": {
+              "line": 11,
+              "column": 145,
+              "offset": 354
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.functional programming"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.meta programming",
+          "alias": "programming-languages.meta programming",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 146,
+              "offset": 355
+            },
+            "end": {
+              "line": 11,
+              "column": 188,
+              "offset": 397
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.meta programming"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.python.Ansible",
+          "alias": "programming-languages.python.Ansible",
+          "position": {
+            "start": {
+              "line": 19,
+              "column": 10,
+              "offset": 559
+            },
+            "end": {
+              "line": 19,
+              "column": 50,
+              "offset": 599
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.python.Ansible"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.python.Tensorflow",
+          "alias": "programming-languages.python.Tensorflow",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 9,
+              "offset": 609
+            },
+            "end": {
+              "line": 20,
+              "column": 52,
+              "offset": 652
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.python.Tensorflow"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.python.Pytorch",
+          "alias": "programming-languages.python.Pytorch",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 53,
+              "offset": 653
+            },
+            "end": {
+              "line": 20,
+              "column": 93,
+              "offset": 693
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.python.Pytorch"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.python.Flask",
+          "alias": "programming-languages.python.Flask",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 11,
+              "offset": 706
+            },
+            "end": {
+              "line": 21,
+              "column": 49,
+              "offset": 744
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.python.Flask"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.python.Django",
+          "alias": "programming-languages.python.Django",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 50,
+              "offset": 745
+            },
+            "end": {
+              "line": 21,
+              "column": 89,
+              "offset": 784
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.python.Django"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.python.FastAPI",
+          "alias": "programming-languages.python.FastAPI",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 90,
+              "offset": 785
+            },
+            "end": {
+              "line": 21,
+              "column": 130,
+              "offset": 825
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.python.FastAPI"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.python.PyQT",
+          "alias": "programming-languages.python.PyQT",
+          "position": {
+            "start": {
+              "line": 22,
+              "column": 13,
+              "offset": 840
+            },
+            "end": {
+              "line": 22,
+              "column": 50,
+              "offset": 877
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.python.PyQT"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.python.builtin types",
+          "alias": "programming-languages.python.builtin types",
+          "position": {
+            "start": {
+              "line": 30,
+              "column": 3,
+              "offset": 971
+            },
+            "end": {
+              "line": 30,
+              "column": 49,
+              "offset": 1017
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.python.builtin types"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.python.builtin functions",
+          "alias": "programming-languages.python.builtin functions",
+          "position": {
+            "start": {
+              "line": 31,
+              "column": 3,
+              "offset": 1020
+            },
+            "end": {
+              "line": 31,
+              "column": 53,
+              "offset": 1070
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.python.builtin functions"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.python.modules",
+          "alias": "programming-languages.python.modules",
+          "position": {
+            "start": {
+              "line": 32,
+              "column": 3,
+              "offset": 1073
+            },
+            "end": {
+              "line": 32,
+              "column": 43,
+              "offset": 1113
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.python.modules"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.python.iterators",
+          "alias": "programming-languages.python.iterators",
+          "position": {
+            "start": {
+              "line": 33,
+              "column": 3,
+              "offset": 1116
+            },
+            "end": {
+              "line": 33,
+              "column": 45,
+              "offset": 1158
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.python.iterators"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.python.generators",
+          "alias": "programming-languages.python.generators",
+          "position": {
+            "start": {
+              "line": 34,
+              "column": 3,
+              "offset": 1161
+            },
+            "end": {
+              "line": 34,
+              "column": 46,
+              "offset": 1204
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.python.generators"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.python.list compression",
+          "alias": "programming-languages.python.list compression",
+          "position": {
+            "start": {
+              "line": 35,
+              "column": 3,
+              "offset": 1207
+            },
+            "end": {
+              "line": 35,
+              "column": 52,
+              "offset": 1256
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.python.list compression"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.python.decorators",
+          "alias": "programming-languages.python.decorators",
+          "position": {
+            "start": {
+              "line": 36,
+              "column": 3,
+              "offset": 1259
+            },
+            "end": {
+              "line": 36,
+              "column": 46,
+              "offset": 1302
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.python.decorators"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.python.context manager",
+          "alias": "programming-languages.python.context manager",
+          "position": {
+            "start": {
+              "line": 37,
+              "column": 3,
+              "offset": 1305
+            },
+            "end": {
+              "line": 37,
+              "column": 51,
+              "offset": 1353
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.python.context manager"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.python.structral pattern match",
+          "alias": "programming-languages.python.structral pattern match",
+          "position": {
+            "start": {
+              "line": 38,
+              "column": 3,
+              "offset": 1356
+            },
+            "end": {
+              "line": 38,
+              "column": 59,
+              "offset": 1412
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.python.structral pattern match"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.python.pip",
+          "alias": "programming-languages.python.pip",
+          "position": {
+            "start": {
+              "line": 43,
+              "column": 3,
+              "offset": 1453
+            },
+            "end": {
+              "line": 43,
+              "column": 39,
+              "offset": 1489
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.python.pip"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.python.poetry",
+          "alias": "programming-languages.python.poetry",
+          "position": {
+            "start": {
+              "line": 44,
+              "column": 3,
+              "offset": 1492
+            },
+            "end": {
+              "line": 44,
+              "column": 42,
+              "offset": 1531
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.python.poetry"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.python.venv",
+          "alias": "programming-languages.python.venv",
+          "position": {
+            "start": {
+              "line": 48,
+              "column": 3,
+              "offset": 1544
+            },
+            "end": {
+              "line": 48,
+              "column": 40,
+              "offset": 1581
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.python.venv"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.python.pipenv",
+          "alias": "programming-languages.python.pipenv",
+          "position": {
+            "start": {
+              "line": 49,
+              "column": 3,
+              "offset": 1584
+            },
+            "end": {
+              "line": 49,
+              "column": 42,
+              "offset": 1623
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.python.pipenv"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.python.Zen of Python",
+          "position": {
+            "start": {
+              "line": 26,
+              "column": 1,
+              "offset": 894
+            },
+            "end": {
+              "line": 26,
+              "column": 65,
+              "offset": 958
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "programming-languages.python.Zen of Python"
+          }
+        },
         {
           "from": {
             "fname": "about me",
@@ -950,17 +1651,1124 @@
             "start": {
               "line": 18,
               "column": 3,
-              "offset": 345
+              "offset": 362
             },
             "end": {
               "line": 18,
               "column": 35,
-              "offset": 377
+              "offset": 394
             },
             "indent": []
           },
           "value": "programming-languages.python",
           "alias": "programming-languages.python"
+        }
+      ],
+      "anchors": {
+        "介绍": {
+          "type": "header",
+          "text": "介绍",
+          "value": "介绍",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "特点": {
+          "type": "header",
+          "text": "特点",
+          "value": "特点",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "应用": {
+          "type": "header",
+          "text": "应用",
+          "value": "应用",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        },
+        "python-之禅": {
+          "type": "header",
+          "text": "Python 之禅",
+          "value": "python-之禅",
+          "line": 30,
+          "column": 0,
+          "depth": 2
+        },
+        "语言特性": {
+          "type": "header",
+          "text": "语言特性",
+          "value": "语言特性",
+          "line": 34,
+          "column": 0,
+          "depth": 2
+        },
+        "第三方库": {
+          "type": "header",
+          "text": "第三方库",
+          "value": "第三方库",
+          "line": 46,
+          "column": 0,
+          "depth": 2
+        },
+        "虚拟环境": {
+          "type": "header",
+          "text": "虚拟环境",
+          "value": "虚拟环境",
+          "line": 52,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "ndz4w8l4fs8gahzx7eanasg",
+        "vu4366q6sckejfdqgrqr3a5",
+        "gi59c2928gvbae6n3uniugg",
+        "ukppn0c8e7ihvzi1s3ttqge",
+        "cer3q1dhci0eeh718l9svdi",
+        "hz65rlnypyne9wbids56z0z",
+        "neh8ueqeh37oflgao2wk97c",
+        "3gh56qxayzvht9saqgm7lve",
+        "uaqz2heac1kdcsqy127dqom",
+        "my8qzdf77zphq770aho85l7",
+        "cnu5owy75z10xsbawpj1hzw",
+        "jin5kl3ogos778jevlg9gap",
+        "vh4dp3cdgsq3rw64h6h1ird",
+        "qtr8ummkyc6u05hou1kqspq",
+        "8e3frajnix71f9lnu8ymch6",
+        "wz0gdaczrayeppp05rjbkbj",
+        "b8e32zij9egyzswosocp3t8",
+        "agx5nqdeeujae4czk9e9c67",
+        "n7fz544n5iy18az4emy7oi0",
+        "se4tmj9t31kkax83l4wmprt",
+        "1m3crqwnc01esh8ylao7cdj"
+      ],
+      "parent": "oasz9131g7t831nyxuti1qf",
+      "data": {}
+    },
+    "1m3crqwnc01esh8ylao7cdj": {
+      "id": "1m3crqwnc01esh8ylao7cdj",
+      "title": "Zen of Python",
+      "desc": "",
+      "updated": 1660319392238,
+      "created": 1660318707552,
+      "custom": {},
+      "fname": "programming-languages.python.Zen of Python",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "e94bc11d7a4454fb13b1bac75d492248",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 26,
+              "column": 1,
+              "offset": 894
+            },
+            "end": {
+              "line": 26,
+              "column": 65,
+              "offset": 958
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.Zen of Python"
+        }
+      ],
+      "anchors": {
+        "获取-python-之禅的内容": {
+          "type": "header",
+          "text": "获取 Python 之禅的内容",
+          "value": "获取-python-之禅的内容",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "python-之禅": {
+          "type": "header",
+          "text": "Python 之禅",
+          "value": "python-之禅",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "se4tmj9t31kkax83l4wmprt": {
+      "id": "se4tmj9t31kkax83l4wmprt",
+      "title": "Venv",
+      "desc": "",
+      "updated": 1660319282842,
+      "created": 1660319282842,
+      "custom": {},
+      "fname": "programming-languages.python.venv",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "100a2b595d1f42c6a829b2bd003fd105",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 48,
+              "column": 3,
+              "offset": 1544
+            },
+            "end": {
+              "line": 48,
+              "column": 40,
+              "offset": 1581
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.venv",
+          "alias": "programming-languages.python.venv"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "n7fz544n5iy18az4emy7oi0": {
+      "id": "n7fz544n5iy18az4emy7oi0",
+      "title": "Tensorflow",
+      "desc": "",
+      "updated": 1660318533072,
+      "created": 1660318533072,
+      "custom": {},
+      "fname": "programming-languages.python.Tensorflow",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "7bec672c4bc53bf3696580a34be2cd30",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 9,
+              "offset": 609
+            },
+            "end": {
+              "line": 20,
+              "column": 52,
+              "offset": 652
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.Tensorflow",
+          "alias": "programming-languages.python.Tensorflow"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "agx5nqdeeujae4czk9e9c67": {
+      "id": "agx5nqdeeujae4czk9e9c67",
+      "title": "结构化模式匹配",
+      "desc": "",
+      "updated": 1660319125884,
+      "created": 1660319119340,
+      "custom": {},
+      "fname": "programming-languages.python.structral pattern match",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "a86e2bdc3ea609b30f763913deb7e58e",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 38,
+              "column": 3,
+              "offset": 1356
+            },
+            "end": {
+              "line": 38,
+              "column": 59,
+              "offset": 1412
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.structral pattern match",
+          "alias": "programming-languages.python.structral pattern match"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "b8e32zij9egyzswosocp3t8": {
+      "id": "b8e32zij9egyzswosocp3t8",
+      "title": "Pytorch",
+      "desc": "",
+      "updated": 1660318545151,
+      "created": 1660318545151,
+      "custom": {},
+      "fname": "programming-languages.python.Pytorch",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "7b503aa555c4bc3a072c49b9cf080f06",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 53,
+              "offset": 653
+            },
+            "end": {
+              "line": 20,
+              "column": 93,
+              "offset": 693
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.Pytorch",
+          "alias": "programming-languages.python.Pytorch"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "wz0gdaczrayeppp05rjbkbj": {
+      "id": "wz0gdaczrayeppp05rjbkbj",
+      "title": "PyQT",
+      "desc": "",
+      "updated": 1660318616535,
+      "created": 1660318616535,
+      "custom": {},
+      "fname": "programming-languages.python.PyQT",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "a307b26a97c7f7af424be22b778f7caa",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 22,
+              "column": 13,
+              "offset": 840
+            },
+            "end": {
+              "line": 22,
+              "column": 50,
+              "offset": 877
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.PyQT",
+          "alias": "programming-languages.python.PyQT"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "8e3frajnix71f9lnu8ymch6": {
+      "id": "8e3frajnix71f9lnu8ymch6",
+      "title": "Poetry",
+      "desc": "",
+      "updated": 1660319315273,
+      "created": 1660319314864,
+      "custom": {},
+      "fname": "programming-languages.python.poetry",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "545ad66fcfa833ebb5dbc04e7d8e7de1",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 44,
+              "column": 3,
+              "offset": 1492
+            },
+            "end": {
+              "line": 44,
+              "column": 42,
+              "offset": 1531
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.poetry",
+          "alias": "programming-languages.python.poetry"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "qtr8ummkyc6u05hou1kqspq": {
+      "id": "qtr8ummkyc6u05hou1kqspq",
+      "title": "Pipenv",
+      "desc": "",
+      "updated": 1660319309484,
+      "created": 1660319308928,
+      "custom": {},
+      "fname": "programming-languages.python.pipenv",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "e1440ef6e46d8c2d92c56f80925be824",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 49,
+              "column": 3,
+              "offset": 1584
+            },
+            "end": {
+              "line": 49,
+              "column": 42,
+              "offset": 1623
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.pipenv",
+          "alias": "programming-languages.python.pipenv"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "vh4dp3cdgsq3rw64h6h1ird": {
+      "id": "vh4dp3cdgsq3rw64h6h1ird",
+      "title": "Pip",
+      "desc": "",
+      "updated": 1660319271489,
+      "created": 1660319271489,
+      "custom": {},
+      "fname": "programming-languages.python.pip",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "82bbb9aa356925abfbd01156788bedc3",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 43,
+              "column": 3,
+              "offset": 1453
+            },
+            "end": {
+              "line": 43,
+              "column": 39,
+              "offset": 1489
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.pip",
+          "alias": "programming-languages.python.pip"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "jin5kl3ogos778jevlg9gap": {
+      "id": "jin5kl3ogos778jevlg9gap",
+      "title": "标准库模块",
+      "desc": "",
+      "updated": 1660319206003,
+      "created": 1660319195735,
+      "custom": {},
+      "fname": "programming-languages.python.modules",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "831fdc26571531dd615ba2fd9e11f8b6",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 32,
+              "column": 3,
+              "offset": 1073
+            },
+            "end": {
+              "line": 32,
+              "column": 43,
+              "offset": 1113
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.modules",
+          "alias": "programming-languages.python.modules"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "cnu5owy75z10xsbawpj1hzw": {
+      "id": "cnu5owy75z10xsbawpj1hzw",
+      "title": "列表推导式",
+      "desc": "",
+      "updated": 1660318972014,
+      "created": 1660318958287,
+      "custom": {},
+      "fname": "programming-languages.python.list compression",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "cc8923fc6221aac3abc20969cec52986",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 35,
+              "column": 3,
+              "offset": 1207
+            },
+            "end": {
+              "line": 35,
+              "column": 52,
+              "offset": 1256
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.list compression",
+          "alias": "programming-languages.python.list compression"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "my8qzdf77zphq770aho85l7": {
+      "id": "my8qzdf77zphq770aho85l7",
+      "title": "迭代器",
+      "desc": "",
+      "updated": 1660318995176,
+      "created": 1660318986255,
+      "custom": {},
+      "fname": "programming-languages.python.iterators",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "90670fdbf618c3b12e647ed83c510a3e",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 33,
+              "column": 3,
+              "offset": 1116
+            },
+            "end": {
+              "line": 33,
+              "column": 45,
+              "offset": 1158
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.iterators",
+          "alias": "programming-languages.python.iterators"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "uaqz2heac1kdcsqy127dqom": {
+      "id": "uaqz2heac1kdcsqy127dqom",
+      "title": "生成器",
+      "desc": "",
+      "updated": 1660319009603,
+      "created": 1660319004683,
+      "custom": {},
+      "fname": "programming-languages.python.generators",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "b38450530a25a352c7c2e17d1c163eba",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 34,
+              "column": 3,
+              "offset": 1161
+            },
+            "end": {
+              "line": 34,
+              "column": 46,
+              "offset": 1204
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.generators",
+          "alias": "programming-languages.python.generators"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "3gh56qxayzvht9saqgm7lve": {
+      "id": "3gh56qxayzvht9saqgm7lve",
+      "title": "Flask",
+      "desc": "",
+      "updated": 1660318481272,
+      "created": 1660318480488,
+      "custom": {},
+      "fname": "programming-languages.python.Flask",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "b13a85dd06087ea5fe224caa33c1153e",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 11,
+              "offset": 706
+            },
+            "end": {
+              "line": 21,
+              "column": 49,
+              "offset": 744
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.Flask",
+          "alias": "programming-languages.python.Flask"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "neh8ueqeh37oflgao2wk97c": {
+      "id": "neh8ueqeh37oflgao2wk97c",
+      "title": "FastAPI",
+      "desc": "",
+      "updated": 1660318505721,
+      "created": 1660318505721,
+      "custom": {},
+      "fname": "programming-languages.python.FastAPI",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "2b5925495a10d4369033e687241c612a",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 90,
+              "offset": 785
+            },
+            "end": {
+              "line": 21,
+              "column": 130,
+              "offset": 825
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.FastAPI",
+          "alias": "programming-languages.python.FastAPI"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "hz65rlnypyne9wbids56z0z": {
+      "id": "hz65rlnypyne9wbids56z0z",
+      "title": "Django",
+      "desc": "",
+      "updated": 1660318495007,
+      "created": 1660318495007,
+      "custom": {},
+      "fname": "programming-languages.python.Django",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "bbe3136d04499109e173c11154e51075",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 50,
+              "offset": 745
+            },
+            "end": {
+              "line": 21,
+              "column": 89,
+              "offset": 784
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.Django",
+          "alias": "programming-languages.python.Django"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "cer3q1dhci0eeh718l9svdi": {
+      "id": "cer3q1dhci0eeh718l9svdi",
+      "title": "装饰器",
+      "desc": "",
+      "updated": 1660319039424,
+      "created": 1660319034489,
+      "custom": {},
+      "fname": "programming-languages.python.decorators",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "5e3123b1cc02454eeef7e4c9487c4af2",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 36,
+              "column": 3,
+              "offset": 1259
+            },
+            "end": {
+              "line": 36,
+              "column": 46,
+              "offset": 1302
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.decorators",
+          "alias": "programming-languages.python.decorators"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "ukppn0c8e7ihvzi1s3ttqge": {
+      "id": "ukppn0c8e7ihvzi1s3ttqge",
+      "title": "上下文管理器",
+      "desc": "",
+      "updated": 1660319066567,
+      "created": 1660319059855,
+      "custom": {},
+      "fname": "programming-languages.python.context manager",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "807fa58d16e573ab745ac1f31c2961df",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 37,
+              "column": 3,
+              "offset": 1305
+            },
+            "end": {
+              "line": 37,
+              "column": 51,
+              "offset": 1353
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.context manager",
+          "alias": "programming-languages.python.context manager"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "gi59c2928gvbae6n3uniugg": {
+      "id": "gi59c2928gvbae6n3uniugg",
+      "title": "内置类型",
+      "desc": "",
+      "updated": 1660319170876,
+      "created": 1660319165169,
+      "custom": {},
+      "fname": "programming-languages.python.builtin types",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "a2743a81a026a9378c428b40cc885bb8",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 30,
+              "column": 3,
+              "offset": 971
+            },
+            "end": {
+              "line": 30,
+              "column": 49,
+              "offset": 1017
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.builtin types",
+          "alias": "programming-languages.python.builtin types"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "vu4366q6sckejfdqgrqr3a5": {
+      "id": "vu4366q6sckejfdqgrqr3a5",
+      "title": "内置函数",
+      "desc": "",
+      "updated": 1660319184570,
+      "created": 1660319179896,
+      "custom": {},
+      "fname": "programming-languages.python.builtin functions",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "86b2250350d7df74a35ced73c1222bb6",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 31,
+              "column": 3,
+              "offset": 1020
+            },
+            "end": {
+              "line": 31,
+              "column": 53,
+              "offset": 1070
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.builtin functions",
+          "alias": "programming-languages.python.builtin functions"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "ndz4w8l4fs8gahzx7eanasg": {
+      "id": "ndz4w8l4fs8gahzx7eanasg",
+      "title": "Ansible",
+      "desc": "",
+      "updated": 1660318579591,
+      "created": 1660318579015,
+      "custom": {},
+      "fname": "programming-languages.python.Ansible",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "d0a178f0f72bc6d7b817dd377337c5fe",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 19,
+              "column": 10,
+              "offset": 559
+            },
+            "end": {
+              "line": 19,
+              "column": 50,
+              "offset": 599
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.Ansible",
+          "alias": "programming-languages.python.Ansible"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "sqm9rnf6pqj48jq2dcmu0ru": {
+      "id": "sqm9rnf6pqj48jq2dcmu0ru",
+      "title": "面向对象",
+      "desc": "",
+      "updated": 1660317793761,
+      "created": 1660317788803,
+      "custom": {},
+      "fname": "programming-languages.oop",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "c28207d3bcaa3c6f6a305a78231a42e3",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 67,
+              "offset": 276
+            },
+            "end": {
+              "line": 11,
+              "column": 96,
+              "offset": 305
+            },
+            "indent": []
+          },
+          "value": "programming-languages.oop",
+          "alias": "programming-languages.oop"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "oasz9131g7t831nyxuti1qf",
+      "data": {}
+    },
+    "qfmuh4r8hspzcvalako02we": {
+      "id": "qfmuh4r8hspzcvalako02we",
+      "title": "元编程",
+      "desc": "",
+      "updated": 1660318000394,
+      "created": 1660317959839,
+      "custom": {},
+      "fname": "programming-languages.meta programming",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "6f39ce6a3fd95272b40dd656ad47b68b",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 146,
+              "offset": 355
+            },
+            "end": {
+              "line": 11,
+              "column": 188,
+              "offset": 397
+            },
+            "indent": []
+          },
+          "value": "programming-languages.meta programming",
+          "alias": "programming-languages.meta programming"
         }
       ],
       "anchors": {},
@@ -994,12 +2802,12 @@
             "start": {
               "line": 19,
               "column": 3,
-              "offset": 411
+              "offset": 429
             },
             "end": {
               "line": 19,
               "column": 39,
-              "offset": 447
+              "offset": 465
             },
             "indent": []
           },
@@ -1038,12 +2846,12 @@
             "start": {
               "line": 21,
               "column": 3,
-              "offset": 543
+              "offset": 563
             },
             "end": {
               "line": 21,
               "column": 33,
-              "offset": 573
+              "offset": 593
             },
             "indent": []
           },
@@ -1070,7 +2878,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "6bae59a11f42d5f256137785e9119326",
+      "contentHash": "1be0fb475fb138707e778e6cb19e8453",
       "links": [
         {
           "from": {
@@ -1082,17 +2890,61 @@
             "start": {
               "line": 25,
               "column": 3,
-              "offset": 813
+              "offset": 837
             },
             "end": {
               "line": 25,
               "column": 35,
-              "offset": 845
+              "offset": 869
             },
             "indent": []
           },
           "value": "programming-languages.golang",
           "alias": "programming-languages.golang"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "oasz9131g7t831nyxuti1qf",
+      "data": {}
+    },
+    "q97jtd6kjanb5r4r31q1eva": {
+      "id": "q97jtd6kjanb5r4r31q1eva",
+      "title": "函数式编程",
+      "desc": "",
+      "updated": 1660318014555,
+      "created": 1660317823035,
+      "custom": {},
+      "fname": "programming-languages.functional programming",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "a115643e27ec513d23457d9a65a7e24c",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 97,
+              "offset": 306
+            },
+            "end": {
+              "line": 11,
+              "column": 145,
+              "offset": 354
+            },
+            "indent": []
+          },
+          "value": "programming-languages.functional programming",
+          "alias": "programming-languages.functional programming"
         }
       ],
       "anchors": {},
@@ -1114,7 +2966,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "a60e1e57dff10dba1fb3f08db244ecd0",
+      "contentHash": "16321da278137f0d6d4ffc724aa8742a",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1147,12 +2999,12 @@
             "start": {
               "line": 22,
               "column": 3,
-              "offset": 611
+              "offset": 632
             },
             "end": {
               "line": 22,
               "column": 30,
-              "offset": 638
+              "offset": 659
             },
             "indent": []
           },
@@ -1191,12 +3043,12 @@
             "start": {
               "line": 23,
               "column": 3,
-              "offset": 679
+              "offset": 701
             },
             "end": {
               "line": 23,
               "column": 32,
-              "offset": 708
+              "offset": 730
             },
             "indent": []
           },
@@ -1244,7 +3096,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "15d3d48d051205d90f7086349b3362b7",
+      "contentHash": "2e47cb8dd66bb445af3233691bd1cff3",
       "links": [],
       "anchors": {},
       "children": [
@@ -1267,7 +3119,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "ddad375f5ad995678469be60773745e5",
+      "contentHash": "c09688e95ea107e229f50938d7fb31ad",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1288,7 +3140,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "12ce44732378aaeac5c6cc1bfb6f3b29",
+      "contentHash": "8c72de3acc36f1d565117001939ce7ed",
       "links": [],
       "anchors": {},
       "children": [
@@ -1318,7 +3170,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "e1959016265eb9772ae753ecd57a57a4",
+      "contentHash": "218734ba39c807b19fe25885304d4516",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1339,7 +3191,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "3010d72785c20281d7f164b2c10c2b39",
+      "contentHash": "2fd36590b8e941bf158858330c9f75d3",
       "links": [],
       "anchors": {},
       "children": [
@@ -1363,7 +3215,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "586c13669c92ad1da94686506c87b0e7",
+      "contentHash": "214e68ffc61f7cdf377d71f7d200fd0f",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1384,7 +3236,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "5e05cd16634a93e15be4fe6f5ba9c41f",
+      "contentHash": "681ca3757a9b8fdf70f1b3d92322e8c0",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1405,7 +3257,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "fece4e2882615b95610a078a7a26f8c1",
+      "contentHash": "80eb22ef5942012d121109ed3523d78a",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1426,7 +3278,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "580dc10a3a5f1c96d3fa7067c6ed269f",
+      "contentHash": "b9a738343f5f014f4008b7a19a07a5b2",
       "links": [],
       "anchors": {},
       "children": [
@@ -1449,7 +3301,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "62fa67aff0025ea193e9519d4cc786b6",
+      "contentHash": "6f63e1f5ed680f455302e1f798a93ed3",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1470,7 +3322,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "aae65a3b3cb51f1bb1def69b341159fe",
+      "contentHash": "42fabe15e3bd3b89020d3cdbd3073d95",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1491,7 +3343,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "731f185ee3b0b67d4b883de9421fe9be",
+      "contentHash": "6ccc1275a43816026b19180c5cfb0f21",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1512,7 +3364,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "40df8a55ac98fed43b58fdf57e96f9e9",
+      "contentHash": "fa522f8c87f97b4bbb2876fc9e3d7511",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1533,7 +3385,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "8bc7c459119de20251fa81864f1747d0",
+      "contentHash": "d086b870e944449e4e240bc5691f10d7",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1554,7 +3406,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "d0aad9b3f2cdb281279413b7a17929e6",
+      "contentHash": "2e97566f76010ac03bdb73793cc5669d",
       "links": [
         {
           "type": "ref",
@@ -1568,12 +3420,12 @@
             "start": {
               "line": 4,
               "column": 1,
-              "offset": 8
+              "offset": 11
             },
             "end": {
               "line": 4,
               "column": 24,
-              "offset": 31
+              "offset": 34
             },
             "indent": []
           },
@@ -1616,7 +3468,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "35af7f97b6ebc7d884723bf203ce8c04",
+      "contentHash": "f067879d79cc9ed77208b3cf37dd3a71",
       "links": [],
       "anchors": {},
       "children": [
@@ -1639,7 +3491,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "13cc41f47b4a78efe0066da497d4e85a",
+      "contentHash": "0b2550548190f655e4b43d3b69dd9170",
       "links": [
         {
           "from": {
@@ -1651,12 +3503,12 @@
             "start": {
               "line": 10,
               "column": 3,
-              "offset": 115
+              "offset": 124
             },
             "end": {
               "line": 10,
               "column": 38,
-              "offset": 150
+              "offset": 159
             },
             "indent": []
           },
@@ -1666,8 +3518,8 @@
       ],
       "anchors": {},
       "children": [
-        "ukb27ukhtep8q42aczhb2cz",
         "2rkux2b95mg0618bx5vhz8s",
+        "ukb27ukhtep8q42aczhb2cz",
         "lhye4vil5un8143hanrbkni",
         "sm3n32l3vnku7mk7ffncfx6",
         "788pm603l0e2jbhxfxnds7f",
@@ -1690,7 +3542,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "5f611e23915b25ae05081f9b12b10bfa",
+      "contentHash": "5b40ab97aab72fa310a835c7cf3080c0",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1711,7 +3563,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "5d97313dfe60ade7ea918c75a73c71cd",
+      "contentHash": "16792209dfbd327a80a3ab528d02e4fa",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1732,7 +3584,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "9ab9823de195cde1f947ad08e2e79f32",
+      "contentHash": "a15aa729baeb72e9db9bfb76322c4dca",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1753,28 +3605,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "ad938fce2c98fef12f1c0c38a87d77ba",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "9nuy42p9er5xi25in7cy0vq",
-      "data": {}
-    },
-    "2rkux2b95mg0618bx5vhz8s": {
-      "id": "2rkux2b95mg0618bx5vhz8s",
-      "title": "Interprocess Communication",
-      "desc": "",
-      "updated": 1660280915380,
-      "created": 1660280900453,
-      "custom": {},
-      "fname": "basic.software.operating-system.Interprocess Communication",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "c2c0f811d15fc6b0d7ce2d03966899e4",
+      "contentHash": "c53be22ff3fe41c2d2014fdc09f1dee2",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1795,7 +3626,28 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "d2ca9bbdaca5cebc4c0433a7d96581d2",
+      "contentHash": "9c65d7f516587aabd6c122ddae894790",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "9nuy42p9er5xi25in7cy0vq",
+      "data": {}
+    },
+    "2rkux2b95mg0618bx5vhz8s": {
+      "id": "2rkux2b95mg0618bx5vhz8s",
+      "title": "Interprocess Communication",
+      "desc": "",
+      "updated": 1660280915380,
+      "created": 1660280900453,
+      "custom": {},
+      "fname": "basic.software.operating-system.Interprocess Communication",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "bf98fa99913858f444d66c0a2d9eef8d",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1816,7 +3668,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "9f5c63fb3a19eecf2d75e9b4e3e02644",
+      "contentHash": "5185eeea1f997d51ae669f1691d11c06",
       "links": [
         {
           "type": "wiki",
@@ -1831,12 +3683,12 @@
             "start": {
               "line": 16,
               "column": 3,
-              "offset": 83
+              "offset": 98
             },
             "end": {
               "line": 16,
               "column": 25,
-              "offset": 105
+              "offset": 120
             },
             "indent": []
           },
@@ -1859,12 +3711,12 @@
             "start": {
               "line": 17,
               "column": 3,
-              "offset": 108
+              "offset": 124
             },
             "end": {
               "line": 17,
               "column": 29,
-              "offset": 134
+              "offset": 150
             },
             "indent": []
           },
@@ -1887,12 +3739,12 @@
             "start": {
               "line": 18,
               "column": 3,
-              "offset": 137
+              "offset": 154
             },
             "end": {
               "line": 18,
               "column": 32,
-              "offset": 166
+              "offset": 183
             },
             "indent": []
           },
@@ -1912,12 +3764,12 @@
             "start": {
               "line": 12,
               "column": 3,
-              "offset": 187
+              "offset": 198
             },
             "end": {
               "line": 12,
               "column": 21,
-              "offset": 205
+              "offset": 216
             },
             "indent": []
           },
@@ -1952,8 +3804,8 @@
         }
       },
       "children": [
-        "e1jw5gg457mnhekpu6bw0ea",
         "y5kiwrofq5xhekxxqxajxas",
+        "e1jw5gg457mnhekpu6bw0ea",
         "2lpt87f6lkomzhl37o9laax"
       ],
       "parent": "e8hgfaxvmfjj1h1wq7pe5he",
@@ -1973,7 +3825,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "ec4a6606a520dc0d7805d7ffb0cf5c71",
+      "contentHash": "afb2748081166bc52dc48085e41f9385",
       "links": [
         {
           "from": {
@@ -1985,12 +3837,12 @@
             "start": {
               "line": 17,
               "column": 3,
-              "offset": 108
+              "offset": 124
             },
             "end": {
               "line": 17,
               "column": 29,
-              "offset": 134
+              "offset": 150
             },
             "indent": []
           },
@@ -2020,7 +3872,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "1a005a49848e62b4d498104bb10ae92b",
+      "contentHash": "cb0443bb409db6275f7e405c6caf5535",
       "links": [],
       "anchors": {},
       "children": [],
@@ -2041,11 +3893,55 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "e40b50b483f64e80f19841194c105f10",
+      "contentHash": "6e69259e39e643f89249221f0952fdeb",
       "links": [],
       "anchors": {},
       "children": [],
       "parent": "2lpt87f6lkomzhl37o9laax",
+      "data": {}
+    },
+    "e1jw5gg457mnhekpu6bw0ea": {
+      "id": "e1jw5gg457mnhekpu6bw0ea",
+      "title": "IO Devices",
+      "desc": "",
+      "updated": 1660289126554,
+      "created": 1660289124592,
+      "custom": {},
+      "fname": "basic.hardware.IO Devices",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "b532f86bf05d25e34e2301bbea383f7d",
+      "links": [
+        {
+          "from": {
+            "fname": "basic.hardware",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 18,
+              "column": 3,
+              "offset": 154
+            },
+            "end": {
+              "line": 18,
+              "column": 32,
+              "offset": 183
+            },
+            "indent": []
+          },
+          "value": "basic.hardware.IO Devices",
+          "alias": "basic.hardware.IO Devices"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "6l2hd19rhsbeqnqzifx5y8n",
       "data": {}
     },
     "y5kiwrofq5xhekxxqxajxas": {
@@ -2062,7 +3958,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "46206414c05479bdd74384b3054f8d6b",
+      "contentHash": "34c3f6eeb494bb4e3f22ccfcee96910d",
       "links": [
         {
           "from": {
@@ -2074,12 +3970,12 @@
             "start": {
               "line": 16,
               "column": 3,
-              "offset": 83
+              "offset": 98
             },
             "end": {
               "line": 16,
               "column": 25,
-              "offset": 105
+              "offset": 120
             },
             "indent": []
           },
@@ -2109,7 +4005,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "50d5ef3b4c0e66c096e4fcc07ae5861d",
+      "contentHash": "ff2db5b27ac38ce12928d47a054ad753",
       "links": [],
       "anchors": {},
       "children": [],
@@ -2130,55 +4026,11 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "32fb10fca4a1285ea2ac40192961b307",
+      "contentHash": "1732c21b2dfca012d1a1772a0e285492",
       "links": [],
       "anchors": {},
       "children": [],
       "parent": "y5kiwrofq5xhekxxqxajxas",
-      "data": {}
-    },
-    "e1jw5gg457mnhekpu6bw0ea": {
-      "id": "e1jw5gg457mnhekpu6bw0ea",
-      "title": "IO Devices",
-      "desc": "",
-      "updated": 1660289126554,
-      "created": 1660289124592,
-      "custom": {},
-      "fname": "basic.hardware.IO Devices",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "a6f83c12ec9cc7f96aa812f69084f3da",
-      "links": [
-        {
-          "from": {
-            "fname": "basic.hardware",
-            "vaultName": "knowledge"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 18,
-              "column": 3,
-              "offset": 137
-            },
-            "end": {
-              "line": 18,
-              "column": 32,
-              "offset": 166
-            },
-            "indent": []
-          },
-          "value": "basic.hardware.IO Devices",
-          "alias": "basic.hardware.IO Devices"
-        }
-      ],
-      "anchors": {},
-      "children": [],
-      "parent": "6l2hd19rhsbeqnqzifx5y8n",
       "data": {}
     },
     "juqa13xh9vpcjjcwuaxpijf": {
@@ -2195,7 +4047,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "68b1ad973272449f9f125830a598b86e",
+      "contentHash": "f1cfcdc1e104e6f89cf7ab1206fb1f14",
       "links": [],
       "anchors": {},
       "children": [
@@ -2220,7 +4072,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "b01d0e4c721a0ceae9016a5f72c3cb7f",
+      "contentHash": "db809db2394fa9a192bcc5abfe1ae745",
       "links": [
         {
           "from": {
@@ -2232,12 +4084,12 @@
             "start": {
               "line": 11,
               "column": 3,
-              "offset": 153
+              "offset": 163
             },
             "end": {
               "line": 11,
               "column": 34,
-              "offset": 184
+              "offset": 194
             },
             "indent": []
           },
@@ -2269,7 +4121,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "5960240047f20df038db4bf28e716dc9",
+      "contentHash": "6560b27f79191a30c9520c4a9d122598",
       "links": [],
       "anchors": {},
       "children": [],
@@ -2290,7 +4142,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "7fae0a1ca276f22f5085f1dcf23c589d",
+      "contentHash": "93f0218ed276722c173d329a07cb9a4a",
       "links": [],
       "anchors": {},
       "children": [],
@@ -2311,7 +4163,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "8f13a830b4ceb9bf36cedd6f8c142cdd",
+      "contentHash": "bad35649bc000dc9d61ebe2978589637",
       "links": [],
       "anchors": {},
       "children": [],
@@ -2332,7 +4184,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "3d145e87c1647c6ce50be33371eb6e51",
+      "contentHash": "e83290041a27a6d0e78cc403262ac4f4",
       "links": [],
       "anchors": {},
       "children": [],
@@ -2353,7 +4205,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "c6ed15a8d6757ab42b4d9c0ce79f036a",
+      "contentHash": "e895824ff551011da7a4a12da0845308",
       "links": [],
       "anchors": {},
       "children": [],
@@ -2374,7 +4226,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "25eb94875cbd36d5da5462355a1b12a6",
+      "contentHash": "499a97957de626661c50f1ae4ce72bb5",
       "links": [],
       "anchors": {},
       "children": [],
@@ -2395,14 +4247,14 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "c14c4c0e38b2161db996ae261462afbd",
+      "contentHash": "0dfc6475c4dd785769a0bb5806ce04f9",
       "links": [],
       "anchors": {},
       "children": [
         "jmyu2j127398lu5ze16czs7",
-        "0rwddi82jm0e3rhxjl6vlj9",
         "shs2x76gfjtvi20xxziz4k2",
         "m7gnr1kzd6q1pza1r7km5k7",
+        "0rwddi82jm0e3rhxjl6vlj9",
         "fduzrhulz557t4yjske07k9",
         "v03c4xgyco81innvtbwsn60",
         "tg8qotpb8mcbg975s6juars",
@@ -2425,7 +4277,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "1e60966cd795129074ca9d6852742078",
+      "contentHash": "e7508964b69bef4cbbe9c71166b6f154",
       "links": [],
       "anchors": {},
       "children": [],
@@ -2446,7 +4298,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "91efd6c528a9b48ac7cbdb4b4b98a4a4",
+      "contentHash": "d6fd8cf7dcd0fbe8365da9d70dbbfe36",
       "links": [
         {
           "from": {
@@ -2458,12 +4310,12 @@
             "start": {
               "line": 46,
               "column": 3,
-              "offset": 1579
+              "offset": 1624
             },
             "end": {
               "line": 46,
               "column": 23,
-              "offset": 1599
+              "offset": 1644
             },
             "indent": []
           },
@@ -2490,7 +4342,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "38157bc63e47f8701d6be6e23c22ccdb",
+      "contentHash": "6026449d46c81ecf049b261b57ac391a",
       "links": [],
       "anchors": {},
       "children": [],
@@ -2511,49 +4363,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "ca48f0c3e50ee5643efbd519225ad4e3",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "6xsd9waf7ho7as5kzccut5h",
-      "data": {}
-    },
-    "m7gnr1kzd6q1pza1r7km5k7": {
-      "id": "m7gnr1kzd6q1pza1r7km5k7",
-      "title": "Domain Driven Design",
-      "desc": "",
-      "updated": 1660279901970,
-      "created": 1660279901970,
-      "custom": {},
-      "fname": "architecture.Domain Driven Design",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "97d73ae2b4aae5e936e4fb86ed016c2e",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "6xsd9waf7ho7as5kzccut5h",
-      "data": {}
-    },
-    "shs2x76gfjtvi20xxziz4k2": {
-      "id": "shs2x76gfjtvi20xxziz4k2",
-      "title": "Design Patterns",
-      "desc": "",
-      "updated": 1660279888798,
-      "created": 1660279888798,
-      "custom": {},
-      "fname": "architecture.Design Patterns",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "2d2b567d93ac617229f8bc77dc1b782c",
+      "contentHash": "1412353d2f04d7d2d859227aa163458f",
       "links": [],
       "anchors": {},
       "children": [],
@@ -2574,7 +4384,49 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "963d76c087c4b9232f89f2bf3e185304",
+      "contentHash": "efce63f53f624510f38b10e9819738da",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "6xsd9waf7ho7as5kzccut5h",
+      "data": {}
+    },
+    "m7gnr1kzd6q1pza1r7km5k7": {
+      "id": "m7gnr1kzd6q1pza1r7km5k7",
+      "title": "Domain Driven Design",
+      "desc": "",
+      "updated": 1660279901970,
+      "created": 1660279901970,
+      "custom": {},
+      "fname": "architecture.Domain Driven Design",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "898bec1059b788e3244c05ef27f5de3d",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "6xsd9waf7ho7as5kzccut5h",
+      "data": {}
+    },
+    "shs2x76gfjtvi20xxziz4k2": {
+      "id": "shs2x76gfjtvi20xxziz4k2",
+      "title": "Design Patterns",
+      "desc": "",
+      "updated": 1660279888798,
+      "created": 1660279888798,
+      "custom": {},
+      "fname": "architecture.Design Patterns",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "8988ac1bd62ac5bf6662123d2c955c96",
       "links": [],
       "anchors": {},
       "children": [],
@@ -2595,7 +4447,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "937df203d741768e52c86dcf3b88f27c",
+      "contentHash": "0cebc5839d1e26bccb8743215f7c45b3",
       "links": [],
       "anchors": {},
       "children": [
@@ -2620,7 +4472,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "79b2242e41f7d0ef5afcfdd972d8fc40",
+      "contentHash": "0dddf30b97ff36d3a843c76086ecea10",
       "links": [],
       "anchors": {},
       "children": [],
@@ -2641,7 +4493,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "677e63459ef89030fca21a8bf6e4cca5",
+      "contentHash": "57620755872cb145e4b4b9a7fa8e7a73",
       "links": [],
       "anchors": {},
       "children": [],
@@ -2662,7 +4514,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "e271d7e7a3245a750df1ff5824dfb0b5",
+      "contentHash": "12ee4c6fd60f863ceccf0063738bfd39",
       "links": [],
       "anchors": {},
       "children": [],
@@ -2683,7 +4535,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "3325e02d8628d1c5b8ae2ddae6af0d10",
+      "contentHash": "c29bc89a4c998294eafed10706fa900c",
       "links": [
         {
           "type": "wiki",
@@ -2698,12 +4550,12 @@
             "start": {
               "line": 10,
               "column": 3,
-              "offset": 115
+              "offset": 124
             },
             "end": {
               "line": 10,
               "column": 38,
-              "offset": 150
+              "offset": 159
             },
             "indent": []
           },
@@ -2726,12 +4578,12 @@
             "start": {
               "line": 11,
               "column": 3,
-              "offset": 153
+              "offset": 163
             },
             "end": {
               "line": 11,
               "column": 34,
-              "offset": 184
+              "offset": 194
             },
             "indent": []
           },
@@ -2754,12 +4606,12 @@
             "start": {
               "line": 12,
               "column": 3,
-              "offset": 187
+              "offset": 198
             },
             "end": {
               "line": 12,
               "column": 21,
-              "offset": 205
+              "offset": 216
             },
             "indent": []
           },
@@ -2782,12 +4634,12 @@
             "start": {
               "line": 18,
               "column": 3,
-              "offset": 345
+              "offset": 362
             },
             "end": {
               "line": 18,
               "column": 35,
-              "offset": 377
+              "offset": 394
             },
             "indent": []
           },
@@ -2810,12 +4662,12 @@
             "start": {
               "line": 19,
               "column": 3,
-              "offset": 411
+              "offset": 429
             },
             "end": {
               "line": 19,
               "column": 39,
-              "offset": 447
+              "offset": 465
             },
             "indent": []
           },
@@ -2838,12 +4690,12 @@
             "start": {
               "line": 20,
               "column": 3,
-              "offset": 477
+              "offset": 496
             },
             "end": {
               "line": 20,
               "column": 39,
-              "offset": 513
+              "offset": 532
             },
             "indent": []
           },
@@ -2866,12 +4718,12 @@
             "start": {
               "line": 21,
               "column": 3,
-              "offset": 543
+              "offset": 563
             },
             "end": {
               "line": 21,
               "column": 33,
-              "offset": 573
+              "offset": 593
             },
             "indent": []
           },
@@ -2894,12 +4746,12 @@
             "start": {
               "line": 22,
               "column": 3,
-              "offset": 611
+              "offset": 632
             },
             "end": {
               "line": 22,
               "column": 30,
-              "offset": 638
+              "offset": 659
             },
             "indent": []
           },
@@ -2922,12 +4774,12 @@
             "start": {
               "line": 23,
               "column": 3,
-              "offset": 679
+              "offset": 701
             },
             "end": {
               "line": 23,
               "column": 32,
-              "offset": 708
+              "offset": 730
             },
             "indent": []
           },
@@ -2950,12 +4802,12 @@
             "start": {
               "line": 24,
               "column": 3,
-              "offset": 747
+              "offset": 770
             },
             "end": {
               "line": 24,
               "column": 33,
-              "offset": 777
+              "offset": 800
             },
             "indent": []
           },
@@ -2978,12 +4830,12 @@
             "start": {
               "line": 25,
               "column": 3,
-              "offset": 813
+              "offset": 837
             },
             "end": {
               "line": 25,
               "column": 35,
-              "offset": 845
+              "offset": 869
             },
             "indent": []
           },
@@ -3006,12 +4858,12 @@
             "start": {
               "line": 46,
               "column": 3,
-              "offset": 1579
+              "offset": 1624
             },
             "end": {
               "line": 46,
               "column": 23,
-              "offset": 1599
+              "offset": 1644
             },
             "indent": []
           },
@@ -3034,12 +4886,12 @@
             "start": {
               "line": 47,
               "column": 3,
-              "offset": 1602
+              "offset": 1648
             },
             "end": {
               "line": 47,
               "column": 35,
-              "offset": 1634
+              "offset": 1680
             },
             "indent": []
           },
@@ -3062,12 +4914,12 @@
             "start": {
               "line": 48,
               "column": 3,
-              "offset": 1637
+              "offset": 1684
             },
             "end": {
               "line": 48,
               "column": 26,
-              "offset": 1660
+              "offset": 1707
             },
             "indent": []
           },
@@ -3090,12 +4942,12 @@
             "start": {
               "line": 52,
               "column": 3,
-              "offset": 1676
+              "offset": 1727
             },
             "end": {
               "line": 52,
               "column": 26,
-              "offset": 1699
+              "offset": 1750
             },
             "indent": []
           },
@@ -3118,12 +4970,12 @@
             "start": {
               "line": 52,
               "column": 27,
-              "offset": 1700
+              "offset": 1751
             },
             "end": {
               "line": 52,
               "column": 50,
-              "offset": 1723
+              "offset": 1774
             },
             "indent": []
           },
@@ -3146,12 +4998,12 @@
             "start": {
               "line": 53,
               "column": 3,
-              "offset": 1726
+              "offset": 1778
             },
             "end": {
               "line": 53,
               "column": 31,
-              "offset": 1754
+              "offset": 1806
             },
             "indent": []
           },
@@ -3171,12 +5023,12 @@
             "start": {
               "line": 2,
               "column": 1,
-              "offset": 1
+              "offset": 2
             },
             "end": {
               "line": 2,
               "column": 13,
-              "offset": 13
+              "offset": 14
             },
             "indent": []
           },
@@ -3297,7 +5149,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "4e88bc013efd25d43bfb128074fdedb5",
+      "contentHash": "a2b3900fb5691c097d09d2b88bb3a8af",
       "links": [
         {
           "type": "wiki",
@@ -3312,12 +5164,12 @@
             "start": {
               "line": 2,
               "column": 1,
-              "offset": 1
+              "offset": 2
             },
             "end": {
               "line": 2,
               "column": 13,
-              "offset": 13
+              "offset": 14
             },
             "indent": []
           },
@@ -3342,7 +5194,7 @@
       ],
       "parent": null,
       "data": {},
-      "body": "\n[[about me]]\n"
+      "body": "\n\r\n[[about me]]\r\n"
     }
   ],
   "noteIndex": {
@@ -3362,7 +5214,7 @@
       "selfContained": true,
       "name": "knowledge"
     },
-    "contentHash": "4e88bc013efd25d43bfb128074fdedb5",
+    "contentHash": "a2b3900fb5691c097d09d2b88bb3a8af",
     "links": [
       {
         "type": "wiki",
@@ -3377,12 +5229,12 @@
           "start": {
             "line": 2,
             "column": 1,
-            "offset": 1
+            "offset": 2
           },
           "end": {
             "line": 2,
             "column": 13,
-            "offset": 13
+            "offset": 14
           },
           "indent": []
         },
@@ -3407,7 +5259,7 @@
     ],
     "parent": null,
     "data": {},
-    "body": "\n[[about me]]\n"
+    "body": "\n\r\n[[about me]]\r\n"
   },
   "vaults": [
     {
