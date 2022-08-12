@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1660281646111,
-      "created": 1660281646111,
+      "updated": 1660290542480,
+      "created": 1660290542480,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -76,6 +76,7 @@
         "roizuhueed0r7bqvid0nz7l",
         "p59utz7mf12ic3lqw8y8tbs",
         "oasz9131g7t831nyxuti1qf",
+        "0cx4cn21i807ydan59xneso",
         "a44h4sj21jfb19ymoovvuzr",
         "i5z2gw9ou7tmimbwdsltnnz"
       ],
@@ -704,6 +705,103 @@
       "anchors": {},
       "children": [],
       "parent": "a44h4sj21jfb19ymoovvuzr",
+      "data": {}
+    },
+    "0cx4cn21i807ydan59xneso": {
+      "id": "0cx4cn21i807ydan59xneso",
+      "title": "Resources",
+      "desc": "",
+      "updated": 1660288301511,
+      "created": 1660288301511,
+      "custom": {},
+      "fname": "resources",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "5ec539bc278b2dbaac89a2394fcfb50e",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "b553jla24o3crg47tric4yu",
+        "ahciw5hvh28k50dw13ql1b4"
+      ],
+      "parent": "20dxao0uf8892hiam7spier",
+      "data": {}
+    },
+    "ahciw5hvh28k50dw13ql1b4": {
+      "id": "ahciw5hvh28k50dw13ql1b4",
+      "title": "Links",
+      "desc": "",
+      "updated": 1660288319060,
+      "created": 1660288319060,
+      "custom": {},
+      "fname": "resources.links",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "c7fa8e60940904fa5acf881e42bac9dd",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "0cx4cn21i807ydan59xneso",
+      "data": {}
+    },
+    "b553jla24o3crg47tric4yu": {
+      "id": "b553jla24o3crg47tric4yu",
+      "title": "Books",
+      "desc": "",
+      "updated": 1660288512565,
+      "created": 1660288307860,
+      "custom": {},
+      "fname": "resources.books",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "9f895f5ea3b589ba96d5daa73ee0feeb",
+      "links": [
+        {
+          "from": {
+            "fname": "basic",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 8
+            },
+            "end": {
+              "line": 4,
+              "column": 24,
+              "offset": 31
+            },
+            "indent": []
+          },
+          "value": "resources.books"
+        }
+      ],
+      "anchors": {
+        "基础": {
+          "type": "header",
+          "text": "基础",
+          "value": "基础",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "0cx4cn21i807ydan59xneso",
       "data": {}
     },
     "oasz9131g7t831nyxuti1qf": {
@@ -1446,7 +1544,7 @@
       "id": "e8hgfaxvmfjj1h1wq7pe5he",
       "title": "基础知识",
       "desc": "",
-      "updated": 1660273118361,
+      "updated": 1660288701196,
       "created": 1660231300676,
       "custom": {},
       "fname": "basic",
@@ -1456,9 +1554,46 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "3154af798d56bd9171a843f330b7cb73",
-      "links": [],
-      "anchors": {},
+      "contentHash": "d0aad9b3f2cdb281279413b7a17929e6",
+      "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "basic",
+            "id": "e8hgfaxvmfjj1h1wq7pe5he",
+            "vaultName": "knowledge"
+          },
+          "value": "resources.books",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 8
+            },
+            "end": {
+              "line": 4,
+              "column": 24,
+              "offset": 31
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "resources.books",
+            "anchorHeader": "基础"
+          }
+        }
+      ],
+      "anchors": {
+        "参考": {
+          "type": "header",
+          "text": "参考",
+          "value": "参考",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
       "children": [
         "juqa13xh9vpcjjcwuaxpijf",
         "6l2hd19rhsbeqnqzifx5y8n",
@@ -1671,7 +1806,7 @@
       "id": "6l2hd19rhsbeqnqzifx5y8n",
       "title": "硬件",
       "desc": "",
-      "updated": 1660273093126,
+      "updated": 1660289109325,
       "created": 1660231308862,
       "custom": {},
       "fname": "basic.hardware",
@@ -1681,8 +1816,92 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "25aec7adc9988d98e7e03ae9dae22b6c",
+      "contentHash": "9f5c63fb3a19eecf2d75e9b4e3e02644",
       "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "basic.hardware",
+            "id": "6l2hd19rhsbeqnqzifx5y8n",
+            "vaultName": "knowledge"
+          },
+          "value": "basic.hardware.cpu",
+          "alias": "basic.hardware.cpu",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 3,
+              "offset": 83
+            },
+            "end": {
+              "line": 16,
+              "column": 25,
+              "offset": 105
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "basic.hardware.cpu"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "basic.hardware",
+            "id": "6l2hd19rhsbeqnqzifx5y8n",
+            "vaultName": "knowledge"
+          },
+          "value": "basic.hardware.storage",
+          "alias": "basic.hardware.storage",
+          "position": {
+            "start": {
+              "line": 17,
+              "column": 3,
+              "offset": 108
+            },
+            "end": {
+              "line": 17,
+              "column": 29,
+              "offset": 134
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "basic.hardware.storage"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "basic.hardware",
+            "id": "6l2hd19rhsbeqnqzifx5y8n",
+            "vaultName": "knowledge"
+          },
+          "value": "basic.hardware.IO Devices",
+          "alias": "basic.hardware.IO Devices",
+          "position": {
+            "start": {
+              "line": 18,
+              "column": 3,
+              "offset": 137
+            },
+            "end": {
+              "line": 18,
+              "column": 32,
+              "offset": 166
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "basic.hardware.IO Devices"
+          }
+        },
         {
           "from": {
             "fname": "about me",
@@ -1706,10 +1925,35 @@
           "alias": "basic.hardware"
         }
       ],
-      "anchors": {},
+      "anchors": {
+        "早期计算设备": {
+          "type": "header",
+          "text": "早期计算设备",
+          "value": "早期计算设备",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "电子计算机": {
+          "type": "header",
+          "text": "电子计算机",
+          "value": "电子计算机",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "计算机组成": {
+          "type": "header",
+          "text": "计算机组成",
+          "value": "计算机组成",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        }
+      },
       "children": [
+        "e1jw5gg457mnhekpu6bw0ea",
         "y5kiwrofq5xhekxxqxajxas",
-        "3cq5h2bn0k6q8yo4tfdp3yj",
         "2lpt87f6lkomzhl37o9laax"
       ],
       "parent": "e8hgfaxvmfjj1h1wq7pe5he",
@@ -1730,31 +1974,78 @@
         "name": "knowledge"
       },
       "contentHash": "ec4a6606a520dc0d7805d7ffb0cf5c71",
-      "links": [],
+      "links": [
+        {
+          "from": {
+            "fname": "basic.hardware",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 17,
+              "column": 3,
+              "offset": 108
+            },
+            "end": {
+              "line": 17,
+              "column": 29,
+              "offset": 134
+            },
+            "indent": []
+          },
+          "value": "basic.hardware.storage",
+          "alias": "basic.hardware.storage"
+        }
+      ],
       "anchors": {},
-      "children": [],
+      "children": [
+        "m07b1g57xglwhwelv7vqdr6",
+        "kawc8oaxw4e7q3qlwq72mgt"
+      ],
       "parent": "6l2hd19rhsbeqnqzifx5y8n",
       "data": {}
     },
-    "3cq5h2bn0k6q8yo4tfdp3yj": {
-      "id": "3cq5h2bn0k6q8yo4tfdp3yj",
-      "title": "内存",
+    "kawc8oaxw4e7q3qlwq72mgt": {
+      "id": "kawc8oaxw4e7q3qlwq72mgt",
+      "title": "RAM",
       "desc": "",
-      "updated": 1660273104569,
-      "created": 1660234740763,
+      "updated": 1660289186707,
+      "created": 1660289186707,
       "custom": {},
-      "fname": "basic.hardware.memory",
+      "fname": "basic.hardware.storage.RAM",
       "type": "note",
       "vault": {
         "fsPath": ".",
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "f5ae409546d5f8ae2b32585601ae7741",
+      "contentHash": "1a005a49848e62b4d498104bb10ae92b",
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "6l2hd19rhsbeqnqzifx5y8n",
+      "parent": "2lpt87f6lkomzhl37o9laax",
+      "data": {}
+    },
+    "m07b1g57xglwhwelv7vqdr6": {
+      "id": "m07b1g57xglwhwelv7vqdr6",
+      "title": "Hard Disks And Secondary Storage",
+      "desc": "",
+      "updated": 1660289225311,
+      "created": 1660289225311,
+      "custom": {},
+      "fname": "basic.hardware.storage.Hard Disks And Secondary Storage",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "e40b50b483f64e80f19841194c105f10",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "2lpt87f6lkomzhl37o9laax",
       "data": {}
     },
     "y5kiwrofq5xhekxxqxajxas": {
@@ -1772,7 +2063,119 @@
         "name": "knowledge"
       },
       "contentHash": "46206414c05479bdd74384b3054f8d6b",
+      "links": [
+        {
+          "from": {
+            "fname": "basic.hardware",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 3,
+              "offset": 83
+            },
+            "end": {
+              "line": 16,
+              "column": 25,
+              "offset": 105
+            },
+            "indent": []
+          },
+          "value": "basic.hardware.cpu",
+          "alias": "basic.hardware.cpu"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "r5o6mkov9u86wetjlrz98fy",
+        "jgi61wg7dcnh322phvhaeja"
+      ],
+      "parent": "6l2hd19rhsbeqnqzifx5y8n",
+      "data": {}
+    },
+    "jgi61wg7dcnh322phvhaeja": {
+      "id": "jgi61wg7dcnh322phvhaeja",
+      "title": "逻辑门",
+      "desc": "",
+      "updated": 1660289303233,
+      "created": 1660289295014,
+      "custom": {},
+      "fname": "basic.hardware.cpu.logistics gates",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "50d5ef3b4c0e66c096e4fcc07ae5861d",
       "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "y5kiwrofq5xhekxxqxajxas",
+      "data": {}
+    },
+    "r5o6mkov9u86wetjlrz98fy": {
+      "id": "r5o6mkov9u86wetjlrz98fy",
+      "title": "集成电路",
+      "desc": "",
+      "updated": 1660289354247,
+      "created": 1660289346123,
+      "custom": {},
+      "fname": "basic.hardware.cpu.integrated circuit",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "32fb10fca4a1285ea2ac40192961b307",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "y5kiwrofq5xhekxxqxajxas",
+      "data": {}
+    },
+    "e1jw5gg457mnhekpu6bw0ea": {
+      "id": "e1jw5gg457mnhekpu6bw0ea",
+      "title": "IO Devices",
+      "desc": "",
+      "updated": 1660289126554,
+      "created": 1660289124592,
+      "custom": {},
+      "fname": "basic.hardware.IO Devices",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "a6f83c12ec9cc7f96aa812f69084f3da",
+      "links": [
+        {
+          "from": {
+            "fname": "basic.hardware",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 18,
+              "column": 3,
+              "offset": 137
+            },
+            "end": {
+              "line": 18,
+              "column": 32,
+              "offset": 166
+            },
+            "indent": []
+          },
+          "value": "basic.hardware.IO Devices",
+          "alias": "basic.hardware.IO Devices"
+        }
+      ],
       "anchors": {},
       "children": [],
       "parent": "6l2hd19rhsbeqnqzifx5y8n",
@@ -2933,6 +3336,7 @@
         "roizuhueed0r7bqvid0nz7l",
         "p59utz7mf12ic3lqw8y8tbs",
         "oasz9131g7t831nyxuti1qf",
+        "0cx4cn21i807ydan59xneso",
         "a44h4sj21jfb19ymoovvuzr",
         "i5z2gw9ou7tmimbwdsltnnz"
       ],
@@ -2997,6 +3401,7 @@
       "roizuhueed0r7bqvid0nz7l",
       "p59utz7mf12ic3lqw8y8tbs",
       "oasz9131g7t831nyxuti1qf",
+      "0cx4cn21i807ydan59xneso",
       "a44h4sj21jfb19ymoovvuzr",
       "i5z2gw9ou7tmimbwdsltnnz"
     ],

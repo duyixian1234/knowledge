@@ -9,6 +9,34 @@
       "navExclude": false,
       "children": [
         {
+          "key": "0cx4cn21i807ydan59xneso",
+          "title": "Resources",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "b553jla24o3crg47tric4yu",
+              "title": "Books",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "ahciw5hvh28k50dw13ql1b4",
+              "title": "Links",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
           "key": "euj0yyfymzmig3lszs3vgow",
           "title": "关于我",
           "icon": null,
@@ -40,11 +68,30 @@
                   "hasTitleNumberOutlined": false,
                   "vaultName": "knowledge",
                   "navExclude": false,
-                  "children": []
+                  "children": [
+                    {
+                      "key": "jgi61wg7dcnh322phvhaeja",
+                      "title": "逻辑门",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "knowledge",
+                      "navExclude": false,
+                      "children": []
+                    },
+                    {
+                      "key": "r5o6mkov9u86wetjlrz98fy",
+                      "title": "集成电路",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "knowledge",
+                      "navExclude": false,
+                      "children": []
+                    }
+                  ]
                 },
                 {
-                  "key": "3cq5h2bn0k6q8yo4tfdp3yj",
-                  "title": "内存",
+                  "key": "e1jw5gg457mnhekpu6bw0ea",
+                  "title": "IO Devices",
                   "icon": null,
                   "hasTitleNumberOutlined": false,
                   "vaultName": "knowledge",
@@ -58,7 +105,26 @@
                   "hasTitleNumberOutlined": false,
                   "vaultName": "knowledge",
                   "navExclude": false,
-                  "children": []
+                  "children": [
+                    {
+                      "key": "m07b1g57xglwhwelv7vqdr6",
+                      "title": "Hard Disks And Secondary Storage",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "knowledge",
+                      "navExclude": false,
+                      "children": []
+                    },
+                    {
+                      "key": "kawc8oaxw4e7q3qlwq72mgt",
+                      "title": "RAM",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "knowledge",
+                      "navExclude": false,
+                      "children": []
+                    }
+                  ]
                 }
               ]
             },
@@ -793,6 +859,9 @@
     "a44h4sj21jfb19ymoovvuzr": "20dxao0uf8892hiam7spier",
     "5li2av5xhjpvuv0t0by2yyl": "a44h4sj21jfb19ymoovvuzr",
     "na2uf1zamwck4tfi1rcrmpv": "a44h4sj21jfb19ymoovvuzr",
+    "0cx4cn21i807ydan59xneso": "20dxao0uf8892hiam7spier",
+    "ahciw5hvh28k50dw13ql1b4": "0cx4cn21i807ydan59xneso",
+    "b553jla24o3crg47tric4yu": "0cx4cn21i807ydan59xneso",
     "oasz9131g7t831nyxuti1qf": "20dxao0uf8892hiam7spier",
     "1s674rtewls01u0m0zuze3n": "oasz9131g7t831nyxuti1qf",
     "n2k5mir21lfaxzegmq4vs47": "oasz9131g7t831nyxuti1qf",
@@ -829,8 +898,12 @@
     "ukb27ukhtep8q42aczhb2cz": "9nuy42p9er5xi25in7cy0vq",
     "6l2hd19rhsbeqnqzifx5y8n": "e8hgfaxvmfjj1h1wq7pe5he",
     "2lpt87f6lkomzhl37o9laax": "6l2hd19rhsbeqnqzifx5y8n",
-    "3cq5h2bn0k6q8yo4tfdp3yj": "6l2hd19rhsbeqnqzifx5y8n",
+    "kawc8oaxw4e7q3qlwq72mgt": "2lpt87f6lkomzhl37o9laax",
+    "m07b1g57xglwhwelv7vqdr6": "2lpt87f6lkomzhl37o9laax",
     "y5kiwrofq5xhekxxqxajxas": "6l2hd19rhsbeqnqzifx5y8n",
+    "jgi61wg7dcnh322phvhaeja": "y5kiwrofq5xhekxxqxajxas",
+    "r5o6mkov9u86wetjlrz98fy": "y5kiwrofq5xhekxxqxajxas",
+    "e1jw5gg457mnhekpu6bw0ea": "6l2hd19rhsbeqnqzifx5y8n",
     "juqa13xh9vpcjjcwuaxpijf": "e8hgfaxvmfjj1h1wq7pe5he",
     "pqf7qvwgukb60h5r0vcmnzh": "juqa13xh9vpcjjcwuaxpijf",
     "d8t3jc0pnaunziddujlfb2d": "pqf7qvwgukb60h5r0vcmnzh",
