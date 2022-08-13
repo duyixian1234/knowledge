@@ -1,4 +1,43 @@
 <h1 id="pip"><a aria-hidden="true" class="anchor-heading icon-link" href="#pip"></a>Pip</h1>
+<h2 id="升级-pip"><a aria-hidden="true" class="anchor-heading icon-link" href="#升级-pip"></a>升级 pip</h2>
+<pre class="language-shell"><code class="language-shell">$ python -m pip <span class="token function">install</span> -U pip
+</code></pre>
+<h2 id="指定-pypi-源"><a aria-hidden="true" class="anchor-heading icon-link" href="#指定-pypi-源"></a>指定 Pypi 源</h2>
+<h3 id="镜像地址"><a aria-hidden="true" class="anchor-heading icon-link" href="#镜像地址"></a>镜像地址</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>镜像</th><th>地址</th></tr></thead><tbody><tr><td>豆瓣</td><td><a href="https://pypi.doubanio.com/simple/">https://pypi.doubanio.com/simple/</a></td></tr><tr><td>阿里云</td><td><a href="https://mirrors.aliyun.com/pypi/simple">https://mirrors.aliyun.com/pypi/simple</a></td></tr><tr><td>腾讯云</td><td><a href="https://mirrors.cloud.tencent.com/pypi/simple">https://mirrors.cloud.tencent.com/pypi/simple</a></td></tr></tbody></table>
+<h3 id="安装时指定"><a aria-hidden="true" class="anchor-heading icon-link" href="#安装时指定"></a>安装时指定</h3>
+<pre class="language-shell"><code class="language-shell">$ pip <span class="token function">install</span> flask -i https://mirrors.tencent.com/pypi/simple
+</code></pre>
+<h3 id="修改-requirementstxt"><a aria-hidden="true" class="anchor-heading icon-link" href="#修改-requirementstxt"></a>修改 requirements.txt</h3>
+<p>第一行加入<code>-i https://mirrors.tencent.com/pypi/simple</code></p>
+<h3 id="设置为默认值"><a aria-hidden="true" class="anchor-heading icon-link" href="#设置为默认值"></a>设置为默认值</h3>
+<p>修改<code>$HOME/.config/pip/pip.conf</code></p>
+<pre class="language-ini"><code class="language-ini"><span class="token section"><span class="token punctuation">[</span><span class="token section-name selector">global</span><span class="token punctuation">]</span></span>
+<span class="token key attr-name">timeout</span> <span class="token punctuation">=</span> <span class="token value attr-value">60</span>
+<span class="token key attr-name">index-url</span> <span class="token punctuation">=</span> <span class="token value attr-value">https://pypi.doubanio.com/simple/</span>
+NPM
+</code></pre>
 <hr>
 <strong>Backlinks</strong>
 <ul>

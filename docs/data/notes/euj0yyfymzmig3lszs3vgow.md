@@ -46,7 +46,7 @@
 
 - [[architecture.TDD]]
 - [[software-develop.refactoring]]
-- [[software-develop.fp]]
+- [[programming-languages.functional programming]]
 
 ### DevOps
 

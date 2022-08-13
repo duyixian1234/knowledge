@@ -1,11 +1,9 @@
 
-## 获取 Python 之禅的内容
+# Python 之禅
 
-```python
-import this
-```
+Python 之禅是 Tim Peters 对 Python 编程思想的诠释。可以在交互式 Python 终端通过`import this`来获取到其内容。
 
-## Python 之禅
+## 内容
 
 > Beautiful is better than ugly.
 >

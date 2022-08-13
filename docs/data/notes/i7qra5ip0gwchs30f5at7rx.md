@@ -15,20 +15,22 @@
 
 ## 应用
 
-- 编写服务端脚本和命令行程序
-- DevOps([[programming-languages.python.Ansible]])
-- 机器学习（ [[programming-languages.python.Tensorflow]]，[[programming-languages.python.Pytorch]] ）
+- 编写服务端脚本和命令行程序（ [[programming-languages.python.click]] ）
+- 运维/DevOps([[programming-languages.python.Ansible]])
+- 爬虫（[[programming-languages.python.requests]]，[[programming-languages.python.playwright]]，[[programming-languages.python.scrapy]] ）
+- 大数据/机器学习（ [[programming-languages.python.numpy]]，[[programming-languages.python.pandas]]，[[programming-languages.python.Tensorflow]]，[[programming-languages.python.Pytorch]] ）
 - 后端服务开发（ [[programming-languages.python.Flask]]，[[programming-languages.python.Django]]，[[programming-languages.python.FastAPI]] ）
 - 客户端应用程序开发（[[programming-languages.python.PyQT]]）
 
 ## Python 之禅
 
-![[programming-languages.python.Zen of Python##获取 Python 之禅的内容]]
+![[Python之禅 | programming-languages.python.Zen of Python#内容:#*]]
 
 ## 语言特性
 
 - [[programming-languages.python.builtin types]]
 - [[programming-languages.python.builtin functions]]
+- [[programming-languages.python.type hints]]
 - [[programming-languages.python.modules]]
 - [[programming-languages.python.iterators]]
 - [[programming-languages.python.generators]]
@@ -47,3 +49,10 @@
 
 - [[programming-languages.python.venv]]
 - [[programming-languages.python.pipenv]]
+
+## 资源
+
+![[resources.books#Python:#*]]
+![[resources.learn#Python:#*]]
+![[resources.sites#Python:#*]]
+![[resources.links#Python:#*]]

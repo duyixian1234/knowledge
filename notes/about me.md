@@ -1,8 +1,8 @@
 ---
 id: euj0yyfymzmig3lszs3vgow
 title: 关于我
-desc: ''
-updated: 1660279712279
+desc: ""
+updated: 1660358818895
 created: 1660271259547
 ---
 
@@ -52,7 +52,7 @@ created: 1660271259547
 
 - [[architecture.TDD]]
 - [[software-develop.refactoring]]
-- [[software-develop.fp]]
+- [[programming-languages.functional programming]]
 
 ### DevOps
 

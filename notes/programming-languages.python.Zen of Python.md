@@ -2,17 +2,15 @@
 id: 1m3crqwnc01esh8ylao7cdj
 title: Zen of Python
 desc: ""
-updated: 1660319392238
+updated: 1660356668483
 created: 1660318707552
 ---
 
-## 获取 Python 之禅的内容
+# Python 之禅
 
-```python
-import this
-```
+Python 之禅是 Tim Peters 对 Python 编程思想的诠释。可以在交互式 Python 终端通过`import this`来获取到其内容。
 
-## Python 之禅
+## 内容
 
 > Beautiful is better than ugly.
 >
