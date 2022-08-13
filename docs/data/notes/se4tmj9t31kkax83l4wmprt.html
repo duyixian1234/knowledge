@@ -1,4 +1,18 @@
 <h1 id="venv"><a aria-hidden="true" class="anchor-heading icon-link" href="#venv"></a>Venv</h1>
+<h2 id="创建虚拟环境"><a aria-hidden="true" class="anchor-heading icon-link" href="#创建虚拟环境"></a>创建虚拟环境</h2>
+<pre class="language-shell"><code class="language-shell">ubuntu:tmp/ $ python -m venv .venv                                                                           <span class="token punctuation">[</span><span class="token number">20</span>:35:41<span class="token punctuation">]</span>
+ubuntu:tmp/ $ <span class="token function">ls</span> -l -a                                                                                       <span class="token punctuation">[</span><span class="token number">20</span>:35:49<span class="token punctuation">]</span>
+总用量 <span class="token number">12</span>
+drwxrwxr-x  <span class="token number">3</span> ubuntu ubuntu <span class="token number">4096</span> <span class="token number">8</span>月  <span class="token number">13</span> <span class="token number">20</span>:35 <span class="token builtin class-name">.</span>
+drwxr-xr-x <span class="token number">43</span> ubuntu ubuntu <span class="token number">4096</span> <span class="token number">8</span>月  <span class="token number">13</span> <span class="token number">20</span>:35 <span class="token punctuation">..</span>
+drwxrwxr-x  <span class="token number">5</span> ubuntu ubuntu <span class="token number">4096</span> <span class="token number">8</span>月  <span class="token number">13</span> <span class="token number">20</span>:35 .venv
+</code></pre>
+<h2 id="激活虚拟环境"><a aria-hidden="true" class="anchor-heading icon-link" href="#激活虚拟环境"></a>激活虚拟环境</h2>
+<pre class="language-shell"><code class="language-shell">ubuntu:tmp/ $ <span class="token builtin class-name">source</span> .venv/bin/activate                                                                      <span class="token punctuation">[</span><span class="token number">20</span>:37:29<span class="token punctuation">]</span>
+<span class="token punctuation">(</span>.venv<span class="token punctuation">)</span> ubuntu:tmp/ $ <span class="token function">which</span> python                                                                           <span class="token punctuation">[</span><span class="token number">20</span>:38:01<span class="token punctuation">]</span>
+/home/ubuntu/tmp/.venv/bin/python
+<span class="token punctuation">(</span>.venv<span class="token punctuation">)</span> ubuntu:tmp/ $                                                                                        <span class="token punctuation">[</span><span class="token number">20</span>:38:07<span class="token punctuation">]</span>
+</code></pre>
 <hr>
 <strong>Backlinks</strong>
 <ul>

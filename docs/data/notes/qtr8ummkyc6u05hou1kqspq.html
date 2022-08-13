@@ -1,4 +1,35 @@
 <h1 id="pipenv"><a aria-hidden="true" class="anchor-heading icon-link" href="#pipenv"></a>Pipenv</h1>
+<h2 id="介绍"><a aria-hidden="true" class="anchor-heading icon-link" href="#介绍"></a>介绍</h2>
+<p><a href="https://pypi.org/project/pipenv/">pipenv</a>是一个 Python 虚拟环境与包管理工具。可以理解为一个 Python 版本的 npm。</p>
+<p>pipenv使用Pipfile定义项目的元信息（依赖，Python版本等）。</p>
+<p>Pipfile使用<a href="/notes/ejwp7pv7cmw5m8efhkq5ah3">Toml</a>格式，下面是一个典型的<a href="https://github.com/duyixian1234/fastapi-template/blob/master/Pipfile">Pipfile</a>的内容。</p>
+<pre class="language-toml"><code class="language-toml"><span class="token punctuation">[</span><span class="token punctuation">[</span><span class="token table class-name">source</span><span class="token punctuation">]</span><span class="token punctuation">]</span> <span class="token comment"># 设置pypi源信息</span>
+<span class="token key property">url</span> <span class="token punctuation">=</span> <span class="token string">"https://mirrors.tencent.com/pypi/simple"</span>
+<span class="token key property">verify_ssl</span> <span class="token punctuation">=</span> <span class="token boolean">true</span>
+<span class="token key property">name</span> <span class="token punctuation">=</span> <span class="token string">"pypi"</span>
+
+<span class="token punctuation">[</span><span class="token table class-name">packages</span><span class="token punctuation">]</span> <span class="token comment"># 维护依赖</span>
+<span class="token key property">fastapi</span> <span class="token punctuation">=</span> <span class="token string">"*"</span>
+<span class="token key property">uvicorn</span> <span class="token punctuation">=</span> <span class="token string">"*"</span>
+<span class="token key property">uvloop</span> <span class="token punctuation">=</span> <span class="token string">"*"</span>
+<span class="token key property">httptools</span> <span class="token punctuation">=</span> <span class="token string">"*"</span>
+
+<span class="token punctuation">[</span><span class="token table class-name">dev-packages</span><span class="token punctuation">]</span> <span class="token comment"># 维护开发依赖</span>
+<span class="token key property">pylint</span> <span class="token punctuation">=</span> <span class="token string">"*"</span>
+<span class="token key property">isort</span> <span class="token punctuation">=</span> <span class="token string">"*"</span>
+<span class="token key property">mypy</span> <span class="token punctuation">=</span> <span class="token string">"*"</span>
+<span class="token key property">pytest</span> <span class="token punctuation">=</span> <span class="token string">"*"</span>
+<span class="token key property">pytest-cov</span> <span class="token punctuation">=</span> <span class="token string">"*"</span>
+<span class="token key property">black</span> <span class="token punctuation">=</span> <span class="token string">"*"</span>
+<span class="token key property">requests</span> <span class="token punctuation">=</span> <span class="token string">"*"</span>
+
+<span class="token punctuation">[</span><span class="token table class-name">requires</span><span class="token punctuation">]</span> <span class="token comment"># 指定Python版本</span>
+<span class="token key property">python_version</span> <span class="token punctuation">=</span> <span class="token string">"3.9"</span>
+
+<span class="token punctuation">[</span><span class="token table class-name">pipenv</span><span class="token punctuation">]</span> <span class="token comment"># 额外设置</span>
+<span class="token key property">allow_prereleases</span> <span class="token punctuation">=</span> <span class="token boolean">true</span>
+
+</code></pre>
 <hr>
 <strong>Backlinks</strong>
 <ul>
