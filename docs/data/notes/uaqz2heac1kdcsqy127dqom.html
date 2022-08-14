@@ -1,4 +1,25 @@
 <h1 id="生成器"><a aria-hidden="true" class="anchor-heading icon-link" href="#生成器"></a>生成器</h1>
+<h2 id="介绍"><a aria-hidden="true" class="anchor-heading icon-link" href="#介绍"></a>介绍</h2>
+<p><a href="https://docs.python.org/zh-cn/3/library/stdtypes.html#generator-types">生成器类型</a></p>
+<h2 id="yield-表达式"><a aria-hidden="true" class="anchor-heading icon-link" href="#yield-表达式"></a>yield 表达式</h2>
+<p><a href="https://docs.python.org/zh-cn/3/reference/expressions.html#yield-expressions">yield 表达式</a></p>
+<h2 id="特点"><a aria-hidden="true" class="anchor-heading icon-link" href="#特点"></a>特点</h2>
+<ul>
+<li>惰性计算</li>
+<li>节省内存</li>
+</ul>
+<h2 id="示例"><a aria-hidden="true" class="anchor-heading icon-link" href="#示例"></a>示例</h2>
+<pre class="language-python"><code class="language-python"><span class="token keyword">import</span> itertools
+
+
+<span class="token keyword">def</span> <span class="token function">fib</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+    a<span class="token punctuation">,</span> b <span class="token operator">=</span> <span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">1</span>
+    <span class="token keyword">while</span> <span class="token boolean">True</span><span class="token punctuation">:</span>
+        <span class="token keyword">yield</span> a
+        a<span class="token punctuation">,</span> b <span class="token operator">=</span> b<span class="token punctuation">,</span> a <span class="token operator">+</span> b
+
+<span class="token keyword">assert</span> <span class="token builtin">list</span><span class="token punctuation">(</span>itertools<span class="token punctuation">.</span>takewhile<span class="token punctuation">(</span><span class="token keyword">lambda</span> x<span class="token punctuation">:</span> x <span class="token operator">&#x3C;</span> <span class="token number">100</span><span class="token punctuation">,</span> fib<span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">)</span> <span class="token operator">==</span> <span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">,</span> <span class="token number">3</span><span class="token punctuation">,</span> <span class="token number">5</span><span class="token punctuation">,</span> <span class="token number">8</span><span class="token punctuation">,</span> <span class="token number">13</span><span class="token punctuation">,</span> <span class="token number">21</span><span class="token punctuation">,</span> <span class="token number">34</span><span class="token punctuation">,</span> <span class="token number">55</span><span class="token punctuation">,</span> <span class="token number">89</span><span class="token punctuation">]</span>
+</code></pre>
 <hr>
 <strong>Backlinks</strong>
 <ul>

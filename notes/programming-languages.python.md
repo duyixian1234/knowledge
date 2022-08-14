@@ -1,7 +1,7 @@
 ---
 id: i7qra5ip0gwchs30f5at7rx
 title: Python
-desc: ""
+desc: ''
 updated: 1660358241306
 created: 1660233198308
 ---
@@ -15,7 +15,7 @@ created: 1660233198308
 ## 特点
 
 - 语法简洁，代码可读性强，易于学习
-- 功能强大，支持多种编程范式（ [[programming-languages.Structural Programming]]，[[programming-languages.oop]]，[[programming-languages.functional programming]],[[programming-languages.meta programming]] ）
+- 功能强大，支持多种编程范式（ [[programming-languages.Structural Programming]]，[[programming-languages.Object Orinted Programming]]，[[programming-languages.functional programming]],[[programming-languages.meta programming]] ）
 - 丰富的内置函数和模块
 - 易于扩展（[扩展和嵌入 Python 解释器](https://docs.python.org/zh-cn/3/extending/index.html#extending-index)）
 - 具有活跃的社区和强大的生态
@@ -41,7 +41,7 @@ created: 1660233198308
 - [[programming-languages.python.modules]]
 - [[programming-languages.python.iterators]]
 - [[programming-languages.python.generators]]
-- [[programming-languages.python.list compression]]
+- [[programming-languages.python.list comprehension]]
 - [[programming-languages.python.decorators]]
 - [[programming-languages.python.context manager]]
 - [[programming-languages.python.structral pattern match]]

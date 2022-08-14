@@ -1,4 +1,39 @@
 <h1 id="内置类型"><a aria-hidden="true" class="anchor-heading icon-link" href="#内置类型"></a>内置类型</h1>
+<p>参考<a href="https://www.duyixian.cn/2022/06/27/2022-06-27%20algorithms%20in%20python%2002/#int">【使用 Python 实现算法】02 原生类型与内置函数 | 那时难决 (duyixian.cn)</a></p>
+<h2 id="int"><a aria-hidden="true" class="anchor-heading icon-link" href="#int"></a>int</h2>
+<ul>
+<li>int.bit_count</li>
+<li>int.bit_length</li>
+</ul>
+<h2 id="float"><a aria-hidden="true" class="anchor-heading icon-link" href="#float"></a>float</h2>
+<ul>
+<li>float.as_integer_ration</li>
+<li>格式化：<code>f"{1/3:.4f}" == "0.3333" </code></li>
+</ul>
+<h2 id="list"><a aria-hidden="true" class="anchor-heading icon-link" href="#list"></a>list</h2>
+<ul>
+<li>获取并删除指定位置的元素（O(n)复杂度）：list.pop(n)</li>
+</ul>
+<h2 id="tuple"><a aria-hidden="true" class="anchor-heading icon-link" href="#tuple"></a>tuple</h2>
+<ul>
+<li>tuple 对象可以作为字典的键</li>
+</ul>
+<h2 id="dict"><a aria-hidden="true" class="anchor-heading icon-link" href="#dict"></a>dict</h2>
+<ul>
+<li>dict.fromkeys</li>
+<li>可使用<a href="/notes/cnu5owy75z10xsbawpj1hzw">字典推导式</a>初始化 dict：<code>{ch: count for ch, count in [("a", 1), ("b", 2), ("c", 3)]} == {"a": 1, "b": 2, "c": 3}</code></li>
+<li>可使用<code>|</code>合并 dict，<code>{1: 2, 2: 3} | {2: 4, 3: 5} == {1: 2, 2: 4, 3: 5}</code></li>
+</ul>
+<h2 id="set"><a aria-hidden="true" class="anchor-heading icon-link" href="#set"></a>set</h2>
+<ul>
+<li>可使用<a href="/notes/cnu5owy75z10xsbawpj1hzw">集合推导式</a>初始化 set：<code>{x for x in range(10) if x % 2 == 0} == {0, 2, 4, 6, 8}</code></li>
+<li>set 支持的一些运算符：<code>&#x26;</code> <code>|</code> <code>-</code> <code>></code> <code>>=</code> <code>&#x3C;</code> <code>&#x3C;=</code></li>
+</ul>
+<h2 id="str"><a aria-hidden="true" class="anchor-heading icon-link" href="#str"></a>str</h2>
+<ul>
+<li>使用各类 str.isxxx 方法检查字符串内容</li>
+<li>str.partition： <code>assert "A B C".partition(" ") == ("A", " ", "B C") </code></li>
+</ul>
 <hr>
 <strong>Backlinks</strong>
 <ul>

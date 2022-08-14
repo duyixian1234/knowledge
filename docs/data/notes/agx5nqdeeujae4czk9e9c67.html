@@ -1,4 +1,21 @@
 <h1 id="结构化模式匹配"><a aria-hidden="true" class="anchor-heading icon-link" href="#结构化模式匹配"></a>结构化模式匹配</h1>
+<h2 id="介绍"><a aria-hidden="true" class="anchor-heading icon-link" href="#介绍"></a>介绍</h2>
+<p><a href="https://www.duyixian.cn/2021/03/19/Structural%20Pattern%20Matching%20In%20Python%203.10/">Python 3.10 中的模式匹配 | 那时难决 (duyixian.cn)</a></p>
+<h2 id="示例"><a aria-hidden="true" class="anchor-heading icon-link" href="#示例"></a>示例</h2>
+<pre class="language-python"><code class="language-python"><span class="token comment"># 快速排序的一个概念性实现</span>
+<span class="token keyword">def</span> <span class="token function">quicksort</span><span class="token punctuation">(</span>arr<span class="token punctuation">:</span> <span class="token builtin">list</span><span class="token punctuation">[</span><span class="token builtin">int</span><span class="token punctuation">]</span><span class="token punctuation">)</span> <span class="token operator">-</span><span class="token operator">></span> <span class="token builtin">list</span><span class="token punctuation">[</span><span class="token builtin">int</span><span class="token punctuation">]</span><span class="token punctuation">:</span>
+    <span class="token keyword">match</span> arr<span class="token punctuation">:</span>
+        <span class="token keyword">case</span> first<span class="token punctuation">,</span><span class="token punctuation">:</span>
+            <span class="token keyword">return</span> <span class="token punctuation">[</span>first<span class="token punctuation">]</span>
+        <span class="token keyword">case</span> first<span class="token punctuation">,</span> second<span class="token punctuation">:</span>
+            <span class="token keyword">return</span> <span class="token punctuation">[</span>first<span class="token punctuation">,</span> second<span class="token punctuation">]</span> <span class="token keyword">if</span> first <span class="token operator">&#x3C;=</span> second <span class="token keyword">else</span> <span class="token punctuation">[</span>second<span class="token punctuation">,</span> first<span class="token punctuation">]</span>
+        <span class="token keyword">case</span> first<span class="token punctuation">,</span> <span class="token operator">*</span>rest<span class="token punctuation">:</span>
+            <span class="token keyword">return</span> <span class="token punctuation">(</span>
+                quicksort<span class="token punctuation">(</span><span class="token punctuation">[</span>num <span class="token keyword">for</span> num <span class="token keyword">in</span> rest <span class="token keyword">if</span> num <span class="token operator">&#x3C;=</span> first<span class="token punctuation">]</span><span class="token punctuation">)</span>
+                <span class="token operator">+</span> <span class="token punctuation">[</span>first<span class="token punctuation">]</span>
+                <span class="token operator">+</span> quicksort<span class="token punctuation">(</span><span class="token punctuation">[</span>num <span class="token keyword">for</span> num <span class="token keyword">in</span> rest <span class="token keyword">if</span> num <span class="token operator">></span> first<span class="token punctuation">]</span><span class="token punctuation">)</span>
+            <span class="token punctuation">)</span>
+</code></pre>
 <hr>
 <strong>Backlinks</strong>
 <ul>

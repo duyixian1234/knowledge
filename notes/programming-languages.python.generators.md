@@ -2,6 +2,34 @@
 id: uaqz2heac1kdcsqy127dqom
 title: 生成器
 desc: ""
-updated: 1660319009603
+updated: 1660447228148
 created: 1660319004683
 ---
+
+## 介绍
+
+[生成器类型](https://docs.python.org/zh-cn/3/library/stdtypes.html#generator-types)
+
+## yield 表达式
+
+[yield 表达式](https://docs.python.org/zh-cn/3/reference/expressions.html#yield-expressions)
+
+## 特点
+
+- 惰性计算
+- 节省内存
+
+## 示例
+
+```python
+import itertools
+
+
+def fib():
+    a, b = 1, 1
+    while True:
+        yield a
+        a, b = b, a + b
+
+assert list(itertools.takewhile(lambda x: x < 100, fib())) == [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
+```

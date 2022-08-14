@@ -1,4 +1,30 @@
 <h1 id="装饰器"><a aria-hidden="true" class="anchor-heading icon-link" href="#装饰器"></a>装饰器</h1>
+<h2 id="介绍"><a aria-hidden="true" class="anchor-heading icon-link" href="#介绍"></a>介绍</h2>
+<blockquote>
+<p>decorator -- 装饰器返回值为另一个函数的函数，通常使用 <code>@wrapper</code> 语法形式来进行函数变换。装饰器的常见例子包括 <code>classmethod</code> 和 <code>staticmethod</code>。</p>
+<p>装饰器语法只是一种语法糖，以下两个函数定义在语义上完全等价:</p>
+<pre class="language-python"><code class="language-python"><span class="token keyword">def</span> <span class="token function">f</span><span class="token punctuation">(</span>arg<span class="token punctuation">)</span><span class="token punctuation">:</span>
+    <span class="token punctuation">.</span><span class="token punctuation">.</span><span class="token punctuation">.</span>
+f <span class="token operator">=</span> <span class="token builtin">staticmethod</span><span class="token punctuation">(</span>f<span class="token punctuation">)</span>
+
+<span class="token decorator annotation punctuation">@staticmethod</span>
+<span class="token keyword">def</span> <span class="token function">f</span><span class="token punctuation">(</span>arg<span class="token punctuation">)</span><span class="token punctuation">:</span>
+    <span class="token punctuation">.</span><span class="token punctuation">.</span><span class="token punctuation">.</span>
+</code></pre>
+</blockquote>
+<h2 id="示例"><a aria-hidden="true" class="anchor-heading icon-link" href="#示例"></a>示例</h2>
+<pre class="language-python"><code class="language-python"><span class="token keyword">def</span> <span class="token function">log_call</span><span class="token punctuation">(</span>func<span class="token punctuation">)</span><span class="token punctuation">:</span>
+    <span class="token keyword">def</span> <span class="token function">wrapper</span><span class="token punctuation">(</span><span class="token operator">*</span>args<span class="token punctuation">,</span> <span class="token operator">**</span>kwargs<span class="token punctuation">)</span><span class="token punctuation">:</span>
+        <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string-interpolation"><span class="token string">f'Function </span><span class="token interpolation"><span class="token punctuation">{</span>func<span class="token punctuation">.</span>__name__<span class="token punctuation">}</span></span><span class="token string"> Called With (</span><span class="token interpolation"><span class="token punctuation">{</span>args<span class="token punctuation">}</span></span><span class="token string">, </span><span class="token interpolation"><span class="token punctuation">{</span>kwargs<span class="token punctuation">}</span></span><span class="token string">)'</span></span><span class="token punctuation">)</span>
+        <span class="token keyword">return</span> func<span class="token punctuation">(</span><span class="token operator">*</span>args<span class="token punctuation">,</span> <span class="token operator">**</span>kwargs<span class="token punctuation">)</span>
+    <span class="token keyword">return</span> wrapper
+
+<span class="token decorator annotation punctuation">@log_call</span>
+<span class="token keyword">def</span> <span class="token function">add</span><span class="token punctuation">(</span>x<span class="token punctuation">,</span> y<span class="token punctuation">)</span><span class="token punctuation">:</span>
+    <span class="token keyword">return</span> x <span class="token operator">+</span> y
+
+<span class="token keyword">assert</span> add<span class="token punctuation">(</span><span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">)</span> <span class="token operator">==</span> <span class="token number">3</span> <span class="token comment"># Function add Called With ((1, 2), {})</span>
+</code></pre>
 <hr>
 <strong>Backlinks</strong>
 <ul>

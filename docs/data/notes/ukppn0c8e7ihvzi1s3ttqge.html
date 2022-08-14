@@ -1,4 +1,21 @@
 <h1 id="上下文管理器"><a aria-hidden="true" class="anchor-heading icon-link" href="#上下文管理器"></a>上下文管理器</h1>
+<h2 id="介绍"><a aria-hidden="true" class="anchor-heading icon-link" href="#介绍"></a>介绍</h2>
+<p><a href="https://www.duyixian.cn/2021/08/22/RAII/">RAII 概念与在 Python 中的应用 | 那时难决 (duyixian.cn)</a></p>
+<h2 id="示例"><a aria-hidden="true" class="anchor-heading icon-link" href="#示例"></a>示例</h2>
+<pre class="language-python"><code class="language-python"><span class="token keyword">class</span> <span class="token class-name">MyContextManager</span><span class="token punctuation">:</span>
+    <span class="token keyword">def</span> <span class="token function">__init__</span><span class="token punctuation">(</span>self<span class="token punctuation">)</span><span class="token punctuation">:</span>
+        self<span class="token punctuation">.</span>used <span class="token operator">=</span> <span class="token boolean">False</span>
+    <span class="token keyword">def</span> <span class="token function">__enter__</span><span class="token punctuation">(</span>self<span class="token punctuation">)</span><span class="token punctuation">:</span>
+        <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'entering'</span><span class="token punctuation">)</span>
+        self<span class="token punctuation">.</span>used <span class="token operator">=</span> <span class="token boolean">True</span>
+        <span class="token keyword">return</span> self
+    <span class="token keyword">def</span> <span class="token function">__exit__</span><span class="token punctuation">(</span>self<span class="token punctuation">,</span> exc_type<span class="token punctuation">,</span> exc_val<span class="token punctuation">,</span> exc_tb<span class="token punctuation">)</span><span class="token punctuation">:</span>
+        <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'exiting'</span><span class="token punctuation">)</span>
+
+<span class="token keyword">with</span> MyContextManager<span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token keyword">as</span> cm<span class="token punctuation">:</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'in context'</span><span class="token punctuation">)</span>
+    <span class="token keyword">assert</span> cm<span class="token punctuation">.</span>used
+</code></pre>
 <hr>
 <strong>Backlinks</strong>
 <ul>
