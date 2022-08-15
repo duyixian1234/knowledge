@@ -1,5 +1,4 @@
 
-
 ## 介绍
 
 > decorator -- 装饰器返回值为另一个函数的函数，通常使用 `@wrapper` 语法形式来进行函数变换。装饰器的常见例子包括 `classmethod` 和 `staticmethod`。
