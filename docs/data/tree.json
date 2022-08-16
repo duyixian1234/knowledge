@@ -698,7 +698,7 @@
                 },
                 {
                   "key": "wz0gdaczrayeppp05rjbkbj",
-                  "title": "PyQT",
+                  "title": "PyQT5",
                   "icon": null,
                   "hasTitleNumberOutlined": false,
                   "vaultName": "knowledge",
@@ -753,6 +753,15 @@
                 {
                   "key": "np7uvlwz31o93nfu7er1dfu",
                   "title": "Type Hints",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "7aidp4clskcaj4w16ipr2gh",
+                  "title": "Typer",
                   "icon": null,
                   "hasTitleNumberOutlined": false,
                   "vaultName": "knowledge",
@@ -1041,10 +1050,29 @@
               "hasTitleNumberOutlined": false,
               "vaultName": "knowledge",
               "navExclude": false,
-              "children": []
+              "children": [
+                {
+                  "key": "e2xrw64bzmsaa2qxn1weydq",
+                  "title": "Core Utils",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "d3p796eyci23b23gl69ao09",
+                  "title": "Mordern Unix Tools",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
             },
             {
-              "key": "2srfp1085d6pannw2xb72n8",
+              "key": "kpxl024ix66dalzkd7fjgf7",
               "title": "Config",
               "icon": "plusOutlined",
               "hasTitleNumberOutlined": false,
@@ -1201,8 +1229,8 @@
     "403": null,
     "20dxao0uf8892hiam7spier": null,
     "i5z2gw9ou7tmimbwdsltnnz": "20dxao0uf8892hiam7spier",
-    "2srfp1085d6pannw2xb72n8": "i5z2gw9ou7tmimbwdsltnnz",
-    "ejwp7pv7cmw5m8efhkq5ah3": "2srfp1085d6pannw2xb72n8",
+    "kpxl024ix66dalzkd7fjgf7": "i5z2gw9ou7tmimbwdsltnnz",
+    "ejwp7pv7cmw5m8efhkq5ah3": "kpxl024ix66dalzkd7fjgf7",
     "0cu9dg1bjx46x5iqhnr2ulv": "i5z2gw9ou7tmimbwdsltnnz",
     "j6uvrzfjjscajfmzbvgt71t": "0cu9dg1bjx46x5iqhnr2ulv",
     "5eo8fia4y528tgmocaspt14": "j6uvrzfjjscajfmzbvgt71t",
@@ -1212,6 +1240,8 @@
     "8pwefou38xgvyum1pfgl3r8": "i5z2gw9ou7tmimbwdsltnnz",
     "mbqttms3dcvg0rrucdg1cfc": "i5z2gw9ou7tmimbwdsltnnz",
     "qu30gr2fu9l2qy6dpy6wjs6": "i5z2gw9ou7tmimbwdsltnnz",
+    "d3p796eyci23b23gl69ao09": "qu30gr2fu9l2qy6dpy6wjs6",
+    "e2xrw64bzmsaa2qxn1weydq": "qu30gr2fu9l2qy6dpy6wjs6",
     "olreo7137fdt59hwv5pnwe9": "i5z2gw9ou7tmimbwdsltnnz",
     "xxrwfft52a57a8c4tfrxnu3": "olreo7137fdt59hwv5pnwe9",
     "i4aolyivyc5ooa7ldq2k3vu": "i5z2gw9ou7tmimbwdsltnnz",
@@ -1237,6 +1267,7 @@
     "n2k5mir21lfaxzegmq4vs47": "oasz9131g7t831nyxuti1qf",
     "i7qra5ip0gwchs30f5at7rx": "oasz9131g7t831nyxuti1qf",
     "se4tmj9t31kkax83l4wmprt": "i7qra5ip0gwchs30f5at7rx",
+    "7aidp4clskcaj4w16ipr2gh": "i7qra5ip0gwchs30f5at7rx",
     "np7uvlwz31o93nfu7er1dfu": "i7qra5ip0gwchs30f5at7rx",
     "agx5nqdeeujae4czk9e9c67": "i7qra5ip0gwchs30f5at7rx",
     "g3mb1k61rcsw8sjecivq9fk": "i7qra5ip0gwchs30f5at7rx",

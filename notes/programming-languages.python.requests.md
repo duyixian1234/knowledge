@@ -2,6 +2,25 @@
 id: mkt75t95m13kx0tdqaylp4n
 title: Requests
 desc: ""
-updated: 1660358155415
+updated: 1660638219204
 created: 1660358154810
 ---
+
+## 介绍
+
+[requests](https://pypi.org/project/requests/)是一个 Python 的 HTTP 请求库，提供了简单、优雅的接口。
+
+```python
+>>> import requests
+>>> r = requests.get('https://httpbin.org/basic-auth/user/pass', auth=('user', 'pass'))
+>>> r.status_code
+200
+>>> r.headers['content-type']
+'application/json; charset=utf8'
+>>> r.encoding
+'utf-8'
+>>> r.text
+'{"authenticated": true, ...'
+>>> r.json()
+{'authenticated': True, ...}
+```

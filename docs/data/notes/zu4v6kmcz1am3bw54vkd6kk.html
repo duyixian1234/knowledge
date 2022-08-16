@@ -1,4 +1,63 @@
 <h1 id="playwright"><a aria-hidden="true" class="anchor-heading icon-link" href="#playwright"></a>Playwright</h1>
+<h2 id="介绍"><a aria-hidden="true" class="anchor-heading icon-link" href="#介绍"></a>介绍</h2>
+<p><a href="https://pypi.org/project/playwright/">playwright</a>是一个 Python 浏览器自动化工具，支持不同操作系统下的多款浏览器。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th align="left"></th><th align="center">Linux</th><th align="center">macOS</th><th align="center">Windows</th></tr></thead><tbody><tr><td align="left">Chromium 105.0.5195.19</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td align="left">WebKit 16.0</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr><tr><td align="left">Firefox 103.0</td><td align="center">✅</td><td align="center">✅</td><td align="center">✅</td></tr></tbody></table>
+<h2 id="使用"><a aria-hidden="true" class="anchor-heading icon-link" href="#使用"></a>使用</h2>
+<h3 id="同步接口"><a aria-hidden="true" class="anchor-heading icon-link" href="#同步接口"></a>同步接口</h3>
+<pre class="language-python"><code class="language-python"><span class="token keyword">from</span> playwright<span class="token punctuation">.</span>sync_api <span class="token keyword">import</span> sync_playwright
+
+<span class="token keyword">with</span> sync_playwright<span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token keyword">as</span> p<span class="token punctuation">:</span>
+    <span class="token keyword">for</span> browser_type <span class="token keyword">in</span> <span class="token punctuation">[</span>p<span class="token punctuation">.</span>chromium<span class="token punctuation">,</span> p<span class="token punctuation">.</span>firefox<span class="token punctuation">,</span> p<span class="token punctuation">.</span>webkit<span class="token punctuation">]</span><span class="token punctuation">:</span>
+        browser <span class="token operator">=</span> browser_type<span class="token punctuation">.</span>launch<span class="token punctuation">(</span><span class="token punctuation">)</span>
+        page <span class="token operator">=</span> browser<span class="token punctuation">.</span>new_page<span class="token punctuation">(</span><span class="token punctuation">)</span>
+        page<span class="token punctuation">.</span>goto<span class="token punctuation">(</span><span class="token string">'http://whatsmyuseragent.org/'</span><span class="token punctuation">)</span>
+        page<span class="token punctuation">.</span>screenshot<span class="token punctuation">(</span>path<span class="token operator">=</span><span class="token string-interpolation"><span class="token string">f'example-</span><span class="token interpolation"><span class="token punctuation">{</span>browser_type<span class="token punctuation">.</span>name<span class="token punctuation">}</span></span><span class="token string">.png'</span></span><span class="token punctuation">)</span>
+        browser<span class="token punctuation">.</span>close<span class="token punctuation">(</span><span class="token punctuation">)</span>
+</code></pre>
+<h3 id="异步接口"><a aria-hidden="true" class="anchor-heading icon-link" href="#异步接口"></a>异步接口</h3>
+<pre class="language-python"><code class="language-python"><span class="token keyword">import</span> asyncio
+<span class="token keyword">from</span> playwright<span class="token punctuation">.</span>async_api <span class="token keyword">import</span> async_playwright
+
+<span class="token keyword">async</span> <span class="token keyword">def</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+    <span class="token keyword">async</span> <span class="token keyword">with</span> async_playwright<span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token keyword">as</span> p<span class="token punctuation">:</span>
+        <span class="token keyword">for</span> browser_type <span class="token keyword">in</span> <span class="token punctuation">[</span>p<span class="token punctuation">.</span>chromium<span class="token punctuation">,</span> p<span class="token punctuation">.</span>firefox<span class="token punctuation">,</span> p<span class="token punctuation">.</span>webkit<span class="token punctuation">]</span><span class="token punctuation">:</span>
+            browser <span class="token operator">=</span> <span class="token keyword">await</span> browser_type<span class="token punctuation">.</span>launch<span class="token punctuation">(</span><span class="token punctuation">)</span>
+            page <span class="token operator">=</span> <span class="token keyword">await</span> browser<span class="token punctuation">.</span>new_page<span class="token punctuation">(</span><span class="token punctuation">)</span>
+            <span class="token keyword">await</span> page<span class="token punctuation">.</span>goto<span class="token punctuation">(</span><span class="token string">'http://whatsmyuseragent.org/'</span><span class="token punctuation">)</span>
+            <span class="token keyword">await</span> page<span class="token punctuation">.</span>screenshot<span class="token punctuation">(</span>path<span class="token operator">=</span><span class="token string-interpolation"><span class="token string">f'example-</span><span class="token interpolation"><span class="token punctuation">{</span>browser_type<span class="token punctuation">.</span>name<span class="token punctuation">}</span></span><span class="token string">.png'</span></span><span class="token punctuation">)</span>
+            <span class="token keyword">await</span> browser<span class="token punctuation">.</span>close<span class="token punctuation">(</span><span class="token punctuation">)</span>
+
+asyncio<span class="token punctuation">.</span>run<span class="token punctuation">(</span>main<span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+</code></pre>
 <hr>
 <strong>Backlinks</strong>
 <ul>

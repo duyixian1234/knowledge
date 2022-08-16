@@ -15,12 +15,12 @@
 
 ## 应用
 
-- 编写服务端脚本和命令行程序（ [[programming-languages.python.click]] ）
+- 编写服务端脚本和命令行程序（ [[programming-languages.python.click]]，[[programming-languages.python.typer]] ）
 - 运维/DevOps([[programming-languages.python.Ansible]])
 - 爬虫（[[programming-languages.python.requests]]，[[programming-languages.python.playwright]]，[[programming-languages.python.scrapy]] ）
 - 大数据/机器学习（ [[programming-languages.python.numpy]]，[[programming-languages.python.pandas]]，[[programming-languages.python.Tensorflow]]，[[programming-languages.python.Pytorch]] ）
 - 后端服务开发（ [[programming-languages.python.Flask]]，[[programming-languages.python.Django]]，[[programming-languages.python.FastAPI]] ）
-- 客户端应用程序开发（[[programming-languages.python.PyQT]]）
+- 客户端应用程序开发（[[programming-languages.python.PyQT5]]）
 
 ## Python 之禅
 

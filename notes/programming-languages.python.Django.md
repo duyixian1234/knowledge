@@ -1,7 +1,21 @@
 ---
 id: hz65rlnypyne9wbids56z0z
 title: Django
-desc: ''
-updated: 1660318495007
+desc: ""
+updated: 1660639427944
 created: 1660318495007
 ---
+
+## 介绍
+
+[Django](https://pypi.org/project/Django/)是一个 Python Web 开发框架。
+
+## 特点
+
+- 大而全
+- 自带 ORM 与模板渲染
+- 适用于关系型数据库
+
+## 资源
+
+![[resources.books#Django:#*]]

@@ -1,6 +1,39 @@
 <h1 id="click"><a aria-hidden="true" class="anchor-heading icon-link" href="#click"></a>Click</h1>
+<h2 id="介绍"><a aria-hidden="true" class="anchor-heading icon-link" href="#介绍"></a>介绍</h2>
+<p><a href="https://pypi.org/project/click/">click</a>是一个用于开发命令行程序的 Python 包。</p>
+<blockquote>
+<p>Click is a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary. It’s the “Command Line Interface Creation Kit”. It’s highly configurable but comes with sensible defaults out of the box.</p>
+<p>It aims to make the process of writing command line tools quick and fun while also preventing any frustration caused by the inability to implement an intended CLI API.</p>
+<p>Click in three points:</p>
+<ul>
+<li>Arbitrary nesting of commands</li>
+<li>Automatic help page generation</li>
+<li>Supports lazy loading of subcommands at runtime</li>
+</ul>
+</blockquote>
+<h2 id="使用"><a aria-hidden="true" class="anchor-heading icon-link" href="#使用"></a>使用</h2>
+<pre class="language-python"><code class="language-python"><span class="token keyword">import</span> click
+
+<span class="token decorator annotation punctuation">@click<span class="token punctuation">.</span>command</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+<span class="token decorator annotation punctuation">@click<span class="token punctuation">.</span>option</span><span class="token punctuation">(</span><span class="token string">"--count"</span><span class="token punctuation">,</span> default<span class="token operator">=</span><span class="token number">1</span><span class="token punctuation">,</span> <span class="token builtin">help</span><span class="token operator">=</span><span class="token string">"Number of greetings."</span><span class="token punctuation">)</span>
+<span class="token decorator annotation punctuation">@click<span class="token punctuation">.</span>option</span><span class="token punctuation">(</span><span class="token string">"--name"</span><span class="token punctuation">,</span> prompt<span class="token operator">=</span><span class="token string">"Your name"</span><span class="token punctuation">,</span> <span class="token builtin">help</span><span class="token operator">=</span><span class="token string">"The person to greet."</span><span class="token punctuation">)</span>
+<span class="token keyword">def</span> <span class="token function">hello</span><span class="token punctuation">(</span>count<span class="token punctuation">,</span> name<span class="token punctuation">)</span><span class="token punctuation">:</span>
+    <span class="token triple-quoted-string string">"""Simple program that greets NAME for a total of COUNT times."""</span>
+    <span class="token keyword">for</span> _ <span class="token keyword">in</span> <span class="token builtin">range</span><span class="token punctuation">(</span>count<span class="token punctuation">)</span><span class="token punctuation">:</span>
+        click<span class="token punctuation">.</span>echo<span class="token punctuation">(</span><span class="token string-interpolation"><span class="token string">f"Hello, </span><span class="token interpolation"><span class="token punctuation">{</span>name<span class="token punctuation">}</span></span><span class="token string">!"</span></span><span class="token punctuation">)</span>
+
+<span class="token keyword">if</span> __name__ <span class="token operator">==</span> <span class="token string">'__main__'</span><span class="token punctuation">:</span>
+    hello<span class="token punctuation">(</span><span class="token punctuation">)</span>
+</code></pre>
+<pre class="language-shell"><code class="language-shell">$ python hello.py --count<span class="token operator">=</span><span class="token number">3</span>
+Your name: Click
+Hello, Click<span class="token operator">!</span>
+Hello, Click<span class="token operator">!</span>
+Hello, Click<span class="token operator">!</span>
+</code></pre>
 <hr>
 <strong>Backlinks</strong>
 <ul>
 <li><a href="/notes/i7qra5ip0gwchs30f5at7rx">Python</a></li>
+<li><a href="/notes/7aidp4clskcaj4w16ipr2gh">Typer</a></li>
 </ul>

@@ -4,8 +4,8 @@
 ## 已完成
 
 ![[个人介绍 | about me#简介:#*]]
+![[programming-languages.python#介绍:#*]]
 
 ## 施工中
 
-![[programming-languages.python#介绍:#*]]
 ![[basic.hardware#计算机组成:#*]]
