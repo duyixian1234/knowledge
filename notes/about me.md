@@ -1,7 +1,7 @@
 ---
 id: euj0yyfymzmig3lszs3vgow
 title: 关于我
-desc: ""
+desc: ''
 updated: 1660358818895
 created: 1660271259547
 ---
@@ -50,7 +50,7 @@ created: 1660271259547
 
 ### 软件开发
 
-- [[architecture.TDD]]
+- [[software-develop.design.TDD]]
 - [[software-develop.refactoring]]
 - [[programming-languages.functional programming]]
 
