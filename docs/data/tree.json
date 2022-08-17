@@ -454,62 +454,8 @@
               ]
             },
             {
-              "key": "0rwddi82jm0e3rhxjl6vlj9",
-              "title": "DRY",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "shs2x76gfjtvi20xxziz4k2",
-              "title": "Design Patterns",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
               "key": "m7gnr1kzd6q1pza1r7km5k7",
               "title": "Domain Driven Design",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "fduzrhulz557t4yjske07k9",
-              "title": "KISS",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "v03c4xgyco81innvtbwsn60",
-              "title": "SOLID",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "tg8qotpb8mcbg975s6juars",
-              "title": "TDD",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "orjdxc68o38g2h5yennctf4",
-              "title": "YAGNI",
               "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "knowledge",
@@ -1072,7 +1018,7 @@
               ]
             },
             {
-              "key": "kpxl024ix66dalzkd7fjgf7",
+              "key": "gaokxgxziif156lvm0x1wqw",
               "title": "Config",
               "icon": "plusOutlined",
               "hasTitleNumberOutlined": false,
@@ -1082,6 +1028,70 @@
                 {
                   "key": "ejwp7pv7cmw5m8efhkq5ah3",
                   "title": "Toml",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "ujb1vhnfi16ljna7en5r074",
+              "title": "Design",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "mqujgpqpm0qo99kdvrlv2kx",
+                  "title": "DRY",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "shs2x76gfjtvi20xxziz4k2",
+                  "title": "Design Patterns",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "fduzrhulz557t4yjske07k9",
+                  "title": "KISS",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "v03c4xgyco81innvtbwsn60",
+                  "title": "SOLID",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "tg8qotpb8mcbg975s6juars",
+                  "title": "TDD",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "orjdxc68o38g2h5yennctf4",
+                  "title": "YAGNI",
                   "icon": null,
                   "hasTitleNumberOutlined": false,
                   "vaultName": "knowledge",
@@ -1229,8 +1239,15 @@
     "403": null,
     "20dxao0uf8892hiam7spier": null,
     "i5z2gw9ou7tmimbwdsltnnz": "20dxao0uf8892hiam7spier",
-    "kpxl024ix66dalzkd7fjgf7": "i5z2gw9ou7tmimbwdsltnnz",
-    "ejwp7pv7cmw5m8efhkq5ah3": "kpxl024ix66dalzkd7fjgf7",
+    "ujb1vhnfi16ljna7en5r074": "i5z2gw9ou7tmimbwdsltnnz",
+    "orjdxc68o38g2h5yennctf4": "ujb1vhnfi16ljna7en5r074",
+    "tg8qotpb8mcbg975s6juars": "ujb1vhnfi16ljna7en5r074",
+    "v03c4xgyco81innvtbwsn60": "ujb1vhnfi16ljna7en5r074",
+    "fduzrhulz557t4yjske07k9": "ujb1vhnfi16ljna7en5r074",
+    "shs2x76gfjtvi20xxziz4k2": "ujb1vhnfi16ljna7en5r074",
+    "mqujgpqpm0qo99kdvrlv2kx": "ujb1vhnfi16ljna7en5r074",
+    "gaokxgxziif156lvm0x1wqw": "i5z2gw9ou7tmimbwdsltnnz",
+    "ejwp7pv7cmw5m8efhkq5ah3": "gaokxgxziif156lvm0x1wqw",
     "0cu9dg1bjx46x5iqhnr2ulv": "i5z2gw9ou7tmimbwdsltnnz",
     "j6uvrzfjjscajfmzbvgt71t": "0cu9dg1bjx46x5iqhnr2ulv",
     "5eo8fia4y528tgmocaspt14": "j6uvrzfjjscajfmzbvgt71t",
@@ -1348,13 +1365,7 @@
     "zcrks6hqodblp70de8kvm4b": "juqa13xh9vpcjjcwuaxpijf",
     "j1p2133sxm8xqu7etqqv5u1": "juqa13xh9vpcjjcwuaxpijf",
     "6xsd9waf7ho7as5kzccut5h": "20dxao0uf8892hiam7spier",
-    "orjdxc68o38g2h5yennctf4": "6xsd9waf7ho7as5kzccut5h",
-    "tg8qotpb8mcbg975s6juars": "6xsd9waf7ho7as5kzccut5h",
-    "v03c4xgyco81innvtbwsn60": "6xsd9waf7ho7as5kzccut5h",
-    "fduzrhulz557t4yjske07k9": "6xsd9waf7ho7as5kzccut5h",
     "m7gnr1kzd6q1pza1r7km5k7": "6xsd9waf7ho7as5kzccut5h",
-    "shs2x76gfjtvi20xxziz4k2": "6xsd9waf7ho7as5kzccut5h",
-    "0rwddi82jm0e3rhxjl6vlj9": "6xsd9waf7ho7as5kzccut5h",
     "jmyu2j127398lu5ze16czs7": "6xsd9waf7ho7as5kzccut5h",
     "9o3hmdtpkxdveqtttdxfhcg": "jmyu2j127398lu5ze16czs7",
     "bpsbto9ra3e9vq6f0lvs7wl": "jmyu2j127398lu5ze16czs7",

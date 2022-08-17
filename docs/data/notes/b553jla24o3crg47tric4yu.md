@@ -1,4 +1,3 @@
-
 ## 基础
 
 - [普林斯顿计算机公开课-布莱恩 W. 柯尼汉](https://weread.qq.com/web/bookDetail/6df32da0719710e26dfd7fe)
@@ -19,3 +18,7 @@
 ## Django
 
 - [Django：Web Development with Python-Samuel Dauzon Aidas Bendoraitis Arun Ravindran](https://weread.qq.com/web/bookDetail/1e332a70723006f81e377bf)
+
+## 操作系统
+
+- [操作系统导论-雷姆兹·H.阿帕希杜塞尔 安德莉亚·C.阿帕希杜塞尔](https://weread.qq.com/web/bookDetail/db8329d071cc7f70db8a479)

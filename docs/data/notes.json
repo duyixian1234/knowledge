@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1660640162511,
-      "created": 1660640162512,
+      "updated": 1660725391004,
+      "created": 1660725391004,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -24,7 +24,7 @@
       "id": "20dxao0uf8892hiam7spier",
       "title": "个人知识库",
       "desc": "",
-      "updated": 1660640042480,
+      "updated": 1660725353248,
       "created": 1660230632683,
       "custom": {
         "nav_order": 0,
@@ -37,8 +37,36 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "c8f43db93c5493bfc81c307d4bd13490",
+      "contentHash": "6ec64ab2b015ed46599e8df86e29bcbf",
       "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "basic.software.operating-system",
+          "alias": "basic.software.operating-system",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 1,
+              "offset": 111
+            },
+            "end": {
+              "line": 11,
+              "column": 36,
+              "offset": 146
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "basic.software.operating-system"
+          }
+        },
         {
           "type": "ref",
           "from": {
@@ -91,33 +119,6 @@
           "to": {
             "fname": "programming-languages.python",
             "anchorHeader": "介绍:#*"
-          }
-        },
-        {
-          "type": "ref",
-          "from": {
-            "fname": "root",
-            "id": "20dxao0uf8892hiam7spier",
-            "vaultName": "knowledge"
-          },
-          "value": "basic.hardware",
-          "position": {
-            "start": {
-              "line": 11,
-              "column": 1,
-              "offset": 111
-            },
-            "end": {
-              "line": 11,
-              "column": 29,
-              "offset": 139
-            },
-            "indent": []
-          },
-          "xvault": false,
-          "to": {
-            "fname": "basic.hardware",
-            "anchorHeader": "计算机组成:#*"
           }
         }
       ],
@@ -183,12 +184,190 @@
         "415pfd1z8i5k9amwp7gkzlp",
         "l0n8p6a22ndk4hwpm176fnn",
         "0cu9dg1bjx46x5iqhnr2ulv",
-        "kpxl024ix66dalzkd7fjgf7"
+        "gaokxgxziif156lvm0x1wqw",
+        "ujb1vhnfi16ljna7en5r074"
       ],
       "parent": "20dxao0uf8892hiam7spier",
       "data": {}
     },
-    "kpxl024ix66dalzkd7fjgf7": {
+    "ujb1vhnfi16ljna7en5r074": {
+      "fname": "software-develop.design",
+      "stub": true,
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1660725389877,
+      "created": 1660725389877,
+      "id": "ujb1vhnfi16ljna7en5r074",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "mqujgpqpm0qo99kdvrlv2kx",
+        "shs2x76gfjtvi20xxziz4k2",
+        "fduzrhulz557t4yjske07k9",
+        "v03c4xgyco81innvtbwsn60",
+        "tg8qotpb8mcbg975s6juars",
+        "orjdxc68o38g2h5yennctf4"
+      ],
+      "parent": "i5z2gw9ou7tmimbwdsltnnz",
+      "data": {},
+      "title": "Design"
+    },
+    "orjdxc68o38g2h5yennctf4": {
+      "id": "orjdxc68o38g2h5yennctf4",
+      "title": "YAGNI",
+      "desc": "",
+      "updated": 1660279927562,
+      "created": 1660279927562,
+      "custom": {},
+      "fname": "software-develop.design.YAGNI",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "1e60966cd795129074ca9d6852742078",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ujb1vhnfi16ljna7en5r074",
+      "data": {}
+    },
+    "tg8qotpb8mcbg975s6juars": {
+      "id": "tg8qotpb8mcbg975s6juars",
+      "title": "TDD",
+      "desc": "",
+      "updated": 1660280084917,
+      "created": 1660279683551,
+      "custom": {},
+      "fname": "software-develop.design.TDD",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "bde34f2cb4d718092fa46f8ed1be11c4",
+      "links": [
+        {
+          "from": {
+            "fname": "about me",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 46,
+              "column": 3,
+              "offset": 1579
+            },
+            "end": {
+              "line": 46,
+              "column": 34,
+              "offset": 1610
+            },
+            "indent": []
+          },
+          "value": "software-develop.design.TDD",
+          "alias": "software-develop.design.TDD"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "ujb1vhnfi16ljna7en5r074",
+      "data": {}
+    },
+    "v03c4xgyco81innvtbwsn60": {
+      "id": "v03c4xgyco81innvtbwsn60",
+      "title": "SOLID",
+      "desc": "",
+      "updated": 1660279910063,
+      "created": 1660279910063,
+      "custom": {},
+      "fname": "software-develop.design.SOLID",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "38157bc63e47f8701d6be6e23c22ccdb",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ujb1vhnfi16ljna7en5r074",
+      "data": {}
+    },
+    "fduzrhulz557t4yjske07k9": {
+      "id": "fduzrhulz557t4yjske07k9",
+      "title": "KISS",
+      "desc": "",
+      "updated": 1660279919613,
+      "created": 1660279919613,
+      "custom": {},
+      "fname": "software-develop.design.KISS",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "ca48f0c3e50ee5643efbd519225ad4e3",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ujb1vhnfi16ljna7en5r074",
+      "data": {}
+    },
+    "shs2x76gfjtvi20xxziz4k2": {
+      "id": "shs2x76gfjtvi20xxziz4k2",
+      "title": "Design Patterns",
+      "desc": "",
+      "updated": 1660279888798,
+      "created": 1660279888798,
+      "custom": {},
+      "fname": "software-develop.design.Design Patterns",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "2d2b567d93ac617229f8bc77dc1b782c",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ujb1vhnfi16ljna7en5r074",
+      "data": {}
+    },
+    "mqujgpqpm0qo99kdvrlv2kx": {
+      "id": "mqujgpqpm0qo99kdvrlv2kx",
+      "title": "DRY",
+      "desc": "",
+      "updated": 1660721981036,
+      "created": 1660721981036,
+      "custom": {},
+      "fname": "software-develop.design.DRY",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "07cc299b7b4f04d8249c16f9ad969429",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ujb1vhnfi16ljna7en5r074",
+      "data": {}
+    },
+    "gaokxgxziif156lvm0x1wqw": {
       "fname": "software-develop.config",
       "stub": true,
       "vault": {
@@ -198,9 +377,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1660640161283,
-      "created": 1660640161283,
-      "id": "kpxl024ix66dalzkd7fjgf7",
+      "updated": 1660725389876,
+      "created": 1660725389877,
+      "id": "gaokxgxziif156lvm0x1wqw",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -252,7 +431,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "kpxl024ix66dalzkd7fjgf7",
+      "parent": "gaokxgxziif156lvm0x1wqw",
       "data": {}
     },
     "0cu9dg1bjx46x5iqhnr2ulv": {
@@ -371,12 +550,12 @@
             "start": {
               "line": 47,
               "column": 3,
-              "offset": 1602
+              "offset": 1613
             },
             "end": {
               "line": 47,
               "column": 35,
-              "offset": 1634
+              "offset": 1645
             },
             "indent": []
           },
@@ -669,12 +848,12 @@
             "start": {
               "line": 53,
               "column": 3,
-              "offset": 1751
+              "offset": 1762
             },
             "end": {
               "line": 53,
               "column": 31,
-              "offset": 1779
+              "offset": 1790
             },
             "indent": []
           },
@@ -757,12 +936,12 @@
             "start": {
               "line": 52,
               "column": 3,
-              "offset": 1701
+              "offset": 1712
             },
             "end": {
               "line": 52,
               "column": 26,
-              "offset": 1724
+              "offset": 1735
             },
             "indent": []
           },
@@ -801,12 +980,12 @@
             "start": {
               "line": 52,
               "column": 27,
-              "offset": 1725
+              "offset": 1736
             },
             "end": {
               "line": 52,
               "column": 50,
-              "offset": 1748
+              "offset": 1759
             },
             "indent": []
           },
@@ -1203,7 +1382,7 @@
       "id": "b553jla24o3crg47tric4yu",
       "title": "Books",
       "desc": "",
-      "updated": 1660639409180,
+      "updated": 1660722568469,
       "created": 1660288307860,
       "custom": {},
       "fname": "resources.books",
@@ -1213,7 +1392,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "22adb09b605581442d685a0d844c8307",
+      "contentHash": "110a1edf37985a122236fe5f61ab1a72",
       "links": [
         {
           "from": {
@@ -1252,6 +1431,27 @@
               "line": 55,
               "column": 31,
               "offset": 2034
+            },
+            "indent": []
+          },
+          "value": "resources.books"
+        },
+        {
+          "from": {
+            "fname": "basic.software.operating-system",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 1,
+              "offset": 65
+            },
+            "end": {
+              "line": 16,
+              "column": 29,
+              "offset": 93
             },
             "indent": []
           },
@@ -1326,7 +1526,7 @@
           "type": "header",
           "text": "基础",
           "value": "基础",
-          "line": 8,
+          "line": 7,
           "column": 0,
           "depth": 2
         },
@@ -1334,7 +1534,7 @@
           "type": "header",
           "text": "Python",
           "value": "python",
-          "line": 12,
+          "line": 11,
           "column": 0,
           "depth": 2
         },
@@ -1342,7 +1542,7 @@
           "type": "header",
           "text": "Ansible",
           "value": "ansible",
-          "line": 16,
+          "line": 15,
           "column": 0,
           "depth": 2
         },
@@ -1350,7 +1550,7 @@
           "type": "header",
           "text": "Flask",
           "value": "flask",
-          "line": 20,
+          "line": 19,
           "column": 0,
           "depth": 2
         },
@@ -1358,7 +1558,15 @@
           "type": "header",
           "text": "Django",
           "value": "django",
-          "line": 25,
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        },
+        "操作系统": {
+          "type": "header",
+          "text": "操作系统",
+          "value": "操作系统",
+          "line": 28,
           "column": 0,
           "depth": 2
         }
@@ -5423,12 +5631,12 @@
             "start": {
               "line": 48,
               "column": 3,
-              "offset": 1637
+              "offset": 1648
             },
             "end": {
               "line": 48,
               "column": 51,
-              "offset": 1685
+              "offset": 1696
             },
             "indent": []
           },
@@ -6080,7 +6288,7 @@
       "id": "9nuy42p9er5xi25in7cy0vq",
       "title": "操作系统",
       "desc": "",
-      "updated": 1660273129498,
+      "updated": 1660723131090,
       "created": 1660231756678,
       "custom": {},
       "fname": "basic.software.operating-system",
@@ -6090,8 +6298,35 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "13cc41f47b4a78efe0066da497d4e85a",
+      "contentHash": "85ecfa6108b401f175757edd9537b4e8",
       "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "basic.software.operating-system",
+            "id": "9nuy42p9er5xi25in7cy0vq",
+            "vaultName": "knowledge"
+          },
+          "value": "resources.books",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 1,
+              "offset": 65
+            },
+            "end": {
+              "line": 16,
+              "column": 29,
+              "offset": 93
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "resources.books",
+            "anchorHeader": "操作系统:#*"
+          }
+        },
         {
           "from": {
             "fname": "about me",
@@ -6113,9 +6348,56 @@
           },
           "value": "basic.software.operating-system",
           "alias": "basic.software.operating-system"
+        },
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 1,
+              "offset": 111
+            },
+            "end": {
+              "line": 11,
+              "column": 36,
+              "offset": 146
+            },
+            "indent": []
+          },
+          "value": "basic.software.operating-system",
+          "alias": "basic.software.operating-system"
         }
       ],
-      "anchors": {},
+      "anchors": {
+        "核心": {
+          "type": "header",
+          "text": "核心",
+          "value": "核心",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        },
+        "设计目标": {
+          "type": "header",
+          "text": "设计目标",
+          "value": "设计目标",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        },
+        "资源": {
+          "type": "header",
+          "text": "资源",
+          "value": "资源",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        }
+      },
       "children": [
         "ukb27ukhtep8q42aczhb2cz",
         "2rkux2b95mg0618bx5vhz8s",
@@ -6152,7 +6434,7 @@
       "id": "788pm603l0e2jbhxfxnds7f",
       "title": "Process Management",
       "desc": "",
-      "updated": 1660280823419,
+      "updated": 1660725287331,
       "created": 1660280823419,
       "custom": {},
       "fname": "basic.software.operating-system.Process Management",
@@ -6162,9 +6444,98 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "5d97313dfe60ade7ea918c75a73c71cd",
+      "contentHash": "81db6a5a47913b48f84b521146653a4c",
       "links": [],
-      "anchors": {},
+      "anchors": {
+        "概念": {
+          "type": "header",
+          "text": "概念",
+          "value": "概念",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "机器状态": {
+          "type": "header",
+          "text": "机器状态",
+          "value": "机器状态",
+          "line": 12,
+          "column": 0,
+          "depth": 3
+        },
+        "进程状态": {
+          "type": "header",
+          "text": "进程状态",
+          "value": "进程状态",
+          "line": 19,
+          "column": 0,
+          "depth": 3
+        },
+        "unix-进程-api": {
+          "type": "header",
+          "text": "Unix 进程 API",
+          "value": "unix-进程-api",
+          "line": 23,
+          "column": 0,
+          "depth": 3
+        },
+        "用户模式与内核模式": {
+          "type": "header",
+          "text": "用户模式与内核模式",
+          "value": "用户模式与内核模式",
+          "line": 29,
+          "column": 0,
+          "depth": 3
+        },
+        "时钟中断": {
+          "type": "header",
+          "text": "时钟中断",
+          "value": "时钟中断",
+          "line": 33,
+          "column": 0,
+          "depth": 3
+        },
+        "进程调度": {
+          "type": "header",
+          "text": "进程调度",
+          "value": "进程调度",
+          "line": 37,
+          "column": 0,
+          "depth": 2
+        },
+        "周转时间": {
+          "type": "header",
+          "text": "周转时间",
+          "value": "周转时间",
+          "line": 39,
+          "column": 0,
+          "depth": 3
+        },
+        "响应时间": {
+          "type": "header",
+          "text": "响应时间",
+          "value": "响应时间",
+          "line": 45,
+          "column": 0,
+          "depth": 3
+        },
+        "多级反馈队列multi-level-feedback-queuemlfq": {
+          "type": "header",
+          "text": "多级反馈队列（Multi-level Feedback Queue，MLFQ）",
+          "value": "多级反馈队列multi-level-feedback-queuemlfq",
+          "line": 49,
+          "column": 0,
+          "depth": 3
+        },
+        "多处理器进程调度": {
+          "type": "header",
+          "text": "多处理器进程调度",
+          "value": "多处理器进程调度",
+          "line": 59,
+          "column": 0,
+          "depth": 3
+        }
+      },
       "children": [],
       "parent": "9nuy42p9er5xi25in7cy0vq",
       "data": {}
@@ -6374,27 +6745,6 @@
           },
           "value": "basic.hardware",
           "alias": "basic.hardware"
-        },
-        {
-          "from": {
-            "fname": "root",
-            "vaultName": "knowledge"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 11,
-              "column": 1,
-              "offset": 111
-            },
-            "end": {
-              "line": 11,
-              "column": 29,
-              "offset": 139
-            },
-            "indent": []
-          },
-          "value": "basic.hardware"
         }
       ],
       "anchors": {
@@ -6872,122 +7222,9 @@
       "anchors": {},
       "children": [
         "jmyu2j127398lu5ze16czs7",
-        "0rwddi82jm0e3rhxjl6vlj9",
-        "shs2x76gfjtvi20xxziz4k2",
-        "m7gnr1kzd6q1pza1r7km5k7",
-        "fduzrhulz557t4yjske07k9",
-        "v03c4xgyco81innvtbwsn60",
-        "tg8qotpb8mcbg975s6juars",
-        "orjdxc68o38g2h5yennctf4"
+        "m7gnr1kzd6q1pza1r7km5k7"
       ],
       "parent": "20dxao0uf8892hiam7spier",
-      "data": {}
-    },
-    "orjdxc68o38g2h5yennctf4": {
-      "id": "orjdxc68o38g2h5yennctf4",
-      "title": "YAGNI",
-      "desc": "",
-      "updated": 1660279927562,
-      "created": 1660279927562,
-      "custom": {},
-      "fname": "architecture.YAGNI",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "1e60966cd795129074ca9d6852742078",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "6xsd9waf7ho7as5kzccut5h",
-      "data": {}
-    },
-    "tg8qotpb8mcbg975s6juars": {
-      "id": "tg8qotpb8mcbg975s6juars",
-      "title": "TDD",
-      "desc": "",
-      "updated": 1660280084917,
-      "created": 1660279683551,
-      "custom": {},
-      "fname": "architecture.TDD",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "91efd6c528a9b48ac7cbdb4b4b98a4a4",
-      "links": [
-        {
-          "from": {
-            "fname": "about me",
-            "vaultName": "knowledge"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 46,
-              "column": 3,
-              "offset": 1579
-            },
-            "end": {
-              "line": 46,
-              "column": 23,
-              "offset": 1599
-            },
-            "indent": []
-          },
-          "value": "architecture.TDD",
-          "alias": "architecture.TDD"
-        }
-      ],
-      "anchors": {},
-      "children": [],
-      "parent": "6xsd9waf7ho7as5kzccut5h",
-      "data": {}
-    },
-    "v03c4xgyco81innvtbwsn60": {
-      "id": "v03c4xgyco81innvtbwsn60",
-      "title": "SOLID",
-      "desc": "",
-      "updated": 1660279910063,
-      "created": 1660279910063,
-      "custom": {},
-      "fname": "architecture.SOLID",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "38157bc63e47f8701d6be6e23c22ccdb",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "6xsd9waf7ho7as5kzccut5h",
-      "data": {}
-    },
-    "fduzrhulz557t4yjske07k9": {
-      "id": "fduzrhulz557t4yjske07k9",
-      "title": "KISS",
-      "desc": "",
-      "updated": 1660279919613,
-      "created": 1660279919613,
-      "custom": {},
-      "fname": "architecture.KISS",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "ca48f0c3e50ee5643efbd519225ad4e3",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "6xsd9waf7ho7as5kzccut5h",
       "data": {}
     },
     "m7gnr1kzd6q1pza1r7km5k7": {
@@ -7005,48 +7242,6 @@
         "name": "knowledge"
       },
       "contentHash": "97d73ae2b4aae5e936e4fb86ed016c2e",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "6xsd9waf7ho7as5kzccut5h",
-      "data": {}
-    },
-    "shs2x76gfjtvi20xxziz4k2": {
-      "id": "shs2x76gfjtvi20xxziz4k2",
-      "title": "Design Patterns",
-      "desc": "",
-      "updated": 1660279888798,
-      "created": 1660279888798,
-      "custom": {},
-      "fname": "architecture.Design Patterns",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "2d2b567d93ac617229f8bc77dc1b782c",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "6xsd9waf7ho7as5kzccut5h",
-      "data": {}
-    },
-    "0rwddi82jm0e3rhxjl6vlj9": {
-      "id": "0rwddi82jm0e3rhxjl6vlj9",
-      "title": "DRY",
-      "desc": "",
-      "updated": 1660279935048,
-      "created": 1660279935048,
-      "custom": {},
-      "fname": "architecture.DRY",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "963d76c087c4b9232f89f2bf3e185304",
       "links": [],
       "anchors": {},
       "children": [],
@@ -7155,7 +7350,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "0c566b0c4d6db4ce71b338049c319ec4",
+      "contentHash": "89d1371e36c40ba3d7d2c64ae650fc0c",
       "links": [
         {
           "type": "wiki",
@@ -7472,8 +7667,8 @@
             "id": "euj0yyfymzmig3lszs3vgow",
             "vaultName": "knowledge"
           },
-          "value": "architecture.TDD",
-          "alias": "architecture.TDD",
+          "value": "software-develop.design.TDD",
+          "alias": "software-develop.design.TDD",
           "position": {
             "start": {
               "line": 46,
@@ -7482,15 +7677,15 @@
             },
             "end": {
               "line": 46,
-              "column": 23,
-              "offset": 1599
+              "column": 34,
+              "offset": 1610
             },
             "indent": []
           },
           "xvault": false,
           "sameFile": false,
           "to": {
-            "fname": "architecture.TDD"
+            "fname": "software-develop.design.TDD"
           }
         },
         {
@@ -7506,12 +7701,12 @@
             "start": {
               "line": 47,
               "column": 3,
-              "offset": 1602
+              "offset": 1613
             },
             "end": {
               "line": 47,
               "column": 35,
-              "offset": 1634
+              "offset": 1645
             },
             "indent": []
           },
@@ -7534,12 +7729,12 @@
             "start": {
               "line": 48,
               "column": 3,
-              "offset": 1637
+              "offset": 1648
             },
             "end": {
               "line": 48,
               "column": 51,
-              "offset": 1685
+              "offset": 1696
             },
             "indent": []
           },
@@ -7562,12 +7757,12 @@
             "start": {
               "line": 52,
               "column": 3,
-              "offset": 1701
+              "offset": 1712
             },
             "end": {
               "line": 52,
               "column": 26,
-              "offset": 1724
+              "offset": 1735
             },
             "indent": []
           },
@@ -7590,12 +7785,12 @@
             "start": {
               "line": 52,
               "column": 27,
-              "offset": 1725
+              "offset": 1736
             },
             "end": {
               "line": 52,
               "column": 50,
-              "offset": 1748
+              "offset": 1759
             },
             "indent": []
           },
@@ -7618,12 +7813,12 @@
             "start": {
               "line": 53,
               "column": 3,
-              "offset": 1751
+              "offset": 1762
             },
             "end": {
               "line": 53,
               "column": 31,
-              "offset": 1779
+              "offset": 1790
             },
             "indent": []
           },
@@ -7755,7 +7950,7 @@
       "id": "20dxao0uf8892hiam7spier",
       "title": "个人知识库",
       "desc": "",
-      "updated": 1660640042480,
+      "updated": 1660725353248,
       "created": 1660230632683,
       "custom": {
         "nav_order": 0,
@@ -7768,8 +7963,36 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "c8f43db93c5493bfc81c307d4bd13490",
+      "contentHash": "6ec64ab2b015ed46599e8df86e29bcbf",
       "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "basic.software.operating-system",
+          "alias": "basic.software.operating-system",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 1,
+              "offset": 111
+            },
+            "end": {
+              "line": 11,
+              "column": 36,
+              "offset": 146
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "basic.software.operating-system"
+          }
+        },
         {
           "type": "ref",
           "from": {
@@ -7823,33 +8046,6 @@
             "fname": "programming-languages.python",
             "anchorHeader": "介绍:#*"
           }
-        },
-        {
-          "type": "ref",
-          "from": {
-            "fname": "root",
-            "id": "20dxao0uf8892hiam7spier",
-            "vaultName": "knowledge"
-          },
-          "value": "basic.hardware",
-          "position": {
-            "start": {
-              "line": 11,
-              "column": 1,
-              "offset": 111
-            },
-            "end": {
-              "line": 11,
-              "column": 29,
-              "offset": 139
-            },
-            "indent": []
-          },
-          "xvault": false,
-          "to": {
-            "fname": "basic.hardware",
-            "anchorHeader": "计算机组成:#*"
-          }
         }
       ],
       "anchors": {
@@ -7883,14 +8079,14 @@
       ],
       "parent": null,
       "data": {},
-      "body": "\n记录我在工作和学习中掌握到的软件开发主题的知识。\n\n## 已完成\n\n![[个人介绍 | about me#简介:#*]]\n![[programming-languages.python#介绍:#*]]\n\n## 施工中\n\n![[basic.hardware#计算机组成:#*]]\n"
+      "body": "\n记录我在工作和学习中掌握到的软件开发主题的知识。\n\n## 已完成\n\n![[个人介绍 | about me#简介:#*]]\n![[programming-languages.python#介绍:#*]]\n\n## 施工中\n\n[[basic.software.operating-system]]\n"
     }
   ],
   "noteIndex": {
     "id": "20dxao0uf8892hiam7spier",
     "title": "个人知识库",
     "desc": "",
-    "updated": 1660640042480,
+    "updated": 1660725353248,
     "created": 1660230632683,
     "custom": {
       "nav_order": 0,
@@ -7903,8 +8099,36 @@
       "selfContained": true,
       "name": "knowledge"
     },
-    "contentHash": "c8f43db93c5493bfc81c307d4bd13490",
+    "contentHash": "6ec64ab2b015ed46599e8df86e29bcbf",
     "links": [
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "20dxao0uf8892hiam7spier",
+          "vaultName": "knowledge"
+        },
+        "value": "basic.software.operating-system",
+        "alias": "basic.software.operating-system",
+        "position": {
+          "start": {
+            "line": 11,
+            "column": 1,
+            "offset": 111
+          },
+          "end": {
+            "line": 11,
+            "column": 36,
+            "offset": 146
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "basic.software.operating-system"
+        }
+      },
       {
         "type": "ref",
         "from": {
@@ -7958,33 +8182,6 @@
           "fname": "programming-languages.python",
           "anchorHeader": "介绍:#*"
         }
-      },
-      {
-        "type": "ref",
-        "from": {
-          "fname": "root",
-          "id": "20dxao0uf8892hiam7spier",
-          "vaultName": "knowledge"
-        },
-        "value": "basic.hardware",
-        "position": {
-          "start": {
-            "line": 11,
-            "column": 1,
-            "offset": 111
-          },
-          "end": {
-            "line": 11,
-            "column": 29,
-            "offset": 139
-          },
-          "indent": []
-        },
-        "xvault": false,
-        "to": {
-          "fname": "basic.hardware",
-          "anchorHeader": "计算机组成:#*"
-        }
       }
     ],
     "anchors": {
@@ -8018,7 +8215,7 @@
     ],
     "parent": null,
     "data": {},
-    "body": "\n记录我在工作和学习中掌握到的软件开发主题的知识。\n\n## 已完成\n\n![[个人介绍 | about me#简介:#*]]\n![[programming-languages.python#介绍:#*]]\n\n## 施工中\n\n![[basic.hardware#计算机组成:#*]]\n"
+    "body": "\n记录我在工作和学习中掌握到的软件开发主题的知识。\n\n## 已完成\n\n![[个人介绍 | about me#简介:#*]]\n![[programming-languages.python#介绍:#*]]\n\n## 施工中\n\n[[basic.software.operating-system]]\n"
   },
   "vaults": [
     {

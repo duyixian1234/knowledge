@@ -43,7 +43,7 @@
 
 ### 软件开发
 
-- [[architecture.TDD]]
+- [[software-develop.design.TDD]]
 - [[software-develop.refactoring]]
 - [[programming-languages.functional programming]]
 

@@ -1,1 +1,53 @@
 <h1 id="process-management"><a aria-hidden="true" class="anchor-heading icon-link" href="#process-management"></a>Process Management</h1>
+<h2 id="概念"><a aria-hidden="true" class="anchor-heading icon-link" href="#概念"></a>概念</h2>
+<p>操作系统为正在运行的程序提供的抽象。</p>
+<h3 id="机器状态"><a aria-hidden="true" class="anchor-heading icon-link" href="#机器状态"></a>机器状态</h3>
+<p>进程需要知晓程序的机器状态</p>
+<ul>
+<li>内存（代码和数据）</li>
+<li>寄存器</li>
+</ul>
+<h3 id="进程状态"><a aria-hidden="true" class="anchor-heading icon-link" href="#进程状态"></a>进程状态</h3>
+<p><img src="https://res.weread.qq.com/wrepub/epub_30179184_6" alt="进程状态"></p>
+<h3 id="unix-进程-api"><a aria-hidden="true" class="anchor-heading icon-link" href="#unix-进程-api"></a>Unix 进程 API</h3>
+<ul>
+<li>fork 调用</li>
+<li>wait 调用</li>
+<li>exec 调用</li>
+</ul>
+<h3 id="用户模式与内核模式"><a aria-hidden="true" class="anchor-heading icon-link" href="#用户模式与内核模式"></a>用户模式与内核模式</h3>
+<blockquote>
+<p>硬件通过提供不同的执行模式来协助操作系统。在用户模式（user mode）下，应用程序不能完全访问硬件资源。在内核模式（kernel mode）下，操作系统可以访问机器的全部资源。还提供了陷入（trap）内核和从陷阱返回（return-from-trap）到用户模式程序的特别说明，以及一些指令，让操作系统告诉硬件陷阱表（trap table）在内存中的位置。</p>
+</blockquote>
+<h3 id="时钟中断"><a aria-hidden="true" class="anchor-heading icon-link" href="#时钟中断"></a>时钟中断</h3>
+<blockquote>
+<p>时钟设备可以编程为每隔几毫秒产生一次中断。产生中断时，当前正在运行的进程停止，操作系统中预先配置的中断处理程序（interrupt handler）会运行。此时，操作系统重新获得 CPU 的控制权，因此可以做它想做的事：停止当前进程，并启动另一个进程。</p>
+</blockquote>
+<h2 id="进程调度"><a aria-hidden="true" class="anchor-heading icon-link" href="#进程调度"></a>进程调度</h2>
+<h3 id="周转时间"><a aria-hidden="true" class="anchor-heading icon-link" href="#周转时间"></a>周转时间</h3>
+<ul>
+<li>先进先出（FIFO）</li>
+<li>最短任务优先（SJF）</li>
+<li>最短完成时间优先（STCF）</li>
+</ul>
+<h3 id="响应时间"><a aria-hidden="true" class="anchor-heading icon-link" href="#响应时间"></a>响应时间</h3>
+<ul>
+<li>轮转</li>
+</ul>
+<h3 id="多级反馈队列multi-level-feedback-queuemlfq"><a aria-hidden="true" class="anchor-heading icon-link" href="#多级反馈队列multi-level-feedback-queuemlfq"></a>多级反馈队列（Multi-level Feedback Queue，MLFQ）</h3>
+<ul>
+<li>规则1：如果A的优先级 > B的优先级，运行A（不运行B）。</li>
+<li>规则2：如果A的优先级 = B的优先级，轮转运行A和B。</li>
+<li>规则3：工作进入系统时，放在最高优先级（最上层队列）。</li>
+<li>规则4：一旦工作用完了其在某一层中的时间配额（无论中间主动放弃了多少次CPU），就降低其优先级（移入低一级队列）。</li>
+<li>规则5：经过一段时间S，就将系统中所有工作重新加入最高优先级队列。（应对饥饿问题）</li>
+</ul>
+<blockquote>
+<p>MLFQ有趣的原因是：它不需要对工作的运行方式有先验知识，而是通过观察工作的运行来给出对应的优先级。通过这种方式，MLFQ可以同时满足各种工作的需求：对于短时间运行的交互型工作，获得类似于SJF/STCF的很好的全局性能，同时对长时间运行的CPU密集型负载也可以公平地、不断地稳步向前。因此，许多系统使用某种类型的MLFQ作为自己的基础调度程序，包括类BSD UNIX系统[LM+89，B86]、Solaris[M06]以及Windows NT和其后的Window系列操作系统。</p>
+</blockquote>
+<h3 id="多处理器进程调度"><a aria-hidden="true" class="anchor-heading icon-link" href="#多处理器进程调度"></a>多处理器进程调度</h3>
+<ul>
+<li>单队列</li>
+<li>多队列</li>
+<li>进程迁移</li>
+</ul>

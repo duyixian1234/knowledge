@@ -8,4 +8,4 @@
 
 ## 施工中
 
-![[basic.hardware#计算机组成:#*]]
+[[basic.software.operating-system]]

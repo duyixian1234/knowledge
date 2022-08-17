@@ -2,7 +2,7 @@
 id: 20dxao0uf8892hiam7spier
 title: 个人知识库
 desc: ""
-updated: 1660640042480
+updated: 1660725353248
 created: 1660230632683
 ---
 
@@ -15,4 +15,4 @@ created: 1660230632683
 
 ## 施工中
 
-![[basic.hardware#计算机组成:#*]]
+[[basic.software.operating-system]]
