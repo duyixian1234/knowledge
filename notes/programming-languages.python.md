@@ -2,7 +2,7 @@
 id: i7qra5ip0gwchs30f5at7rx
 title: Python
 desc: ''
-updated: 1660637030047
+updated: 1660792521777
 created: 1660233198308
 ---
 
@@ -56,6 +56,12 @@ created: 1660233198308
 
 - [[programming-languages.python.venv]]
 - [[programming-languages.python.pipenv]]
+
+## 并发
+
+- [[programming-languages.python.multithreading]]
+- [[programming-languages.python.gevent]]
+- [[programming-languages.python.asyncio]]
 
 ## 资源
 

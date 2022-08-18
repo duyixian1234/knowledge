@@ -1,0 +1,29 @@
+<h1 id="gevent"><a aria-hidden="true" class="anchor-heading icon-link" href="#gevent"></a>Gevent</h1>
+<h2 id="介绍"><a aria-hidden="true" class="anchor-heading icon-link" href="#介绍"></a>介绍</h2>
+<p><a href="https://pypi.org/project/gevent/">gevent</a>是一个基于协程的Python网络库。</p>
+<blockquote>
+<p>gevent is a <a href="https://en.wikipedia.org/wiki/Coroutine">coroutine</a> -based <a href="http://python.org/">Python</a> networking library that uses <a href="https://greenlet.readthedocs.io/">greenlet</a> to provide a high-level synchronous API on top of the <a href="http://software.schmorp.de/pkg/libev.html">libev</a> or <a href="http://libuv.org/">libuv</a> event loop.</p>
+<p>Features include:</p>
+<ul>
+<li>Fast event loop based on <a href="http://software.schmorp.de/pkg/libev.html">libev</a> or <a href="http://libuv.org/">libuv</a>.</li>
+<li>Lightweight execution units based on greenlets.</li>
+<li>API that re-uses concepts from the Python standard library (for examples there are <a href="http://www.gevent.org/api/gevent.event.html#gevent.event.Event">events</a> and <a href="http://www.gevent.org/api/gevent.queue.html#gevent.queue.Queue">queues</a>).</li>
+<li><a href="http://www.gevent.org/api/index.html#networking">Cooperative sockets with SSL support</a></li>
+<li><a href="http://www.gevent.org/dns.html">Cooperative DNS queries</a> performed through a threadpool, dnspython, or c-ares.</li>
+<li><a href="http://www.gevent.org/intro.html#monkey-patching">Monkey patching utility</a> to get 3rd party modules to become cooperative</li>
+<li>TCP/UDP/HTTP servers</li>
+<li>Subprocess support (through <a href="http://www.gevent.org/api/gevent.subprocess.html#module-gevent.subprocess">gevent.subprocess</a>)</li>
+<li>Thread pools</li>
+</ul>
+<p>gevent is <a href="http://blog.gevent.org/2010/02/27/why-gevent/">inspired by eventlet</a> but features a more consistent API, simpler implementation and better performance. Read why others <a href="http://groups.google.com/group/gevent/browse_thread/thread/4de9703e5dca8271">use gevent</a> and check out the list of the <a href="https://github.com/gevent/gevent/wiki/Projects">open source projects based on gevent</a>.</p>
+</blockquote>
+<h2 id="应用"><a aria-hidden="true" class="anchor-heading icon-link" href="#应用"></a>应用</h2>
+<ul>
+<li>gunicorn</li>
+<li>celery</li>
+</ul>
+<hr>
+<strong>Backlinks</strong>
+<ul>
+<li><a href="/notes/i7qra5ip0gwchs30f5at7rx">Python</a></li>
+</ul>

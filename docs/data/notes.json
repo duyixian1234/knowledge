@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1660725391004,
-      "created": 1660725391004,
+      "updated": 1660793256287,
+      "created": 1660793256287,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -184,13 +184,13 @@
         "415pfd1z8i5k9amwp7gkzlp",
         "l0n8p6a22ndk4hwpm176fnn",
         "0cu9dg1bjx46x5iqhnr2ulv",
-        "gaokxgxziif156lvm0x1wqw",
-        "ujb1vhnfi16ljna7en5r074"
+        "fx7ry98079r0p3cr0upxep9",
+        "5arfsca01svdramo4y9m2ec"
       ],
       "parent": "20dxao0uf8892hiam7spier",
       "data": {}
     },
-    "ujb1vhnfi16ljna7en5r074": {
+    "5arfsca01svdramo4y9m2ec": {
       "fname": "software-develop.design",
       "stub": true,
       "vault": {
@@ -200,9 +200,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1660725389877,
-      "created": 1660725389877,
-      "id": "ujb1vhnfi16ljna7en5r074",
+      "updated": 1660793254983,
+      "created": 1660793254983,
+      "id": "5arfsca01svdramo4y9m2ec",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -236,7 +236,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "ujb1vhnfi16ljna7en5r074",
+      "parent": "5arfsca01svdramo4y9m2ec",
       "data": {}
     },
     "tg8qotpb8mcbg975s6juars": {
@@ -280,7 +280,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "ujb1vhnfi16ljna7en5r074",
+      "parent": "5arfsca01svdramo4y9m2ec",
       "data": {}
     },
     "v03c4xgyco81innvtbwsn60": {
@@ -301,7 +301,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "ujb1vhnfi16ljna7en5r074",
+      "parent": "5arfsca01svdramo4y9m2ec",
       "data": {}
     },
     "fduzrhulz557t4yjske07k9": {
@@ -322,7 +322,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "ujb1vhnfi16ljna7en5r074",
+      "parent": "5arfsca01svdramo4y9m2ec",
       "data": {}
     },
     "shs2x76gfjtvi20xxziz4k2": {
@@ -343,7 +343,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "ujb1vhnfi16ljna7en5r074",
+      "parent": "5arfsca01svdramo4y9m2ec",
       "data": {}
     },
     "mqujgpqpm0qo99kdvrlv2kx": {
@@ -364,10 +364,10 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "ujb1vhnfi16ljna7en5r074",
+      "parent": "5arfsca01svdramo4y9m2ec",
       "data": {}
     },
-    "gaokxgxziif156lvm0x1wqw": {
+    "fx7ry98079r0p3cr0upxep9": {
       "fname": "software-develop.config",
       "stub": true,
       "vault": {
@@ -377,9 +377,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1660725389876,
-      "created": 1660725389877,
-      "id": "gaokxgxziif156lvm0x1wqw",
+      "updated": 1660793254983,
+      "created": 1660793254983,
+      "id": "fx7ry98079r0p3cr0upxep9",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -431,7 +431,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "gaokxgxziif156lvm0x1wqw",
+      "parent": "fx7ry98079r0p3cr0upxep9",
       "data": {}
     },
     "0cu9dg1bjx46x5iqhnr2ulv": {
@@ -1246,14 +1246,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 57,
+              "line": 63,
               "column": 1,
-              "offset": 2066
+              "offset": 2209
             },
             "end": {
-              "line": 57,
+              "line": 63,
               "column": 31,
-              "offset": 2096
+              "offset": 2239
             },
             "indent": []
           },
@@ -1298,14 +1298,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 58,
+              "line": 64,
               "column": 1,
-              "offset": 2097
+              "offset": 2240
             },
             "end": {
-              "line": 58,
+              "line": 64,
               "column": 31,
-              "offset": 2127
+              "offset": 2270
             },
             "indent": []
           },
@@ -1350,14 +1350,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 56,
+              "line": 62,
               "column": 1,
-              "offset": 2035
+              "offset": 2178
             },
             "end": {
-              "line": 56,
+              "line": 62,
               "column": 31,
-              "offset": 2065
+              "offset": 2208
             },
             "indent": []
           },
@@ -1423,14 +1423,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 55,
+              "line": 61,
               "column": 1,
-              "offset": 2004
+              "offset": 2147
             },
             "end": {
-              "line": 55,
+              "line": 61,
               "column": 31,
-              "offset": 2034
+              "offset": 2177
             },
             "indent": []
           },
@@ -1703,7 +1703,7 @@
       "id": "i7qra5ip0gwchs30f5at7rx",
       "title": "Python",
       "desc": "",
-      "updated": 1660637030047,
+      "updated": 1660792521777,
       "created": 1660233198308,
       "custom": {},
       "fname": "programming-languages.python",
@@ -1713,7 +1713,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "4f5ad4d0e4e6134b999ee619dd51bde6",
+      "contentHash": "6d1c542aba3ce8ad6cc28935c6e6f290",
       "links": [
         {
           "type": "wiki",
@@ -2612,6 +2612,90 @@
           }
         },
         {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.python.multithreading",
+          "alias": "programming-languages.python.multithreading",
+          "position": {
+            "start": {
+              "line": 55,
+              "column": 3,
+              "offset": 2006
+            },
+            "end": {
+              "line": 55,
+              "column": 50,
+              "offset": 2053
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.python.multithreading"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.python.gevent",
+          "alias": "programming-languages.python.gevent",
+          "position": {
+            "start": {
+              "line": 56,
+              "column": 3,
+              "offset": 2056
+            },
+            "end": {
+              "line": 56,
+              "column": 42,
+              "offset": 2095
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.python.gevent"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python",
+            "id": "i7qra5ip0gwchs30f5at7rx",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.python.asyncio",
+          "alias": "programming-languages.python.asyncio",
+          "position": {
+            "start": {
+              "line": 57,
+              "column": 3,
+              "offset": 2098
+            },
+            "end": {
+              "line": 57,
+              "column": 43,
+              "offset": 2138
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.python.asyncio"
+          }
+        },
+        {
           "type": "ref",
           "from": {
             "fname": "programming-languages.python",
@@ -2648,14 +2732,14 @@
           "value": "resources.books",
           "position": {
             "start": {
-              "line": 55,
+              "line": 61,
               "column": 1,
-              "offset": 2004
+              "offset": 2147
             },
             "end": {
-              "line": 55,
+              "line": 61,
               "column": 31,
-              "offset": 2034
+              "offset": 2177
             },
             "indent": []
           },
@@ -2675,14 +2759,14 @@
           "value": "resources.learn",
           "position": {
             "start": {
-              "line": 56,
+              "line": 62,
               "column": 1,
-              "offset": 2035
+              "offset": 2178
             },
             "end": {
-              "line": 56,
+              "line": 62,
               "column": 31,
-              "offset": 2065
+              "offset": 2208
             },
             "indent": []
           },
@@ -2702,14 +2786,14 @@
           "value": "resources.sites",
           "position": {
             "start": {
-              "line": 57,
+              "line": 63,
               "column": 1,
-              "offset": 2066
+              "offset": 2209
             },
             "end": {
-              "line": 57,
+              "line": 63,
               "column": 31,
-              "offset": 2096
+              "offset": 2239
             },
             "indent": []
           },
@@ -2729,14 +2813,14 @@
           "value": "resources.links",
           "position": {
             "start": {
-              "line": 58,
+              "line": 64,
               "column": 1,
-              "offset": 2097
+              "offset": 2240
             },
             "end": {
-              "line": 58,
+              "line": 64,
               "column": 31,
-              "offset": 2127
+              "offset": 2270
             },
             "indent": []
           },
@@ -2847,11 +2931,19 @@
           "column": 0,
           "depth": 2
         },
+        "并发": {
+          "type": "header",
+          "text": "并发",
+          "value": "并发",
+          "line": 59,
+          "column": 0,
+          "depth": 2
+        },
         "资源": {
           "type": "header",
           "text": "资源",
           "value": "资源",
-          "line": 59,
+          "line": 65,
           "column": 0,
           "depth": 2
         }
@@ -2865,15 +2957,18 @@
         "b8e32zij9egyzswosocp3t8",
         "n7fz544n5iy18az4emy7oi0",
         "1m3crqwnc01esh8ylao7cdj",
+        "oyrvr62f5kc782wgpoz5hgj",
         "vu4366q6sckejfdqgrqr3a5",
         "gi59c2928gvbae6n3uniugg",
         "cvbmy2r329wrtde0hs4b9r5",
         "ukppn0c8e7ihvzi1s3ttqge",
         "cer3q1dhci0eeh718l9svdi",
         "uaqz2heac1kdcsqy127dqom",
+        "dftloyxhwpi83dg622hxnw6",
         "my8qzdf77zphq770aho85l7",
         "cnu5owy75z10xsbawpj1hzw",
         "jin5kl3ogos778jevlg9gap",
+        "hqpjbr4d16c7kr7aqxheoef",
         "0eb2n3ivbbyvd9l46ppovt7",
         "g0c7wzttp1ja0x38ij826vl",
         "f4hmvs8e1werbjphwfa7xls",
@@ -3917,6 +4012,91 @@
       "parent": "i7qra5ip0gwchs30f5at7rx",
       "data": {}
     },
+    "hqpjbr4d16c7kr7aqxheoef": {
+      "id": "hqpjbr4d16c7kr7aqxheoef",
+      "title": "Multithreading",
+      "desc": "",
+      "updated": 1660792180130,
+      "created": 1660790573564,
+      "custom": {},
+      "fname": "programming-languages.python.multithreading",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "adebe2bc79749870cea7be0e7bc4f370",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 55,
+              "column": 3,
+              "offset": 2006
+            },
+            "end": {
+              "line": 55,
+              "column": 50,
+              "offset": 2053
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.multithreading",
+          "alias": "programming-languages.python.multithreading"
+        }
+      ],
+      "anchors": {
+        "gil": {
+          "type": "header",
+          "text": "GIL",
+          "value": "gil",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "python多线程": {
+          "type": "header",
+          "text": "Python多线程",
+          "value": "python多线程",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "threading标准库": {
+          "type": "header",
+          "text": "threading标准库",
+          "value": "threading标准库",
+          "line": 14,
+          "column": 0,
+          "depth": 3
+        },
+        "threadpoolexecutor": {
+          "type": "header",
+          "text": "ThreadPoolExecutor",
+          "value": "threadpoolexecutor",
+          "line": 18,
+          "column": 0,
+          "depth": 3
+        },
+        "示例": {
+          "type": "header",
+          "text": "示例",
+          "value": "示例",
+          "line": 22,
+          "column": 0,
+          "depth": 4
+        }
+      },
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
     "jin5kl3ogos778jevlg9gap": {
       "id": "jin5kl3ogos778jevlg9gap",
       "title": "标准库模块",
@@ -4279,6 +4459,67 @@
           "text": "创建迭代器",
           "value": "创建迭代器",
           "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "dftloyxhwpi83dg622hxnw6": {
+      "id": "dftloyxhwpi83dg622hxnw6",
+      "title": "Gevent",
+      "desc": "",
+      "updated": 1660792904046,
+      "created": 1660790599082,
+      "custom": {},
+      "fname": "programming-languages.python.gevent",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "aa36320591723966c7a9661ed7cbc60b",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 56,
+              "column": 3,
+              "offset": 2056
+            },
+            "end": {
+              "line": 56,
+              "column": 42,
+              "offset": 2095
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.gevent",
+          "alias": "programming-languages.python.gevent"
+        }
+      ],
+      "anchors": {
+        "介绍": {
+          "type": "header",
+          "text": "介绍",
+          "value": "介绍",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        },
+        "应用": {
+          "type": "header",
+          "text": "应用",
+          "value": "应用",
+          "line": 27,
           "column": 0,
           "depth": 2
         }
@@ -4855,6 +5096,95 @@
       "parent": "i7qra5ip0gwchs30f5at7rx",
       "data": {}
     },
+    "oyrvr62f5kc782wgpoz5hgj": {
+      "id": "oyrvr62f5kc782wgpoz5hgj",
+      "title": "Asyncio",
+      "desc": "",
+      "updated": 1660793188805,
+      "created": 1660790610458,
+      "custom": {},
+      "fname": "programming-languages.python.asyncio",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "ab1c69d27a0e141e40662181285410ff",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "programming-languages.python.asyncio",
+            "id": "oyrvr62f5kc782wgpoz5hgj",
+            "vaultName": "knowledge"
+          },
+          "value": "programming-languages.python.FastAPI",
+          "alias": "programming-languages.python.FastAPI",
+          "position": {
+            "start": {
+              "line": 27,
+              "column": 8,
+              "offset": 1736
+            },
+            "end": {
+              "line": 27,
+              "column": 48,
+              "offset": 1776
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "programming-languages.python.FastAPI"
+          }
+        },
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 57,
+              "column": 3,
+              "offset": 2098
+            },
+            "end": {
+              "line": 57,
+              "column": 43,
+              "offset": 2138
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.asyncio",
+          "alias": "programming-languages.python.asyncio"
+        }
+      ],
+      "anchors": {
+        "介绍": {
+          "type": "header",
+          "text": "介绍",
+          "value": "介绍",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        },
+        "生态": {
+          "type": "header",
+          "text": "生态",
+          "value": "生态",
+          "line": 31,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
     "1m3crqwnc01esh8ylao7cdj": {
       "id": "1m3crqwnc01esh8ylao7cdj",
       "title": "Zen of Python",
@@ -5202,6 +5532,28 @@
               "line": 22,
               "column": 130,
               "offset": 1148
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.FastAPI",
+          "alias": "programming-languages.python.FastAPI"
+        },
+        {
+          "from": {
+            "fname": "programming-languages.python.asyncio",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 27,
+              "column": 8,
+              "offset": 1736
+            },
+            "end": {
+              "line": 27,
+              "column": 48,
+              "offset": 1776
             },
             "indent": []
           },

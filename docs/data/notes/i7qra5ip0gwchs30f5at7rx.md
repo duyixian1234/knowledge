@@ -50,6 +50,12 @@
 - [[programming-languages.python.venv]]
 - [[programming-languages.python.pipenv]]
 
+## 并发
+
+- [[programming-languages.python.multithreading]]
+- [[programming-languages.python.gevent]]
+- [[programming-languages.python.asyncio]]
+
 ## 资源
 
 ![[resources.books#Python:#*]]

@@ -1,0 +1,32 @@
+<h1 id="asyncio"><a aria-hidden="true" class="anchor-heading icon-link" href="#asyncio"></a>Asyncio</h1>
+<h2 id="介绍"><a aria-hidden="true" class="anchor-heading icon-link" href="#介绍"></a>介绍</h2>
+<p><a href="https://docs.python.org/zh-cn/3/library/asyncio.html">asyncio</a>是 Python 原生的协程标准库。</p>
+<blockquote>
+<p>asyncio 是用来编写 <strong>并发</strong> 代码的库，使用 <strong>async/await</strong> 语法。</p>
+<p>asyncio 被用作多个提供高性能 Python 异步框架的基础，包括网络和网站服务，数据库连接库，分布式任务队列等等。</p>
+<p>asyncio 往往是构建 IO 密集型和高层级 <strong>结构化</strong> 网络代码的最佳选择。</p>
+<p>asyncio 提供一组 <strong>高层级</strong> API 用于:</p>
+<ul>
+<li>并发地 <a href="https://docs.python.org/zh-cn/3/library/asyncio-task.html#coroutine"><strong>运行 Python 协程</strong></a> 并对其执行过程实现完全控制;</li>
+<li>执行 <a href="https://docs.python.org/zh-cn/3/library/asyncio-stream.html#asyncio-streams"><strong>网络 IO 和 IPC</strong></a>;</li>
+<li>控制 <a href="https://docs.python.org/zh-cn/3/library/asyncio-subprocess.html#asyncio-subprocess"><strong>子进程</strong></a>;</li>
+<li>通过 <a href="https://docs.python.org/zh-cn/3/library/asyncio-queue.html#asyncio-queues"><strong>队列</strong></a> 实现分布式任务;</li>
+<li><a href="https://docs.python.org/zh-cn/3/library/asyncio-sync.html#asyncio-sync"><strong>同步</strong></a> 并发代码;</li>
+</ul>
+<p>此外，还有一些 <strong>低层级</strong> API 以支持 <em>库和框架的开发者</em> 实现:</p>
+<ul>
+<li>创建和管理 <a href="https://docs.python.org/zh-cn/3/library/asyncio-eventloop.html#asyncio-event-loop"><strong>事件循环</strong></a>，以提供异步 API 用于 <a href="https://docs.python.org/zh-cn/3/library/asyncio-eventloop.html#asyncio.loop.create_server" title="asyncio.loop.create_server"><span class="pre">网络化</span></a>, 运行 <a href="https://docs.python.org/zh-cn/3/library/asyncio-eventloop.html#asyncio.loop.subprocess_exec" title="asyncio.loop.subprocess_exec"><span class="pre">子进程</span></a>，处理 <a href="https://docs.python.org/zh-cn/3/library/asyncio-eventloop.html#asyncio.loop.add_signal_handler" title="asyncio.loop.add_signal_handler"><span class="pre">OS</span><span> </span><span class="pre">信号</span></a> 等等;</li>
+<li>使用 <a href="https://docs.python.org/zh-cn/3/library/asyncio-protocol.html#asyncio-transports-protocols"><strong>transports</strong></a> 实现高效率协议;</li>
+<li>通过 async/await 语法 <a href="https://docs.python.org/zh-cn/3/library/asyncio-future.html#asyncio-futures"><strong>桥接</strong></a> 基于回调的库和代码。</li>
+</ul>
+</blockquote>
+<h2 id="生态"><a aria-hidden="true" class="anchor-heading icon-link" href="#生态"></a>生态</h2>
+<ul>
+<li>ASGI（<a href="/notes/neh8ueqeh37oflgao2wk97c">FastAPI</a>）</li>
+<li><a href="https://github.com/timofurrer/awesome-asyncio">timofurrer/awesome-asyncio</a></li>
+</ul>
+<hr>
+<strong>Backlinks</strong>
+<ul>
+<li><a href="/notes/i7qra5ip0gwchs30f5at7rx">Python</a></li>
+</ul>
