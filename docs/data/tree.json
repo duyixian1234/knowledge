@@ -42,6 +42,15 @@
                   "navExclude": false,
                   "children": [
                     {
+                      "key": "o8vtdk26adi8wrh9i21g4cn",
+                      "title": "Instrution Set",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "knowledge",
+                      "navExclude": false,
+                      "children": []
+                    },
+                    {
                       "key": "jgi61wg7dcnh322phvhaeja",
                       "title": "逻辑门",
                       "icon": null,
@@ -1045,7 +1054,7 @@
               ]
             },
             {
-              "key": "fx7ry98079r0p3cr0upxep9",
+              "key": "ghhtpm2gxp9t0hxciiva583",
               "title": "Config",
               "icon": "plusOutlined",
               "hasTitleNumberOutlined": false,
@@ -1064,7 +1073,7 @@
               ]
             },
             {
-              "key": "5arfsca01svdramo4y9m2ec",
+              "key": "eegfogj5dqz7f0j02fv8fby",
               "title": "Design",
               "icon": "plusOutlined",
               "hasTitleNumberOutlined": false,
@@ -1266,15 +1275,15 @@
     "403": null,
     "20dxao0uf8892hiam7spier": null,
     "i5z2gw9ou7tmimbwdsltnnz": "20dxao0uf8892hiam7spier",
-    "5arfsca01svdramo4y9m2ec": "i5z2gw9ou7tmimbwdsltnnz",
-    "orjdxc68o38g2h5yennctf4": "5arfsca01svdramo4y9m2ec",
-    "tg8qotpb8mcbg975s6juars": "5arfsca01svdramo4y9m2ec",
-    "v03c4xgyco81innvtbwsn60": "5arfsca01svdramo4y9m2ec",
-    "fduzrhulz557t4yjske07k9": "5arfsca01svdramo4y9m2ec",
-    "shs2x76gfjtvi20xxziz4k2": "5arfsca01svdramo4y9m2ec",
-    "mqujgpqpm0qo99kdvrlv2kx": "5arfsca01svdramo4y9m2ec",
-    "fx7ry98079r0p3cr0upxep9": "i5z2gw9ou7tmimbwdsltnnz",
-    "ejwp7pv7cmw5m8efhkq5ah3": "fx7ry98079r0p3cr0upxep9",
+    "eegfogj5dqz7f0j02fv8fby": "i5z2gw9ou7tmimbwdsltnnz",
+    "orjdxc68o38g2h5yennctf4": "eegfogj5dqz7f0j02fv8fby",
+    "tg8qotpb8mcbg975s6juars": "eegfogj5dqz7f0j02fv8fby",
+    "v03c4xgyco81innvtbwsn60": "eegfogj5dqz7f0j02fv8fby",
+    "fduzrhulz557t4yjske07k9": "eegfogj5dqz7f0j02fv8fby",
+    "shs2x76gfjtvi20xxziz4k2": "eegfogj5dqz7f0j02fv8fby",
+    "mqujgpqpm0qo99kdvrlv2kx": "eegfogj5dqz7f0j02fv8fby",
+    "ghhtpm2gxp9t0hxciiva583": "i5z2gw9ou7tmimbwdsltnnz",
+    "ejwp7pv7cmw5m8efhkq5ah3": "ghhtpm2gxp9t0hxciiva583",
     "0cu9dg1bjx46x5iqhnr2ulv": "i5z2gw9ou7tmimbwdsltnnz",
     "j6uvrzfjjscajfmzbvgt71t": "0cu9dg1bjx46x5iqhnr2ulv",
     "5eo8fia4y528tgmocaspt14": "j6uvrzfjjscajfmzbvgt71t",
@@ -1385,6 +1394,7 @@
     "y5kiwrofq5xhekxxqxajxas": "6l2hd19rhsbeqnqzifx5y8n",
     "jgi61wg7dcnh322phvhaeja": "y5kiwrofq5xhekxxqxajxas",
     "r5o6mkov9u86wetjlrz98fy": "y5kiwrofq5xhekxxqxajxas",
+    "o8vtdk26adi8wrh9i21g4cn": "y5kiwrofq5xhekxxqxajxas",
     "e1jw5gg457mnhekpu6bw0ea": "6l2hd19rhsbeqnqzifx5y8n",
     "juqa13xh9vpcjjcwuaxpijf": "e8hgfaxvmfjj1h1wq7pe5he",
     "pqf7qvwgukb60h5r0vcmnzh": "juqa13xh9vpcjjcwuaxpijf",

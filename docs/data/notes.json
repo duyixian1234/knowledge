@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1660793256287,
-      "created": 1660793256287,
+      "updated": 1660888638949,
+      "created": 1660888638949,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -184,13 +184,13 @@
         "415pfd1z8i5k9amwp7gkzlp",
         "l0n8p6a22ndk4hwpm176fnn",
         "0cu9dg1bjx46x5iqhnr2ulv",
-        "fx7ry98079r0p3cr0upxep9",
-        "5arfsca01svdramo4y9m2ec"
+        "ghhtpm2gxp9t0hxciiva583",
+        "eegfogj5dqz7f0j02fv8fby"
       ],
       "parent": "20dxao0uf8892hiam7spier",
       "data": {}
     },
-    "5arfsca01svdramo4y9m2ec": {
+    "eegfogj5dqz7f0j02fv8fby": {
       "fname": "software-develop.design",
       "stub": true,
       "vault": {
@@ -200,9 +200,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1660793254983,
-      "created": 1660793254983,
-      "id": "5arfsca01svdramo4y9m2ec",
+      "updated": 1660888637603,
+      "created": 1660888637603,
+      "id": "eegfogj5dqz7f0j02fv8fby",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -236,7 +236,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "5arfsca01svdramo4y9m2ec",
+      "parent": "eegfogj5dqz7f0j02fv8fby",
       "data": {}
     },
     "tg8qotpb8mcbg975s6juars": {
@@ -280,7 +280,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "5arfsca01svdramo4y9m2ec",
+      "parent": "eegfogj5dqz7f0j02fv8fby",
       "data": {}
     },
     "v03c4xgyco81innvtbwsn60": {
@@ -301,7 +301,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "5arfsca01svdramo4y9m2ec",
+      "parent": "eegfogj5dqz7f0j02fv8fby",
       "data": {}
     },
     "fduzrhulz557t4yjske07k9": {
@@ -322,7 +322,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "5arfsca01svdramo4y9m2ec",
+      "parent": "eegfogj5dqz7f0j02fv8fby",
       "data": {}
     },
     "shs2x76gfjtvi20xxziz4k2": {
@@ -343,7 +343,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "5arfsca01svdramo4y9m2ec",
+      "parent": "eegfogj5dqz7f0j02fv8fby",
       "data": {}
     },
     "mqujgpqpm0qo99kdvrlv2kx": {
@@ -364,10 +364,10 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "5arfsca01svdramo4y9m2ec",
+      "parent": "eegfogj5dqz7f0j02fv8fby",
       "data": {}
     },
-    "fx7ry98079r0p3cr0upxep9": {
+    "ghhtpm2gxp9t0hxciiva583": {
       "fname": "software-develop.config",
       "stub": true,
       "vault": {
@@ -377,9 +377,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1660793254983,
-      "created": 1660793254983,
-      "id": "fx7ry98079r0p3cr0upxep9",
+      "updated": 1660888637602,
+      "created": 1660888637602,
+      "id": "ghhtpm2gxp9t0hxciiva583",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -431,7 +431,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "fx7ry98079r0p3cr0upxep9",
+      "parent": "ghhtpm2gxp9t0hxciiva583",
       "data": {}
     },
     "0cu9dg1bjx46x5iqhnr2ulv": {
@@ -6917,7 +6917,7 @@
       "id": "lhye4vil5un8143hanrbkni",
       "title": "Memory Management",
       "desc": "",
-      "updated": 1660280832914,
+      "updated": 1660888550231,
       "created": 1660280832914,
       "custom": {},
       "fname": "basic.software.operating-system.Memory Management",
@@ -6927,9 +6927,122 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "ad938fce2c98fef12f1c0c38a87d77ba",
+      "contentHash": "8681e3d318ab8a565d8c97a564bacff8",
       "links": [],
-      "anchors": {},
+      "anchors": {
+        "虚拟内存": {
+          "type": "header",
+          "text": "虚拟内存",
+          "value": "虚拟内存",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "目标": {
+          "type": "header",
+          "text": "目标",
+          "value": "目标",
+          "line": 10,
+          "column": 0,
+          "depth": 3
+        },
+        "类型": {
+          "type": "header",
+          "text": "类型",
+          "value": "类型",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "栈内存": {
+          "type": "header",
+          "text": "栈内存",
+          "value": "栈内存",
+          "line": 18,
+          "column": 0,
+          "depth": 3
+        },
+        "堆内存": {
+          "type": "header",
+          "text": "堆内存",
+          "value": "堆内存",
+          "line": 20,
+          "column": 0,
+          "depth": 3
+        },
+        "错误": {
+          "type": "header",
+          "text": "错误",
+          "value": "错误",
+          "line": 25,
+          "column": 0,
+          "depth": 3
+        },
+        "内存管理": {
+          "type": "header",
+          "text": "内存管理",
+          "value": "内存管理",
+          "line": 35,
+          "column": 0,
+          "depth": 2
+        },
+        "地址转换": {
+          "type": "header",
+          "text": "地址转换",
+          "value": "地址转换",
+          "line": 37,
+          "column": 0,
+          "depth": 3
+        },
+        "dynamic-relocation-动态重定位": {
+          "type": "header",
+          "text": "dynamic relocation 动态重定位",
+          "value": "dynamic-relocation-动态重定位",
+          "line": 39,
+          "column": 0,
+          "depth": 4
+        },
+        "分段": {
+          "type": "header",
+          "text": "分段",
+          "value": "分段",
+          "line": 47,
+          "column": 0,
+          "depth": 3
+        },
+        "空闲空间管理": {
+          "type": "header",
+          "text": "空闲空间管理",
+          "value": "空闲空间管理",
+          "line": 49,
+          "column": 0,
+          "depth": 3
+        },
+        "分页": {
+          "type": "header",
+          "text": "分页",
+          "value": "分页",
+          "line": 58,
+          "column": 0,
+          "depth": 3
+        },
+        "数据结构页表": {
+          "type": "header",
+          "text": "数据结构——页表",
+          "value": "数据结构页表",
+          "line": 62,
+          "column": 2,
+          "depth": 4
+        },
+        "交换空间": {
+          "type": "header",
+          "text": "交换空间",
+          "value": "交换空间",
+          "line": 66,
+          "column": 0,
+          "depth": 4
+        }
+      },
       "children": [],
       "parent": "9nuy42p9er5xi25in7cy0vq",
       "data": {}
@@ -7263,6 +7376,7 @@
       ],
       "anchors": {},
       "children": [
+        "o8vtdk26adi8wrh9i21g4cn",
         "r5o6mkov9u86wetjlrz98fy",
         "jgi61wg7dcnh322phvhaeja"
       ],
@@ -7307,6 +7421,36 @@
       "contentHash": "32fb10fca4a1285ea2ac40192961b307",
       "links": [],
       "anchors": {},
+      "children": [],
+      "parent": "y5kiwrofq5xhekxxqxajxas",
+      "data": {}
+    },
+    "o8vtdk26adi8wrh9i21g4cn": {
+      "id": "o8vtdk26adi8wrh9i21g4cn",
+      "title": "Instrution Set",
+      "desc": "",
+      "updated": 1660888282663,
+      "created": 1660888216213,
+      "custom": {},
+      "fname": "basic.hardware.cpu.instrution set",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "cf86285dfc0ba571c78997f4be0efd75",
+      "links": [],
+      "anchors": {
+        "risc-与-cisc": {
+          "type": "header",
+          "text": "RISC 与 CISC",
+          "value": "risc-与-cisc",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
       "children": [],
       "parent": "y5kiwrofq5xhekxxqxajxas",
       "data": {}
