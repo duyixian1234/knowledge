@@ -1,1 +1,39 @@
 <h1 id="io-management"><a aria-hidden="true" class="anchor-heading icon-link" href="#io-management"></a>IO Management</h1>
+<p><img src="https://res.weread.qq.com/wrepub/epub_30179184_142" alt="系统架构"></p>
+<h2 id="dmadirect-memory-access"><a aria-hidden="true" class="anchor-heading icon-link" href="#dmadirect-memory-access"></a>DMA(Direct Memory Access)</h2>
+<h2 id="设备驱动程序"><a aria-hidden="true" class="anchor-heading icon-link" href="#设备驱动程序"></a>设备驱动程序</h2>
+<p>大部分操作系统内核代码都是驱动程序。</p>
+<h2 id="磁盘驱动器"><a aria-hidden="true" class="anchor-heading icon-link" href="#磁盘驱动器"></a>磁盘驱动器</h2>
+<p>平均寻道时间</p>
+<h3 id="磁盘调度"><a aria-hidden="true" class="anchor-heading icon-link" href="#磁盘调度"></a>磁盘调度</h3>
+<ul>
+<li>最短寻道时间优先</li>
+<li>电梯算法（C-SCAN）</li>
+</ul>
+<h2 id="廉价冗余磁盘阵列raid"><a aria-hidden="true" class="anchor-heading icon-link" href="#廉价冗余磁盘阵列raid"></a>廉价冗余磁盘阵列（RAID）</h2>
+<ul>
+<li>RAID 0(条带化)</li>
+<li>RAID 1(镜像)</li>
+<li>RAID 4(奇偶校验)</li>
+<li>RAID 5(旋转奇偶校验)</li>
+</ul>
+<p><img src="https://res.weread.qq.com/wrepub/epub_30179184_187" alt="RAID"></p>
+<h2 id="文件系统"><a aria-hidden="true" class="anchor-heading icon-link" href="#文件系统"></a>文件系统</h2>
+<ul>
+<li>文件</li>
+<li>目录</li>
+<li>inode</li>
+<li>open 调用</li>
+<li>文件描述符</li>
+<li>fsync 调用</li>
+<li>硬链接，软链接，unlink</li>
+<li>文件系统检查程序（fsck）与日志</li>
+<li>ext3/ext4，NTFS，btrfs</li>
+</ul>
+<blockquote>
+<p>inode 是许多文件系统中使用的通用名称，用于描述保存给定文件的元数据的结构，例如其长度、权限以及其组成块的位置。这个名称至少可以追溯到 UNIX（如果不是早期的系统，可能还会追溯到 Multics）。它是 index node（索引节点）的缩写，因为 inode 号用于索引磁盘上的 inode 数组，以便查找该 inode 号对应的 inode。我们将看到，inode 的设计是文件系统设计的一个关键部分。大多数现代系统对于它们记录的每个文件都有这样的结构，但也许用了不同的名字（如 dnodes、fnodes 等）。</p>
+</blockquote>
+<h3 id="数据完整性与保护"><a aria-hidden="true" class="anchor-heading icon-link" href="#数据完整性与保护"></a>数据完整性与保护</h3>
+<ul>
+<li>校验和</li>
+</ul>
