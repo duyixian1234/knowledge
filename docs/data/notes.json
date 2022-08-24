@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1661326905765,
-      "created": 1661326905765,
+      "updated": 1661356240758,
+      "created": 1661356240758,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -24,7 +24,7 @@
       "id": "20dxao0uf8892hiam7spier",
       "title": "个人知识库",
       "desc": "",
-      "updated": 1661326798132,
+      "updated": 1661329495178,
       "created": 1660230632683,
       "custom": {
         "nav_order": 0,
@@ -37,8 +37,36 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "92a5cfca5fe7bbe489a37fc6f1ee44db",
+      "contentHash": "f09d74b3e2f0c54658985e819f4f1305",
       "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "security",
+          "alias": "security",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 1,
+              "offset": 154
+            },
+            "end": {
+              "line": 12,
+              "column": 13,
+              "offset": 166
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "security"
+          }
+        },
         {
           "type": "ref",
           "from": {
@@ -183,13 +211,13 @@
         "415pfd1z8i5k9amwp7gkzlp",
         "l0n8p6a22ndk4hwpm176fnn",
         "0cu9dg1bjx46x5iqhnr2ulv",
-        "v2lh3udv2jayn00p8d5y6vz",
-        "mlrj6341plkj3dqeyv6scpl"
+        "km1zcml9hswenekqbo2nopk",
+        "1ai3qa8sz2m4i82q2ueragi"
       ],
       "parent": "20dxao0uf8892hiam7spier",
       "data": {}
     },
-    "mlrj6341plkj3dqeyv6scpl": {
+    "1ai3qa8sz2m4i82q2ueragi": {
       "fname": "software-develop.design",
       "stub": true,
       "vault": {
@@ -199,9 +227,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1661326904436,
-      "created": 1661326904436,
-      "id": "mlrj6341plkj3dqeyv6scpl",
+      "updated": 1661356239466,
+      "created": 1661356239466,
+      "id": "1ai3qa8sz2m4i82q2ueragi",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -235,7 +263,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "mlrj6341plkj3dqeyv6scpl",
+      "parent": "1ai3qa8sz2m4i82q2ueragi",
       "data": {}
     },
     "tg8qotpb8mcbg975s6juars": {
@@ -279,7 +307,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "mlrj6341plkj3dqeyv6scpl",
+      "parent": "1ai3qa8sz2m4i82q2ueragi",
       "data": {}
     },
     "v03c4xgyco81innvtbwsn60": {
@@ -300,7 +328,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "mlrj6341plkj3dqeyv6scpl",
+      "parent": "1ai3qa8sz2m4i82q2ueragi",
       "data": {}
     },
     "fduzrhulz557t4yjske07k9": {
@@ -321,7 +349,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "mlrj6341plkj3dqeyv6scpl",
+      "parent": "1ai3qa8sz2m4i82q2ueragi",
       "data": {}
     },
     "shs2x76gfjtvi20xxziz4k2": {
@@ -342,7 +370,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "mlrj6341plkj3dqeyv6scpl",
+      "parent": "1ai3qa8sz2m4i82q2ueragi",
       "data": {}
     },
     "mqujgpqpm0qo99kdvrlv2kx": {
@@ -363,10 +391,10 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "mlrj6341plkj3dqeyv6scpl",
+      "parent": "1ai3qa8sz2m4i82q2ueragi",
       "data": {}
     },
-    "v2lh3udv2jayn00p8d5y6vz": {
+    "km1zcml9hswenekqbo2nopk": {
       "fname": "software-develop.config",
       "stub": true,
       "vault": {
@@ -376,9 +404,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1661326904435,
-      "created": 1661326904435,
-      "id": "v2lh3udv2jayn00p8d5y6vz",
+      "updated": 1661356239466,
+      "created": 1661356239466,
+      "id": "km1zcml9hswenekqbo2nopk",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -430,7 +458,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "v2lh3udv2jayn00p8d5y6vz",
+      "parent": "km1zcml9hswenekqbo2nopk",
       "data": {}
     },
     "0cu9dg1bjx46x5iqhnr2ulv": {
@@ -1131,9 +1159,9 @@
     },
     "a44h4sj21jfb19ymoovvuzr": {
       "id": "a44h4sj21jfb19ymoovvuzr",
-      "title": "安全",
+      "title": "信息安全",
       "desc": "",
-      "updated": 1660280746953,
+      "updated": 1661353989856,
       "created": 1660231836464,
       "custom": {},
       "fname": "security",
@@ -1143,14 +1171,306 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "3b02f9d4cb17804db74e842661f50ddc",
-      "links": [],
-      "anchors": {},
+      "contentHash": "07d47cc01b3cfbcb883bbd84e6da651e",
+      "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "security",
+            "id": "a44h4sj21jfb19ymoovvuzr",
+            "vaultName": "knowledge"
+          },
+          "value": "resources.books",
+          "position": {
+            "start": {
+              "line": 85,
+              "column": 1,
+              "offset": 1506
+            },
+            "end": {
+              "line": 85,
+              "column": 29,
+              "offset": 1534
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "resources.books",
+            "anchorHeader": "信息安全:#*"
+          }
+        },
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 1,
+              "offset": 154
+            },
+            "end": {
+              "line": 12,
+              "column": 13,
+              "offset": 166
+            },
+            "indent": []
+          },
+          "value": "security",
+          "alias": "security"
+        }
+      ],
+      "anchors": {
+        "定义": {
+          "type": "header",
+          "text": "定义",
+          "value": "定义",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "常见的安全风险": {
+          "type": "header",
+          "text": "常见的安全风险",
+          "value": "常见的安全风险",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "cia-三要素": {
+          "type": "header",
+          "text": "CIA 三要素",
+          "value": "cia-三要素",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        },
+        "机密性confidentiality": {
+          "type": "header",
+          "text": "机密性（Confidentiality）",
+          "value": "机密性confidentiality",
+          "line": 24,
+          "column": 0,
+          "depth": 3
+        },
+        "完整性integrity": {
+          "type": "header",
+          "text": "完整性（Integrity）",
+          "value": "完整性integrity",
+          "line": 28,
+          "column": 0,
+          "depth": 3
+        },
+        "可用性availability": {
+          "type": "header",
+          "text": "可用性（Availability）",
+          "value": "可用性availability",
+          "line": 32,
+          "column": 0,
+          "depth": 3
+        },
+        "攻击": {
+          "type": "header",
+          "text": "攻击",
+          "value": "攻击",
+          "line": 36,
+          "column": 0,
+          "depth": 2
+        },
+        "攻击类型": {
+          "type": "header",
+          "text": "攻击类型",
+          "value": "攻击类型",
+          "line": 38,
+          "column": 0,
+          "depth": 3
+        },
+        "拦截": {
+          "type": "header",
+          "text": "拦截",
+          "value": "拦截",
+          "line": 40,
+          "column": 0,
+          "depth": 4
+        },
+        "中断": {
+          "type": "header",
+          "text": "中断",
+          "value": "中断",
+          "line": 44,
+          "column": 0,
+          "depth": 4
+        },
+        "篡改": {
+          "type": "header",
+          "text": "篡改",
+          "value": "篡改",
+          "line": 48,
+          "column": 0,
+          "depth": 4
+        },
+        "伪造": {
+          "type": "header",
+          "text": "伪造",
+          "value": "伪造",
+          "line": 52,
+          "column": 0,
+          "depth": 4
+        },
+        "威胁漏洞和风险": {
+          "type": "header",
+          "text": "威胁、漏洞和风险",
+          "value": "威胁漏洞和风险",
+          "line": 56,
+          "column": 0,
+          "depth": 3
+        },
+        "风险管理": {
+          "type": "header",
+          "text": "风险管理",
+          "value": "风险管理",
+          "line": 64,
+          "column": 0,
+          "depth": 3
+        },
+        "事件响应": {
+          "type": "header",
+          "text": "事件响应",
+          "value": "事件响应",
+          "line": 72,
+          "column": 0,
+          "depth": 3
+        },
+        "纵深防御": {
+          "type": "header",
+          "text": "纵深防御",
+          "value": "纵深防御",
+          "line": 79,
+          "column": 0,
+          "depth": 3
+        },
+        "分层防御": {
+          "type": "header",
+          "text": "分层防御",
+          "value": "分层防御",
+          "line": 83,
+          "column": 0,
+          "depth": 4
+        },
+        "资源": {
+          "type": "header",
+          "text": "资源",
+          "value": "资源",
+          "line": 89,
+          "column": 0,
+          "depth": 2
+        }
+      },
       "children": [
+        "nmz6sghas6qb5lqnvxac95r",
+        "90kk6w4dlyax9ywochuy6om",
         "na2uf1zamwck4tfi1rcrmpv",
-        "5li2av5xhjpvuv0t0by2yyl"
+        "5li2av5xhjpvuv0t0by2yyl",
+        "suw6c5y5dd8ycq6bpqxzgi8"
       ],
       "parent": "20dxao0uf8892hiam7spier",
+      "data": {}
+    },
+    "suw6c5y5dd8ycq6bpqxzgi8": {
+      "id": "suw6c5y5dd8ycq6bpqxzgi8",
+      "title": "身份识别与身份验证",
+      "desc": "",
+      "updated": 1661354670153,
+      "created": 1661354151107,
+      "custom": {},
+      "fname": "security.identification and authentication",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "dc231bb750a1c9c5d419b335fe68dfc7",
+      "links": [],
+      "anchors": {
+        "概念": {
+          "type": "header",
+          "text": "概念",
+          "value": "概念",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "身份识别": {
+          "type": "header",
+          "text": "身份识别",
+          "value": "身份识别",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "身份验证": {
+          "type": "header",
+          "text": "身份验证",
+          "value": "身份验证",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "常见的身份识别和身份验证方法": {
+          "type": "header",
+          "text": "常见的身份识别和身份验证方法",
+          "value": "常见的身份识别和身份验证方法",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        },
+        "密码": {
+          "type": "header",
+          "text": "密码",
+          "value": "密码",
+          "line": 26,
+          "column": 0,
+          "depth": 3
+        },
+        "生物识别": {
+          "type": "header",
+          "text": "生物识别",
+          "value": "生物识别",
+          "line": 31,
+          "column": 0,
+          "depth": 3
+        },
+        "生物识别因子特征": {
+          "type": "header",
+          "text": "生物识别因子特征",
+          "value": "生物识别因子特征",
+          "line": 33,
+          "column": 0,
+          "depth": 4
+        },
+        "性能衡量": {
+          "type": "header",
+          "text": "性能衡量",
+          "value": "性能衡量",
+          "line": 43,
+          "column": 0,
+          "depth": 4
+        },
+        "硬件令牌": {
+          "type": "header",
+          "text": "硬件令牌",
+          "value": "硬件令牌",
+          "line": 51,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "a44h4sj21jfb19ymoovvuzr",
       "data": {}
     },
     "5li2av5xhjpvuv0t0by2yyl": {
@@ -1191,6 +1511,170 @@
       "contentHash": "43949d8bb661c1977ccefda1ad37d070",
       "links": [],
       "anchors": {},
+      "children": [],
+      "parent": "a44h4sj21jfb19ymoovvuzr",
+      "data": {}
+    },
+    "90kk6w4dlyax9ywochuy6om": {
+      "id": "90kk6w4dlyax9ywochuy6om",
+      "title": "授权与访问控制",
+      "desc": "",
+      "updated": 1661355338642,
+      "created": 1661354689000,
+      "custom": {},
+      "fname": "security.Authorization and Access Control",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "29d09ae7deaf184b2cb01a612d9c8112",
+      "links": [],
+      "anchors": {
+        "概念": {
+          "type": "header",
+          "text": "概念",
+          "value": "概念",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "访问控制": {
+          "type": "header",
+          "text": "访问控制",
+          "value": "访问控制",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "基本任务": {
+          "type": "header",
+          "text": "基本任务",
+          "value": "基本任务",
+          "line": 14,
+          "column": 0,
+          "depth": 3
+        },
+        "实施访问控制": {
+          "type": "header",
+          "text": "实施访问控制",
+          "value": "实施访问控制",
+          "line": 21,
+          "column": 0,
+          "depth": 2
+        },
+        "访问控制表access-control-listacl": {
+          "type": "header",
+          "text": "访问控制表（Access Control List，ACL）",
+          "value": "访问控制表access-control-listacl",
+          "line": 23,
+          "column": 0,
+          "depth": 3
+        },
+        "基于能力令牌的访问控制": {
+          "type": "header",
+          "text": "基于能力（令牌）的访问控制",
+          "value": "基于能力令牌的访问控制",
+          "line": 28,
+          "column": 0,
+          "depth": 3
+        },
+        "访问控制模型": {
+          "type": "header",
+          "text": "访问控制模型",
+          "value": "访问控制模型",
+          "line": 30,
+          "column": 0,
+          "depth": 2
+        },
+        "物理访问控制": {
+          "type": "header",
+          "text": "物理访问控制",
+          "value": "物理访问控制",
+          "line": 43,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "a44h4sj21jfb19ymoovvuzr",
+      "data": {}
+    },
+    "nmz6sghas6qb5lqnvxac95r": {
+      "id": "nmz6sghas6qb5lqnvxac95r",
+      "title": "审计和问责",
+      "desc": "",
+      "updated": 1661355916016,
+      "created": 1661355421516,
+      "custom": {},
+      "fname": "security.Audit and Accountability",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "b04317cf1b26ab1a4ab8386ab630b7fe",
+      "links": [],
+      "anchors": {
+        "问责": {
+          "type": "header",
+          "text": "问责",
+          "value": "问责",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "问责的安全效益": {
+          "type": "header",
+          "text": "问责的安全效益",
+          "value": "问责的安全效益",
+          "line": 12,
+          "column": 0,
+          "depth": 3
+        },
+        "审计": {
+          "type": "header",
+          "text": "审计",
+          "value": "审计",
+          "line": 19,
+          "column": 0,
+          "depth": 2
+        },
+        "审计对象": {
+          "type": "header",
+          "text": "审计对象",
+          "value": "审计对象",
+          "line": 23,
+          "column": 0,
+          "depth": 3
+        },
+        "日志记录": {
+          "type": "header",
+          "text": "日志记录",
+          "value": "日志记录",
+          "line": 28,
+          "column": 0,
+          "depth": 3
+        },
+        "监视": {
+          "type": "header",
+          "text": "监视",
+          "value": "监视",
+          "line": 34,
+          "column": 0,
+          "depth": 3
+        },
+        "审计与评估": {
+          "type": "header",
+          "text": "审计与评估",
+          "value": "审计与评估",
+          "line": 38,
+          "column": 0,
+          "depth": 3
+        }
+      },
       "children": [],
       "parent": "a44h4sj21jfb19ymoovvuzr",
       "data": {}
@@ -1381,7 +1865,7 @@
       "id": "b553jla24o3crg47tric4yu",
       "title": "Books",
       "desc": "",
-      "updated": 1660722568469,
+      "updated": 1661329450701,
       "created": 1660288307860,
       "custom": {},
       "fname": "resources.books",
@@ -1391,7 +1875,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "110a1edf37985a122236fe5f61ab1a72",
+      "contentHash": "bb5f2c28e334e7873f4845c44a6d7b13",
       "links": [
         {
           "from": {
@@ -1409,6 +1893,27 @@
               "line": 4,
               "column": 24,
               "offset": 31
+            },
+            "indent": []
+          },
+          "value": "resources.books"
+        },
+        {
+          "from": {
+            "fname": "security",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 85,
+              "column": 1,
+              "offset": 1506
+            },
+            "end": {
+              "line": 85,
+              "column": 29,
+              "offset": 1534
             },
             "indent": []
           },
@@ -1525,7 +2030,7 @@
           "type": "header",
           "text": "基础",
           "value": "基础",
-          "line": 7,
+          "line": 8,
           "column": 0,
           "depth": 2
         },
@@ -1533,7 +2038,7 @@
           "type": "header",
           "text": "Python",
           "value": "python",
-          "line": 11,
+          "line": 12,
           "column": 0,
           "depth": 2
         },
@@ -1541,7 +2046,7 @@
           "type": "header",
           "text": "Ansible",
           "value": "ansible",
-          "line": 15,
+          "line": 16,
           "column": 0,
           "depth": 2
         },
@@ -1549,7 +2054,7 @@
           "type": "header",
           "text": "Flask",
           "value": "flask",
-          "line": 19,
+          "line": 20,
           "column": 0,
           "depth": 2
         },
@@ -1557,7 +2062,7 @@
           "type": "header",
           "text": "Django",
           "value": "django",
-          "line": 24,
+          "line": 25,
           "column": 0,
           "depth": 2
         },
@@ -1565,7 +2070,15 @@
           "type": "header",
           "text": "操作系统",
           "value": "操作系统",
-          "line": 28,
+          "line": 29,
+          "column": 0,
+          "depth": 2
+        },
+        "信息安全": {
+          "type": "header",
+          "text": "信息安全",
+          "value": "信息安全",
+          "line": 33,
           "column": 0,
           "depth": 2
         }
@@ -8644,7 +9157,7 @@
       "id": "20dxao0uf8892hiam7spier",
       "title": "个人知识库",
       "desc": "",
-      "updated": 1661326798132,
+      "updated": 1661329495178,
       "created": 1660230632683,
       "custom": {
         "nav_order": 0,
@@ -8657,8 +9170,36 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "92a5cfca5fe7bbe489a37fc6f1ee44db",
+      "contentHash": "f09d74b3e2f0c54658985e819f4f1305",
       "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "security",
+          "alias": "security",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 1,
+              "offset": 154
+            },
+            "end": {
+              "line": 12,
+              "column": 13,
+              "offset": 166
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "security"
+          }
+        },
         {
           "type": "ref",
           "from": {
@@ -8772,14 +9313,14 @@
       ],
       "parent": null,
       "data": {},
-      "body": "\n记录我在工作和学习中掌握到的软件开发主题的知识。\n\n## 已完成\n\n![[个人介绍 | about me#简介:#*]]\n![[programming-languages.python#介绍:#*]]\n![[basic.software.operating-system#核心:#*]]\n\n## 施工中\n"
+      "body": "\n记录我在工作和学习中掌握到的软件开发主题的知识。\n\n## 已完成\n\n![[个人介绍 | about me#简介:#*]]\n![[programming-languages.python#介绍:#*]]\n![[basic.software.operating-system#核心:#*]]\n\n## 施工中\n\n[[security]]\n"
     }
   ],
   "noteIndex": {
     "id": "20dxao0uf8892hiam7spier",
     "title": "个人知识库",
     "desc": "",
-    "updated": 1661326798132,
+    "updated": 1661329495178,
     "created": 1660230632683,
     "custom": {
       "nav_order": 0,
@@ -8792,8 +9333,36 @@
       "selfContained": true,
       "name": "knowledge"
     },
-    "contentHash": "92a5cfca5fe7bbe489a37fc6f1ee44db",
+    "contentHash": "f09d74b3e2f0c54658985e819f4f1305",
     "links": [
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "20dxao0uf8892hiam7spier",
+          "vaultName": "knowledge"
+        },
+        "value": "security",
+        "alias": "security",
+        "position": {
+          "start": {
+            "line": 12,
+            "column": 1,
+            "offset": 154
+          },
+          "end": {
+            "line": 12,
+            "column": 13,
+            "offset": 166
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "security"
+        }
+      },
       {
         "type": "ref",
         "from": {
@@ -8907,7 +9476,7 @@
     ],
     "parent": null,
     "data": {},
-    "body": "\n记录我在工作和学习中掌握到的软件开发主题的知识。\n\n## 已完成\n\n![[个人介绍 | about me#简介:#*]]\n![[programming-languages.python#介绍:#*]]\n![[basic.software.operating-system#核心:#*]]\n\n## 施工中\n"
+    "body": "\n记录我在工作和学习中掌握到的软件开发主题的知识。\n\n## 已完成\n\n![[个人介绍 | about me#简介:#*]]\n![[programming-languages.python#介绍:#*]]\n![[basic.software.operating-system#核心:#*]]\n\n## 施工中\n\n[[security]]\n"
   },
   "vaults": [
     {
