@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1661052781476,
-      "created": 1661052781476,
+      "updated": 1661326905765,
+      "created": 1661326905765,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -24,7 +24,7 @@
       "id": "20dxao0uf8892hiam7spier",
       "title": "个人知识库",
       "desc": "",
-      "updated": 1660725353248,
+      "updated": 1661326798132,
       "created": 1660230632683,
       "custom": {
         "nav_order": 0,
@@ -37,36 +37,8 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "2f99593785f45728c4002dc4e592d509",
+      "contentHash": "92a5cfca5fe7bbe489a37fc6f1ee44db",
       "links": [
-        {
-          "type": "wiki",
-          "from": {
-            "fname": "root",
-            "id": "20dxao0uf8892hiam7spier",
-            "vaultName": "knowledge"
-          },
-          "value": "basic.software.operating-system",
-          "alias": "basic.software.operating-system",
-          "position": {
-            "start": {
-              "line": 11,
-              "column": 1,
-              "offset": 121
-            },
-            "end": {
-              "line": 11,
-              "column": 36,
-              "offset": 156
-            },
-            "indent": []
-          },
-          "xvault": false,
-          "sameFile": false,
-          "to": {
-            "fname": "basic.software.operating-system"
-          }
-        },
         {
           "type": "ref",
           "from": {
@@ -79,12 +51,12 @@
             "start": {
               "line": 6,
               "column": 1,
-              "offset": 40
+              "offset": 35
             },
             "end": {
               "line": 6,
               "column": 27,
-              "offset": 66
+              "offset": 61
             },
             "indent": []
           },
@@ -106,12 +78,12 @@
             "start": {
               "line": 7,
               "column": 1,
-              "offset": 68
+              "offset": 62
             },
             "end": {
               "line": 7,
               "column": 40,
-              "offset": 107
+              "offset": 101
             },
             "indent": []
           },
@@ -119,6 +91,33 @@
           "to": {
             "fname": "programming-languages.python",
             "anchorHeader": "介绍:#*"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "basic.software.operating-system",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 1,
+              "offset": 102
+            },
+            "end": {
+              "line": 8,
+              "column": 43,
+              "offset": 144
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "basic.software.operating-system",
+            "anchorHeader": "核心:#*"
           }
         }
       ],
@@ -135,7 +134,7 @@
           "type": "header",
           "text": "施工中",
           "value": "施工中",
-          "line": 15,
+          "line": 16,
           "column": 0,
           "depth": 2
         }
@@ -168,29 +167,29 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "0dfa212dedf215b05611934dcaf2f468",
+      "contentHash": "c6385963c9b2edb9d4d3d1e7a35376c3",
       "links": [],
       "anchors": {},
       "children": [
         "rmm2u11fx963i330c4adzsb",
         "czseabqijp0teh66cxifpxr",
         "oxntr7pomidy0b02jx0ch0k",
+        "i4aolyivyc5ooa7ldq2k3vu",
+        "olreo7137fdt59hwv5pnwe9",
         "qu30gr2fu9l2qy6dpy6wjs6",
         "mbqttms3dcvg0rrucdg1cfc",
         "8pwefou38xgvyum1pfgl3r8",
         "m86229vfqs59h7tbphp9j45",
         "415pfd1z8i5k9amwp7gkzlp",
         "l0n8p6a22ndk4hwpm176fnn",
-        "i4aolyivyc5ooa7ldq2k3vu",
         "0cu9dg1bjx46x5iqhnr2ulv",
-        "olreo7137fdt59hwv5pnwe9",
-        "0na1dj83a3sogeip3743icv",
-        "947rrq7c6dnkkkgdw6083i2"
+        "v2lh3udv2jayn00p8d5y6vz",
+        "mlrj6341plkj3dqeyv6scpl"
       ],
       "parent": "20dxao0uf8892hiam7spier",
       "data": {}
     },
-    "947rrq7c6dnkkkgdw6083i2": {
+    "mlrj6341plkj3dqeyv6scpl": {
       "fname": "software-develop.design",
       "stub": true,
       "vault": {
@@ -200,15 +199,15 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1661052779597,
-      "created": 1661052779597,
-      "id": "947rrq7c6dnkkkgdw6083i2",
+      "updated": 1661326904436,
+      "created": 1661326904436,
+      "id": "mlrj6341plkj3dqeyv6scpl",
       "desc": "",
       "links": [],
       "anchors": {},
       "children": [
-        "shs2x76gfjtvi20xxziz4k2",
         "mqujgpqpm0qo99kdvrlv2kx",
+        "shs2x76gfjtvi20xxziz4k2",
         "fduzrhulz557t4yjske07k9",
         "v03c4xgyco81innvtbwsn60",
         "tg8qotpb8mcbg975s6juars",
@@ -232,11 +231,11 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "e7508964b69bef4cbbe9c71166b6f154",
+      "contentHash": "1e60966cd795129074ca9d6852742078",
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "947rrq7c6dnkkkgdw6083i2",
+      "parent": "mlrj6341plkj3dqeyv6scpl",
       "data": {}
     },
     "tg8qotpb8mcbg975s6juars": {
@@ -253,7 +252,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "f6a70133dbffe415c66a4818f1c0b778",
+      "contentHash": "bde34f2cb4d718092fa46f8ed1be11c4",
       "links": [
         {
           "from": {
@@ -265,12 +264,12 @@
             "start": {
               "line": 46,
               "column": 3,
-              "offset": 1624
+              "offset": 1579
             },
             "end": {
               "line": 46,
               "column": 34,
-              "offset": 1655
+              "offset": 1610
             },
             "indent": []
           },
@@ -280,7 +279,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "947rrq7c6dnkkkgdw6083i2",
+      "parent": "mlrj6341plkj3dqeyv6scpl",
       "data": {}
     },
     "v03c4xgyco81innvtbwsn60": {
@@ -297,11 +296,11 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "6026449d46c81ecf049b261b57ac391a",
+      "contentHash": "38157bc63e47f8701d6be6e23c22ccdb",
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "947rrq7c6dnkkkgdw6083i2",
+      "parent": "mlrj6341plkj3dqeyv6scpl",
       "data": {}
     },
     "fduzrhulz557t4yjske07k9": {
@@ -318,32 +317,11 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "1412353d2f04d7d2d859227aa163458f",
+      "contentHash": "ca48f0c3e50ee5643efbd519225ad4e3",
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "947rrq7c6dnkkkgdw6083i2",
-      "data": {}
-    },
-    "mqujgpqpm0qo99kdvrlv2kx": {
-      "id": "mqujgpqpm0qo99kdvrlv2kx",
-      "title": "DRY",
-      "desc": "",
-      "updated": 1660721981036,
-      "created": 1660721981036,
-      "custom": {},
-      "fname": "software-develop.design.DRY",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "be6df26b2af1c5186be2ddb017a4f3a2",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "947rrq7c6dnkkkgdw6083i2",
+      "parent": "mlrj6341plkj3dqeyv6scpl",
       "data": {}
     },
     "shs2x76gfjtvi20xxziz4k2": {
@@ -360,14 +338,35 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "8988ac1bd62ac5bf6662123d2c955c96",
+      "contentHash": "2d2b567d93ac617229f8bc77dc1b782c",
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "947rrq7c6dnkkkgdw6083i2",
+      "parent": "mlrj6341plkj3dqeyv6scpl",
       "data": {}
     },
-    "0na1dj83a3sogeip3743icv": {
+    "mqujgpqpm0qo99kdvrlv2kx": {
+      "id": "mqujgpqpm0qo99kdvrlv2kx",
+      "title": "DRY",
+      "desc": "",
+      "updated": 1660721981036,
+      "created": 1660721981036,
+      "custom": {},
+      "fname": "software-develop.design.DRY",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "07cc299b7b4f04d8249c16f9ad969429",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "mlrj6341plkj3dqeyv6scpl",
+      "data": {}
+    },
+    "v2lh3udv2jayn00p8d5y6vz": {
       "fname": "software-develop.config",
       "stub": true,
       "vault": {
@@ -377,9 +376,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1661052779596,
-      "created": 1661052779596,
-      "id": "0na1dj83a3sogeip3743icv",
+      "updated": 1661326904435,
+      "created": 1661326904435,
+      "id": "v2lh3udv2jayn00p8d5y6vz",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -404,7 +403,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "f4663f74d4e719a104b13586ae583e93",
+      "contentHash": "f9e9e799487aafe29b67f5a6746e0993",
       "links": [
         {
           "from": {
@@ -416,12 +415,12 @@
             "start": {
               "line": 8,
               "column": 10,
-              "offset": 153
+              "offset": 146
             },
             "end": {
               "line": 8,
               "column": 42,
-              "offset": 185
+              "offset": 178
             },
             "indent": []
           },
@@ -431,74 +430,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "0na1dj83a3sogeip3743icv",
-      "data": {}
-    },
-    "olreo7137fdt59hwv5pnwe9": {
-      "id": "olreo7137fdt59hwv5pnwe9",
-      "title": "VCS",
-      "desc": "",
-      "updated": 1660279200442,
-      "created": 1660279200442,
-      "custom": {},
-      "fname": "software-develop.VCS",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "77d6fcbfe2ca79f8c4b881f3e2d0a415",
-      "links": [],
-      "anchors": {},
-      "children": [
-        "xxrwfft52a57a8c4tfrxnu3"
-      ],
-      "parent": "i5z2gw9ou7tmimbwdsltnnz",
-      "data": {}
-    },
-    "xxrwfft52a57a8c4tfrxnu3": {
-      "id": "xxrwfft52a57a8c4tfrxnu3",
-      "title": "git",
-      "desc": "",
-      "updated": 1660279209410,
-      "created": 1660279209410,
-      "custom": {},
-      "fname": "software-develop.VCS.git",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "10003e9e9d53d3adb96ffbead666500c",
-      "links": [
-        {
-          "from": {
-            "fname": "about me",
-            "vaultName": "knowledge"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 53,
-              "column": 3,
-              "offset": 1814
-            },
-            "end": {
-              "line": 53,
-              "column": 31,
-              "offset": 1842
-            },
-            "indent": []
-          },
-          "value": "software-develop.VCS.git",
-          "alias": "software-develop.VCS.git"
-        }
-      ],
-      "anchors": {},
-      "children": [],
-      "parent": "olreo7137fdt59hwv5pnwe9",
+      "parent": "v2lh3udv2jayn00p8d5y6vz",
       "data": {}
     },
     "0cu9dg1bjx46x5iqhnr2ulv": {
@@ -515,7 +447,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "bc1142d23ca631c1ae8897583a785368",
+      "contentHash": "89892fb17884d130306613ac73792049",
       "links": [],
       "anchors": {},
       "children": [
@@ -538,7 +470,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "38ac2f5adbd51c62b2f041c22defe15e",
+      "contentHash": "dceed8677b4b82597c2f06c711e6c443",
       "links": [],
       "anchors": {},
       "children": [
@@ -561,7 +493,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "2dadc40e705bbbeab52559f66d7d5a85",
+      "contentHash": "55ca17d771edfc21d40d82661dbd98b1",
       "links": [
         {
           "from": {
@@ -573,12 +505,12 @@
             "start": {
               "line": 8,
               "column": 11,
-              "offset": 140
+              "offset": 133
             },
             "end": {
               "line": 8,
               "column": 63,
-              "offset": 192
+              "offset": 185
             },
             "indent": []
           },
@@ -589,50 +521,6 @@
       "anchors": {},
       "children": [],
       "parent": "j6uvrzfjjscajfmzbvgt71t",
-      "data": {}
-    },
-    "i4aolyivyc5ooa7ldq2k3vu": {
-      "id": "i4aolyivyc5ooa7ldq2k3vu",
-      "title": "Testing",
-      "desc": "",
-      "updated": 1660279657218,
-      "created": 1660279657218,
-      "custom": {},
-      "fname": "software-develop.Testing",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "62583f79db5872b4f07663f47ecbef5a",
-      "links": [],
-      "anchors": {},
-      "children": [
-        "arbd8296q9vfp2tql29v3rf"
-      ],
-      "parent": "i5z2gw9ou7tmimbwdsltnnz",
-      "data": {}
-    },
-    "arbd8296q9vfp2tql29v3rf": {
-      "id": "arbd8296q9vfp2tql29v3rf",
-      "title": "Unit Testing",
-      "desc": "",
-      "updated": 1660279990991,
-      "created": 1660279673198,
-      "custom": {},
-      "fname": "software-develop.Testing.Unit Testing",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "0aa79df38f94ccde58febea9a6df08e5",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "i4aolyivyc5ooa7ldq2k3vu",
       "data": {}
     },
     "l0n8p6a22ndk4hwpm176fnn": {
@@ -649,7 +537,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "4a349cb4190868f335e000b1fa7c58d6",
+      "contentHash": "de017b0d63c7a0f7f01fcc4dfbafc9f6",
       "links": [
         {
           "from": {
@@ -661,12 +549,12 @@
             "start": {
               "line": 47,
               "column": 3,
-              "offset": 1659
+              "offset": 1613
             },
             "end": {
               "line": 47,
               "column": 35,
-              "offset": 1691
+              "offset": 1645
             },
             "indent": []
           },
@@ -693,7 +581,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "af537b57a514f1d7087567c4edd0f405",
+      "contentHash": "ea8f198ccf503e9973edced9f9a70a6e",
       "links": [],
       "anchors": {},
       "children": [],
@@ -714,7 +602,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "946e1a896438f5a77bfc718b599c77a5",
+      "contentHash": "74d1a09dafff00a61526877375a4950e",
       "links": [],
       "anchors": {},
       "children": [],
@@ -735,7 +623,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "50ab460dfafa00a535a9f454d55eab65",
+      "contentHash": "1ed2b463184bddd7bff987247ea96c2f",
       "links": [],
       "anchors": {},
       "children": [],
@@ -756,7 +644,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "1760c4293941e81821c38fd0be624afb",
+      "contentHash": "b898642e0d81096272da47526607ba0a",
       "links": [],
       "anchors": {},
       "children": [],
@@ -777,7 +665,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "b3f963f86087b9933919573dc54e8635",
+      "contentHash": "126adff9f67a50f1cebd53c969eb0e4a",
       "links": [],
       "anchors": {},
       "children": [
@@ -801,7 +689,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "57f9f7eb65fc5f60041fc978895ccb67",
+      "contentHash": "63fd2d4d4e411009238e219ddf159637",
       "links": [],
       "anchors": {
         "bat": {
@@ -903,11 +791,122 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "9f2c6eb070cc43c454a99026126962a2",
+      "contentHash": "1a931aad35e773e4bcd162284c03e05a",
       "links": [],
       "anchors": {},
       "children": [],
       "parent": "qu30gr2fu9l2qy6dpy6wjs6",
+      "data": {}
+    },
+    "olreo7137fdt59hwv5pnwe9": {
+      "id": "olreo7137fdt59hwv5pnwe9",
+      "title": "VCS",
+      "desc": "",
+      "updated": 1660279200442,
+      "created": 1660279200442,
+      "custom": {},
+      "fname": "software-develop.VCS",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "2ecd4e5ab90cc84b04745472c88696e9",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "xxrwfft52a57a8c4tfrxnu3"
+      ],
+      "parent": "i5z2gw9ou7tmimbwdsltnnz",
+      "data": {}
+    },
+    "xxrwfft52a57a8c4tfrxnu3": {
+      "id": "xxrwfft52a57a8c4tfrxnu3",
+      "title": "git",
+      "desc": "",
+      "updated": 1660279209410,
+      "created": 1660279209410,
+      "custom": {},
+      "fname": "software-develop.VCS.git",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "fa9ffd17dd2d672c8d75f548428eefad",
+      "links": [
+        {
+          "from": {
+            "fname": "about me",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 53,
+              "column": 3,
+              "offset": 1762
+            },
+            "end": {
+              "line": 53,
+              "column": 31,
+              "offset": 1790
+            },
+            "indent": []
+          },
+          "value": "software-develop.VCS.git",
+          "alias": "software-develop.VCS.git"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "olreo7137fdt59hwv5pnwe9",
+      "data": {}
+    },
+    "i4aolyivyc5ooa7ldq2k3vu": {
+      "id": "i4aolyivyc5ooa7ldq2k3vu",
+      "title": "Testing",
+      "desc": "",
+      "updated": 1660279657218,
+      "created": 1660279657218,
+      "custom": {},
+      "fname": "software-develop.Testing",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "3b8836fc7c0e77ed8865662248eb88b6",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "arbd8296q9vfp2tql29v3rf"
+      ],
+      "parent": "i5z2gw9ou7tmimbwdsltnnz",
+      "data": {}
+    },
+    "arbd8296q9vfp2tql29v3rf": {
+      "id": "arbd8296q9vfp2tql29v3rf",
+      "title": "Unit Testing",
+      "desc": "",
+      "updated": 1660279990991,
+      "created": 1660279673198,
+      "custom": {},
+      "fname": "software-develop.Testing.Unit Testing",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "4af487125729f663182a59d22c44b490",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "i4aolyivyc5ooa7ldq2k3vu",
       "data": {}
     },
     "oxntr7pomidy0b02jx0ch0k": {
@@ -924,7 +923,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "e02557d232c165c5e08f3a075a89a69f",
+      "contentHash": "8ae7b5d6271140f1c01fa1a32a4df967",
       "links": [
         {
           "from": {
@@ -936,12 +935,12 @@
             "start": {
               "line": 52,
               "column": 3,
-              "offset": 1763
+              "offset": 1712
             },
             "end": {
               "line": 52,
               "column": 26,
-              "offset": 1786
+              "offset": 1735
             },
             "indent": []
           },
@@ -968,7 +967,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "626b92724540be165c5dd27f6ca21935",
+      "contentHash": "266a2835eb7b8bfbb0e3b3413025bcda",
       "links": [
         {
           "from": {
@@ -980,12 +979,12 @@
             "start": {
               "line": 52,
               "column": 27,
-              "offset": 1787
+              "offset": 1736
             },
             "end": {
               "line": 52,
               "column": 50,
-              "offset": 1810
+              "offset": 1759
             },
             "indent": []
           },
@@ -1012,17 +1011,38 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "f06ece13d5916c06d4238005714b950a",
+      "contentHash": "fde9f6ec55afac44d8710f708f7985e7",
       "links": [],
       "anchors": {},
       "children": [
         "uyjg9t3i185v6fooeyjsj0m",
         "orylzgbypdj9g3c2kxpw03i",
-        "r44zlpkuq0s59ykohntdjhb",
         "arfbr1udhmojggta8lrpeqs",
-        "tv4vqfov2ijkqg2rvriiqun"
+        "tv4vqfov2ijkqg2rvriiqun",
+        "r44zlpkuq0s59ykohntdjhb"
       ],
       "parent": "i5z2gw9ou7tmimbwdsltnnz",
+      "data": {}
+    },
+    "r44zlpkuq0s59ykohntdjhb": {
+      "id": "r44zlpkuq0s59ykohntdjhb",
+      "title": "gRPC",
+      "desc": "",
+      "updated": 1660279635169,
+      "created": 1660279635169,
+      "custom": {},
+      "fname": "software-develop.API.gRPC",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "7eccfa17748d8d9ea2dfd11d3d3d9c85",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "rmm2u11fx963i330c4adzsb",
       "data": {}
     },
     "tv4vqfov2ijkqg2rvriiqun": {
@@ -1039,7 +1059,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "6fe1a6a41aacf556d4a1f798cb3b861d",
+      "contentHash": "4757333236090479d82da5255d6a9301",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1060,28 +1080,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "0b4b0d67c1120a712acd4c678bbc1c27",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "rmm2u11fx963i330c4adzsb",
-      "data": {}
-    },
-    "r44zlpkuq0s59ykohntdjhb": {
-      "id": "r44zlpkuq0s59ykohntdjhb",
-      "title": "gRPC",
-      "desc": "",
-      "updated": 1660279635169,
-      "created": 1660279635169,
-      "custom": {},
-      "fname": "software-develop.API.gRPC",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "a85781ac9579f7c377322c9689fc06ff",
+      "contentHash": "0ff5685984e34a3b84beb1def57b123d",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1102,7 +1101,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "a6ece53c82009c59e3c50502ee3d651e",
+      "contentHash": "a811d600f0caa531f8e9b70dccd95709",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1123,7 +1122,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "7cc9888609d977ec6beed0f50a9810dc",
+      "contentHash": "2964ec4d5475947126f642baaa1eb719",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1144,7 +1143,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "df5541b5d52f96544cc97f884615fd7c",
+      "contentHash": "3b02f9d4cb17804db74e842661f50ddc",
       "links": [],
       "anchors": {},
       "children": [
@@ -1168,7 +1167,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "267a66bd71b4b3cbf2904642b3ebf16e",
+      "contentHash": "f831e81a9376a2f8b68d2a7dab786d07",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1189,7 +1188,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "78419c1f2582e4475aa9079175aa901f",
+      "contentHash": "43949d8bb661c1977ccefda1ad37d070",
       "links": [],
       "anchors": {},
       "children": [],
@@ -1210,7 +1209,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "a085e170a9c1cd36f901a154d6f7b32e",
+      "contentHash": "bf5e4f212d29056e995576541751258d",
       "links": [],
       "anchors": {},
       "children": [
@@ -1248,12 +1247,12 @@
             "start": {
               "line": 63,
               "column": 1,
-              "offset": 2271
+              "offset": 2209
             },
             "end": {
               "line": 63,
               "column": 31,
-              "offset": 2301
+              "offset": 2239
             },
             "indent": []
           },
@@ -1288,7 +1287,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "420f67eb75c02d484614504233a3e1a3",
+      "contentHash": "1eeac86d871aa70088e2b48efa9bd19f",
       "links": [
         {
           "from": {
@@ -1300,12 +1299,12 @@
             "start": {
               "line": 64,
               "column": 1,
-              "offset": 2303
+              "offset": 2240
             },
             "end": {
               "line": 64,
               "column": 31,
-              "offset": 2333
+              "offset": 2270
             },
             "indent": []
           },
@@ -1352,12 +1351,12 @@
             "start": {
               "line": 62,
               "column": 1,
-              "offset": 2239
+              "offset": 2178
             },
             "end": {
               "line": 62,
               "column": 31,
-              "offset": 2269
+              "offset": 2208
             },
             "indent": []
           },
@@ -1392,7 +1391,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "30e3b0c2b9ab454acb5038a5ee7fafd1",
+      "contentHash": "110a1edf37985a122236fe5f61ab1a72",
       "links": [
         {
           "from": {
@@ -1404,12 +1403,12 @@
             "start": {
               "line": 4,
               "column": 1,
-              "offset": 11
+              "offset": 8
             },
             "end": {
               "line": 4,
               "column": 24,
-              "offset": 34
+              "offset": 31
             },
             "indent": []
           },
@@ -1425,12 +1424,12 @@
             "start": {
               "line": 61,
               "column": 1,
-              "offset": 2207
+              "offset": 2147
             },
             "end": {
               "line": 61,
               "column": 31,
-              "offset": 2237
+              "offset": 2177
             },
             "indent": []
           },
@@ -1446,12 +1445,12 @@
             "start": {
               "line": 16,
               "column": 1,
-              "offset": 80
+              "offset": 65
             },
             "end": {
               "line": 16,
               "column": 29,
-              "offset": 108
+              "offset": 93
             },
             "indent": []
           },
@@ -1467,12 +1466,12 @@
             "start": {
               "line": 10,
               "column": 1,
-              "offset": 456
+              "offset": 447
             },
             "end": {
               "line": 10,
               "column": 32,
-              "offset": 487
+              "offset": 478
             },
             "indent": []
           },
@@ -1488,12 +1487,12 @@
             "start": {
               "line": 14,
               "column": 1,
-              "offset": 133
+              "offset": 120
             },
             "end": {
               "line": 14,
               "column": 31,
-              "offset": 163
+              "offset": 150
             },
             "indent": []
           },
@@ -1509,12 +1508,12 @@
             "start": {
               "line": 16,
               "column": 1,
-              "offset": 637
+              "offset": 622
             },
             "end": {
               "line": 16,
               "column": 30,
-              "offset": 666
+              "offset": 651
             },
             "indent": []
           },
@@ -1589,10 +1588,12 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "565645e405ac9f3cff4db81a6f9421f7",
+      "contentHash": "424c0a2c1822e72e2c89dc0c8ffdc423",
       "links": [],
       "anchors": {},
       "children": [
+        "sqm9rnf6pqj48jq2dcmu0ru",
+        "w1i2dw4t9w6wg81gl79dpks",
         "xxicc2psl6e5w1svw3bkh3u",
         "969nhjubxljoqfh93w6cd8p",
         "timf6fz47pcux97itx9t9pz",
@@ -1602,10 +1603,8 @@
         "72lkyo4ytbsj2w2w7rkdor7",
         "l0uijxo05lrlktn8uszxu3a",
         "qfmuh4r8hspzcvalako02we",
-        "sqm9rnf6pqj48jq2dcmu0ru",
         "i7qra5ip0gwchs30f5at7rx",
         "n2k5mir21lfaxzegmq4vs47",
-        "w1i2dw4t9w6wg81gl79dpks",
         "1s674rtewls01u0m0zuze3n"
       ],
       "parent": "20dxao0uf8892hiam7spier",
@@ -1637,61 +1636,17 @@
             "start": {
               "line": 20,
               "column": 3,
-              "offset": 496
+              "offset": 477
             },
             "end": {
               "line": 20,
               "column": 39,
-              "offset": 532
+              "offset": 513
             },
             "indent": []
           },
           "value": "programming-languages.typescript",
           "alias": "programming-languages.typescript"
-        }
-      ],
-      "anchors": {},
-      "children": [],
-      "parent": "oasz9131g7t831nyxuti1qf",
-      "data": {}
-    },
-    "w1i2dw4t9w6wg81gl79dpks": {
-      "id": "w1i2dw4t9w6wg81gl79dpks",
-      "title": "结构化编程",
-      "desc": "",
-      "updated": 1660317992321,
-      "created": 1660317986745,
-      "custom": {},
-      "fname": "programming-languages.Structural Programming",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "34760e672989dcb7f917a11ded614d25",
-      "links": [
-        {
-          "from": {
-            "fname": "programming-languages.python",
-            "vaultName": "knowledge"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 11,
-              "column": 18,
-              "offset": 237
-            },
-            "end": {
-              "line": 11,
-              "column": 66,
-              "offset": 285
-            },
-            "indent": []
-          },
-          "value": "programming-languages.Structural Programming",
-          "alias": "programming-languages.Structural Programming"
         }
       ],
       "anchors": {},
@@ -1725,12 +1680,12 @@
             "start": {
               "line": 24,
               "column": 3,
-              "offset": 770
+              "offset": 747
             },
             "end": {
               "line": 24,
               "column": 33,
-              "offset": 800
+              "offset": 777
             },
             "indent": []
           },
@@ -1757,7 +1712,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "f00832663edb35391c42ead4e6f4e2fc",
+      "contentHash": "6d1c542aba3ce8ad6cc28935c6e6f290",
       "links": [
         {
           "type": "wiki",
@@ -1772,12 +1727,12 @@
             "start": {
               "line": 11,
               "column": 18,
-              "offset": 237
+              "offset": 227
             },
             "end": {
               "line": 11,
               "column": 66,
-              "offset": 285
+              "offset": 275
             },
             "indent": []
           },
@@ -1800,12 +1755,12 @@
             "start": {
               "line": 11,
               "column": 67,
-              "offset": 286
+              "offset": 276
             },
             "end": {
               "line": 11,
               "column": 119,
-              "offset": 338
+              "offset": 328
             },
             "indent": []
           },
@@ -1828,12 +1783,12 @@
             "start": {
               "line": 11,
               "column": 120,
-              "offset": 339
+              "offset": 329
             },
             "end": {
               "line": 11,
               "column": 168,
-              "offset": 387
+              "offset": 377
             },
             "indent": []
           },
@@ -1856,12 +1811,12 @@
             "start": {
               "line": 11,
               "column": 169,
-              "offset": 388
+              "offset": 378
             },
             "end": {
               "line": 11,
               "column": 211,
-              "offset": 430
+              "offset": 420
             },
             "indent": []
           },
@@ -1884,12 +1839,12 @@
             "start": {
               "line": 18,
               "column": 18,
-              "offset": 591
+              "offset": 574
             },
             "end": {
               "line": 18,
               "column": 56,
-              "offset": 629
+              "offset": 612
             },
             "indent": []
           },
@@ -1912,12 +1867,12 @@
             "start": {
               "line": 18,
               "column": 57,
-              "offset": 630
+              "offset": 613
             },
             "end": {
               "line": 18,
               "column": 95,
-              "offset": 668
+              "offset": 651
             },
             "indent": []
           },
@@ -1940,12 +1895,12 @@
             "start": {
               "line": 19,
               "column": 13,
-              "offset": 684
+              "offset": 666
             },
             "end": {
               "line": 19,
               "column": 53,
-              "offset": 724
+              "offset": 706
             },
             "indent": []
           },
@@ -1968,12 +1923,12 @@
             "start": {
               "line": 20,
               "column": 6,
-              "offset": 732
+              "offset": 713
             },
             "end": {
               "line": 20,
               "column": 47,
-              "offset": 773
+              "offset": 754
             },
             "indent": []
           },
@@ -1996,12 +1951,12 @@
             "start": {
               "line": 20,
               "column": 48,
-              "offset": 774
+              "offset": 755
             },
             "end": {
               "line": 20,
               "column": 91,
-              "offset": 817
+              "offset": 798
             },
             "indent": []
           },
@@ -2024,12 +1979,12 @@
             "start": {
               "line": 20,
               "column": 92,
-              "offset": 818
+              "offset": 799
             },
             "end": {
               "line": 20,
               "column": 131,
-              "offset": 857
+              "offset": 838
             },
             "indent": []
           },
@@ -2052,12 +2007,12 @@
             "start": {
               "line": 21,
               "column": 13,
-              "offset": 873
+              "offset": 853
             },
             "end": {
               "line": 21,
               "column": 51,
-              "offset": 911
+              "offset": 891
             },
             "indent": []
           },
@@ -2080,12 +2035,12 @@
             "start": {
               "line": 21,
               "column": 52,
-              "offset": 912
+              "offset": 892
             },
             "end": {
               "line": 21,
               "column": 91,
-              "offset": 951
+              "offset": 931
             },
             "indent": []
           },
@@ -2108,12 +2063,12 @@
             "start": {
               "line": 21,
               "column": 92,
-              "offset": 952
+              "offset": 932
             },
             "end": {
               "line": 21,
               "column": 135,
-              "offset": 995
+              "offset": 975
             },
             "indent": []
           },
@@ -2136,12 +2091,12 @@
             "start": {
               "line": 21,
               "column": 136,
-              "offset": 996
+              "offset": 976
             },
             "end": {
               "line": 21,
               "column": 176,
-              "offset": 1036
+              "offset": 1016
             },
             "indent": []
           },
@@ -2164,12 +2119,12 @@
             "start": {
               "line": 22,
               "column": 11,
-              "offset": 1050
+              "offset": 1029
             },
             "end": {
               "line": 22,
               "column": 49,
-              "offset": 1088
+              "offset": 1067
             },
             "indent": []
           },
@@ -2192,12 +2147,12 @@
             "start": {
               "line": 22,
               "column": 50,
-              "offset": 1089
+              "offset": 1068
             },
             "end": {
               "line": 22,
               "column": 89,
-              "offset": 1128
+              "offset": 1107
             },
             "indent": []
           },
@@ -2220,12 +2175,12 @@
             "start": {
               "line": 22,
               "column": 90,
-              "offset": 1129
+              "offset": 1108
             },
             "end": {
               "line": 22,
               "column": 130,
-              "offset": 1169
+              "offset": 1148
             },
             "indent": []
           },
@@ -2248,12 +2203,12 @@
             "start": {
               "line": 23,
               "column": 13,
-              "offset": 1185
+              "offset": 1163
             },
             "end": {
               "line": 23,
               "column": 51,
-              "offset": 1223
+              "offset": 1201
             },
             "indent": []
           },
@@ -2276,12 +2231,12 @@
             "start": {
               "line": 31,
               "column": 3,
-              "offset": 1325
+              "offset": 1295
             },
             "end": {
               "line": 31,
               "column": 49,
-              "offset": 1371
+              "offset": 1341
             },
             "indent": []
           },
@@ -2304,12 +2259,12 @@
             "start": {
               "line": 32,
               "column": 3,
-              "offset": 1375
+              "offset": 1344
             },
             "end": {
               "line": 32,
               "column": 53,
-              "offset": 1425
+              "offset": 1394
             },
             "indent": []
           },
@@ -2332,12 +2287,12 @@
             "start": {
               "line": 33,
               "column": 3,
-              "offset": 1429
+              "offset": 1397
             },
             "end": {
               "line": 33,
               "column": 46,
-              "offset": 1472
+              "offset": 1440
             },
             "indent": []
           },
@@ -2360,12 +2315,12 @@
             "start": {
               "line": 34,
               "column": 3,
-              "offset": 1476
+              "offset": 1443
             },
             "end": {
               "line": 34,
               "column": 43,
-              "offset": 1516
+              "offset": 1483
             },
             "indent": []
           },
@@ -2388,12 +2343,12 @@
             "start": {
               "line": 35,
               "column": 3,
-              "offset": 1520
+              "offset": 1486
             },
             "end": {
               "line": 35,
               "column": 45,
-              "offset": 1562
+              "offset": 1528
             },
             "indent": []
           },
@@ -2416,12 +2371,12 @@
             "start": {
               "line": 36,
               "column": 3,
-              "offset": 1566
+              "offset": 1531
             },
             "end": {
               "line": 36,
               "column": 46,
-              "offset": 1609
+              "offset": 1574
             },
             "indent": []
           },
@@ -2444,12 +2399,12 @@
             "start": {
               "line": 37,
               "column": 3,
-              "offset": 1613
+              "offset": 1577
             },
             "end": {
               "line": 37,
               "column": 54,
-              "offset": 1664
+              "offset": 1628
             },
             "indent": []
           },
@@ -2472,12 +2427,12 @@
             "start": {
               "line": 38,
               "column": 3,
-              "offset": 1668
+              "offset": 1631
             },
             "end": {
               "line": 38,
               "column": 46,
-              "offset": 1711
+              "offset": 1674
             },
             "indent": []
           },
@@ -2500,12 +2455,12 @@
             "start": {
               "line": 39,
               "column": 3,
-              "offset": 1715
+              "offset": 1677
             },
             "end": {
               "line": 39,
               "column": 51,
-              "offset": 1763
+              "offset": 1725
             },
             "indent": []
           },
@@ -2528,12 +2483,12 @@
             "start": {
               "line": 40,
               "column": 3,
-              "offset": 1767
+              "offset": 1728
             },
             "end": {
               "line": 40,
               "column": 59,
-              "offset": 1823
+              "offset": 1784
             },
             "indent": []
           },
@@ -2556,12 +2511,12 @@
             "start": {
               "line": 45,
               "column": 3,
-              "offset": 1869
+              "offset": 1825
             },
             "end": {
               "line": 45,
               "column": 39,
-              "offset": 1905
+              "offset": 1861
             },
             "indent": []
           },
@@ -2584,12 +2539,12 @@
             "start": {
               "line": 46,
               "column": 3,
-              "offset": 1909
+              "offset": 1864
             },
             "end": {
               "line": 46,
               "column": 42,
-              "offset": 1948
+              "offset": 1903
             },
             "indent": []
           },
@@ -2612,12 +2567,12 @@
             "start": {
               "line": 50,
               "column": 3,
-              "offset": 1965
+              "offset": 1916
             },
             "end": {
               "line": 50,
               "column": 40,
-              "offset": 2002
+              "offset": 1953
             },
             "indent": []
           },
@@ -2640,12 +2595,12 @@
             "start": {
               "line": 51,
               "column": 3,
-              "offset": 2006
+              "offset": 1956
             },
             "end": {
               "line": 51,
               "column": 42,
-              "offset": 2045
+              "offset": 1995
             },
             "indent": []
           },
@@ -2668,12 +2623,12 @@
             "start": {
               "line": 55,
               "column": 3,
-              "offset": 2060
+              "offset": 2006
             },
             "end": {
               "line": 55,
               "column": 50,
-              "offset": 2107
+              "offset": 2053
             },
             "indent": []
           },
@@ -2696,12 +2651,12 @@
             "start": {
               "line": 56,
               "column": 3,
-              "offset": 2111
+              "offset": 2056
             },
             "end": {
               "line": 56,
               "column": 42,
-              "offset": 2150
+              "offset": 2095
             },
             "indent": []
           },
@@ -2724,12 +2679,12 @@
             "start": {
               "line": 57,
               "column": 3,
-              "offset": 2154
+              "offset": 2098
             },
             "end": {
               "line": 57,
               "column": 43,
-              "offset": 2194
+              "offset": 2138
             },
             "indent": []
           },
@@ -2751,12 +2706,12 @@
             "start": {
               "line": 27,
               "column": 1,
-              "offset": 1244
+              "offset": 1218
             },
             "end": {
               "line": 27,
               "column": 65,
-              "offset": 1308
+              "offset": 1282
             },
             "indent": []
           },
@@ -2778,12 +2733,12 @@
             "start": {
               "line": 61,
               "column": 1,
-              "offset": 2207
+              "offset": 2147
             },
             "end": {
               "line": 61,
               "column": 31,
-              "offset": 2237
+              "offset": 2177
             },
             "indent": []
           },
@@ -2805,12 +2760,12 @@
             "start": {
               "line": 62,
               "column": 1,
-              "offset": 2239
+              "offset": 2178
             },
             "end": {
               "line": 62,
               "column": 31,
-              "offset": 2269
+              "offset": 2208
             },
             "indent": []
           },
@@ -2832,12 +2787,12 @@
             "start": {
               "line": 63,
               "column": 1,
-              "offset": 2271
+              "offset": 2209
             },
             "end": {
               "line": 63,
               "column": 31,
-              "offset": 2301
+              "offset": 2239
             },
             "indent": []
           },
@@ -2859,12 +2814,12 @@
             "start": {
               "line": 64,
               "column": 1,
-              "offset": 2303
+              "offset": 2240
             },
             "end": {
               "line": 64,
               "column": 31,
-              "offset": 2333
+              "offset": 2270
             },
             "indent": []
           },
@@ -2884,12 +2839,12 @@
             "start": {
               "line": 18,
               "column": 3,
-              "offset": 362
+              "offset": 345
             },
             "end": {
               "line": 18,
               "column": 35,
-              "offset": 394
+              "offset": 377
             },
             "indent": []
           },
@@ -2906,12 +2861,12 @@
             "start": {
               "line": 7,
               "column": 1,
-              "offset": 68
+              "offset": 62
             },
             "end": {
               "line": 7,
               "column": 40,
-              "offset": 107
+              "offset": 101
             },
             "indent": []
           },
@@ -2994,15 +2949,19 @@
       },
       "children": [
         "ndz4w8l4fs8gahzx7eanasg",
+        "hz65rlnypyne9wbids56z0z",
+        "neh8ueqeh37oflgao2wk97c",
+        "3gh56qxayzvht9saqgm7lve",
+        "wz0gdaczrayeppp05rjbkbj",
+        "b8e32zij9egyzswosocp3t8",
+        "n7fz544n5iy18az4emy7oi0",
+        "1m3crqwnc01esh8ylao7cdj",
         "oyrvr62f5kc782wgpoz5hgj",
         "vu4366q6sckejfdqgrqr3a5",
         "gi59c2928gvbae6n3uniugg",
         "cvbmy2r329wrtde0hs4b9r5",
         "ukppn0c8e7ihvzi1s3ttqge",
         "cer3q1dhci0eeh718l9svdi",
-        "hz65rlnypyne9wbids56z0z",
-        "neh8ueqeh37oflgao2wk97c",
-        "3gh56qxayzvht9saqgm7lve",
         "uaqz2heac1kdcsqy127dqom",
         "dftloyxhwpi83dg622hxnw6",
         "my8qzdf77zphq770aho85l7",
@@ -3017,78 +2976,14 @@
         "zu4v6kmcz1am3bw54vkd6kk",
         "8e3frajnix71f9lnu8ymch6",
         "byj3ips5ts09csa2dtq7j3q",
-        "wz0gdaczrayeppp05rjbkbj",
-        "b8e32zij9egyzswosocp3t8",
         "mkt75t95m13kx0tdqaylp4n",
         "g3mb1k61rcsw8sjecivq9fk",
         "agx5nqdeeujae4czk9e9c67",
-        "n7fz544n5iy18az4emy7oi0",
         "np7uvlwz31o93nfu7er1dfu",
         "7aidp4clskcaj4w16ipr2gh",
-        "se4tmj9t31kkax83l4wmprt",
-        "1m3crqwnc01esh8ylao7cdj"
+        "se4tmj9t31kkax83l4wmprt"
       ],
       "parent": "oasz9131g7t831nyxuti1qf",
-      "data": {}
-    },
-    "1m3crqwnc01esh8ylao7cdj": {
-      "id": "1m3crqwnc01esh8ylao7cdj",
-      "title": "Zen of Python",
-      "desc": "",
-      "updated": 1660356668483,
-      "created": 1660318707552,
-      "custom": {},
-      "fname": "programming-languages.python.Zen of Python",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "1f654ce56c17ca3d1344984a3eca5392",
-      "links": [
-        {
-          "from": {
-            "fname": "programming-languages.python",
-            "vaultName": "knowledge"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 27,
-              "column": 1,
-              "offset": 1244
-            },
-            "end": {
-              "line": 27,
-              "column": 65,
-              "offset": 1308
-            },
-            "indent": []
-          },
-          "value": "programming-languages.python.Zen of Python"
-        }
-      ],
-      "anchors": {
-        "python-之禅": {
-          "type": "header",
-          "text": "Python 之禅",
-          "value": "python-之禅",
-          "line": 8,
-          "column": 0,
-          "depth": 1
-        },
-        "内容": {
-          "type": "header",
-          "text": "内容",
-          "value": "内容",
-          "line": 12,
-          "column": 0,
-          "depth": 2
-        }
-      },
-      "children": [],
-      "parent": "i7qra5ip0gwchs30f5at7rx",
       "data": {}
     },
     "se4tmj9t31kkax83l4wmprt": {
@@ -3105,7 +3000,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "970f20e298a2200eec1d10738d6ff585",
+      "contentHash": "187f941404d73c9e2a511ce5bddb9da4",
       "links": [
         {
           "from": {
@@ -3117,12 +3012,12 @@
             "start": {
               "line": 50,
               "column": 3,
-              "offset": 1965
+              "offset": 1916
             },
             "end": {
               "line": 50,
               "column": 40,
-              "offset": 2002
+              "offset": 1953
             },
             "indent": []
           },
@@ -3166,7 +3061,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "2c7e3a1b6050661c9b8f97ea4e3f368d",
+      "contentHash": "a65d626ae76882fc0fa34c7126aee57e",
       "links": [
         {
           "type": "wiki",
@@ -3181,12 +3076,12 @@
             "start": {
               "line": 4,
               "column": 42,
-              "offset": 52
+              "offset": 49
             },
             "end": {
               "line": 4,
               "column": 80,
-              "offset": 90
+              "offset": 87
             },
             "indent": []
           },
@@ -3206,12 +3101,12 @@
             "start": {
               "line": 18,
               "column": 57,
-              "offset": 630
+              "offset": 613
             },
             "end": {
               "line": 18,
               "column": 95,
-              "offset": 668
+              "offset": 651
             },
             "indent": []
           },
@@ -3247,7 +3142,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "51b25764b88cbf7d7cc3221f479df3b6",
+      "contentHash": "709e033f07959649a90b13498ab976c2",
       "links": [
         {
           "type": "wiki",
@@ -3262,12 +3157,12 @@
             "start": {
               "line": 8,
               "column": 11,
-              "offset": 140
+              "offset": 133
             },
             "end": {
               "line": 8,
               "column": 63,
-              "offset": 192
+              "offset": 185
             },
             "indent": []
           },
@@ -3290,12 +3185,12 @@
             "start": {
               "line": 9,
               "column": 9,
-              "offset": 204
+              "offset": 196
             },
             "end": {
               "line": 9,
               "column": 46,
-              "offset": 241
+              "offset": 233
             },
             "indent": []
           },
@@ -3318,12 +3213,12 @@
             "start": {
               "line": 10,
               "column": 14,
-              "offset": 258
+              "offset": 249
             },
             "end": {
               "line": 10,
               "column": 66,
-              "offset": 310
+              "offset": 301
             },
             "indent": []
           },
@@ -3347,12 +3242,12 @@
             "start": {
               "line": 10,
               "column": 67,
-              "offset": 311
+              "offset": 302
             },
             "end": {
               "line": 10,
               "column": 108,
-              "offset": 352
+              "offset": 343
             },
             "indent": []
           },
@@ -3375,12 +3270,12 @@
             "start": {
               "line": 10,
               "column": 109,
-              "offset": 353
+              "offset": 344
             },
             "end": {
               "line": 10,
               "column": 149,
-              "offset": 393
+              "offset": 384
             },
             "indent": []
           },
@@ -3400,12 +3295,12 @@
             "start": {
               "line": 33,
               "column": 3,
-              "offset": 1429
+              "offset": 1397
             },
             "end": {
               "line": 33,
               "column": 46,
-              "offset": 1472
+              "offset": 1440
             },
             "indent": []
           },
@@ -3435,59 +3330,6 @@
       "parent": "i7qra5ip0gwchs30f5at7rx",
       "data": {}
     },
-    "n7fz544n5iy18az4emy7oi0": {
-      "id": "n7fz544n5iy18az4emy7oi0",
-      "title": "Tensorflow",
-      "desc": "",
-      "updated": 1660638764727,
-      "created": 1660318533072,
-      "custom": {},
-      "fname": "programming-languages.python.Tensorflow",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "17e02c42b9769088e8e3a20ee859801b",
-      "links": [
-        {
-          "from": {
-            "fname": "programming-languages.python",
-            "vaultName": "knowledge"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 21,
-              "column": 92,
-              "offset": 952
-            },
-            "end": {
-              "line": 21,
-              "column": 135,
-              "offset": 995
-            },
-            "indent": []
-          },
-          "value": "programming-languages.python.Tensorflow",
-          "alias": "programming-languages.python.Tensorflow"
-        }
-      ],
-      "anchors": {
-        "介绍": {
-          "type": "header",
-          "text": "介绍",
-          "value": "介绍",
-          "line": 8,
-          "column": 0,
-          "depth": 2
-        }
-      },
-      "children": [],
-      "parent": "i7qra5ip0gwchs30f5at7rx",
-      "data": {}
-    },
     "agx5nqdeeujae4czk9e9c67": {
       "id": "agx5nqdeeujae4czk9e9c67",
       "title": "结构化模式匹配",
@@ -3502,7 +3344,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "7ba046bd6ec357eff0ac04f4a7b7841b",
+      "contentHash": "6f80713517be4a68d30a29f0abe445f5",
       "links": [
         {
           "from": {
@@ -3514,12 +3356,12 @@
             "start": {
               "line": 40,
               "column": 3,
-              "offset": 1767
+              "offset": 1728
             },
             "end": {
               "line": 40,
               "column": 59,
-              "offset": 1823
+              "offset": 1784
             },
             "indent": []
           },
@@ -3563,7 +3405,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "f3fd06fd23d238af6541d19cb1e21a1d",
+      "contentHash": "896a9f8a30dc52d565200daf315cbd66",
       "links": [
         {
           "from": {
@@ -3575,12 +3417,12 @@
             "start": {
               "line": 20,
               "column": 92,
-              "offset": 818
+              "offset": 799
             },
             "end": {
               "line": 20,
               "column": 131,
-              "offset": 857
+              "offset": 838
             },
             "indent": []
           },
@@ -3616,7 +3458,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "e000417127b1c55427ac16a8b2473a8b",
+      "contentHash": "242e84d572dbf346a1a749b119737fcb",
       "links": [
         {
           "from": {
@@ -3628,123 +3470,17 @@
             "start": {
               "line": 20,
               "column": 6,
-              "offset": 732
+              "offset": 713
             },
             "end": {
               "line": 20,
               "column": 47,
-              "offset": 773
+              "offset": 754
             },
             "indent": []
           },
           "value": "programming-languages.python.requests",
           "alias": "programming-languages.python.requests"
-        }
-      ],
-      "anchors": {
-        "介绍": {
-          "type": "header",
-          "text": "介绍",
-          "value": "介绍",
-          "line": 8,
-          "column": 0,
-          "depth": 2
-        }
-      },
-      "children": [],
-      "parent": "i7qra5ip0gwchs30f5at7rx",
-      "data": {}
-    },
-    "b8e32zij9egyzswosocp3t8": {
-      "id": "b8e32zij9egyzswosocp3t8",
-      "title": "Pytorch",
-      "desc": "",
-      "updated": 1660638844480,
-      "created": 1660318545151,
-      "custom": {},
-      "fname": "programming-languages.python.Pytorch",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "8fe738984a410b3e02880755336142fe",
-      "links": [
-        {
-          "from": {
-            "fname": "programming-languages.python",
-            "vaultName": "knowledge"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 21,
-              "column": 136,
-              "offset": 996
-            },
-            "end": {
-              "line": 21,
-              "column": 176,
-              "offset": 1036
-            },
-            "indent": []
-          },
-          "value": "programming-languages.python.Pytorch",
-          "alias": "programming-languages.python.Pytorch"
-        }
-      ],
-      "anchors": {
-        "介绍": {
-          "type": "header",
-          "text": "介绍",
-          "value": "介绍",
-          "line": 8,
-          "column": 0,
-          "depth": 2
-        }
-      },
-      "children": [],
-      "parent": "i7qra5ip0gwchs30f5at7rx",
-      "data": {}
-    },
-    "wz0gdaczrayeppp05rjbkbj": {
-      "id": "wz0gdaczrayeppp05rjbkbj",
-      "title": "PyQT5",
-      "desc": "",
-      "updated": 1660639533645,
-      "created": 1660318616535,
-      "custom": {},
-      "fname": "programming-languages.python.PyQT5",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "0e0f6e144898f8dc98247357ca8c4fcb",
-      "links": [
-        {
-          "from": {
-            "fname": "programming-languages.python",
-            "vaultName": "knowledge"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 23,
-              "column": 13,
-              "offset": 1185
-            },
-            "end": {
-              "line": 23,
-              "column": 51,
-              "offset": 1223
-            },
-            "indent": []
-          },
-          "value": "programming-languages.python.PyQT5",
-          "alias": "programming-languages.python.PyQT5"
         }
       ],
       "anchors": {
@@ -3775,7 +3511,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "25b069f7bb12d76cffc626bbbb9df0d7",
+      "contentHash": "88cef340e4dc442796a2cddcdfebcdff",
       "links": [
         {
           "from": {
@@ -3787,12 +3523,12 @@
             "start": {
               "line": 10,
               "column": 67,
-              "offset": 311
+              "offset": 302
             },
             "end": {
               "line": 10,
               "column": 108,
-              "offset": 352
+              "offset": 343
             },
             "indent": []
           },
@@ -3819,7 +3555,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "365c01afd1e21adbe8ccf5789692c632",
+      "contentHash": "329b26236aa3501c78bfccd274ac24d4",
       "links": [
         {
           "from": {
@@ -3831,12 +3567,12 @@
             "start": {
               "line": 46,
               "column": 3,
-              "offset": 1909
+              "offset": 1864
             },
             "end": {
               "line": 46,
               "column": 42,
-              "offset": 1948
+              "offset": 1903
             },
             "indent": []
           },
@@ -3880,7 +3616,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "b6b913eff48920403b0c9490e70cebb6",
+      "contentHash": "edaf6337e9394cd3f09a4b91c9d0ded3",
       "links": [
         {
           "from": {
@@ -3892,12 +3628,12 @@
             "start": {
               "line": 20,
               "column": 48,
-              "offset": 774
+              "offset": 755
             },
             "end": {
               "line": 20,
               "column": 91,
-              "offset": 817
+              "offset": 798
             },
             "indent": []
           },
@@ -3957,7 +3693,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "c2f6b9bb64804a86e375c2db513e18cc",
+      "contentHash": "ad3d3239851b260703a483cdc0734624",
       "links": [
         {
           "type": "wiki",
@@ -3972,12 +3708,12 @@
             "start": {
               "line": 8,
               "column": 10,
-              "offset": 153
+              "offset": 146
             },
             "end": {
               "line": 8,
               "column": 42,
-              "offset": 185
+              "offset": 178
             },
             "indent": []
           },
@@ -3997,12 +3733,12 @@
             "start": {
               "line": 51,
               "column": 3,
-              "offset": 2006
+              "offset": 1956
             },
             "end": {
               "line": 51,
               "column": 42,
-              "offset": 2045
+              "offset": 1995
             },
             "indent": []
           },
@@ -4050,12 +3786,12 @@
             "start": {
               "line": 45,
               "column": 3,
-              "offset": 1869
+              "offset": 1825
             },
             "end": {
               "line": 45,
               "column": 39,
-              "offset": 1905
+              "offset": 1861
             },
             "indent": []
           },
@@ -4131,7 +3867,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "f6a82bbec8f28e7fad41d1559a3f66c8",
+      "contentHash": "778403d97940ead3f6a57d3ed1c5a0e1",
       "links": [
         {
           "from": {
@@ -4143,12 +3879,12 @@
             "start": {
               "line": 21,
               "column": 52,
-              "offset": 912
+              "offset": 892
             },
             "end": {
               "line": 21,
               "column": 91,
-              "offset": 951
+              "offset": 931
             },
             "indent": []
           },
@@ -4192,7 +3928,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "b6e3e0d2c13033e6b3aa12f2eff1b4ee",
+      "contentHash": "0b465fa0b5bc5bae79d4cf82ac05c27b",
       "links": [
         {
           "from": {
@@ -4204,12 +3940,12 @@
             "start": {
               "line": 21,
               "column": 13,
-              "offset": 873
+              "offset": 853
             },
             "end": {
               "line": 21,
               "column": 51,
-              "offset": 911
+              "offset": 891
             },
             "indent": []
           },
@@ -4245,7 +3981,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "2785081a2c50ec22518b73ae15079b90",
+      "contentHash": "8809f1711865056b004c9363f73e3239",
       "links": [
         {
           "from": {
@@ -4257,12 +3993,12 @@
             "start": {
               "line": 9,
               "column": 9,
-              "offset": 204
+              "offset": 196
             },
             "end": {
               "line": 9,
               "column": 46,
-              "offset": 241
+              "offset": 233
             },
             "indent": []
           },
@@ -4289,7 +4025,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "2acf9d5437287c17a126fd2823c4939c",
+      "contentHash": "adebe2bc79749870cea7be0e7bc4f370",
       "links": [
         {
           "from": {
@@ -4301,12 +4037,12 @@
             "start": {
               "line": 55,
               "column": 3,
-              "offset": 2060
+              "offset": 2006
             },
             "end": {
               "line": 55,
               "column": 50,
-              "offset": 2107
+              "offset": 2053
             },
             "indent": []
           },
@@ -4374,7 +4110,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "98566715d80fc88c7706d8ca1f9cb97b",
+      "contentHash": "313585fca444d96dfc9f9518c0cb9b2c",
       "links": [
         {
           "from": {
@@ -4386,12 +4122,12 @@
             "start": {
               "line": 34,
               "column": 3,
-              "offset": 1476
+              "offset": 1443
             },
             "end": {
               "line": 34,
               "column": 43,
-              "offset": 1516
+              "offset": 1483
             },
             "indent": []
           },
@@ -4408,12 +4144,12 @@
             "start": {
               "line": 9,
               "column": 3,
-              "offset": 117
+              "offset": 109
             },
             "end": {
               "line": 9,
               "column": 53,
-              "offset": 167
+              "offset": 159
             },
             "indent": []
           },
@@ -4430,12 +4166,12 @@
             "start": {
               "line": 10,
               "column": 14,
-              "offset": 258
+              "offset": 249
             },
             "end": {
               "line": 10,
               "column": 66,
-              "offset": 310
+              "offset": 301
             },
             "indent": []
           },
@@ -4527,7 +4263,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "40c1f0aeac45b43f09a1745c3b56f30b",
+      "contentHash": "d6cc03f1de7f9046581d873b769ca72c",
       "links": [
         {
           "from": {
@@ -4539,12 +4275,12 @@
             "start": {
               "line": 37,
               "column": 3,
-              "offset": 1613
+              "offset": 1577
             },
             "end": {
               "line": 37,
               "column": 54,
-              "offset": 1664
+              "offset": 1628
             },
             "indent": []
           },
@@ -4561,12 +4297,12 @@
             "start": {
               "line": 25,
               "column": 6,
-              "offset": 383
+              "offset": 359
             },
             "end": {
               "line": 25,
               "column": 63,
-              "offset": 440
+              "offset": 416
             },
             "indent": []
           },
@@ -4583,12 +4319,12 @@
             "start": {
               "line": 30,
               "column": 6,
-              "offset": 626
+              "offset": 597
             },
             "end": {
               "line": 30,
               "column": 63,
-              "offset": 683
+              "offset": 654
             },
             "indent": []
           },
@@ -4632,7 +4368,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "79182c14247665005a37ab6f5868c354",
+      "contentHash": "10398b921491316275ce05de0ef62375",
       "links": [
         {
           "type": "wiki",
@@ -4647,12 +4383,12 @@
             "start": {
               "line": 9,
               "column": 3,
-              "offset": 117
+              "offset": 109
             },
             "end": {
               "line": 9,
               "column": 53,
-              "offset": 167
+              "offset": 159
             },
             "indent": []
           },
@@ -4673,12 +4409,12 @@
             "start": {
               "line": 35,
               "column": 3,
-              "offset": 1520
+              "offset": 1486
             },
             "end": {
               "line": 35,
               "column": 45,
-              "offset": 1562
+              "offset": 1528
             },
             "indent": []
           },
@@ -4695,12 +4431,12 @@
             "start": {
               "line": 36,
               "column": 5,
-              "offset": 541
+              "offset": 506
             },
             "end": {
               "line": 36,
               "column": 53,
-              "offset": 589
+              "offset": 554
             },
             "indent": []
           },
@@ -4744,7 +4480,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "4bde235900e022d493d4a5311697b7aa",
+      "contentHash": "aa36320591723966c7a9661ed7cbc60b",
       "links": [
         {
           "from": {
@@ -4756,12 +4492,12 @@
             "start": {
               "line": 56,
               "column": 3,
-              "offset": 2111
+              "offset": 2056
             },
             "end": {
               "line": 56,
               "column": 42,
-              "offset": 2150
+              "offset": 2095
             },
             "indent": []
           },
@@ -4805,7 +4541,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "385b7cbb56cee76cefcc36013c30b1bc",
+      "contentHash": "15d0db3c41dc8aeb7867dff917928223",
       "links": [
         {
           "from": {
@@ -4817,12 +4553,12 @@
             "start": {
               "line": 36,
               "column": 3,
-              "offset": 1566
+              "offset": 1531
             },
             "end": {
               "line": 36,
               "column": 46,
-              "offset": 1609
+              "offset": 1574
             },
             "indent": []
           },
@@ -4868,295 +4604,6 @@
       "parent": "i7qra5ip0gwchs30f5at7rx",
       "data": {}
     },
-    "3gh56qxayzvht9saqgm7lve": {
-      "id": "3gh56qxayzvht9saqgm7lve",
-      "title": "Flask",
-      "desc": "",
-      "updated": 1660639415532,
-      "created": 1660318480488,
-      "custom": {},
-      "fname": "programming-languages.python.Flask",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "f462123ac37c7454dde012c30aa1326d",
-      "links": [
-        {
-          "type": "ref",
-          "from": {
-            "fname": "programming-languages.python.Flask",
-            "id": "3gh56qxayzvht9saqgm7lve",
-            "vaultName": "knowledge"
-          },
-          "value": "resources.books",
-          "position": {
-            "start": {
-              "line": 16,
-              "column": 1,
-              "offset": 637
-            },
-            "end": {
-              "line": 16,
-              "column": 30,
-              "offset": 666
-            },
-            "indent": []
-          },
-          "xvault": false,
-          "to": {
-            "fname": "resources.books",
-            "anchorHeader": "Flask:#*"
-          }
-        },
-        {
-          "from": {
-            "fname": "programming-languages.python",
-            "vaultName": "knowledge"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 22,
-              "column": 11,
-              "offset": 1050
-            },
-            "end": {
-              "line": 22,
-              "column": 49,
-              "offset": 1088
-            },
-            "indent": []
-          },
-          "value": "programming-languages.python.Flask",
-          "alias": "programming-languages.python.Flask"
-        }
-      ],
-      "anchors": {
-        "介绍": {
-          "type": "header",
-          "text": "介绍",
-          "value": "介绍",
-          "line": 8,
-          "column": 0,
-          "depth": 2
-        },
-        "特点": {
-          "type": "header",
-          "text": "特点",
-          "value": "特点",
-          "line": 14,
-          "column": 0,
-          "depth": 2
-        },
-        "资源": {
-          "type": "header",
-          "text": "资源",
-          "value": "资源",
-          "line": 20,
-          "column": 0,
-          "depth": 2
-        }
-      },
-      "children": [],
-      "parent": "i7qra5ip0gwchs30f5at7rx",
-      "data": {}
-    },
-    "neh8ueqeh37oflgao2wk97c": {
-      "id": "neh8ueqeh37oflgao2wk97c",
-      "title": "FastAPI",
-      "desc": "",
-      "updated": 1660639189296,
-      "created": 1660318505721,
-      "custom": {},
-      "fname": "programming-languages.python.FastAPI",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "6f4765e3a05a83de823996c69892ded5",
-      "links": [
-        {
-          "from": {
-            "fname": "programming-languages.python",
-            "vaultName": "knowledge"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 22,
-              "column": 90,
-              "offset": 1129
-            },
-            "end": {
-              "line": 22,
-              "column": 130,
-              "offset": 1169
-            },
-            "indent": []
-          },
-          "value": "programming-languages.python.FastAPI",
-          "alias": "programming-languages.python.FastAPI"
-        },
-        {
-          "from": {
-            "fname": "programming-languages.python.asyncio",
-            "vaultName": "knowledge"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 27,
-              "column": 8,
-              "offset": 1762
-            },
-            "end": {
-              "line": 27,
-              "column": 48,
-              "offset": 1802
-            },
-            "indent": []
-          },
-          "value": "programming-languages.python.FastAPI",
-          "alias": "programming-languages.python.FastAPI"
-        },
-        {
-          "from": {
-            "fname": "programming-languages.python.type hints",
-            "vaultName": "knowledge"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 10,
-              "column": 109,
-              "offset": 353
-            },
-            "end": {
-              "line": 10,
-              "column": 149,
-              "offset": 393
-            },
-            "indent": []
-          },
-          "value": "programming-languages.python.FastAPI",
-          "alias": "programming-languages.python.FastAPI"
-        }
-      ],
-      "anchors": {
-        "介绍": {
-          "type": "header",
-          "text": "介绍",
-          "value": "介绍",
-          "line": 8,
-          "column": 0,
-          "depth": 2
-        }
-      },
-      "children": [],
-      "parent": "i7qra5ip0gwchs30f5at7rx",
-      "data": {}
-    },
-    "hz65rlnypyne9wbids56z0z": {
-      "id": "hz65rlnypyne9wbids56z0z",
-      "title": "Django",
-      "desc": "",
-      "updated": 1660639427944,
-      "created": 1660318495007,
-      "custom": {},
-      "fname": "programming-languages.python.Django",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "c21a25eda7ee71a8c49c43b372c40b46",
-      "links": [
-        {
-          "type": "ref",
-          "from": {
-            "fname": "programming-languages.python.Django",
-            "id": "hz65rlnypyne9wbids56z0z",
-            "vaultName": "knowledge"
-          },
-          "value": "resources.books",
-          "position": {
-            "start": {
-              "line": 14,
-              "column": 1,
-              "offset": 133
-            },
-            "end": {
-              "line": 14,
-              "column": 31,
-              "offset": 163
-            },
-            "indent": []
-          },
-          "xvault": false,
-          "to": {
-            "fname": "resources.books",
-            "anchorHeader": "Django:#*"
-          }
-        },
-        {
-          "from": {
-            "fname": "programming-languages.python",
-            "vaultName": "knowledge"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 22,
-              "column": 50,
-              "offset": 1089
-            },
-            "end": {
-              "line": 22,
-              "column": 89,
-              "offset": 1128
-            },
-            "indent": []
-          },
-          "value": "programming-languages.python.Django",
-          "alias": "programming-languages.python.Django"
-        }
-      ],
-      "anchors": {
-        "介绍": {
-          "type": "header",
-          "text": "介绍",
-          "value": "介绍",
-          "line": 8,
-          "column": 0,
-          "depth": 2
-        },
-        "特点": {
-          "type": "header",
-          "text": "特点",
-          "value": "特点",
-          "line": 12,
-          "column": 0,
-          "depth": 2
-        },
-        "资源": {
-          "type": "header",
-          "text": "资源",
-          "value": "资源",
-          "line": 18,
-          "column": 0,
-          "depth": 2
-        }
-      },
-      "children": [],
-      "parent": "i7qra5ip0gwchs30f5at7rx",
-      "data": {}
-    },
     "cer3q1dhci0eeh718l9svdi": {
       "id": "cer3q1dhci0eeh718l9svdi",
       "title": "装饰器",
@@ -5171,7 +4618,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "a68e71d0b25b30a9db25a8a5770174a7",
+      "contentHash": "16e63bfb85628073897550818327f769",
       "links": [
         {
           "from": {
@@ -5183,12 +4630,12 @@
             "start": {
               "line": 38,
               "column": 3,
-              "offset": 1668
+              "offset": 1631
             },
             "end": {
               "line": 38,
               "column": 46,
-              "offset": 1711
+              "offset": 1674
             },
             "indent": []
           },
@@ -5232,7 +4679,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "052e5fe2011b32b96a2d159ac7970330",
+      "contentHash": "3a8af852c1258220fde5e4166b5320b8",
       "links": [
         {
           "from": {
@@ -5244,12 +4691,12 @@
             "start": {
               "line": 39,
               "column": 3,
-              "offset": 1715
+              "offset": 1677
             },
             "end": {
               "line": 39,
               "column": 51,
-              "offset": 1763
+              "offset": 1725
             },
             "indent": []
           },
@@ -5293,7 +4740,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "3b075e7465e397444d033e31c3f8509b",
+      "contentHash": "ac363dd42b239c35d3c12eb62ac943ac",
       "links": [
         {
           "from": {
@@ -5305,12 +4752,12 @@
             "start": {
               "line": 18,
               "column": 18,
-              "offset": 591
+              "offset": 574
             },
             "end": {
               "line": 18,
               "column": 56,
-              "offset": 629
+              "offset": 612
             },
             "indent": []
           },
@@ -5327,12 +4774,12 @@
             "start": {
               "line": 4,
               "column": 42,
-              "offset": 52
+              "offset": 49
             },
             "end": {
               "line": 4,
               "column": 80,
-              "offset": 90
+              "offset": 87
             },
             "indent": []
           },
@@ -5376,7 +4823,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "7770c902b11faab53588b02f18f482dc",
+      "contentHash": "b25fd29785a4b623baa8b67bcfffbe1b",
       "links": [
         {
           "type": "wiki",
@@ -5391,12 +4838,12 @@
             "start": {
               "line": 25,
               "column": 6,
-              "offset": 383
+              "offset": 359
             },
             "end": {
               "line": 25,
               "column": 63,
-              "offset": 440
+              "offset": 416
             },
             "indent": []
           },
@@ -5419,12 +4866,12 @@
             "start": {
               "line": 30,
               "column": 6,
-              "offset": 626
+              "offset": 597
             },
             "end": {
               "line": 30,
               "column": 63,
-              "offset": 683
+              "offset": 654
             },
             "indent": []
           },
@@ -5444,12 +4891,12 @@
             "start": {
               "line": 31,
               "column": 3,
-              "offset": 1325
+              "offset": 1295
             },
             "end": {
               "line": 31,
               "column": 49,
-              "offset": 1371
+              "offset": 1341
             },
             "indent": []
           },
@@ -5533,7 +4980,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "228ae88d1f20b1e083a2054060a2381d",
+      "contentHash": "4e354fdc76581cd62f9bb2f7efea3c93",
       "links": [
         {
           "type": "wiki",
@@ -5548,12 +4995,12 @@
             "start": {
               "line": 36,
               "column": 5,
-              "offset": 541
+              "offset": 506
             },
             "end": {
               "line": 36,
               "column": 53,
-              "offset": 589
+              "offset": 554
             },
             "indent": []
           },
@@ -5573,12 +5020,12 @@
             "start": {
               "line": 32,
               "column": 3,
-              "offset": 1375
+              "offset": 1344
             },
             "end": {
               "line": 32,
               "column": 53,
-              "offset": 1425
+              "offset": 1394
             },
             "indent": []
           },
@@ -5662,7 +5109,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "c23d996e0d0a232daa04272c244c291e",
+      "contentHash": "ab1c69d27a0e141e40662181285410ff",
       "links": [
         {
           "type": "wiki",
@@ -5677,12 +5124,12 @@
             "start": {
               "line": 27,
               "column": 8,
-              "offset": 1762
+              "offset": 1736
             },
             "end": {
               "line": 27,
               "column": 48,
-              "offset": 1802
+              "offset": 1776
             },
             "indent": []
           },
@@ -5702,12 +5149,12 @@
             "start": {
               "line": 57,
               "column": 3,
-              "offset": 2154
+              "offset": 2098
             },
             "end": {
               "line": 57,
               "column": 43,
-              "offset": 2194
+              "offset": 2138
             },
             "indent": []
           },
@@ -5737,6 +5184,514 @@
       "parent": "i7qra5ip0gwchs30f5at7rx",
       "data": {}
     },
+    "1m3crqwnc01esh8ylao7cdj": {
+      "id": "1m3crqwnc01esh8ylao7cdj",
+      "title": "Zen of Python",
+      "desc": "",
+      "updated": 1660356668483,
+      "created": 1660318707552,
+      "custom": {},
+      "fname": "programming-languages.python.Zen of Python",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "1f654ce56c17ca3d1344984a3eca5392",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 27,
+              "column": 1,
+              "offset": 1218
+            },
+            "end": {
+              "line": 27,
+              "column": 65,
+              "offset": 1282
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.Zen of Python"
+        }
+      ],
+      "anchors": {
+        "python-之禅": {
+          "type": "header",
+          "text": "Python 之禅",
+          "value": "python-之禅",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "内容": {
+          "type": "header",
+          "text": "内容",
+          "value": "内容",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "n7fz544n5iy18az4emy7oi0": {
+      "id": "n7fz544n5iy18az4emy7oi0",
+      "title": "Tensorflow",
+      "desc": "",
+      "updated": 1660638764727,
+      "created": 1660318533072,
+      "custom": {},
+      "fname": "programming-languages.python.Tensorflow",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "823ce42656e52f7c5040f41c83f3f62b",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 92,
+              "offset": 932
+            },
+            "end": {
+              "line": 21,
+              "column": 135,
+              "offset": 975
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.Tensorflow",
+          "alias": "programming-languages.python.Tensorflow"
+        }
+      ],
+      "anchors": {
+        "介绍": {
+          "type": "header",
+          "text": "介绍",
+          "value": "介绍",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "b8e32zij9egyzswosocp3t8": {
+      "id": "b8e32zij9egyzswosocp3t8",
+      "title": "Pytorch",
+      "desc": "",
+      "updated": 1660638844480,
+      "created": 1660318545151,
+      "custom": {},
+      "fname": "programming-languages.python.Pytorch",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "38b11fb65ebfad776b2485fe96a55765",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 136,
+              "offset": 976
+            },
+            "end": {
+              "line": 21,
+              "column": 176,
+              "offset": 1016
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.Pytorch",
+          "alias": "programming-languages.python.Pytorch"
+        }
+      ],
+      "anchors": {
+        "介绍": {
+          "type": "header",
+          "text": "介绍",
+          "value": "介绍",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "wz0gdaczrayeppp05rjbkbj": {
+      "id": "wz0gdaczrayeppp05rjbkbj",
+      "title": "PyQT5",
+      "desc": "",
+      "updated": 1660639533645,
+      "created": 1660318616535,
+      "custom": {},
+      "fname": "programming-languages.python.PyQT5",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "1a61ca8215854c9bd135a817e8574b2a",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 23,
+              "column": 13,
+              "offset": 1163
+            },
+            "end": {
+              "line": 23,
+              "column": 51,
+              "offset": 1201
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.PyQT5",
+          "alias": "programming-languages.python.PyQT5"
+        }
+      ],
+      "anchors": {
+        "介绍": {
+          "type": "header",
+          "text": "介绍",
+          "value": "介绍",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "3gh56qxayzvht9saqgm7lve": {
+      "id": "3gh56qxayzvht9saqgm7lve",
+      "title": "Flask",
+      "desc": "",
+      "updated": 1660639415532,
+      "created": 1660318480488,
+      "custom": {},
+      "fname": "programming-languages.python.Flask",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "ed884b252b4908d972909608e210009d",
+      "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "programming-languages.python.Flask",
+            "id": "3gh56qxayzvht9saqgm7lve",
+            "vaultName": "knowledge"
+          },
+          "value": "resources.books",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 1,
+              "offset": 622
+            },
+            "end": {
+              "line": 16,
+              "column": 30,
+              "offset": 651
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "resources.books",
+            "anchorHeader": "Flask:#*"
+          }
+        },
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 22,
+              "column": 11,
+              "offset": 1029
+            },
+            "end": {
+              "line": 22,
+              "column": 49,
+              "offset": 1067
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.Flask",
+          "alias": "programming-languages.python.Flask"
+        }
+      ],
+      "anchors": {
+        "介绍": {
+          "type": "header",
+          "text": "介绍",
+          "value": "介绍",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "特点": {
+          "type": "header",
+          "text": "特点",
+          "value": "特点",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "资源": {
+          "type": "header",
+          "text": "资源",
+          "value": "资源",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "neh8ueqeh37oflgao2wk97c": {
+      "id": "neh8ueqeh37oflgao2wk97c",
+      "title": "FastAPI",
+      "desc": "",
+      "updated": 1660639189296,
+      "created": 1660318505721,
+      "custom": {},
+      "fname": "programming-languages.python.FastAPI",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "9dd3ba89d04eb12c1c1855abc2a6d9f3",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 22,
+              "column": 90,
+              "offset": 1108
+            },
+            "end": {
+              "line": 22,
+              "column": 130,
+              "offset": 1148
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.FastAPI",
+          "alias": "programming-languages.python.FastAPI"
+        },
+        {
+          "from": {
+            "fname": "programming-languages.python.asyncio",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 27,
+              "column": 8,
+              "offset": 1736
+            },
+            "end": {
+              "line": 27,
+              "column": 48,
+              "offset": 1776
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.FastAPI",
+          "alias": "programming-languages.python.FastAPI"
+        },
+        {
+          "from": {
+            "fname": "programming-languages.python.type hints",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 109,
+              "offset": 344
+            },
+            "end": {
+              "line": 10,
+              "column": 149,
+              "offset": 384
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.FastAPI",
+          "alias": "programming-languages.python.FastAPI"
+        }
+      ],
+      "anchors": {
+        "介绍": {
+          "type": "header",
+          "text": "介绍",
+          "value": "介绍",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
+    "hz65rlnypyne9wbids56z0z": {
+      "id": "hz65rlnypyne9wbids56z0z",
+      "title": "Django",
+      "desc": "",
+      "updated": 1660639427944,
+      "created": 1660318495007,
+      "custom": {},
+      "fname": "programming-languages.python.Django",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "691b014f4cdc23e571adbba03f6b406d",
+      "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "programming-languages.python.Django",
+            "id": "hz65rlnypyne9wbids56z0z",
+            "vaultName": "knowledge"
+          },
+          "value": "resources.books",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 1,
+              "offset": 120
+            },
+            "end": {
+              "line": 14,
+              "column": 31,
+              "offset": 150
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "resources.books",
+            "anchorHeader": "Django:#*"
+          }
+        },
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 22,
+              "column": 50,
+              "offset": 1068
+            },
+            "end": {
+              "line": 22,
+              "column": 89,
+              "offset": 1107
+            },
+            "indent": []
+          },
+          "value": "programming-languages.python.Django",
+          "alias": "programming-languages.python.Django"
+        }
+      ],
+      "anchors": {
+        "介绍": {
+          "type": "header",
+          "text": "介绍",
+          "value": "介绍",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "特点": {
+          "type": "header",
+          "text": "特点",
+          "value": "特点",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "资源": {
+          "type": "header",
+          "text": "资源",
+          "value": "资源",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "i7qra5ip0gwchs30f5at7rx",
+      "data": {}
+    },
     "ndz4w8l4fs8gahzx7eanasg": {
       "id": "ndz4w8l4fs8gahzx7eanasg",
       "title": "Ansible",
@@ -5751,7 +5706,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "026e7c36190c3eeb7881640cdec85315",
+      "contentHash": "dcb6c896035e60f33361df8806daf03d",
       "links": [
         {
           "type": "ref",
@@ -5765,12 +5720,12 @@
             "start": {
               "line": 10,
               "column": 1,
-              "offset": 456
+              "offset": 447
             },
             "end": {
               "line": 10,
               "column": 32,
-              "offset": 487
+              "offset": 478
             },
             "indent": []
           },
@@ -5790,12 +5745,12 @@
             "start": {
               "line": 19,
               "column": 13,
-              "offset": 684
+              "offset": 666
             },
             "end": {
               "line": 19,
               "column": 53,
-              "offset": 724
+              "offset": 706
             },
             "indent": []
           },
@@ -5825,50 +5780,6 @@
       "parent": "i7qra5ip0gwchs30f5at7rx",
       "data": {}
     },
-    "sqm9rnf6pqj48jq2dcmu0ru": {
-      "id": "sqm9rnf6pqj48jq2dcmu0ru",
-      "title": "面向对象编程",
-      "desc": "",
-      "updated": 1660448870607,
-      "created": 1660317788803,
-      "custom": {},
-      "fname": "programming-languages.Object Orinted Programming",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "0bca5a35f32e309ada6dd0a8863538b2",
-      "links": [
-        {
-          "from": {
-            "fname": "programming-languages.python",
-            "vaultName": "knowledge"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 11,
-              "column": 67,
-              "offset": 286
-            },
-            "end": {
-              "line": 11,
-              "column": 119,
-              "offset": 338
-            },
-            "indent": []
-          },
-          "value": "programming-languages.Object Orinted Programming",
-          "alias": "programming-languages.Object Orinted Programming"
-        }
-      ],
-      "anchors": {},
-      "children": [],
-      "parent": "oasz9131g7t831nyxuti1qf",
-      "data": {}
-    },
     "qfmuh4r8hspzcvalako02we": {
       "id": "qfmuh4r8hspzcvalako02we",
       "title": "元编程",
@@ -5895,12 +5806,12 @@
             "start": {
               "line": 11,
               "column": 169,
-              "offset": 388
+              "offset": 378
             },
             "end": {
               "line": 11,
               "column": 211,
-              "offset": 430
+              "offset": 420
             },
             "indent": []
           },
@@ -5939,12 +5850,12 @@
             "start": {
               "line": 19,
               "column": 3,
-              "offset": 429
+              "offset": 411
             },
             "end": {
               "line": 19,
               "column": 39,
-              "offset": 465
+              "offset": 447
             },
             "indent": []
           },
@@ -5983,12 +5894,12 @@
             "start": {
               "line": 21,
               "column": 3,
-              "offset": 563
+              "offset": 543
             },
             "end": {
               "line": 21,
               "column": 33,
-              "offset": 593
+              "offset": 573
             },
             "indent": []
           },
@@ -6015,7 +5926,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "1be0fb475fb138707e778e6cb19e8453",
+      "contentHash": "6bae59a11f42d5f256137785e9119326",
       "links": [
         {
           "from": {
@@ -6027,12 +5938,12 @@
             "start": {
               "line": 25,
               "column": 3,
-              "offset": 837
+              "offset": 813
             },
             "end": {
               "line": 25,
               "column": 35,
-              "offset": 869
+              "offset": 845
             },
             "indent": []
           },
@@ -6071,12 +5982,12 @@
             "start": {
               "line": 48,
               "column": 3,
-              "offset": 1695
+              "offset": 1648
             },
             "end": {
               "line": 48,
               "column": 51,
-              "offset": 1743
+              "offset": 1696
             },
             "indent": []
           },
@@ -6093,12 +6004,12 @@
             "start": {
               "line": 11,
               "column": 120,
-              "offset": 339
+              "offset": 329
             },
             "end": {
               "line": 11,
               "column": 168,
-              "offset": 387
+              "offset": 377
             },
             "indent": []
           },
@@ -6125,7 +6036,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "16321da278137f0d6d4ffc724aa8742a",
+      "contentHash": "a60e1e57dff10dba1fb3f08db244ecd0",
       "links": [],
       "anchors": {},
       "children": [],
@@ -6158,12 +6069,12 @@
             "start": {
               "line": 22,
               "column": 3,
-              "offset": 632
+              "offset": 611
             },
             "end": {
               "line": 22,
               "column": 30,
-              "offset": 659
+              "offset": 638
             },
             "indent": []
           },
@@ -6202,12 +6113,12 @@
             "start": {
               "line": 23,
               "column": 3,
-              "offset": 701
+              "offset": 679
             },
             "end": {
               "line": 23,
               "column": 32,
-              "offset": 730
+              "offset": 708
             },
             "indent": []
           },
@@ -6241,6 +6152,94 @@
       "parent": "oasz9131g7t831nyxuti1qf",
       "data": {}
     },
+    "w1i2dw4t9w6wg81gl79dpks": {
+      "id": "w1i2dw4t9w6wg81gl79dpks",
+      "title": "结构化编程",
+      "desc": "",
+      "updated": 1660317992321,
+      "created": 1660317986745,
+      "custom": {},
+      "fname": "programming-languages.Structural Programming",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "34760e672989dcb7f917a11ded614d25",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 18,
+              "offset": 227
+            },
+            "end": {
+              "line": 11,
+              "column": 66,
+              "offset": 275
+            },
+            "indent": []
+          },
+          "value": "programming-languages.Structural Programming",
+          "alias": "programming-languages.Structural Programming"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "oasz9131g7t831nyxuti1qf",
+      "data": {}
+    },
+    "sqm9rnf6pqj48jq2dcmu0ru": {
+      "id": "sqm9rnf6pqj48jq2dcmu0ru",
+      "title": "面向对象编程",
+      "desc": "",
+      "updated": 1660448870607,
+      "created": 1660317788803,
+      "custom": {},
+      "fname": "programming-languages.Object Orinted Programming",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "39a3261cf511758e66d345490f834e6f",
+      "links": [
+        {
+          "from": {
+            "fname": "programming-languages.python",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 67,
+              "offset": 276
+            },
+            "end": {
+              "line": 11,
+              "column": 119,
+              "offset": 328
+            },
+            "indent": []
+          },
+          "value": "programming-languages.Object Orinted Programming",
+          "alias": "programming-languages.Object Orinted Programming"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "oasz9131g7t831nyxuti1qf",
+      "data": {}
+    },
     "p59utz7mf12ic3lqw8y8tbs": {
       "id": "p59utz7mf12ic3lqw8y8tbs",
       "title": "开源",
@@ -6255,7 +6254,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "2e47cb8dd66bb445af3233691bd1cff3",
+      "contentHash": "15d3d48d051205d90f7086349b3362b7",
       "links": [],
       "anchors": {},
       "children": [
@@ -6278,7 +6277,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "c09688e95ea107e229f50938d7fb31ad",
+      "contentHash": "ddad375f5ad995678469be60773745e5",
       "links": [],
       "anchors": {},
       "children": [],
@@ -6299,7 +6298,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "8c72de3acc36f1d565117001939ce7ed",
+      "contentHash": "12ce44732378aaeac5c6cc1bfb6f3b29",
       "links": [],
       "anchors": {},
       "children": [
@@ -6329,7 +6328,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "218734ba39c807b19fe25885304d4516",
+      "contentHash": "e1959016265eb9772ae753ecd57a57a4",
       "links": [],
       "anchors": {},
       "children": [],
@@ -6350,7 +6349,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "2fd36590b8e941bf158858330c9f75d3",
+      "contentHash": "3010d72785c20281d7f164b2c10c2b39",
       "links": [],
       "anchors": {},
       "children": [
@@ -6374,7 +6373,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "214e68ffc61f7cdf377d71f7d200fd0f",
+      "contentHash": "586c13669c92ad1da94686506c87b0e7",
       "links": [],
       "anchors": {},
       "children": [],
@@ -6395,7 +6394,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "681ca3757a9b8fdf70f1b3d92322e8c0",
+      "contentHash": "5e05cd16634a93e15be4fe6f5ba9c41f",
       "links": [],
       "anchors": {},
       "children": [],
@@ -6416,7 +6415,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "80eb22ef5942012d121109ed3523d78a",
+      "contentHash": "fece4e2882615b95610a078a7a26f8c1",
       "links": [],
       "anchors": {},
       "children": [],
@@ -6437,7 +6436,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "b9a738343f5f014f4008b7a19a07a5b2",
+      "contentHash": "580dc10a3a5f1c96d3fa7067c6ed269f",
       "links": [],
       "anchors": {},
       "children": [
@@ -6460,7 +6459,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "6f63e1f5ed680f455302e1f798a93ed3",
+      "contentHash": "62fa67aff0025ea193e9519d4cc786b6",
       "links": [],
       "anchors": {},
       "children": [],
@@ -6481,7 +6480,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "42fabe15e3bd3b89020d3cdbd3073d95",
+      "contentHash": "aae65a3b3cb51f1bb1def69b341159fe",
       "links": [],
       "anchors": {},
       "children": [],
@@ -6502,7 +6501,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "6ccc1275a43816026b19180c5cfb0f21",
+      "contentHash": "731f185ee3b0b67d4b883de9421fe9be",
       "links": [],
       "anchors": {},
       "children": [],
@@ -6523,7 +6522,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "fa522f8c87f97b4bbb2876fc9e3d7511",
+      "contentHash": "40df8a55ac98fed43b58fdf57e96f9e9",
       "links": [],
       "anchors": {},
       "children": [],
@@ -6544,7 +6543,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "d086b870e944449e4e240bc5691f10d7",
+      "contentHash": "8bc7c459119de20251fa81864f1747d0",
       "links": [],
       "anchors": {},
       "children": [],
@@ -6565,7 +6564,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "2e97566f76010ac03bdb73793cc5669d",
+      "contentHash": "d0aad9b3f2cdb281279413b7a17929e6",
       "links": [
         {
           "type": "ref",
@@ -6579,12 +6578,12 @@
             "start": {
               "line": 4,
               "column": 1,
-              "offset": 11
+              "offset": 8
             },
             "end": {
               "line": 4,
               "column": 24,
-              "offset": 34
+              "offset": 31
             },
             "indent": []
           },
@@ -6627,7 +6626,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "f067879d79cc9ed77208b3cf37dd3a71",
+      "contentHash": "35af7f97b6ebc7d884723bf203ce8c04",
       "links": [],
       "anchors": {},
       "children": [
@@ -6650,7 +6649,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "a2609dbf134447b546f76b30dbdc915c",
+      "contentHash": "85ecfa6108b401f175757edd9537b4e8",
       "links": [
         {
           "type": "ref",
@@ -6664,12 +6663,12 @@
             "start": {
               "line": 16,
               "column": 1,
-              "offset": 80
+              "offset": 65
             },
             "end": {
               "line": 16,
               "column": 29,
-              "offset": 108
+              "offset": 93
             },
             "indent": []
           },
@@ -6689,12 +6688,12 @@
             "start": {
               "line": 10,
               "column": 3,
-              "offset": 124
+              "offset": 115
             },
             "end": {
               "line": 10,
               "column": 38,
-              "offset": 159
+              "offset": 150
             },
             "indent": []
           },
@@ -6709,19 +6708,18 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 11,
+              "line": 8,
               "column": 1,
-              "offset": 121
+              "offset": 102
             },
             "end": {
-              "line": 11,
-              "column": 36,
-              "offset": 156
+              "line": 8,
+              "column": 43,
+              "offset": 144
             },
             "indent": []
           },
-          "value": "basic.software.operating-system",
-          "alias": "basic.software.operating-system"
+          "value": "basic.software.operating-system"
         }
       ],
       "anchors": {
@@ -6752,8 +6750,8 @@
       },
       "children": [
         "e8q7nmga8vp8l0lwwjkk224",
-        "2rkux2b95mg0618bx5vhz8s",
         "ukb27ukhtep8q42aczhb2cz",
+        "2rkux2b95mg0618bx5vhz8s",
         "lhye4vil5un8143hanrbkni",
         "sm3n32l3vnku7mk7ffncfx6",
         "788pm603l0e2jbhxfxnds7f",
@@ -6776,7 +6774,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "5b40ab97aab72fa310a835c7cf3080c0",
+      "contentHash": "5f611e23915b25ae05081f9b12b10bfa",
       "links": [],
       "anchors": {},
       "children": [],
@@ -6797,7 +6795,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "b90dff1ca334d454d277319c48402754",
+      "contentHash": "81db6a5a47913b48f84b521146653a4c",
       "links": [],
       "anchors": {
         "概念": {
@@ -6907,7 +6905,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "a15aa729baeb72e9db9bfb76322c4dca",
+      "contentHash": "9ab9823de195cde1f947ad08e2e79f32",
       "links": [],
       "anchors": {},
       "children": [],
@@ -6928,7 +6926,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "f6ed8bc7dd3b307cfc0a496a2b71270f",
+      "contentHash": "8681e3d318ab8a565d8c97a564bacff8",
       "links": [],
       "anchors": {
         "虚拟内存": {
@@ -7048,6 +7046,27 @@
       "parent": "9nuy42p9er5xi25in7cy0vq",
       "data": {}
     },
+    "2rkux2b95mg0618bx5vhz8s": {
+      "id": "2rkux2b95mg0618bx5vhz8s",
+      "title": "Interprocess Communication",
+      "desc": "",
+      "updated": 1660280915380,
+      "created": 1660280900453,
+      "custom": {},
+      "fname": "basic.software.operating-system.Interprocess Communication",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "c2c0f811d15fc6b0d7ce2d03966899e4",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "9nuy42p9er5xi25in7cy0vq",
+      "data": {}
+    },
     "ukb27ukhtep8q42aczhb2cz": {
       "id": "ukb27ukhtep8q42aczhb2cz",
       "title": "IO Management",
@@ -7062,7 +7081,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "baae5e7a554443d82a4ddb5df94ce2c7",
+      "contentHash": "3d87d95665c0d99332977e3723e9b788",
       "links": [],
       "anchors": {
         "dmadirect-memory-access": {
@@ -7122,27 +7141,6 @@
           "depth": 3
         }
       },
-      "children": [],
-      "parent": "9nuy42p9er5xi25in7cy0vq",
-      "data": {}
-    },
-    "2rkux2b95mg0618bx5vhz8s": {
-      "id": "2rkux2b95mg0618bx5vhz8s",
-      "title": "Interprocess Communication",
-      "desc": "",
-      "updated": 1660280915380,
-      "created": 1660280900453,
-      "custom": {},
-      "fname": "basic.software.operating-system.Interprocess Communication",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "bf98fa99913858f444d66c0a2d9eef8d",
-      "links": [],
-      "anchors": {},
       "children": [],
       "parent": "9nuy42p9er5xi25in7cy0vq",
       "data": {}
@@ -7303,7 +7301,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "5185eeea1f997d51ae669f1691d11c06",
+      "contentHash": "9f5c63fb3a19eecf2d75e9b4e3e02644",
       "links": [
         {
           "type": "wiki",
@@ -7318,12 +7316,12 @@
             "start": {
               "line": 16,
               "column": 3,
-              "offset": 98
+              "offset": 83
             },
             "end": {
               "line": 16,
               "column": 25,
-              "offset": 120
+              "offset": 105
             },
             "indent": []
           },
@@ -7346,12 +7344,12 @@
             "start": {
               "line": 17,
               "column": 3,
-              "offset": 124
+              "offset": 108
             },
             "end": {
               "line": 17,
               "column": 29,
-              "offset": 150
+              "offset": 134
             },
             "indent": []
           },
@@ -7374,12 +7372,12 @@
             "start": {
               "line": 18,
               "column": 3,
-              "offset": 154
+              "offset": 137
             },
             "end": {
               "line": 18,
               "column": 32,
-              "offset": 183
+              "offset": 166
             },
             "indent": []
           },
@@ -7399,12 +7397,12 @@
             "start": {
               "line": 12,
               "column": 3,
-              "offset": 198
+              "offset": 187
             },
             "end": {
               "line": 12,
               "column": 21,
-              "offset": 216
+              "offset": 205
             },
             "indent": []
           },
@@ -7439,8 +7437,8 @@
         }
       },
       "children": [
-        "y5kiwrofq5xhekxxqxajxas",
         "e1jw5gg457mnhekpu6bw0ea",
+        "y5kiwrofq5xhekxxqxajxas",
         "2lpt87f6lkomzhl37o9laax"
       ],
       "parent": "e8hgfaxvmfjj1h1wq7pe5he",
@@ -7460,7 +7458,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "afb2748081166bc52dc48085e41f9385",
+      "contentHash": "ec4a6606a520dc0d7805d7ffb0cf5c71",
       "links": [
         {
           "from": {
@@ -7472,12 +7470,12 @@
             "start": {
               "line": 17,
               "column": 3,
-              "offset": 124
+              "offset": 108
             },
             "end": {
               "line": 17,
               "column": 29,
-              "offset": 150
+              "offset": 134
             },
             "indent": []
           },
@@ -7507,7 +7505,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "cb0443bb409db6275f7e405c6caf5535",
+      "contentHash": "1a005a49848e62b4d498104bb10ae92b",
       "links": [],
       "anchors": {},
       "children": [],
@@ -7528,55 +7526,11 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "6e69259e39e643f89249221f0952fdeb",
+      "contentHash": "e40b50b483f64e80f19841194c105f10",
       "links": [],
       "anchors": {},
       "children": [],
       "parent": "2lpt87f6lkomzhl37o9laax",
-      "data": {}
-    },
-    "e1jw5gg457mnhekpu6bw0ea": {
-      "id": "e1jw5gg457mnhekpu6bw0ea",
-      "title": "IO Devices",
-      "desc": "",
-      "updated": 1660289126554,
-      "created": 1660289124592,
-      "custom": {},
-      "fname": "basic.hardware.IO Devices",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "b532f86bf05d25e34e2301bbea383f7d",
-      "links": [
-        {
-          "from": {
-            "fname": "basic.hardware",
-            "vaultName": "knowledge"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 18,
-              "column": 3,
-              "offset": 154
-            },
-            "end": {
-              "line": 18,
-              "column": 32,
-              "offset": 183
-            },
-            "indent": []
-          },
-          "value": "basic.hardware.IO Devices",
-          "alias": "basic.hardware.IO Devices"
-        }
-      ],
-      "anchors": {},
-      "children": [],
-      "parent": "6l2hd19rhsbeqnqzifx5y8n",
       "data": {}
     },
     "y5kiwrofq5xhekxxqxajxas": {
@@ -7593,7 +7547,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "34c3f6eeb494bb4e3f22ccfcee96910d",
+      "contentHash": "46206414c05479bdd74384b3054f8d6b",
       "links": [
         {
           "from": {
@@ -7605,12 +7559,12 @@
             "start": {
               "line": 16,
               "column": 3,
-              "offset": 98
+              "offset": 83
             },
             "end": {
               "line": 16,
               "column": 25,
-              "offset": 120
+              "offset": 105
             },
             "indent": []
           },
@@ -7641,7 +7595,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "ff2db5b27ac38ce12928d47a054ad753",
+      "contentHash": "50d5ef3b4c0e66c096e4fcc07ae5861d",
       "links": [],
       "anchors": {},
       "children": [],
@@ -7662,7 +7616,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "1732c21b2dfca012d1a1772a0e285492",
+      "contentHash": "32fb10fca4a1285ea2ac40192961b307",
       "links": [],
       "anchors": {},
       "children": [],
@@ -7683,7 +7637,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "6062679a0f3854a4c544b98990645c55",
+      "contentHash": "cf86285dfc0ba571c78997f4be0efd75",
       "links": [],
       "anchors": {
         "risc-与-cisc": {
@@ -7697,6 +7651,50 @@
       },
       "children": [],
       "parent": "y5kiwrofq5xhekxxqxajxas",
+      "data": {}
+    },
+    "e1jw5gg457mnhekpu6bw0ea": {
+      "id": "e1jw5gg457mnhekpu6bw0ea",
+      "title": "IO Devices",
+      "desc": "",
+      "updated": 1660289126554,
+      "created": 1660289124592,
+      "custom": {},
+      "fname": "basic.hardware.IO Devices",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "a6f83c12ec9cc7f96aa812f69084f3da",
+      "links": [
+        {
+          "from": {
+            "fname": "basic.hardware",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 18,
+              "column": 3,
+              "offset": 137
+            },
+            "end": {
+              "line": 18,
+              "column": 32,
+              "offset": 166
+            },
+            "indent": []
+          },
+          "value": "basic.hardware.IO Devices",
+          "alias": "basic.hardware.IO Devices"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "6l2hd19rhsbeqnqzifx5y8n",
       "data": {}
     },
     "juqa13xh9vpcjjcwuaxpijf": {
@@ -7713,7 +7711,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "f1cfcdc1e104e6f89cf7ab1206fb1f14",
+      "contentHash": "68b1ad973272449f9f125830a598b86e",
       "links": [],
       "anchors": {},
       "children": [
@@ -7738,7 +7736,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "db809db2394fa9a192bcc5abfe1ae745",
+      "contentHash": "b01d0e4c721a0ceae9016a5f72c3cb7f",
       "links": [
         {
           "from": {
@@ -7750,12 +7748,12 @@
             "start": {
               "line": 11,
               "column": 3,
-              "offset": 163
+              "offset": 153
             },
             "end": {
               "line": 11,
               "column": 34,
-              "offset": 194
+              "offset": 184
             },
             "indent": []
           },
@@ -7787,7 +7785,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "6560b27f79191a30c9520c4a9d122598",
+      "contentHash": "5960240047f20df038db4bf28e716dc9",
       "links": [],
       "anchors": {},
       "children": [],
@@ -7808,7 +7806,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "93f0218ed276722c173d329a07cb9a4a",
+      "contentHash": "7fae0a1ca276f22f5085f1dcf23c589d",
       "links": [],
       "anchors": {},
       "children": [],
@@ -7829,7 +7827,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "bad35649bc000dc9d61ebe2978589637",
+      "contentHash": "8f13a830b4ceb9bf36cedd6f8c142cdd",
       "links": [],
       "anchors": {},
       "children": [],
@@ -7850,7 +7848,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "e83290041a27a6d0e78cc403262ac4f4",
+      "contentHash": "3d145e87c1647c6ce50be33371eb6e51",
       "links": [],
       "anchors": {},
       "children": [],
@@ -7871,7 +7869,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "e895824ff551011da7a4a12da0845308",
+      "contentHash": "c6ed15a8d6757ab42b4d9c0ce79f036a",
       "links": [],
       "anchors": {},
       "children": [],
@@ -7892,7 +7890,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "499a97957de626661c50f1ae4ce72bb5",
+      "contentHash": "25eb94875cbd36d5da5462355a1b12a6",
       "links": [],
       "anchors": {},
       "children": [],
@@ -7913,7 +7911,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "0dfc6475c4dd785769a0bb5806ce04f9",
+      "contentHash": "c14c4c0e38b2161db996ae261462afbd",
       "links": [],
       "anchors": {},
       "children": [
@@ -7937,7 +7935,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "898bec1059b788e3244c05ef27f5de3d",
+      "contentHash": "97d73ae2b4aae5e936e4fb86ed016c2e",
       "links": [],
       "anchors": {},
       "children": [],
@@ -7958,7 +7956,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "0cebc5839d1e26bccb8743215f7c45b3",
+      "contentHash": "937df203d741768e52c86dcf3b88f27c",
       "links": [],
       "anchors": {},
       "children": [
@@ -7983,7 +7981,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "0dddf30b97ff36d3a843c76086ecea10",
+      "contentHash": "79b2242e41f7d0ef5afcfdd972d8fc40",
       "links": [],
       "anchors": {},
       "children": [],
@@ -8004,7 +8002,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "57620755872cb145e4b4b9a7fa8e7a73",
+      "contentHash": "677e63459ef89030fca21a8bf6e4cca5",
       "links": [],
       "anchors": {},
       "children": [],
@@ -8025,7 +8023,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "12ee4c6fd60f863ceccf0063738bfd39",
+      "contentHash": "e271d7e7a3245a750df1ff5824dfb0b5",
       "links": [],
       "anchors": {},
       "children": [],
@@ -8046,7 +8044,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "68ceb2735887ff4e50f40784a01b8502",
+      "contentHash": "89d1371e36c40ba3d7d2c64ae650fc0c",
       "links": [
         {
           "type": "wiki",
@@ -8061,12 +8059,12 @@
             "start": {
               "line": 10,
               "column": 3,
-              "offset": 124
+              "offset": 115
             },
             "end": {
               "line": 10,
               "column": 38,
-              "offset": 159
+              "offset": 150
             },
             "indent": []
           },
@@ -8089,12 +8087,12 @@
             "start": {
               "line": 11,
               "column": 3,
-              "offset": 163
+              "offset": 153
             },
             "end": {
               "line": 11,
               "column": 34,
-              "offset": 194
+              "offset": 184
             },
             "indent": []
           },
@@ -8117,12 +8115,12 @@
             "start": {
               "line": 12,
               "column": 3,
-              "offset": 198
+              "offset": 187
             },
             "end": {
               "line": 12,
               "column": 21,
-              "offset": 216
+              "offset": 205
             },
             "indent": []
           },
@@ -8145,12 +8143,12 @@
             "start": {
               "line": 18,
               "column": 3,
-              "offset": 362
+              "offset": 345
             },
             "end": {
               "line": 18,
               "column": 35,
-              "offset": 394
+              "offset": 377
             },
             "indent": []
           },
@@ -8173,12 +8171,12 @@
             "start": {
               "line": 19,
               "column": 3,
-              "offset": 429
+              "offset": 411
             },
             "end": {
               "line": 19,
               "column": 39,
-              "offset": 465
+              "offset": 447
             },
             "indent": []
           },
@@ -8201,12 +8199,12 @@
             "start": {
               "line": 20,
               "column": 3,
-              "offset": 496
+              "offset": 477
             },
             "end": {
               "line": 20,
               "column": 39,
-              "offset": 532
+              "offset": 513
             },
             "indent": []
           },
@@ -8229,12 +8227,12 @@
             "start": {
               "line": 21,
               "column": 3,
-              "offset": 563
+              "offset": 543
             },
             "end": {
               "line": 21,
               "column": 33,
-              "offset": 593
+              "offset": 573
             },
             "indent": []
           },
@@ -8257,12 +8255,12 @@
             "start": {
               "line": 22,
               "column": 3,
-              "offset": 632
+              "offset": 611
             },
             "end": {
               "line": 22,
               "column": 30,
-              "offset": 659
+              "offset": 638
             },
             "indent": []
           },
@@ -8285,12 +8283,12 @@
             "start": {
               "line": 23,
               "column": 3,
-              "offset": 701
+              "offset": 679
             },
             "end": {
               "line": 23,
               "column": 32,
-              "offset": 730
+              "offset": 708
             },
             "indent": []
           },
@@ -8313,12 +8311,12 @@
             "start": {
               "line": 24,
               "column": 3,
-              "offset": 770
+              "offset": 747
             },
             "end": {
               "line": 24,
               "column": 33,
-              "offset": 800
+              "offset": 777
             },
             "indent": []
           },
@@ -8341,12 +8339,12 @@
             "start": {
               "line": 25,
               "column": 3,
-              "offset": 837
+              "offset": 813
             },
             "end": {
               "line": 25,
               "column": 35,
-              "offset": 869
+              "offset": 845
             },
             "indent": []
           },
@@ -8369,12 +8367,12 @@
             "start": {
               "line": 46,
               "column": 3,
-              "offset": 1624
+              "offset": 1579
             },
             "end": {
               "line": 46,
               "column": 34,
-              "offset": 1655
+              "offset": 1610
             },
             "indent": []
           },
@@ -8397,12 +8395,12 @@
             "start": {
               "line": 47,
               "column": 3,
-              "offset": 1659
+              "offset": 1613
             },
             "end": {
               "line": 47,
               "column": 35,
-              "offset": 1691
+              "offset": 1645
             },
             "indent": []
           },
@@ -8425,12 +8423,12 @@
             "start": {
               "line": 48,
               "column": 3,
-              "offset": 1695
+              "offset": 1648
             },
             "end": {
               "line": 48,
               "column": 51,
-              "offset": 1743
+              "offset": 1696
             },
             "indent": []
           },
@@ -8453,12 +8451,12 @@
             "start": {
               "line": 52,
               "column": 3,
-              "offset": 1763
+              "offset": 1712
             },
             "end": {
               "line": 52,
               "column": 26,
-              "offset": 1786
+              "offset": 1735
             },
             "indent": []
           },
@@ -8481,12 +8479,12 @@
             "start": {
               "line": 52,
               "column": 27,
-              "offset": 1787
+              "offset": 1736
             },
             "end": {
               "line": 52,
               "column": 50,
-              "offset": 1810
+              "offset": 1759
             },
             "indent": []
           },
@@ -8509,12 +8507,12 @@
             "start": {
               "line": 53,
               "column": 3,
-              "offset": 1814
+              "offset": 1762
             },
             "end": {
               "line": 53,
               "column": 31,
-              "offset": 1842
+              "offset": 1790
             },
             "indent": []
           },
@@ -8534,12 +8532,12 @@
             "start": {
               "line": 6,
               "column": 1,
-              "offset": 40
+              "offset": 35
             },
             "end": {
               "line": 6,
               "column": 27,
-              "offset": 66
+              "offset": 61
             },
             "indent": []
           },
@@ -8646,7 +8644,7 @@
       "id": "20dxao0uf8892hiam7spier",
       "title": "个人知识库",
       "desc": "",
-      "updated": 1660725353248,
+      "updated": 1661326798132,
       "created": 1660230632683,
       "custom": {
         "nav_order": 0,
@@ -8659,36 +8657,8 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "2f99593785f45728c4002dc4e592d509",
+      "contentHash": "92a5cfca5fe7bbe489a37fc6f1ee44db",
       "links": [
-        {
-          "type": "wiki",
-          "from": {
-            "fname": "root",
-            "id": "20dxao0uf8892hiam7spier",
-            "vaultName": "knowledge"
-          },
-          "value": "basic.software.operating-system",
-          "alias": "basic.software.operating-system",
-          "position": {
-            "start": {
-              "line": 11,
-              "column": 1,
-              "offset": 121
-            },
-            "end": {
-              "line": 11,
-              "column": 36,
-              "offset": 156
-            },
-            "indent": []
-          },
-          "xvault": false,
-          "sameFile": false,
-          "to": {
-            "fname": "basic.software.operating-system"
-          }
-        },
         {
           "type": "ref",
           "from": {
@@ -8701,12 +8671,12 @@
             "start": {
               "line": 6,
               "column": 1,
-              "offset": 40
+              "offset": 35
             },
             "end": {
               "line": 6,
               "column": 27,
-              "offset": 66
+              "offset": 61
             },
             "indent": []
           },
@@ -8728,12 +8698,12 @@
             "start": {
               "line": 7,
               "column": 1,
-              "offset": 68
+              "offset": 62
             },
             "end": {
               "line": 7,
               "column": 40,
-              "offset": 107
+              "offset": 101
             },
             "indent": []
           },
@@ -8741,6 +8711,33 @@
           "to": {
             "fname": "programming-languages.python",
             "anchorHeader": "介绍:#*"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "basic.software.operating-system",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 1,
+              "offset": 102
+            },
+            "end": {
+              "line": 8,
+              "column": 43,
+              "offset": 144
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "basic.software.operating-system",
+            "anchorHeader": "核心:#*"
           }
         }
       ],
@@ -8757,7 +8754,7 @@
           "type": "header",
           "text": "施工中",
           "value": "施工中",
-          "line": 15,
+          "line": 16,
           "column": 0,
           "depth": 2
         }
@@ -8775,14 +8772,14 @@
       ],
       "parent": null,
       "data": {},
-      "body": "\n\r\n记录我在工作和学习中掌握到的软件开发主题的知识。\r\n\r\n## 已完成\r\n\r\n![[个人介绍 | about me#简介:#*]]\r\n![[programming-languages.python#介绍:#*]]\r\n\r\n## 施工中\r\n\r\n[[basic.software.operating-system]]\r\n"
+      "body": "\n记录我在工作和学习中掌握到的软件开发主题的知识。\n\n## 已完成\n\n![[个人介绍 | about me#简介:#*]]\n![[programming-languages.python#介绍:#*]]\n![[basic.software.operating-system#核心:#*]]\n\n## 施工中\n"
     }
   ],
   "noteIndex": {
     "id": "20dxao0uf8892hiam7spier",
     "title": "个人知识库",
     "desc": "",
-    "updated": 1660725353248,
+    "updated": 1661326798132,
     "created": 1660230632683,
     "custom": {
       "nav_order": 0,
@@ -8795,36 +8792,8 @@
       "selfContained": true,
       "name": "knowledge"
     },
-    "contentHash": "2f99593785f45728c4002dc4e592d509",
+    "contentHash": "92a5cfca5fe7bbe489a37fc6f1ee44db",
     "links": [
-      {
-        "type": "wiki",
-        "from": {
-          "fname": "root",
-          "id": "20dxao0uf8892hiam7spier",
-          "vaultName": "knowledge"
-        },
-        "value": "basic.software.operating-system",
-        "alias": "basic.software.operating-system",
-        "position": {
-          "start": {
-            "line": 11,
-            "column": 1,
-            "offset": 121
-          },
-          "end": {
-            "line": 11,
-            "column": 36,
-            "offset": 156
-          },
-          "indent": []
-        },
-        "xvault": false,
-        "sameFile": false,
-        "to": {
-          "fname": "basic.software.operating-system"
-        }
-      },
       {
         "type": "ref",
         "from": {
@@ -8837,12 +8806,12 @@
           "start": {
             "line": 6,
             "column": 1,
-            "offset": 40
+            "offset": 35
           },
           "end": {
             "line": 6,
             "column": 27,
-            "offset": 66
+            "offset": 61
           },
           "indent": []
         },
@@ -8864,12 +8833,12 @@
           "start": {
             "line": 7,
             "column": 1,
-            "offset": 68
+            "offset": 62
           },
           "end": {
             "line": 7,
             "column": 40,
-            "offset": 107
+            "offset": 101
           },
           "indent": []
         },
@@ -8877,6 +8846,33 @@
         "to": {
           "fname": "programming-languages.python",
           "anchorHeader": "介绍:#*"
+        }
+      },
+      {
+        "type": "ref",
+        "from": {
+          "fname": "root",
+          "id": "20dxao0uf8892hiam7spier",
+          "vaultName": "knowledge"
+        },
+        "value": "basic.software.operating-system",
+        "position": {
+          "start": {
+            "line": 8,
+            "column": 1,
+            "offset": 102
+          },
+          "end": {
+            "line": 8,
+            "column": 43,
+            "offset": 144
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "to": {
+          "fname": "basic.software.operating-system",
+          "anchorHeader": "核心:#*"
         }
       }
     ],
@@ -8893,7 +8889,7 @@
         "type": "header",
         "text": "施工中",
         "value": "施工中",
-        "line": 15,
+        "line": 16,
         "column": 0,
         "depth": 2
       }
@@ -8911,7 +8907,7 @@
     ],
     "parent": null,
     "data": {},
-    "body": "\n\r\n记录我在工作和学习中掌握到的软件开发主题的知识。\r\n\r\n## 已完成\r\n\r\n![[个人介绍 | about me#简介:#*]]\r\n![[programming-languages.python#介绍:#*]]\r\n\r\n## 施工中\r\n\r\n[[basic.software.operating-system]]\r\n"
+    "body": "\n记录我在工作和学习中掌握到的软件开发主题的知识。\n\n## 已完成\n\n![[个人介绍 | about me#简介:#*]]\n![[programming-languages.python#介绍:#*]]\n![[basic.software.operating-system#核心:#*]]\n\n## 施工中\n"
   },
   "vaults": [
     {
