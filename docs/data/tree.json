@@ -44,6 +44,15 @@
               "children": []
             },
             {
+              "key": "wibhrb0yg5q8gbhoslnllxp",
+              "title": "密码学",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "navExclude": false,
+              "children": []
+            },
+            {
               "key": "90kk6w4dlyax9ywochuy6om",
               "title": "授权与访问控制",
               "icon": null,
@@ -1090,7 +1099,7 @@
               ]
             },
             {
-              "key": "km1zcml9hswenekqbo2nopk",
+              "key": "b4h0ta2yob2k2b8t2oyha8n",
               "title": "Config",
               "icon": "plusOutlined",
               "hasTitleNumberOutlined": false,
@@ -1109,7 +1118,7 @@
               ]
             },
             {
-              "key": "1ai3qa8sz2m4i82q2ueragi",
+              "key": "ahq8w9gv2iqle2jxalbnq69",
               "title": "Design",
               "icon": "plusOutlined",
               "hasTitleNumberOutlined": false,
@@ -1311,15 +1320,15 @@
     "403": null,
     "20dxao0uf8892hiam7spier": null,
     "i5z2gw9ou7tmimbwdsltnnz": "20dxao0uf8892hiam7spier",
-    "1ai3qa8sz2m4i82q2ueragi": "i5z2gw9ou7tmimbwdsltnnz",
-    "orjdxc68o38g2h5yennctf4": "1ai3qa8sz2m4i82q2ueragi",
-    "tg8qotpb8mcbg975s6juars": "1ai3qa8sz2m4i82q2ueragi",
-    "v03c4xgyco81innvtbwsn60": "1ai3qa8sz2m4i82q2ueragi",
-    "fduzrhulz557t4yjske07k9": "1ai3qa8sz2m4i82q2ueragi",
-    "shs2x76gfjtvi20xxziz4k2": "1ai3qa8sz2m4i82q2ueragi",
-    "mqujgpqpm0qo99kdvrlv2kx": "1ai3qa8sz2m4i82q2ueragi",
-    "km1zcml9hswenekqbo2nopk": "i5z2gw9ou7tmimbwdsltnnz",
-    "ejwp7pv7cmw5m8efhkq5ah3": "km1zcml9hswenekqbo2nopk",
+    "ahq8w9gv2iqle2jxalbnq69": "i5z2gw9ou7tmimbwdsltnnz",
+    "orjdxc68o38g2h5yennctf4": "ahq8w9gv2iqle2jxalbnq69",
+    "tg8qotpb8mcbg975s6juars": "ahq8w9gv2iqle2jxalbnq69",
+    "v03c4xgyco81innvtbwsn60": "ahq8w9gv2iqle2jxalbnq69",
+    "fduzrhulz557t4yjske07k9": "ahq8w9gv2iqle2jxalbnq69",
+    "shs2x76gfjtvi20xxziz4k2": "ahq8w9gv2iqle2jxalbnq69",
+    "mqujgpqpm0qo99kdvrlv2kx": "ahq8w9gv2iqle2jxalbnq69",
+    "b4h0ta2yob2k2b8t2oyha8n": "i5z2gw9ou7tmimbwdsltnnz",
+    "ejwp7pv7cmw5m8efhkq5ah3": "b4h0ta2yob2k2b8t2oyha8n",
     "0cu9dg1bjx46x5iqhnr2ulv": "i5z2gw9ou7tmimbwdsltnnz",
     "j6uvrzfjjscajfmzbvgt71t": "0cu9dg1bjx46x5iqhnr2ulv",
     "5eo8fia4y528tgmocaspt14": "j6uvrzfjjscajfmzbvgt71t",
@@ -1347,6 +1356,7 @@
     "suw6c5y5dd8ycq6bpqxzgi8": "a44h4sj21jfb19ymoovvuzr",
     "5li2av5xhjpvuv0t0by2yyl": "a44h4sj21jfb19ymoovvuzr",
     "na2uf1zamwck4tfi1rcrmpv": "a44h4sj21jfb19ymoovvuzr",
+    "wibhrb0yg5q8gbhoslnllxp": "a44h4sj21jfb19ymoovvuzr",
     "90kk6w4dlyax9ywochuy6om": "a44h4sj21jfb19ymoovvuzr",
     "nmz6sghas6qb5lqnvxac95r": "a44h4sj21jfb19ymoovvuzr",
     "0cx4cn21i807ydan59xneso": "20dxao0uf8892hiam7spier",

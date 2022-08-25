@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1661356240758,
-      "created": 1661356240758,
+      "updated": 1661412375950,
+      "created": 1661412375950,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -211,13 +211,13 @@
         "415pfd1z8i5k9amwp7gkzlp",
         "l0n8p6a22ndk4hwpm176fnn",
         "0cu9dg1bjx46x5iqhnr2ulv",
-        "km1zcml9hswenekqbo2nopk",
-        "1ai3qa8sz2m4i82q2ueragi"
+        "b4h0ta2yob2k2b8t2oyha8n",
+        "ahq8w9gv2iqle2jxalbnq69"
       ],
       "parent": "20dxao0uf8892hiam7spier",
       "data": {}
     },
-    "1ai3qa8sz2m4i82q2ueragi": {
+    "ahq8w9gv2iqle2jxalbnq69": {
       "fname": "software-develop.design",
       "stub": true,
       "vault": {
@@ -227,9 +227,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1661356239466,
-      "created": 1661356239466,
-      "id": "1ai3qa8sz2m4i82q2ueragi",
+      "updated": 1661412374526,
+      "created": 1661412374526,
+      "id": "ahq8w9gv2iqle2jxalbnq69",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -263,7 +263,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "1ai3qa8sz2m4i82q2ueragi",
+      "parent": "ahq8w9gv2iqle2jxalbnq69",
       "data": {}
     },
     "tg8qotpb8mcbg975s6juars": {
@@ -307,7 +307,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "1ai3qa8sz2m4i82q2ueragi",
+      "parent": "ahq8w9gv2iqle2jxalbnq69",
       "data": {}
     },
     "v03c4xgyco81innvtbwsn60": {
@@ -328,7 +328,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "1ai3qa8sz2m4i82q2ueragi",
+      "parent": "ahq8w9gv2iqle2jxalbnq69",
       "data": {}
     },
     "fduzrhulz557t4yjske07k9": {
@@ -349,7 +349,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "1ai3qa8sz2m4i82q2ueragi",
+      "parent": "ahq8w9gv2iqle2jxalbnq69",
       "data": {}
     },
     "shs2x76gfjtvi20xxziz4k2": {
@@ -370,7 +370,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "1ai3qa8sz2m4i82q2ueragi",
+      "parent": "ahq8w9gv2iqle2jxalbnq69",
       "data": {}
     },
     "mqujgpqpm0qo99kdvrlv2kx": {
@@ -391,10 +391,10 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "1ai3qa8sz2m4i82q2ueragi",
+      "parent": "ahq8w9gv2iqle2jxalbnq69",
       "data": {}
     },
-    "km1zcml9hswenekqbo2nopk": {
+    "b4h0ta2yob2k2b8t2oyha8n": {
       "fname": "software-develop.config",
       "stub": true,
       "vault": {
@@ -404,9 +404,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1661356239466,
-      "created": 1661356239466,
-      "id": "km1zcml9hswenekqbo2nopk",
+      "updated": 1661412374526,
+      "created": 1661412374526,
+      "id": "b4h0ta2yob2k2b8t2oyha8n",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -458,7 +458,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "km1zcml9hswenekqbo2nopk",
+      "parent": "b4h0ta2yob2k2b8t2oyha8n",
       "data": {}
     },
     "0cu9dg1bjx46x5iqhnr2ulv": {
@@ -1372,6 +1372,7 @@
       "children": [
         "nmz6sghas6qb5lqnvxac95r",
         "90kk6w4dlyax9ywochuy6om",
+        "wibhrb0yg5q8gbhoslnllxp",
         "na2uf1zamwck4tfi1rcrmpv",
         "5li2av5xhjpvuv0t0by2yyl",
         "suw6c5y5dd8ycq6bpqxzgi8"
@@ -1511,6 +1512,124 @@
       "contentHash": "43949d8bb661c1977ccefda1ad37d070",
       "links": [],
       "anchors": {},
+      "children": [],
+      "parent": "a44h4sj21jfb19ymoovvuzr",
+      "data": {}
+    },
+    "wibhrb0yg5q8gbhoslnllxp": {
+      "id": "wibhrb0yg5q8gbhoslnllxp",
+      "title": "密码学",
+      "desc": "",
+      "updated": 1661407047854,
+      "created": 1661406136564,
+      "custom": {},
+      "fname": "security.Cryptography",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "372b9c28a728bdcc0888e43f7a8f6bf0",
+      "links": [],
+      "anchors": {
+        "历史": {
+          "type": "header",
+          "text": "历史",
+          "value": "历史",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "柯克霍夫原则": {
+          "type": "header",
+          "text": "柯克霍夫原则",
+          "value": "柯克霍夫原则",
+          "line": 14,
+          "column": 0,
+          "depth": 3
+        },
+        "现代密码工具": {
+          "type": "header",
+          "text": "现代密码工具",
+          "value": "现代密码工具",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        },
+        "对称和非对称密码学": {
+          "type": "header",
+          "text": "对称和非对称密码学",
+          "value": "对称和非对称密码学",
+          "line": 29,
+          "column": 0,
+          "depth": 3
+        },
+        "对称密码学": {
+          "type": "header",
+          "text": "对称密码学",
+          "value": "对称密码学",
+          "line": 31,
+          "column": 0,
+          "depth": 4
+        },
+        "对称密钥加密": {
+          "type": "header",
+          "text": "对称密钥加密",
+          "value": "对称密钥加密",
+          "line": 37,
+          "column": 0,
+          "depth": 4
+        },
+        "非对称密码学": {
+          "type": "header",
+          "text": "非对称密码学",
+          "value": "非对称密码学",
+          "line": 43,
+          "column": 0,
+          "depth": 4
+        },
+        "非对称密钥算法": {
+          "type": "header",
+          "text": "非对称密钥算法",
+          "value": "非对称密钥算法",
+          "line": 47,
+          "column": 0,
+          "depth": 5
+        },
+        "pgp": {
+          "type": "header",
+          "text": "PGP",
+          "value": "pgp",
+          "line": 53,
+          "column": 0,
+          "depth": 5
+        },
+        "散列函数": {
+          "type": "header",
+          "text": "散列函数",
+          "value": "散列函数",
+          "line": 55,
+          "column": 0,
+          "depth": 3
+        },
+        "数字签名": {
+          "type": "header",
+          "text": "数字签名",
+          "value": "数字签名",
+          "line": 60,
+          "column": 0,
+          "depth": 3
+        },
+        "数字证书": {
+          "type": "header",
+          "text": "数字证书",
+          "value": "数字证书",
+          "line": 68,
+          "column": 0,
+          "depth": 3
+        }
+      },
       "children": [],
       "parent": "a44h4sj21jfb19ymoovvuzr",
       "data": {}
