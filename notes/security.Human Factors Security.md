@@ -1,8 +1,8 @@
 ---
 id: jq0ulj3quh8dkrhncjgtpfa
-title: Human Factors Security
+title: 人因安全
 desc: ""
-updated: 1661569307545
+updated: 1661569883967
 created: 1661568688256
 ---
 

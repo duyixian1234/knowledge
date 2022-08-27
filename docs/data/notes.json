@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1661569601492,
-      "created": 1661569601492,
+      "updated": 1661569925547,
+      "created": 1661569925547,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -212,13 +212,13 @@
         "415pfd1z8i5k9amwp7gkzlp",
         "l0n8p6a22ndk4hwpm176fnn",
         "0cu9dg1bjx46x5iqhnr2ulv",
-        "x5fpjem67s6wkpzqtuxt7wk",
-        "85wua65fngba1dxj8j3bl69"
+        "j6q05f38gjyo2tj09np4zyx",
+        "oj86j8a5mw9q2vso3gc2jiq"
       ],
       "parent": "20dxao0uf8892hiam7spier",
       "data": {}
     },
-    "85wua65fngba1dxj8j3bl69": {
+    "oj86j8a5mw9q2vso3gc2jiq": {
       "fname": "software-develop.design",
       "stub": true,
       "vault": {
@@ -228,9 +228,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1661569599972,
-      "created": 1661569599972,
-      "id": "85wua65fngba1dxj8j3bl69",
+      "updated": 1661569924031,
+      "created": 1661569924031,
+      "id": "oj86j8a5mw9q2vso3gc2jiq",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -264,7 +264,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "85wua65fngba1dxj8j3bl69",
+      "parent": "oj86j8a5mw9q2vso3gc2jiq",
       "data": {}
     },
     "tg8qotpb8mcbg975s6juars": {
@@ -308,7 +308,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "85wua65fngba1dxj8j3bl69",
+      "parent": "oj86j8a5mw9q2vso3gc2jiq",
       "data": {}
     },
     "v03c4xgyco81innvtbwsn60": {
@@ -329,7 +329,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "85wua65fngba1dxj8j3bl69",
+      "parent": "oj86j8a5mw9q2vso3gc2jiq",
       "data": {}
     },
     "fduzrhulz557t4yjske07k9": {
@@ -350,7 +350,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "85wua65fngba1dxj8j3bl69",
+      "parent": "oj86j8a5mw9q2vso3gc2jiq",
       "data": {}
     },
     "shs2x76gfjtvi20xxziz4k2": {
@@ -371,7 +371,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "85wua65fngba1dxj8j3bl69",
+      "parent": "oj86j8a5mw9q2vso3gc2jiq",
       "data": {}
     },
     "mqujgpqpm0qo99kdvrlv2kx": {
@@ -392,10 +392,10 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "85wua65fngba1dxj8j3bl69",
+      "parent": "oj86j8a5mw9q2vso3gc2jiq",
       "data": {}
     },
-    "x5fpjem67s6wkpzqtuxt7wk": {
+    "j6q05f38gjyo2tj09np4zyx": {
       "fname": "software-develop.config",
       "stub": true,
       "vault": {
@@ -405,9 +405,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1661569599971,
-      "created": 1661569599971,
-      "id": "x5fpjem67s6wkpzqtuxt7wk",
+      "updated": 1661569924031,
+      "created": 1661569924031,
+      "id": "j6q05f38gjyo2tj09np4zyx",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -459,7 +459,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "x5fpjem67s6wkpzqtuxt7wk",
+      "parent": "j6q05f38gjyo2tj09np4zyx",
       "data": {}
     },
     "0cu9dg1bjx46x5iqhnr2ulv": {
@@ -1374,7 +1374,6 @@
         "nmz6sghas6qb5lqnvxac95r",
         "90kk6w4dlyax9ywochuy6om",
         "wibhrb0yg5q8gbhoslnllxp",
-        "na2uf1zamwck4tfi1rcrmpv",
         "jq0ulj3quh8dkrhncjgtpfa",
         "5li2av5xhjpvuv0t0by2yyl",
         "a5qhaapggpqvb3mbef9qxws",
@@ -1981,9 +1980,9 @@
     },
     "jq0ulj3quh8dkrhncjgtpfa": {
       "id": "jq0ulj3quh8dkrhncjgtpfa",
-      "title": "Human Factors Security",
+      "title": "人因安全",
       "desc": "",
-      "updated": 1661569307545,
+      "updated": 1661569883967,
       "created": 1661568688256,
       "custom": {},
       "fname": "security.Human Factors Security",
@@ -1993,7 +1992,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "6a5155070692d2bc4a75e70b4bb146d6",
+      "contentHash": "823a7aefd68ddf26ec771be5ded5a40b",
       "links": [],
       "anchors": {
         "搜索信息实施社会工程学攻击": {
@@ -2085,27 +2084,6 @@
           "depth": 3
         }
       },
-      "children": [],
-      "parent": "a44h4sj21jfb19ymoovvuzr",
-      "data": {}
-    },
-    "na2uf1zamwck4tfi1rcrmpv": {
-      "id": "na2uf1zamwck4tfi1rcrmpv",
-      "title": "HTTPS",
-      "desc": "",
-      "updated": 1660280123083,
-      "created": 1660280123083,
-      "custom": {},
-      "fname": "security.HTTPS",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "43949d8bb661c1977ccefda1ad37d070",
-      "links": [],
-      "anchors": {},
       "children": [],
       "parent": "a44h4sj21jfb19ymoovvuzr",
       "data": {}
@@ -9056,6 +9034,7 @@
       "children": [
         "bgetpnvnoqvfa3aahgz2kwh",
         "07vmn9ross3dwkjymi6vmcc",
+        "na2uf1zamwck4tfi1rcrmpv",
         "ltahj6egbdd3bc7tdrnym0p",
         "d8t3jc0pnaunziddujlfb2d"
       ],
@@ -9098,6 +9077,27 @@
         "name": "knowledge"
       },
       "contentHash": "7fae0a1ca276f22f5085f1dcf23c589d",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "pqf7qvwgukb60h5r0vcmnzh",
+      "data": {}
+    },
+    "na2uf1zamwck4tfi1rcrmpv": {
+      "id": "na2uf1zamwck4tfi1rcrmpv",
+      "title": "HTTPS",
+      "desc": "",
+      "updated": 1660280123083,
+      "created": 1660280123083,
+      "custom": {},
+      "fname": "basic.communication.network.HTTPS",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "43949d8bb661c1977ccefda1ad37d070",
       "links": [],
       "anchors": {},
       "children": [],
