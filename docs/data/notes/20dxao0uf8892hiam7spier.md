@@ -5,8 +5,8 @@
 
 ![[个人介绍 | about me#简介:#*]]
 ![[programming-languages.python#介绍:#*]]
-![[basic.software.operating-system#核心:#*]]
+
+- [[basic.software.operating-system]]
+- [[security]]
 
 ## 施工中
-
-[[security]]

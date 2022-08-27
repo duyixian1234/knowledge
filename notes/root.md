@@ -2,7 +2,7 @@
 id: 20dxao0uf8892hiam7spier
 title: 个人知识库
 desc: ""
-updated: 1661329495178
+updated: 1661569576110
 created: 1660230632683
 ---
 
@@ -12,8 +12,8 @@ created: 1660230632683
 
 ![[个人介绍 | about me#简介:#*]]
 ![[programming-languages.python#介绍:#*]]
-![[basic.software.operating-system#核心:#*]]
+
+- [[basic.software.operating-system]]
+- [[security]]
 
 ## 施工中
-
-[[security]]

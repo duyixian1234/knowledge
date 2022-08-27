@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1661569368622,
-      "created": 1661569368622,
+      "updated": 1661569601492,
+      "created": 1661569601492,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -24,7 +24,7 @@
       "id": "20dxao0uf8892hiam7spier",
       "title": "个人知识库",
       "desc": "",
-      "updated": 1661329495178,
+      "updated": 1661569576110,
       "created": 1660230632683,
       "custom": {
         "nav_order": 0,
@@ -37,8 +37,36 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "f09d74b3e2f0c54658985e819f4f1305",
+      "contentHash": "d225a7a6050df7b184c83ef424149b54",
       "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "basic.software.operating-system",
+          "alias": "basic.software.operating-system",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 3,
+              "offset": 105
+            },
+            "end": {
+              "line": 9,
+              "column": 38,
+              "offset": 140
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "basic.software.operating-system"
+          }
+        },
         {
           "type": "wiki",
           "from": {
@@ -50,14 +78,14 @@
           "alias": "security",
           "position": {
             "start": {
-              "line": 12,
-              "column": 1,
-              "offset": 154
+              "line": 10,
+              "column": 3,
+              "offset": 143
             },
             "end": {
-              "line": 12,
-              "column": 13,
-              "offset": 166
+              "line": 10,
+              "column": 15,
+              "offset": 155
             },
             "indent": []
           },
@@ -120,33 +148,6 @@
             "fname": "programming-languages.python",
             "anchorHeader": "介绍:#*"
           }
-        },
-        {
-          "type": "ref",
-          "from": {
-            "fname": "root",
-            "id": "20dxao0uf8892hiam7spier",
-            "vaultName": "knowledge"
-          },
-          "value": "basic.software.operating-system",
-          "position": {
-            "start": {
-              "line": 8,
-              "column": 1,
-              "offset": 102
-            },
-            "end": {
-              "line": 8,
-              "column": 43,
-              "offset": 144
-            },
-            "indent": []
-          },
-          "xvault": false,
-          "to": {
-            "fname": "basic.software.operating-system",
-            "anchorHeader": "核心:#*"
-          }
         }
       ],
       "anchors": {
@@ -162,7 +163,7 @@
           "type": "header",
           "text": "施工中",
           "value": "施工中",
-          "line": 16,
+          "line": 18,
           "column": 0,
           "depth": 2
         }
@@ -211,13 +212,13 @@
         "415pfd1z8i5k9amwp7gkzlp",
         "l0n8p6a22ndk4hwpm176fnn",
         "0cu9dg1bjx46x5iqhnr2ulv",
-        "ava15nwf2asw5bmju5rb2nm",
-        "r7y70t28kikutnaey7wxtkf"
+        "x5fpjem67s6wkpzqtuxt7wk",
+        "85wua65fngba1dxj8j3bl69"
       ],
       "parent": "20dxao0uf8892hiam7spier",
       "data": {}
     },
-    "r7y70t28kikutnaey7wxtkf": {
+    "85wua65fngba1dxj8j3bl69": {
       "fname": "software-develop.design",
       "stub": true,
       "vault": {
@@ -227,9 +228,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1661569367161,
-      "created": 1661569367161,
-      "id": "r7y70t28kikutnaey7wxtkf",
+      "updated": 1661569599972,
+      "created": 1661569599972,
+      "id": "85wua65fngba1dxj8j3bl69",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -263,7 +264,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "r7y70t28kikutnaey7wxtkf",
+      "parent": "85wua65fngba1dxj8j3bl69",
       "data": {}
     },
     "tg8qotpb8mcbg975s6juars": {
@@ -307,7 +308,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "r7y70t28kikutnaey7wxtkf",
+      "parent": "85wua65fngba1dxj8j3bl69",
       "data": {}
     },
     "v03c4xgyco81innvtbwsn60": {
@@ -328,7 +329,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "r7y70t28kikutnaey7wxtkf",
+      "parent": "85wua65fngba1dxj8j3bl69",
       "data": {}
     },
     "fduzrhulz557t4yjske07k9": {
@@ -349,7 +350,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "r7y70t28kikutnaey7wxtkf",
+      "parent": "85wua65fngba1dxj8j3bl69",
       "data": {}
     },
     "shs2x76gfjtvi20xxziz4k2": {
@@ -370,7 +371,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "r7y70t28kikutnaey7wxtkf",
+      "parent": "85wua65fngba1dxj8j3bl69",
       "data": {}
     },
     "mqujgpqpm0qo99kdvrlv2kx": {
@@ -391,10 +392,10 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "r7y70t28kikutnaey7wxtkf",
+      "parent": "85wua65fngba1dxj8j3bl69",
       "data": {}
     },
-    "ava15nwf2asw5bmju5rb2nm": {
+    "x5fpjem67s6wkpzqtuxt7wk": {
       "fname": "software-develop.config",
       "stub": true,
       "vault": {
@@ -404,9 +405,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1661569367160,
-      "created": 1661569367160,
-      "id": "ava15nwf2asw5bmju5rb2nm",
+      "updated": 1661569599971,
+      "created": 1661569599971,
+      "id": "x5fpjem67s6wkpzqtuxt7wk",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -458,7 +459,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "ava15nwf2asw5bmju5rb2nm",
+      "parent": "x5fpjem67s6wkpzqtuxt7wk",
       "data": {}
     },
     "0cu9dg1bjx46x5iqhnr2ulv": {
@@ -1208,14 +1209,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 12,
-              "column": 1,
-              "offset": 154
+              "line": 10,
+              "column": 3,
+              "offset": 143
             },
             "end": {
-              "line": 12,
-              "column": 13,
-              "offset": 166
+              "line": 10,
+              "column": 15,
+              "offset": 155
             },
             "indent": []
           },
@@ -7997,18 +7998,19 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 8,
-              "column": 1,
-              "offset": 102
+              "line": 9,
+              "column": 3,
+              "offset": 105
             },
             "end": {
-              "line": 8,
-              "column": 43,
-              "offset": 144
+              "line": 9,
+              "column": 38,
+              "offset": 140
             },
             "indent": []
           },
-          "value": "basic.software.operating-system"
+          "value": "basic.software.operating-system",
+          "alias": "basic.software.operating-system"
         }
       ],
       "anchors": {
@@ -9933,7 +9935,7 @@
       "id": "20dxao0uf8892hiam7spier",
       "title": "个人知识库",
       "desc": "",
-      "updated": 1661329495178,
+      "updated": 1661569576110,
       "created": 1660230632683,
       "custom": {
         "nav_order": 0,
@@ -9946,8 +9948,36 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "f09d74b3e2f0c54658985e819f4f1305",
+      "contentHash": "d225a7a6050df7b184c83ef424149b54",
       "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "basic.software.operating-system",
+          "alias": "basic.software.operating-system",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 3,
+              "offset": 105
+            },
+            "end": {
+              "line": 9,
+              "column": 38,
+              "offset": 140
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "basic.software.operating-system"
+          }
+        },
         {
           "type": "wiki",
           "from": {
@@ -9959,14 +9989,14 @@
           "alias": "security",
           "position": {
             "start": {
-              "line": 12,
-              "column": 1,
-              "offset": 154
+              "line": 10,
+              "column": 3,
+              "offset": 143
             },
             "end": {
-              "line": 12,
-              "column": 13,
-              "offset": 166
+              "line": 10,
+              "column": 15,
+              "offset": 155
             },
             "indent": []
           },
@@ -10029,33 +10059,6 @@
             "fname": "programming-languages.python",
             "anchorHeader": "介绍:#*"
           }
-        },
-        {
-          "type": "ref",
-          "from": {
-            "fname": "root",
-            "id": "20dxao0uf8892hiam7spier",
-            "vaultName": "knowledge"
-          },
-          "value": "basic.software.operating-system",
-          "position": {
-            "start": {
-              "line": 8,
-              "column": 1,
-              "offset": 102
-            },
-            "end": {
-              "line": 8,
-              "column": 43,
-              "offset": 144
-            },
-            "indent": []
-          },
-          "xvault": false,
-          "to": {
-            "fname": "basic.software.operating-system",
-            "anchorHeader": "核心:#*"
-          }
         }
       ],
       "anchors": {
@@ -10071,7 +10074,7 @@
           "type": "header",
           "text": "施工中",
           "value": "施工中",
-          "line": 16,
+          "line": 18,
           "column": 0,
           "depth": 2
         }
@@ -10089,14 +10092,14 @@
       ],
       "parent": null,
       "data": {},
-      "body": "\n记录我在工作和学习中掌握到的软件开发主题的知识。\n\n## 已完成\n\n![[个人介绍 | about me#简介:#*]]\n![[programming-languages.python#介绍:#*]]\n![[basic.software.operating-system#核心:#*]]\n\n## 施工中\n\n[[security]]\n"
+      "body": "\n记录我在工作和学习中掌握到的软件开发主题的知识。\n\n## 已完成\n\n![[个人介绍 | about me#简介:#*]]\n![[programming-languages.python#介绍:#*]]\n\n- [[basic.software.operating-system]]\n- [[security]]\n\n## 施工中\n"
     }
   ],
   "noteIndex": {
     "id": "20dxao0uf8892hiam7spier",
     "title": "个人知识库",
     "desc": "",
-    "updated": 1661329495178,
+    "updated": 1661569576110,
     "created": 1660230632683,
     "custom": {
       "nav_order": 0,
@@ -10109,8 +10112,36 @@
       "selfContained": true,
       "name": "knowledge"
     },
-    "contentHash": "f09d74b3e2f0c54658985e819f4f1305",
+    "contentHash": "d225a7a6050df7b184c83ef424149b54",
     "links": [
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "20dxao0uf8892hiam7spier",
+          "vaultName": "knowledge"
+        },
+        "value": "basic.software.operating-system",
+        "alias": "basic.software.operating-system",
+        "position": {
+          "start": {
+            "line": 9,
+            "column": 3,
+            "offset": 105
+          },
+          "end": {
+            "line": 9,
+            "column": 38,
+            "offset": 140
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "basic.software.operating-system"
+        }
+      },
       {
         "type": "wiki",
         "from": {
@@ -10122,14 +10153,14 @@
         "alias": "security",
         "position": {
           "start": {
-            "line": 12,
-            "column": 1,
-            "offset": 154
+            "line": 10,
+            "column": 3,
+            "offset": 143
           },
           "end": {
-            "line": 12,
-            "column": 13,
-            "offset": 166
+            "line": 10,
+            "column": 15,
+            "offset": 155
           },
           "indent": []
         },
@@ -10192,33 +10223,6 @@
           "fname": "programming-languages.python",
           "anchorHeader": "介绍:#*"
         }
-      },
-      {
-        "type": "ref",
-        "from": {
-          "fname": "root",
-          "id": "20dxao0uf8892hiam7spier",
-          "vaultName": "knowledge"
-        },
-        "value": "basic.software.operating-system",
-        "position": {
-          "start": {
-            "line": 8,
-            "column": 1,
-            "offset": 102
-          },
-          "end": {
-            "line": 8,
-            "column": 43,
-            "offset": 144
-          },
-          "indent": []
-        },
-        "xvault": false,
-        "to": {
-          "fname": "basic.software.operating-system",
-          "anchorHeader": "核心:#*"
-        }
       }
     ],
     "anchors": {
@@ -10234,7 +10238,7 @@
         "type": "header",
         "text": "施工中",
         "value": "施工中",
-        "line": 16,
+        "line": 18,
         "column": 0,
         "depth": 2
       }
@@ -10252,7 +10256,7 @@
     ],
     "parent": null,
     "data": {},
-    "body": "\n记录我在工作和学习中掌握到的软件开发主题的知识。\n\n## 已完成\n\n![[个人介绍 | about me#简介:#*]]\n![[programming-languages.python#介绍:#*]]\n![[basic.software.operating-system#核心:#*]]\n\n## 施工中\n\n[[security]]\n"
+    "body": "\n记录我在工作和学习中掌握到的软件开发主题的知识。\n\n## 已完成\n\n![[个人介绍 | about me#简介:#*]]\n![[programming-languages.python#介绍:#*]]\n\n- [[basic.software.operating-system]]\n- [[security]]\n\n## 施工中\n"
   },
   "vaults": [
     {
