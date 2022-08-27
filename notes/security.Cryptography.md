@@ -2,7 +2,7 @@
 id: wibhrb0yg5q8gbhoslnllxp
 title: 密码学
 desc: ""
-updated: 1661407047854
+updated: 1661567197107
 created: 1661406136564
 ---
 
@@ -20,7 +20,6 @@ created: 1661406136564
 > 4. 系统应该与电报通信兼容。
 > 5. 系统必须是便携式的，并且使用时要求不能多于一个使用者。
 > 6. 系统必须易于使用，既不需要复杂的思维，也不需要了解一长串规则。
-
 
 ## 现代密码工具
 
@@ -70,3 +69,27 @@ created: 1661406136564
 
 - 证书颁发机构（CA）
 - 公钥基础设施（Public Key Infrastructure，PKI）
+
+## 保护数据
+
+### 保护静态数据
+
+#### 数据安全
+
+- 硬盘加密（[BitLocker](https://docs.microsoft.com/zh-cn/windows/security/information-protection/bitlocker/bitlocker-overview)）
+
+#### 物理安全
+
+### 保护动态数据
+
+#### 保护数据
+
+- SSL/TLS
+
+#### 保护连接
+
+- 虚拟专用网（Virtual Private Network，VPN）
+
+### 保护使用中的数据
+
+- 端到端加密

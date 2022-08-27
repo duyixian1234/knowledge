@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1661412375950,
-      "created": 1661412375950,
+      "updated": 1661569368622,
+      "created": 1661569368622,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -211,13 +211,13 @@
         "415pfd1z8i5k9amwp7gkzlp",
         "l0n8p6a22ndk4hwpm176fnn",
         "0cu9dg1bjx46x5iqhnr2ulv",
-        "b4h0ta2yob2k2b8t2oyha8n",
-        "ahq8w9gv2iqle2jxalbnq69"
+        "ava15nwf2asw5bmju5rb2nm",
+        "r7y70t28kikutnaey7wxtkf"
       ],
       "parent": "20dxao0uf8892hiam7spier",
       "data": {}
     },
-    "ahq8w9gv2iqle2jxalbnq69": {
+    "r7y70t28kikutnaey7wxtkf": {
       "fname": "software-develop.design",
       "stub": true,
       "vault": {
@@ -227,9 +227,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1661412374526,
-      "created": 1661412374526,
-      "id": "ahq8w9gv2iqle2jxalbnq69",
+      "updated": 1661569367161,
+      "created": 1661569367161,
+      "id": "r7y70t28kikutnaey7wxtkf",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -263,7 +263,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "ahq8w9gv2iqle2jxalbnq69",
+      "parent": "r7y70t28kikutnaey7wxtkf",
       "data": {}
     },
     "tg8qotpb8mcbg975s6juars": {
@@ -307,7 +307,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "ahq8w9gv2iqle2jxalbnq69",
+      "parent": "r7y70t28kikutnaey7wxtkf",
       "data": {}
     },
     "v03c4xgyco81innvtbwsn60": {
@@ -328,7 +328,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "ahq8w9gv2iqle2jxalbnq69",
+      "parent": "r7y70t28kikutnaey7wxtkf",
       "data": {}
     },
     "fduzrhulz557t4yjske07k9": {
@@ -349,7 +349,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "ahq8w9gv2iqle2jxalbnq69",
+      "parent": "r7y70t28kikutnaey7wxtkf",
       "data": {}
     },
     "shs2x76gfjtvi20xxziz4k2": {
@@ -370,7 +370,7 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "ahq8w9gv2iqle2jxalbnq69",
+      "parent": "r7y70t28kikutnaey7wxtkf",
       "data": {}
     },
     "mqujgpqpm0qo99kdvrlv2kx": {
@@ -391,10 +391,10 @@
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "ahq8w9gv2iqle2jxalbnq69",
+      "parent": "r7y70t28kikutnaey7wxtkf",
       "data": {}
     },
-    "b4h0ta2yob2k2b8t2oyha8n": {
+    "ava15nwf2asw5bmju5rb2nm": {
       "fname": "software-develop.config",
       "stub": true,
       "vault": {
@@ -404,9 +404,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1661412374526,
-      "created": 1661412374526,
-      "id": "b4h0ta2yob2k2b8t2oyha8n",
+      "updated": 1661569367160,
+      "created": 1661569367160,
+      "id": "ava15nwf2asw5bmju5rb2nm",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -458,7 +458,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "b4h0ta2yob2k2b8t2oyha8n",
+      "parent": "ava15nwf2asw5bmju5rb2nm",
       "data": {}
     },
     "0cu9dg1bjx46x5iqhnr2ulv": {
@@ -1374,10 +1374,227 @@
         "90kk6w4dlyax9ywochuy6om",
         "wibhrb0yg5q8gbhoslnllxp",
         "na2uf1zamwck4tfi1rcrmpv",
+        "jq0ulj3quh8dkrhncjgtpfa",
         "5li2av5xhjpvuv0t0by2yyl",
-        "suw6c5y5dd8ycq6bpqxzgi8"
+        "a5qhaapggpqvb3mbef9qxws",
+        "ihbgwin103gg7u3ha9jl7ug",
+        "o5k6hs4bz3d00393hr3mny0",
+        "suw6c5y5dd8ycq6bpqxzgi8",
+        "0pk7sya0jxuwokrkx1222ro",
+        "tz4qivejklsy3j3f6g9fzi4",
+        "cmktwzyj4333tdgoy3xbv2u"
       ],
       "parent": "20dxao0uf8892hiam7spier",
+      "data": {}
+    },
+    "cmktwzyj4333tdgoy3xbv2u": {
+      "id": "cmktwzyj4333tdgoy3xbv2u",
+      "title": "操作系统安全",
+      "desc": "",
+      "updated": 1661567415686,
+      "created": 1661567157882,
+      "custom": {},
+      "fname": "security.os security",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "f176f1e44f8f33ab9c0343ad2556192c",
+      "links": [],
+      "anchors": {
+        "操作系统强化": {
+          "type": "header",
+          "text": "操作系统强化",
+          "value": "操作系统强化",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "防范恶意软件": {
+          "type": "header",
+          "text": "防范恶意软件",
+          "value": "防范恶意软件",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "操作系统安全工具": {
+          "type": "header",
+          "text": "操作系统安全工具",
+          "value": "操作系统安全工具",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "a44h4sj21jfb19ymoovvuzr",
+      "data": {}
+    },
+    "tz4qivejklsy3j3f6g9fzi4": {
+      "id": "tz4qivejklsy3j3f6g9fzi4",
+      "title": "网络安全",
+      "desc": "",
+      "updated": 1661567199960,
+      "created": 1661566648533,
+      "custom": {},
+      "fname": "security.network security",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "6b799efef85cd2f86f231f43dd7c10b0",
+      "links": [],
+      "anchors": {
+        "网络防护": {
+          "type": "header",
+          "text": "网络防护",
+          "value": "网络防护",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "设计安全的网络": {
+          "type": "header",
+          "text": "设计安全的网络",
+          "value": "设计安全的网络",
+          "line": 10,
+          "column": 0,
+          "depth": 3
+        },
+        "使用防火墙": {
+          "type": "header",
+          "text": "使用防火墙",
+          "value": "使用防火墙",
+          "line": 16,
+          "column": 0,
+          "depth": 3
+        },
+        "实现网络入侵检测系统": {
+          "type": "header",
+          "text": "实现网络入侵检测系统",
+          "value": "实现网络入侵检测系统",
+          "line": 24,
+          "column": 0,
+          "depth": 3
+        },
+        "网络流量防护": {
+          "type": "header",
+          "text": "网络流量防护",
+          "value": "网络流量防护",
+          "line": 31,
+          "column": 0,
+          "depth": 2
+        },
+        "网络安全工具": {
+          "type": "header",
+          "text": "网络安全工具",
+          "value": "网络安全工具",
+          "line": 37,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "a44h4sj21jfb19ymoovvuzr",
+      "data": {}
+    },
+    "0pk7sya0jxuwokrkx1222ro": {
+      "id": "0pk7sya0jxuwokrkx1222ro",
+      "title": "移动、嵌入式和物联网安全",
+      "desc": "",
+      "updated": 1661567723754,
+      "created": 1661567439319,
+      "custom": {},
+      "fname": "security.mobile security",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "4ca26f38db28cebb03e31910bbffccd8",
+      "links": [],
+      "anchors": {
+        "移动安全": {
+          "type": "header",
+          "text": "移动安全",
+          "value": "移动安全",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "保护移动设备": {
+          "type": "header",
+          "text": "保护移动设备",
+          "value": "保护移动设备",
+          "line": 10,
+          "column": 0,
+          "depth": 3
+        },
+        "移动安全问题": {
+          "type": "header",
+          "text": "移动安全问题",
+          "value": "移动安全问题",
+          "line": 15,
+          "column": 0,
+          "depth": 3
+        },
+        "嵌入式安全": {
+          "type": "header",
+          "text": "嵌入式安全",
+          "value": "嵌入式安全",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        },
+        "嵌入式设备使用场景": {
+          "type": "header",
+          "text": "嵌入式设备使用场景",
+          "value": "嵌入式设备使用场景",
+          "line": 24,
+          "column": 0,
+          "depth": 3
+        },
+        "嵌入式设备安全问题": {
+          "type": "header",
+          "text": "嵌入式设备安全问题",
+          "value": "嵌入式设备安全问题",
+          "line": 30,
+          "column": 0,
+          "depth": 3
+        },
+        "物联网安全": {
+          "type": "header",
+          "text": "物联网安全",
+          "value": "物联网安全",
+          "line": 35,
+          "column": 0,
+          "depth": 2
+        },
+        "物联网设备": {
+          "type": "header",
+          "text": "物联网设备",
+          "value": "物联网设备",
+          "line": 37,
+          "column": 0,
+          "depth": 3
+        },
+        "物联网安全问题": {
+          "type": "header",
+          "text": "物联网安全问题",
+          "value": "物联网安全问题",
+          "line": 43,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "a44h4sj21jfb19ymoovvuzr",
       "data": {}
     },
     "suw6c5y5dd8ycq6bpqxzgi8": {
@@ -1474,6 +1691,272 @@
       "parent": "a44h4sj21jfb19ymoovvuzr",
       "data": {}
     },
+    "o5k6hs4bz3d00393hr3mny0": {
+      "id": "o5k6hs4bz3d00393hr3mny0",
+      "title": "合规、法律和法规",
+      "desc": "",
+      "updated": 1661567193747,
+      "created": 1661566140647,
+      "custom": {},
+      "fname": "security.compliance",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "d4dea2db660b3c0df698cfe04e56e3e0",
+      "links": [],
+      "anchors": {
+        "合规": {
+          "type": "header",
+          "text": "合规",
+          "value": "合规",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "用控制实现合规": {
+          "type": "header",
+          "text": "用控制实现合规",
+          "value": "用控制实现合规",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "保持合规": {
+          "type": "header",
+          "text": "保持合规",
+          "value": "保持合规",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        },
+        "法律与信息安全": {
+          "type": "header",
+          "text": "法律与信息安全",
+          "value": "法律与信息安全",
+          "line": 29,
+          "column": 0,
+          "depth": 2
+        },
+        "采用合规框架": {
+          "type": "header",
+          "text": "采用合规框架",
+          "value": "采用合规框架",
+          "line": 33,
+          "column": 0,
+          "depth": 2
+        },
+        "新技术下的合规": {
+          "type": "header",
+          "text": "新技术下的合规",
+          "value": "新技术下的合规",
+          "line": 39,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "a44h4sj21jfb19ymoovvuzr",
+      "data": {}
+    },
+    "ihbgwin103gg7u3ha9jl7ug": {
+      "id": "ihbgwin103gg7u3ha9jl7ug",
+      "title": "应用程序安全",
+      "desc": "",
+      "updated": 1661568055412,
+      "created": 1661567732197,
+      "custom": {},
+      "fname": "security.application security",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "190d12d54601f159ee46ec2315012a3d",
+      "links": [],
+      "anchors": {
+        "软件开发漏洞": {
+          "type": "header",
+          "text": "软件开发漏洞",
+          "value": "软件开发漏洞",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "web-安全": {
+          "type": "header",
+          "text": "web 安全",
+          "value": "web-安全",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "数据库安全": {
+          "type": "header",
+          "text": "数据库安全",
+          "value": "数据库安全",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        },
+        "应用安全工具": {
+          "type": "header",
+          "text": "应用安全工具",
+          "value": "应用安全工具",
+          "line": 33,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "a44h4sj21jfb19ymoovvuzr",
+      "data": {}
+    },
+    "a5qhaapggpqvb3mbef9qxws": {
+      "id": "a5qhaapggpqvb3mbef9qxws",
+      "title": "安全评估",
+      "desc": "",
+      "updated": 1661568665929,
+      "created": 1661568093715,
+      "custom": {},
+      "fname": "security.Security Assessment",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "debdbb632ffd27dd5cd62baf6f5a4fed",
+      "links": [],
+      "anchors": {
+        "漏洞评估": {
+          "type": "header",
+          "text": "漏洞评估",
+          "value": "漏洞评估",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "映射和发现": {
+          "type": "header",
+          "text": "映射和发现",
+          "value": "映射和发现",
+          "line": 11,
+          "column": 0,
+          "depth": 3
+        },
+        "扫描": {
+          "type": "header",
+          "text": "扫描",
+          "value": "扫描",
+          "line": 16,
+          "column": 0,
+          "depth": 3
+        },
+        "技术挑战": {
+          "type": "header",
+          "text": "技术挑战",
+          "value": "技术挑战",
+          "line": 23,
+          "column": 0,
+          "depth": 3
+        },
+        "渗透测试": {
+          "type": "header",
+          "text": "渗透测试",
+          "value": "渗透测试",
+          "line": 28,
+          "column": 0,
+          "depth": 2
+        },
+        "渗透测试过程": {
+          "type": "header",
+          "text": "渗透测试过程",
+          "value": "渗透测试过程",
+          "line": 30,
+          "column": 0,
+          "depth": 3
+        },
+        "渗透测试分类": {
+          "type": "header",
+          "text": "渗透测试分类",
+          "value": "渗透测试分类",
+          "line": 39,
+          "column": 0,
+          "depth": 2
+        },
+        "渗透测试对象": {
+          "type": "header",
+          "text": "渗透测试对象",
+          "value": "渗透测试对象",
+          "line": 46,
+          "column": 0,
+          "depth": 2
+        },
+        "漏洞赏金计划": {
+          "type": "header",
+          "text": "漏洞赏金计划",
+          "value": "漏洞赏金计划",
+          "line": 54,
+          "column": 0,
+          "depth": 2
+        },
+        "挑战": {
+          "type": "header",
+          "text": "挑战",
+          "value": "挑战",
+          "line": 56,
+          "column": 0,
+          "depth": 2
+        },
+        "余下的问题": {
+          "type": "header",
+          "text": "余下的问题",
+          "value": "余下的问题",
+          "line": 61,
+          "column": 0,
+          "depth": 2
+        },
+        "现实测试": {
+          "type": "header",
+          "text": "现实测试",
+          "value": "现实测试",
+          "line": 63,
+          "column": 0,
+          "depth": 3
+        },
+        "攻击检测": {
+          "type": "header",
+          "text": "攻击检测",
+          "value": "攻击检测",
+          "line": 69,
+          "column": 0,
+          "depth": 3
+        },
+        "未来的风险": {
+          "type": "header",
+          "text": "未来的风险",
+          "value": "未来的风险",
+          "line": 74,
+          "column": 0,
+          "depth": 3
+        },
+        "修复安全漏洞成本高昂": {
+          "type": "header",
+          "text": "修复安全漏洞成本高昂",
+          "value": "修复安全漏洞成本高昂",
+          "line": 80,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "a44h4sj21jfb19ymoovvuzr",
+      "data": {}
+    },
     "5li2av5xhjpvuv0t0by2yyl": {
       "id": "5li2av5xhjpvuv0t0by2yyl",
       "title": "OWASP",
@@ -1491,6 +1974,116 @@
       "contentHash": "f831e81a9376a2f8b68d2a7dab786d07",
       "links": [],
       "anchors": {},
+      "children": [],
+      "parent": "a44h4sj21jfb19ymoovvuzr",
+      "data": {}
+    },
+    "jq0ulj3quh8dkrhncjgtpfa": {
+      "id": "jq0ulj3quh8dkrhncjgtpfa",
+      "title": "Human Factors Security",
+      "desc": "",
+      "updated": 1661569307545,
+      "created": 1661568688256,
+      "custom": {},
+      "fname": "security.Human Factors Security",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "6a5155070692d2bc4a75e70b4bb146d6",
+      "links": [],
+      "anchors": {
+        "搜索信息实施社会工程学攻击": {
+          "type": "header",
+          "text": "搜索信息实施社会工程学攻击",
+          "value": "搜索信息实施社会工程学攻击",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "谷歌黑客": {
+          "type": "header",
+          "text": "谷歌黑客",
+          "value": "谷歌黑客",
+          "line": 18,
+          "column": 0,
+          "depth": 3
+        },
+        "社会工程学攻击类型": {
+          "type": "header",
+          "text": "社会工程学攻击类型",
+          "value": "社会工程学攻击类型",
+          "line": 25,
+          "column": 0,
+          "depth": 2
+        },
+        "通过安全培训计划来培养安全意识": {
+          "type": "header",
+          "text": "通过安全培训计划来培养安全意识",
+          "value": "通过安全培训计划来培养安全意识",
+          "line": 31,
+          "column": 0,
+          "depth": 2
+        },
+        "密码": {
+          "type": "header",
+          "text": "密码",
+          "value": "密码",
+          "line": 33,
+          "column": 0,
+          "depth": 3
+        },
+        "社会工程学培训": {
+          "type": "header",
+          "text": "社会工程学培训",
+          "value": "社会工程学培训",
+          "line": 38,
+          "column": 0,
+          "depth": 3
+        },
+        "网络使用": {
+          "type": "header",
+          "text": "网络使用",
+          "value": "网络使用",
+          "line": 40,
+          "column": 0,
+          "depth": 3
+        },
+        "恶意软件": {
+          "type": "header",
+          "text": "恶意软件",
+          "value": "恶意软件",
+          "line": 42,
+          "column": 0,
+          "depth": 3
+        },
+        "个人设备": {
+          "type": "header",
+          "text": "个人设备",
+          "value": "个人设备",
+          "line": 51,
+          "column": 0,
+          "depth": 3
+        },
+        "清洁桌面策略": {
+          "type": "header",
+          "text": "清洁桌面策略",
+          "value": "清洁桌面策略",
+          "line": 53,
+          "column": 0,
+          "depth": 3
+        },
+        "熟悉政策和法规知识": {
+          "type": "header",
+          "text": "熟悉政策和法规知识",
+          "value": "熟悉政策和法规知识",
+          "line": 55,
+          "column": 0,
+          "depth": 3
+        }
+      },
       "children": [],
       "parent": "a44h4sj21jfb19ymoovvuzr",
       "data": {}
@@ -1520,7 +2113,7 @@
       "id": "wibhrb0yg5q8gbhoslnllxp",
       "title": "密码学",
       "desc": "",
-      "updated": 1661407047854,
+      "updated": 1661567197107,
       "created": 1661406136564,
       "custom": {},
       "fname": "security.Cryptography",
@@ -1530,7 +2123,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "372b9c28a728bdcc0888e43f7a8f6bf0",
+      "contentHash": "6a85277a6677fe90ea7eff8b9db4e322",
       "links": [],
       "anchors": {
         "历史": {
@@ -1553,7 +2146,7 @@
           "type": "header",
           "text": "现代密码工具",
           "value": "现代密码工具",
-          "line": 24,
+          "line": 23,
           "column": 0,
           "depth": 2
         },
@@ -1561,7 +2154,7 @@
           "type": "header",
           "text": "对称和非对称密码学",
           "value": "对称和非对称密码学",
-          "line": 29,
+          "line": 28,
           "column": 0,
           "depth": 3
         },
@@ -1569,7 +2162,7 @@
           "type": "header",
           "text": "对称密码学",
           "value": "对称密码学",
-          "line": 31,
+          "line": 30,
           "column": 0,
           "depth": 4
         },
@@ -1577,7 +2170,7 @@
           "type": "header",
           "text": "对称密钥加密",
           "value": "对称密钥加密",
-          "line": 37,
+          "line": 36,
           "column": 0,
           "depth": 4
         },
@@ -1585,7 +2178,7 @@
           "type": "header",
           "text": "非对称密码学",
           "value": "非对称密码学",
-          "line": 43,
+          "line": 42,
           "column": 0,
           "depth": 4
         },
@@ -1593,7 +2186,7 @@
           "type": "header",
           "text": "非对称密钥算法",
           "value": "非对称密钥算法",
-          "line": 47,
+          "line": 46,
           "column": 0,
           "depth": 5
         },
@@ -1601,7 +2194,7 @@
           "type": "header",
           "text": "PGP",
           "value": "pgp",
-          "line": 53,
+          "line": 52,
           "column": 0,
           "depth": 5
         },
@@ -1609,7 +2202,7 @@
           "type": "header",
           "text": "散列函数",
           "value": "散列函数",
-          "line": 55,
+          "line": 54,
           "column": 0,
           "depth": 3
         },
@@ -1617,7 +2210,7 @@
           "type": "header",
           "text": "数字签名",
           "value": "数字签名",
-          "line": 60,
+          "line": 59,
           "column": 0,
           "depth": 3
         },
@@ -1625,7 +2218,71 @@
           "type": "header",
           "text": "数字证书",
           "value": "数字证书",
-          "line": 68,
+          "line": 67,
+          "column": 0,
+          "depth": 3
+        },
+        "保护数据": {
+          "type": "header",
+          "text": "保护数据",
+          "value": "保护数据",
+          "line": 72,
+          "column": 0,
+          "depth": 2
+        },
+        "保护静态数据": {
+          "type": "header",
+          "text": "保护静态数据",
+          "value": "保护静态数据",
+          "line": 74,
+          "column": 0,
+          "depth": 3
+        },
+        "数据安全": {
+          "type": "header",
+          "text": "数据安全",
+          "value": "数据安全",
+          "line": 76,
+          "column": 0,
+          "depth": 4
+        },
+        "物理安全": {
+          "type": "header",
+          "text": "物理安全",
+          "value": "物理安全",
+          "line": 80,
+          "column": 0,
+          "depth": 4
+        },
+        "保护动态数据": {
+          "type": "header",
+          "text": "保护动态数据",
+          "value": "保护动态数据",
+          "line": 82,
+          "column": 0,
+          "depth": 3
+        },
+        "保护数据-1": {
+          "type": "header",
+          "text": "保护数据",
+          "value": "保护数据-1",
+          "line": 84,
+          "column": 0,
+          "depth": 4
+        },
+        "保护连接": {
+          "type": "header",
+          "text": "保护连接",
+          "value": "保护连接",
+          "line": 88,
+          "column": 0,
+          "depth": 4
+        },
+        "保护使用中的数据": {
+          "type": "header",
+          "text": "保护使用中的数据",
+          "value": "保护使用中的数据",
+          "line": 92,
           "column": 0,
           "depth": 3
         }
