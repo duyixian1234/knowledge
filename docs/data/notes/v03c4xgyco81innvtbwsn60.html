@@ -1,1 +1,33 @@
 <h1 id="solid"><a aria-hidden="true" class="anchor-heading icon-link" href="#solid"></a>SOLID</h1>
+<h2 id="单一职责原则single-responsibility-principle"><a aria-hidden="true" class="anchor-heading icon-link" href="#单一职责原则single-responsibility-principle"></a>单一职责原则（Single Responsibility Principle）</h2>
+<ul>
+<li>每个模块应该只做一件事</li>
+<li>每个模块都因该有且仅有一个被修改的原因</li>
+<li>任何一个软件模块都应该只对某一类行为者负责</li>
+</ul>
+<h2 id="开放封闭原则open-close-principle"><a aria-hidden="true" class="anchor-heading icon-link" href="#开放封闭原则open-close-principle"></a>开放封闭原则（Open Close Principle）</h2>
+<ul>
+<li>设计良好的计算机软件应该易于扩展，同时抗拒修改</li>
+<li>如果 A 组件不想被 B 组件上发生的修改所影响，那么就应该让 B 组件依赖于 A 组件</li>
+</ul>
+<h2 id="里氏替换原则liskov-substitution-principle"><a aria-hidden="true" class="anchor-heading icon-link" href="#里氏替换原则liskov-substitution-principle"></a>里氏替换原则（Liskov Substitution Principle）</h2>
+<ul>
+<li>典型反例，Square 与 Rectangle（Rectangle可以分别设置宽和高，Square的变长会被最后一次的设置覆盖）</li>
+</ul>
+<h2 id="接口隔离原则interface-sgregation-principle"><a aria-hidden="true" class="anchor-heading icon-link" href="#接口隔离原则interface-sgregation-principle"></a>接口隔离原则（Interface Sgregation Principle）</h2>
+<ul>
+<li>模块不应该依赖未使用到的组件</li>
+</ul>
+<h2 id="依赖反转原则dependency-inversion-principle"><a aria-hidden="true" class="anchor-heading icon-link" href="#依赖反转原则dependency-inversion-principle"></a>依赖反转原则（Dependency inversion principle）</h2>
+<ul>
+<li>应在代码中多使用抽象接口，尽量避免使用那些多变的具体实现类</li>
+<li>不要在具体实现类上创建衍生类</li>
+<li>不要覆盖包含具体实现的函数</li>
+<li>应避免在代码中写入与任何具体实现相关的名字，或者是其他容易变动的事物的名字</li>
+<li>常见实践：工厂模式</li>
+</ul>
+<hr>
+<strong>Backlinks</strong>
+<ul>
+<li><a href="/notes/fl710h5oacxibkom399srh1">软件设计</a></li>
+</ul>

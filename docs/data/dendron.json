@@ -23,7 +23,9 @@
     "insertNoteIndex": {
       "enableMarker": false
     },
-    "copyNoteLink": {},
+    "copyNoteLink": {
+      "aliasMode": "title"
+    },
     "templateHierarchy": "template"
   },
   "workspace": {

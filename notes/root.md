@@ -2,7 +2,7 @@
 id: 20dxao0uf8892hiam7spier
 title: 个人知识库
 desc: ""
-updated: 1661569576110
+updated: 1661935083643
 created: 1660230632683
 ---
 
@@ -17,3 +17,5 @@ created: 1660230632683
 - [[security]]
 
 ## 施工中
+
+![[software-develop.design#设计理念:#*]]

@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1661569925547,
-      "created": 1661569925547,
+      "updated": 1661941022758,
+      "created": 1661941022758,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -24,7 +24,7 @@
       "id": "20dxao0uf8892hiam7spier",
       "title": "个人知识库",
       "desc": "",
-      "updated": 1661569576110,
+      "updated": 1661935083643,
       "created": 1660230632683,
       "custom": {
         "nav_order": 0,
@@ -37,7 +37,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "d225a7a6050df7b184c83ef424149b54",
+      "contentHash": "cb8683dfb0876e4bd36e341f8fc87541",
       "links": [
         {
           "type": "wiki",
@@ -148,6 +148,33 @@
             "fname": "programming-languages.python",
             "anchorHeader": "介绍:#*"
           }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "software-develop.design",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 1,
+              "offset": 165
+            },
+            "end": {
+              "line": 14,
+              "column": 37,
+              "offset": 201
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "software-develop.design",
+            "anchorHeader": "设计理念:#*"
+          }
         }
       ],
       "anchors": {
@@ -206,196 +233,19 @@
         "i4aolyivyc5ooa7ldq2k3vu",
         "olreo7137fdt59hwv5pnwe9",
         "qu30gr2fu9l2qy6dpy6wjs6",
+        "fl710h5oacxibkom399srh1",
         "mbqttms3dcvg0rrucdg1cfc",
         "8pwefou38xgvyum1pfgl3r8",
         "m86229vfqs59h7tbphp9j45",
         "415pfd1z8i5k9amwp7gkzlp",
         "l0n8p6a22ndk4hwpm176fnn",
         "0cu9dg1bjx46x5iqhnr2ulv",
-        "j6q05f38gjyo2tj09np4zyx",
-        "oj86j8a5mw9q2vso3gc2jiq"
+        "ry2s8c6sevz7o0rook2pbl4"
       ],
       "parent": "20dxao0uf8892hiam7spier",
       "data": {}
     },
-    "oj86j8a5mw9q2vso3gc2jiq": {
-      "fname": "software-develop.design",
-      "stub": true,
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "schemaStub": false,
-      "type": "note",
-      "updated": 1661569924031,
-      "created": 1661569924031,
-      "id": "oj86j8a5mw9q2vso3gc2jiq",
-      "desc": "",
-      "links": [],
-      "anchors": {},
-      "children": [
-        "mqujgpqpm0qo99kdvrlv2kx",
-        "shs2x76gfjtvi20xxziz4k2",
-        "fduzrhulz557t4yjske07k9",
-        "v03c4xgyco81innvtbwsn60",
-        "tg8qotpb8mcbg975s6juars",
-        "orjdxc68o38g2h5yennctf4"
-      ],
-      "parent": "i5z2gw9ou7tmimbwdsltnnz",
-      "data": {},
-      "title": "Design"
-    },
-    "orjdxc68o38g2h5yennctf4": {
-      "id": "orjdxc68o38g2h5yennctf4",
-      "title": "YAGNI",
-      "desc": "",
-      "updated": 1660279927562,
-      "created": 1660279927562,
-      "custom": {},
-      "fname": "software-develop.design.YAGNI",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "1e60966cd795129074ca9d6852742078",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "oj86j8a5mw9q2vso3gc2jiq",
-      "data": {}
-    },
-    "tg8qotpb8mcbg975s6juars": {
-      "id": "tg8qotpb8mcbg975s6juars",
-      "title": "TDD",
-      "desc": "",
-      "updated": 1660280084917,
-      "created": 1660279683551,
-      "custom": {},
-      "fname": "software-develop.design.TDD",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "bde34f2cb4d718092fa46f8ed1be11c4",
-      "links": [
-        {
-          "from": {
-            "fname": "about me",
-            "vaultName": "knowledge"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 46,
-              "column": 3,
-              "offset": 1579
-            },
-            "end": {
-              "line": 46,
-              "column": 34,
-              "offset": 1610
-            },
-            "indent": []
-          },
-          "value": "software-develop.design.TDD",
-          "alias": "software-develop.design.TDD"
-        }
-      ],
-      "anchors": {},
-      "children": [],
-      "parent": "oj86j8a5mw9q2vso3gc2jiq",
-      "data": {}
-    },
-    "v03c4xgyco81innvtbwsn60": {
-      "id": "v03c4xgyco81innvtbwsn60",
-      "title": "SOLID",
-      "desc": "",
-      "updated": 1660279910063,
-      "created": 1660279910063,
-      "custom": {},
-      "fname": "software-develop.design.SOLID",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "38157bc63e47f8701d6be6e23c22ccdb",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "oj86j8a5mw9q2vso3gc2jiq",
-      "data": {}
-    },
-    "fduzrhulz557t4yjske07k9": {
-      "id": "fduzrhulz557t4yjske07k9",
-      "title": "KISS",
-      "desc": "",
-      "updated": 1660279919613,
-      "created": 1660279919613,
-      "custom": {},
-      "fname": "software-develop.design.KISS",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "ca48f0c3e50ee5643efbd519225ad4e3",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "oj86j8a5mw9q2vso3gc2jiq",
-      "data": {}
-    },
-    "shs2x76gfjtvi20xxziz4k2": {
-      "id": "shs2x76gfjtvi20xxziz4k2",
-      "title": "Design Patterns",
-      "desc": "",
-      "updated": 1660279888798,
-      "created": 1660279888798,
-      "custom": {},
-      "fname": "software-develop.design.Design Patterns",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "2d2b567d93ac617229f8bc77dc1b782c",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "oj86j8a5mw9q2vso3gc2jiq",
-      "data": {}
-    },
-    "mqujgpqpm0qo99kdvrlv2kx": {
-      "id": "mqujgpqpm0qo99kdvrlv2kx",
-      "title": "DRY",
-      "desc": "",
-      "updated": 1660721981036,
-      "created": 1660721981036,
-      "custom": {},
-      "fname": "software-develop.design.DRY",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "07cc299b7b4f04d8249c16f9ad969429",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "oj86j8a5mw9q2vso3gc2jiq",
-      "data": {}
-    },
-    "j6q05f38gjyo2tj09np4zyx": {
+    "ry2s8c6sevz7o0rook2pbl4": {
       "fname": "software-develop.config",
       "stub": true,
       "vault": {
@@ -405,9 +255,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1661569924031,
-      "created": 1661569924031,
-      "id": "j6q05f38gjyo2tj09np4zyx",
+      "updated": 1661941021126,
+      "created": 1661941021126,
+      "id": "ry2s8c6sevz7o0rook2pbl4",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -459,7 +309,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "j6q05f38gjyo2tj09np4zyx",
+      "parent": "ry2s8c6sevz7o0rook2pbl4",
       "data": {}
     },
     "0cu9dg1bjx46x5iqhnr2ulv": {
@@ -678,6 +528,518 @@
       "anchors": {},
       "children": [],
       "parent": "i5z2gw9ou7tmimbwdsltnnz",
+      "data": {}
+    },
+    "fl710h5oacxibkom399srh1": {
+      "id": "fl710h5oacxibkom399srh1",
+      "title": "软件设计",
+      "desc": "",
+      "updated": 1661935054892,
+      "created": 1661934502689,
+      "custom": {},
+      "fname": "software-develop.design",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "891ce8fa51dd4aec0d4ed4b878f67bec",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "software-develop.design",
+            "id": "fl710h5oacxibkom399srh1",
+            "vaultName": "knowledge"
+          },
+          "value": "software-develop.design.SOLID",
+          "alias": "software-develop.design.SOLID",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 10
+            },
+            "end": {
+              "line": 4,
+              "column": 34,
+              "offset": 43
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "software-develop.design.SOLID"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "software-develop.design",
+            "id": "fl710h5oacxibkom399srh1",
+            "vaultName": "knowledge"
+          },
+          "value": "software-develop.design.DRY",
+          "alias": "software-develop.design.DRY",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 1,
+              "offset": 44
+            },
+            "end": {
+              "line": 5,
+              "column": 32,
+              "offset": 75
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "software-develop.design.DRY"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "software-develop.design",
+            "id": "fl710h5oacxibkom399srh1",
+            "vaultName": "knowledge"
+          },
+          "value": "software-develop.design.YAGNI",
+          "alias": "software-develop.design.YAGNI",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 1,
+              "offset": 76
+            },
+            "end": {
+              "line": 6,
+              "column": 34,
+              "offset": 109
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "software-develop.design.YAGNI"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "software-develop.design",
+            "id": "fl710h5oacxibkom399srh1",
+            "vaultName": "knowledge"
+          },
+          "value": "software-develop.design.KISS",
+          "alias": "software-develop.design.KISS",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 1,
+              "offset": 110
+            },
+            "end": {
+              "line": 7,
+              "column": 33,
+              "offset": 142
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "software-develop.design.KISS"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "software-develop.design",
+            "id": "fl710h5oacxibkom399srh1",
+            "vaultName": "knowledge"
+          },
+          "value": "software-develop.design.Design Patterns",
+          "alias": "software-develop.design.Design Patterns",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 1,
+              "offset": 153
+            },
+            "end": {
+              "line": 11,
+              "column": 44,
+              "offset": 196
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "software-develop.design.Design Patterns"
+          }
+        },
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 1,
+              "offset": 165
+            },
+            "end": {
+              "line": 14,
+              "column": 37,
+              "offset": 201
+            },
+            "indent": []
+          },
+          "value": "software-develop.design"
+        }
+      ],
+      "anchors": {
+        "设计理念": {
+          "type": "header",
+          "text": "设计理念",
+          "value": "设计理念",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "设计模式": {
+          "type": "header",
+          "text": "设计模式",
+          "value": "设计模式",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "mqujgpqpm0qo99kdvrlv2kx",
+        "shs2x76gfjtvi20xxziz4k2",
+        "fduzrhulz557t4yjske07k9",
+        "v03c4xgyco81innvtbwsn60",
+        "tg8qotpb8mcbg975s6juars",
+        "orjdxc68o38g2h5yennctf4"
+      ],
+      "parent": "i5z2gw9ou7tmimbwdsltnnz",
+      "data": {}
+    },
+    "orjdxc68o38g2h5yennctf4": {
+      "id": "orjdxc68o38g2h5yennctf4",
+      "title": "YAGNI",
+      "desc": "",
+      "updated": 1660279927562,
+      "created": 1660279927562,
+      "custom": {},
+      "fname": "software-develop.design.YAGNI",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "1e60966cd795129074ca9d6852742078",
+      "links": [
+        {
+          "from": {
+            "fname": "software-develop.design",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 1,
+              "offset": 76
+            },
+            "end": {
+              "line": 6,
+              "column": 34,
+              "offset": 109
+            },
+            "indent": []
+          },
+          "value": "software-develop.design.YAGNI",
+          "alias": "software-develop.design.YAGNI"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "fl710h5oacxibkom399srh1",
+      "data": {}
+    },
+    "tg8qotpb8mcbg975s6juars": {
+      "id": "tg8qotpb8mcbg975s6juars",
+      "title": "TDD",
+      "desc": "",
+      "updated": 1660280084917,
+      "created": 1660279683551,
+      "custom": {},
+      "fname": "software-develop.design.TDD",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "bde34f2cb4d718092fa46f8ed1be11c4",
+      "links": [
+        {
+          "from": {
+            "fname": "about me",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 46,
+              "column": 3,
+              "offset": 1579
+            },
+            "end": {
+              "line": 46,
+              "column": 34,
+              "offset": 1610
+            },
+            "indent": []
+          },
+          "value": "software-develop.design.TDD",
+          "alias": "software-develop.design.TDD"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "fl710h5oacxibkom399srh1",
+      "data": {}
+    },
+    "v03c4xgyco81innvtbwsn60": {
+      "id": "v03c4xgyco81innvtbwsn60",
+      "title": "SOLID",
+      "desc": "",
+      "updated": 1661937094575,
+      "created": 1660279910063,
+      "custom": {},
+      "fname": "software-develop.design.SOLID",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "71f504b18730ffb8ae9847d0ea1a0d86",
+      "links": [
+        {
+          "from": {
+            "fname": "software-develop.design",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 10
+            },
+            "end": {
+              "line": 4,
+              "column": 34,
+              "offset": 43
+            },
+            "indent": []
+          },
+          "value": "software-develop.design.SOLID",
+          "alias": "software-develop.design.SOLID"
+        }
+      ],
+      "anchors": {
+        "单一职责原则single-responsibility-principle": {
+          "type": "header",
+          "text": "单一职责原则（Single Responsibility Principle）",
+          "value": "单一职责原则single-responsibility-principle",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "开放封闭原则open-close-principle": {
+          "type": "header",
+          "text": "开放封闭原则（Open Close Principle）",
+          "value": "开放封闭原则open-close-principle",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "里氏替换原则liskov-substitution-principle": {
+          "type": "header",
+          "text": "里氏替换原则（Liskov Substitution Principle）",
+          "value": "里氏替换原则liskov-substitution-principle",
+          "line": 19,
+          "column": 0,
+          "depth": 2
+        },
+        "接口隔离原则interface-sgregation-principle": {
+          "type": "header",
+          "text": "接口隔离原则（Interface Sgregation Principle）",
+          "value": "接口隔离原则interface-sgregation-principle",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        },
+        "依赖反转原则dependency-inversion-principle": {
+          "type": "header",
+          "text": "依赖反转原则（Dependency inversion principle）",
+          "value": "依赖反转原则dependency-inversion-principle",
+          "line": 28,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "fl710h5oacxibkom399srh1",
+      "data": {}
+    },
+    "fduzrhulz557t4yjske07k9": {
+      "id": "fduzrhulz557t4yjske07k9",
+      "title": "KISS",
+      "desc": "",
+      "updated": 1660279919613,
+      "created": 1660279919613,
+      "custom": {},
+      "fname": "software-develop.design.KISS",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "ca48f0c3e50ee5643efbd519225ad4e3",
+      "links": [
+        {
+          "from": {
+            "fname": "software-develop.design",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 1,
+              "offset": 110
+            },
+            "end": {
+              "line": 7,
+              "column": 33,
+              "offset": 142
+            },
+            "indent": []
+          },
+          "value": "software-develop.design.KISS",
+          "alias": "software-develop.design.KISS"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "fl710h5oacxibkom399srh1",
+      "data": {}
+    },
+    "shs2x76gfjtvi20xxziz4k2": {
+      "id": "shs2x76gfjtvi20xxziz4k2",
+      "title": "Design Patterns",
+      "desc": "",
+      "updated": 1660279888798,
+      "created": 1660279888798,
+      "custom": {},
+      "fname": "software-develop.design.Design Patterns",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "2d2b567d93ac617229f8bc77dc1b782c",
+      "links": [
+        {
+          "from": {
+            "fname": "software-develop.design",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 1,
+              "offset": 153
+            },
+            "end": {
+              "line": 11,
+              "column": 44,
+              "offset": 196
+            },
+            "indent": []
+          },
+          "value": "software-develop.design.Design Patterns",
+          "alias": "software-develop.design.Design Patterns"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "fl710h5oacxibkom399srh1",
+      "data": {}
+    },
+    "mqujgpqpm0qo99kdvrlv2kx": {
+      "id": "mqujgpqpm0qo99kdvrlv2kx",
+      "title": "DRY",
+      "desc": "",
+      "updated": 1660721981036,
+      "created": 1660721981036,
+      "custom": {},
+      "fname": "software-develop.design.DRY",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "knowledge"
+      },
+      "contentHash": "07cc299b7b4f04d8249c16f9ad969429",
+      "links": [
+        {
+          "from": {
+            "fname": "software-develop.design",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 1,
+              "offset": 44
+            },
+            "end": {
+              "line": 5,
+              "column": 32,
+              "offset": 75
+            },
+            "indent": []
+          },
+          "value": "software-develop.design.DRY",
+          "alias": "software-develop.design.DRY"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "fl710h5oacxibkom399srh1",
       "data": {}
     },
     "qu30gr2fu9l2qy6dpy6wjs6": {
@@ -9935,7 +10297,7 @@
       "id": "20dxao0uf8892hiam7spier",
       "title": "个人知识库",
       "desc": "",
-      "updated": 1661569576110,
+      "updated": 1661935083643,
       "created": 1660230632683,
       "custom": {
         "nav_order": 0,
@@ -9948,7 +10310,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "d225a7a6050df7b184c83ef424149b54",
+      "contentHash": "cb8683dfb0876e4bd36e341f8fc87541",
       "links": [
         {
           "type": "wiki",
@@ -10059,6 +10421,33 @@
             "fname": "programming-languages.python",
             "anchorHeader": "介绍:#*"
           }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "software-develop.design",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 1,
+              "offset": 165
+            },
+            "end": {
+              "line": 14,
+              "column": 37,
+              "offset": 201
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "software-develop.design",
+            "anchorHeader": "设计理念:#*"
+          }
         }
       ],
       "anchors": {
@@ -10092,14 +10481,14 @@
       ],
       "parent": null,
       "data": {},
-      "body": "\n记录我在工作和学习中掌握到的软件开发主题的知识。\n\n## 已完成\n\n![[个人介绍 | about me#简介:#*]]\n![[programming-languages.python#介绍:#*]]\n\n- [[basic.software.operating-system]]\n- [[security]]\n\n## 施工中\n"
+      "body": "\n记录我在工作和学习中掌握到的软件开发主题的知识。\n\n## 已完成\n\n![[个人介绍 | about me#简介:#*]]\n![[programming-languages.python#介绍:#*]]\n\n- [[basic.software.operating-system]]\n- [[security]]\n\n## 施工中\n\n![[software-develop.design#设计理念:#*]]"
     }
   ],
   "noteIndex": {
     "id": "20dxao0uf8892hiam7spier",
     "title": "个人知识库",
     "desc": "",
-    "updated": 1661569576110,
+    "updated": 1661935083643,
     "created": 1660230632683,
     "custom": {
       "nav_order": 0,
@@ -10112,7 +10501,7 @@
       "selfContained": true,
       "name": "knowledge"
     },
-    "contentHash": "d225a7a6050df7b184c83ef424149b54",
+    "contentHash": "cb8683dfb0876e4bd36e341f8fc87541",
     "links": [
       {
         "type": "wiki",
@@ -10223,6 +10612,33 @@
           "fname": "programming-languages.python",
           "anchorHeader": "介绍:#*"
         }
+      },
+      {
+        "type": "ref",
+        "from": {
+          "fname": "root",
+          "id": "20dxao0uf8892hiam7spier",
+          "vaultName": "knowledge"
+        },
+        "value": "software-develop.design",
+        "position": {
+          "start": {
+            "line": 14,
+            "column": 1,
+            "offset": 165
+          },
+          "end": {
+            "line": 14,
+            "column": 37,
+            "offset": 201
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "to": {
+          "fname": "software-develop.design",
+          "anchorHeader": "设计理念:#*"
+        }
       }
     ],
     "anchors": {
@@ -10256,7 +10672,7 @@
     ],
     "parent": null,
     "data": {},
-    "body": "\n记录我在工作和学习中掌握到的软件开发主题的知识。\n\n## 已完成\n\n![[个人介绍 | about me#简介:#*]]\n![[programming-languages.python#介绍:#*]]\n\n- [[basic.software.operating-system]]\n- [[security]]\n\n## 施工中\n"
+    "body": "\n记录我在工作和学习中掌握到的软件开发主题的知识。\n\n## 已完成\n\n![[个人介绍 | about me#简介:#*]]\n![[programming-languages.python#介绍:#*]]\n\n- [[basic.software.operating-system]]\n- [[security]]\n\n## 施工中\n\n![[software-develop.design#设计理念:#*]]"
   },
   "vaults": [
     {
