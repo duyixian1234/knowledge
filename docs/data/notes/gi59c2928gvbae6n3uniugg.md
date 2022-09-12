@@ -1,4 +1,5 @@
 
+
 参考[【使用 Python 实现算法】02 原生类型与内置函数 | 那时难决 (duyixian.cn)](https://www.duyixian.cn/2022/06/27/2022-06-27%20algorithms%20in%20python%2002/#int)
 
 ## int

@@ -1,4 +1,5 @@
 
+
 记录我在工作和学习中掌握到的软件开发主题的知识。
 
 ## 已完成
@@ -8,7 +9,8 @@
 
 - [[basic.software.operating-system]]
 - [[security]]
+- [[software-develop.design]]
 
 ## 施工中
 
-![[software-develop.design#设计理念:#*]]
+- [[software-develop.design.Design Patterns]]
