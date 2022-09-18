@@ -2,7 +2,7 @@
 id: 21aud0t5f5hq4ahia694mc2
 title: 创建型模式
 desc: ""
-updated: 1662990561756
+updated: 1663478863080
 created: 1662989884439
 ---
 

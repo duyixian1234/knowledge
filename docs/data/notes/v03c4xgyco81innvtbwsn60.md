@@ -1,5 +1,4 @@
 
-
 ## 单一职责原则（Single Responsibility Principle）
 
 - 每个模块应该只做一件事
