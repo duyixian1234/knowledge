@@ -9,7 +9,8 @@
 - [[basic.software.operating-system]]
 - [[security]]
 - [[software-develop.design]]
+- [[software-develop.design.Design Patterns]]
 
 ## 施工中
 
-- [[software-develop.design.Design Patterns]]
+- [[software-develop.VCS.git]]

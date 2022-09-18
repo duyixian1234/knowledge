@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1663478948941,
-      "created": 1663478948941,
+      "updated": 1663479234656,
+      "created": 1663479234656,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -24,7 +24,7 @@
       "id": "20dxao0uf8892hiam7spier",
       "title": "个人知识库",
       "desc": "",
-      "updated": 1662989293484,
+      "updated": 1663479223433,
       "created": 1660230632683,
       "custom": {
         "nav_order": 0,
@@ -37,7 +37,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "4534efc1c822f7134ceab109b781c681",
+      "contentHash": "1e78e79c903519387a7746c3bab665d6",
       "links": [
         {
           "type": "wiki",
@@ -134,14 +134,14 @@
           "alias": "software-develop.design.Design Patterns",
           "position": {
             "start": {
-              "line": 15,
+              "line": 12,
               "column": 3,
-              "offset": 197
+              "offset": 188
             },
             "end": {
-              "line": 15,
+              "line": 12,
               "column": 46,
-              "offset": 240
+              "offset": 231
             },
             "indent": []
           },
@@ -149,6 +149,34 @@
           "sameFile": false,
           "to": {
             "fname": "software-develop.design.Design Patterns"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "software-develop.VCS.git",
+          "alias": "software-develop.VCS.git",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 3,
+              "offset": 243
+            },
+            "end": {
+              "line": 16,
+              "column": 31,
+              "offset": 271
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "software-develop.VCS.git"
           }
         },
         {
@@ -219,7 +247,7 @@
           "type": "header",
           "text": "施工中",
           "value": "施工中",
-          "line": 19,
+          "line": 20,
           "column": 0,
           "depth": 2
         }
@@ -269,12 +297,12 @@
         "415pfd1z8i5k9amwp7gkzlp",
         "l0n8p6a22ndk4hwpm176fnn",
         "0cu9dg1bjx46x5iqhnr2ulv",
-        "xmqpemo39cazl4nt14q4q1r"
+        "zqa5tw5gkktqx25f2l3c4l3"
       ],
       "parent": "20dxao0uf8892hiam7spier",
       "data": {}
     },
-    "xmqpemo39cazl4nt14q4q1r": {
+    "zqa5tw5gkktqx25f2l3c4l3": {
       "fname": "software-develop.config",
       "stub": true,
       "vault": {
@@ -284,9 +312,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1663478946709,
-      "created": 1663478946710,
-      "id": "xmqpemo39cazl4nt14q4q1r",
+      "updated": 1663479232226,
+      "created": 1663479232226,
+      "id": "zqa5tw5gkktqx25f2l3c4l3",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -338,7 +366,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "xmqpemo39cazl4nt14q4q1r",
+      "parent": "zqa5tw5gkktqx25f2l3c4l3",
       "data": {}
     },
     "0cu9dg1bjx46x5iqhnr2ulv": {
@@ -1137,14 +1165,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 15,
+              "line": 12,
               "column": 3,
-              "offset": 197
+              "offset": 188
             },
             "end": {
-              "line": 15,
+              "line": 12,
               "column": 46,
-              "offset": 240
+              "offset": 231
             },
             "indent": []
           },
@@ -1862,6 +1890,28 @@
               "line": 53,
               "column": 31,
               "offset": 1790
+            },
+            "indent": []
+          },
+          "value": "software-develop.VCS.git",
+          "alias": "software-develop.VCS.git"
+        },
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 3,
+              "offset": 243
+            },
+            "end": {
+              "line": 16,
+              "column": 31,
+              "offset": 271
             },
             "indent": []
           },
@@ -10944,7 +10994,7 @@
       "id": "20dxao0uf8892hiam7spier",
       "title": "个人知识库",
       "desc": "",
-      "updated": 1662989293484,
+      "updated": 1663479223433,
       "created": 1660230632683,
       "custom": {
         "nav_order": 0,
@@ -10957,7 +11007,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "4534efc1c822f7134ceab109b781c681",
+      "contentHash": "1e78e79c903519387a7746c3bab665d6",
       "links": [
         {
           "type": "wiki",
@@ -11054,14 +11104,14 @@
           "alias": "software-develop.design.Design Patterns",
           "position": {
             "start": {
-              "line": 15,
+              "line": 12,
               "column": 3,
-              "offset": 197
+              "offset": 188
             },
             "end": {
-              "line": 15,
+              "line": 12,
               "column": 46,
-              "offset": 240
+              "offset": 231
             },
             "indent": []
           },
@@ -11069,6 +11119,34 @@
           "sameFile": false,
           "to": {
             "fname": "software-develop.design.Design Patterns"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "20dxao0uf8892hiam7spier",
+            "vaultName": "knowledge"
+          },
+          "value": "software-develop.VCS.git",
+          "alias": "software-develop.VCS.git",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 3,
+              "offset": 243
+            },
+            "end": {
+              "line": 16,
+              "column": 31,
+              "offset": 271
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "software-develop.VCS.git"
           }
         },
         {
@@ -11139,7 +11217,7 @@
           "type": "header",
           "text": "施工中",
           "value": "施工中",
-          "line": 19,
+          "line": 20,
           "column": 0,
           "depth": 2
         }
@@ -11157,14 +11235,14 @@
       ],
       "parent": null,
       "data": {},
-      "body": "\n记录我在工作和学习中掌握到的软件开发主题的知识。\n\n## 已完成\n\n![[个人介绍 | about me#简介:#*]]\n![[programming-languages.python#介绍:#*]]\n\n- [[basic.software.operating-system]]\n- [[security]]\n- [[software-develop.design]]\n\n## 施工中\n\n- [[software-develop.design.Design Patterns]]\n"
+      "body": "\n记录我在工作和学习中掌握到的软件开发主题的知识。\n\n## 已完成\n\n![[个人介绍 | about me#简介:#*]]\n![[programming-languages.python#介绍:#*]]\n\n- [[basic.software.operating-system]]\n- [[security]]\n- [[software-develop.design]]\n- [[software-develop.design.Design Patterns]]\n\n## 施工中\n\n- [[software-develop.VCS.git]]"
     }
   ],
   "noteIndex": {
     "id": "20dxao0uf8892hiam7spier",
     "title": "个人知识库",
     "desc": "",
-    "updated": 1662989293484,
+    "updated": 1663479223433,
     "created": 1660230632683,
     "custom": {
       "nav_order": 0,
@@ -11177,7 +11255,7 @@
       "selfContained": true,
       "name": "knowledge"
     },
-    "contentHash": "4534efc1c822f7134ceab109b781c681",
+    "contentHash": "1e78e79c903519387a7746c3bab665d6",
     "links": [
       {
         "type": "wiki",
@@ -11274,14 +11352,14 @@
         "alias": "software-develop.design.Design Patterns",
         "position": {
           "start": {
-            "line": 15,
+            "line": 12,
             "column": 3,
-            "offset": 197
+            "offset": 188
           },
           "end": {
-            "line": 15,
+            "line": 12,
             "column": 46,
-            "offset": 240
+            "offset": 231
           },
           "indent": []
         },
@@ -11289,6 +11367,34 @@
         "sameFile": false,
         "to": {
           "fname": "software-develop.design.Design Patterns"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "20dxao0uf8892hiam7spier",
+          "vaultName": "knowledge"
+        },
+        "value": "software-develop.VCS.git",
+        "alias": "software-develop.VCS.git",
+        "position": {
+          "start": {
+            "line": 16,
+            "column": 3,
+            "offset": 243
+          },
+          "end": {
+            "line": 16,
+            "column": 31,
+            "offset": 271
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "software-develop.VCS.git"
         }
       },
       {
@@ -11359,7 +11465,7 @@
         "type": "header",
         "text": "施工中",
         "value": "施工中",
-        "line": 19,
+        "line": 20,
         "column": 0,
         "depth": 2
       }
@@ -11377,7 +11483,7 @@
     ],
     "parent": null,
     "data": {},
-    "body": "\n记录我在工作和学习中掌握到的软件开发主题的知识。\n\n## 已完成\n\n![[个人介绍 | about me#简介:#*]]\n![[programming-languages.python#介绍:#*]]\n\n- [[basic.software.operating-system]]\n- [[security]]\n- [[software-develop.design]]\n\n## 施工中\n\n- [[software-develop.design.Design Patterns]]\n"
+    "body": "\n记录我在工作和学习中掌握到的软件开发主题的知识。\n\n## 已完成\n\n![[个人介绍 | about me#简介:#*]]\n![[programming-languages.python#介绍:#*]]\n\n- [[basic.software.operating-system]]\n- [[security]]\n- [[software-develop.design]]\n- [[software-develop.design.Design Patterns]]\n\n## 施工中\n\n- [[software-develop.VCS.git]]"
   },
   "vaults": [
     {
