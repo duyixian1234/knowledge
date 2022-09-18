@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1663479234656,
-      "created": 1663479234656,
+      "updated": 1663480922211,
+      "created": 1663480922211,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -297,12 +297,12 @@
         "415pfd1z8i5k9amwp7gkzlp",
         "l0n8p6a22ndk4hwpm176fnn",
         "0cu9dg1bjx46x5iqhnr2ulv",
-        "zqa5tw5gkktqx25f2l3c4l3"
+        "yphebsao2phhaxngn7to71f"
       ],
       "parent": "20dxao0uf8892hiam7spier",
       "data": {}
     },
-    "zqa5tw5gkktqx25f2l3c4l3": {
+    "yphebsao2phhaxngn7to71f": {
       "fname": "software-develop.config",
       "stub": true,
       "vault": {
@@ -312,9 +312,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1663479232226,
-      "created": 1663479232226,
-      "id": "zqa5tw5gkktqx25f2l3c4l3",
+      "updated": 1663480919996,
+      "created": 1663480919996,
+      "id": "yphebsao2phhaxngn7to71f",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -343,6 +343,7 @@
       "links": [
         {
           "from": {
+            "id": "qtr8ummkyc6u05hou1kqspq",
             "fname": "programming-languages.python.pipenv",
             "vaultName": "knowledge"
           },
@@ -366,7 +367,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "zqa5tw5gkktqx25f2l3c4l3",
+      "parent": "yphebsao2phhaxngn7to71f",
       "data": {}
     },
     "0cu9dg1bjx46x5iqhnr2ulv": {
@@ -433,6 +434,7 @@
       "links": [
         {
           "from": {
+            "id": "np7uvlwz31o93nfu7er1dfu",
             "fname": "programming-languages.python.type hints",
             "vaultName": "knowledge"
           },
@@ -477,6 +479,7 @@
       "links": [
         {
           "from": {
+            "id": "euj0yyfymzmig3lszs3vgow",
             "fname": "about me",
             "vaultName": "knowledge"
           },
@@ -745,6 +748,7 @@
         },
         {
           "from": {
+            "id": "20dxao0uf8892hiam7spier",
             "fname": "root",
             "vaultName": "knowledge"
           },
@@ -813,6 +817,7 @@
       "links": [
         {
           "from": {
+            "id": "fl710h5oacxibkom399srh1",
             "fname": "software-develop.design",
             "vaultName": "knowledge"
           },
@@ -866,6 +871,7 @@
       "links": [
         {
           "from": {
+            "id": "euj0yyfymzmig3lszs3vgow",
             "fname": "about me",
             "vaultName": "knowledge"
           },
@@ -910,6 +916,7 @@
       "links": [
         {
           "from": {
+            "id": "fl710h5oacxibkom399srh1",
             "fname": "software-develop.design",
             "vaultName": "knowledge"
           },
@@ -995,6 +1002,7 @@
       "links": [
         {
           "from": {
+            "id": "fl710h5oacxibkom399srh1",
             "fname": "software-develop.design",
             "vaultName": "knowledge"
           },
@@ -1159,6 +1167,7 @@
         },
         {
           "from": {
+            "id": "20dxao0uf8892hiam7spier",
             "fname": "root",
             "vaultName": "knowledge"
           },
@@ -1181,6 +1190,7 @@
         },
         {
           "from": {
+            "id": "fl710h5oacxibkom399srh1",
             "fname": "software-develop.design",
             "vaultName": "knowledge"
           },
@@ -1334,6 +1344,7 @@
       "links": [
         {
           "from": {
+            "id": "shs2x76gfjtvi20xxziz4k2",
             "fname": "software-develop.design.Design Patterns",
             "vaultName": "knowledge"
           },
@@ -1435,6 +1446,7 @@
       "links": [
         {
           "from": {
+            "id": "shs2x76gfjtvi20xxziz4k2",
             "fname": "software-develop.design.Design Patterns",
             "vaultName": "knowledge"
           },
@@ -1520,6 +1532,7 @@
       "links": [
         {
           "from": {
+            "id": "shs2x76gfjtvi20xxziz4k2",
             "fname": "software-develop.design.Design Patterns",
             "vaultName": "knowledge"
           },
@@ -1645,6 +1658,7 @@
       "links": [
         {
           "from": {
+            "id": "fl710h5oacxibkom399srh1",
             "fname": "software-develop.design",
             "vaultName": "knowledge"
           },
@@ -1876,6 +1890,7 @@
       "links": [
         {
           "from": {
+            "id": "euj0yyfymzmig3lszs3vgow",
             "fname": "about me",
             "vaultName": "knowledge"
           },
@@ -1898,6 +1913,7 @@
         },
         {
           "from": {
+            "id": "20dxao0uf8892hiam7spier",
             "fname": "root",
             "vaultName": "knowledge"
           },
@@ -1986,6 +2002,7 @@
       "links": [
         {
           "from": {
+            "id": "euj0yyfymzmig3lszs3vgow",
             "fname": "about me",
             "vaultName": "knowledge"
           },
@@ -2030,6 +2047,7 @@
       "links": [
         {
           "from": {
+            "id": "euj0yyfymzmig3lszs3vgow",
             "fname": "about me",
             "vaultName": "knowledge"
           },
@@ -2233,6 +2251,7 @@
         },
         {
           "from": {
+            "id": "20dxao0uf8892hiam7spier",
             "fname": "root",
             "vaultName": "knowledge"
           },
@@ -3508,6 +3527,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -3560,6 +3580,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -3581,6 +3602,7 @@
         },
         {
           "from": {
+            "id": "shs2x76gfjtvi20xxziz4k2",
             "fname": "software-develop.design.Design Patterns",
             "vaultName": "knowledge"
           },
@@ -3641,6 +3663,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -3693,6 +3716,7 @@
       "links": [
         {
           "from": {
+            "id": "e8hgfaxvmfjj1h1wq7pe5he",
             "fname": "basic",
             "vaultName": "knowledge"
           },
@@ -3714,6 +3738,7 @@
         },
         {
           "from": {
+            "id": "a44h4sj21jfb19ymoovvuzr",
             "fname": "security",
             "vaultName": "knowledge"
           },
@@ -3735,6 +3760,7 @@
         },
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -3756,6 +3782,7 @@
         },
         {
           "from": {
+            "id": "9nuy42p9er5xi25in7cy0vq",
             "fname": "basic.software.operating-system",
             "vaultName": "knowledge"
           },
@@ -3777,6 +3804,7 @@
         },
         {
           "from": {
+            "id": "ndz4w8l4fs8gahzx7eanasg",
             "fname": "programming-languages.python.Ansible",
             "vaultName": "knowledge"
           },
@@ -3798,6 +3826,7 @@
         },
         {
           "from": {
+            "id": "hz65rlnypyne9wbids56z0z",
             "fname": "programming-languages.python.Django",
             "vaultName": "knowledge"
           },
@@ -3819,6 +3848,7 @@
         },
         {
           "from": {
+            "id": "3gh56qxayzvht9saqgm7lve",
             "fname": "programming-languages.python.Flask",
             "vaultName": "knowledge"
           },
@@ -3955,6 +3985,7 @@
       "links": [
         {
           "from": {
+            "id": "euj0yyfymzmig3lszs3vgow",
             "fname": "about me",
             "vaultName": "knowledge"
           },
@@ -3999,6 +4030,7 @@
       "links": [
         {
           "from": {
+            "id": "euj0yyfymzmig3lszs3vgow",
             "fname": "about me",
             "vaultName": "knowledge"
           },
@@ -5158,6 +5190,7 @@
         },
         {
           "from": {
+            "id": "euj0yyfymzmig3lszs3vgow",
             "fname": "about me",
             "vaultName": "knowledge"
           },
@@ -5180,6 +5213,7 @@
         },
         {
           "from": {
+            "id": "20dxao0uf8892hiam7spier",
             "fname": "root",
             "vaultName": "knowledge"
           },
@@ -5331,6 +5365,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -5420,6 +5455,7 @@
         },
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -5614,6 +5650,7 @@
         },
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -5675,6 +5712,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -5736,6 +5774,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -5789,6 +5828,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -5842,6 +5882,7 @@
       "links": [
         {
           "from": {
+            "id": "np7uvlwz31o93nfu7er1dfu",
             "fname": "programming-languages.python.type hints",
             "vaultName": "knowledge"
           },
@@ -5886,6 +5927,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -5947,6 +5989,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -6052,6 +6095,7 @@
         },
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -6105,6 +6149,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -6198,6 +6243,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -6259,6 +6305,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -6312,6 +6359,7 @@
       "links": [
         {
           "from": {
+            "id": "np7uvlwz31o93nfu7er1dfu",
             "fname": "programming-languages.python.type hints",
             "vaultName": "knowledge"
           },
@@ -6356,6 +6404,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -6441,6 +6490,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -6463,6 +6513,7 @@
         },
         {
           "from": {
+            "id": "my8qzdf77zphq770aho85l7",
             "fname": "programming-languages.python.iterators",
             "vaultName": "knowledge"
           },
@@ -6485,6 +6536,7 @@
         },
         {
           "from": {
+            "id": "np7uvlwz31o93nfu7er1dfu",
             "fname": "programming-languages.python.type hints",
             "vaultName": "knowledge"
           },
@@ -6594,6 +6646,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -6616,6 +6669,7 @@
         },
         {
           "from": {
+            "id": "gi59c2928gvbae6n3uniugg",
             "fname": "programming-languages.python.builtin types",
             "vaultName": "knowledge"
           },
@@ -6638,6 +6692,7 @@
         },
         {
           "from": {
+            "id": "gi59c2928gvbae6n3uniugg",
             "fname": "programming-languages.python.builtin types",
             "vaultName": "knowledge"
           },
@@ -6728,6 +6783,7 @@
         },
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -6750,6 +6806,7 @@
         },
         {
           "from": {
+            "id": "vu4366q6sckejfdqgrqr3a5",
             "fname": "programming-languages.python.builtin functions",
             "vaultName": "knowledge"
           },
@@ -6811,6 +6868,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -6872,6 +6930,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -6949,6 +7008,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -7010,6 +7070,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -7071,6 +7132,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -7093,6 +7155,7 @@
         },
         {
           "from": {
+            "id": "7aidp4clskcaj4w16ipr2gh",
             "fname": "programming-languages.python.typer",
             "vaultName": "knowledge"
           },
@@ -7210,6 +7273,7 @@
         },
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -7339,6 +7403,7 @@
         },
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -7468,6 +7533,7 @@
         },
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -7529,6 +7595,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -7589,6 +7656,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -7642,6 +7710,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -7695,6 +7764,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -7775,6 +7845,7 @@
         },
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -7844,6 +7915,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -7866,6 +7938,7 @@
         },
         {
           "from": {
+            "id": "oyrvr62f5kc782wgpoz5hgj",
             "fname": "programming-languages.python.asyncio",
             "vaultName": "knowledge"
           },
@@ -7888,6 +7961,7 @@
         },
         {
           "from": {
+            "id": "np7uvlwz31o93nfu7er1dfu",
             "fname": "programming-languages.python.type hints",
             "vaultName": "knowledge"
           },
@@ -7968,6 +8042,7 @@
         },
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -8064,6 +8139,7 @@
         },
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -8125,6 +8201,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -8169,6 +8246,7 @@
       "links": [
         {
           "from": {
+            "id": "euj0yyfymzmig3lszs3vgow",
             "fname": "about me",
             "vaultName": "knowledge"
           },
@@ -8213,6 +8291,7 @@
       "links": [
         {
           "from": {
+            "id": "euj0yyfymzmig3lszs3vgow",
             "fname": "about me",
             "vaultName": "knowledge"
           },
@@ -8257,6 +8336,7 @@
       "links": [
         {
           "from": {
+            "id": "euj0yyfymzmig3lszs3vgow",
             "fname": "about me",
             "vaultName": "knowledge"
           },
@@ -8301,6 +8381,7 @@
       "links": [
         {
           "from": {
+            "id": "euj0yyfymzmig3lszs3vgow",
             "fname": "about me",
             "vaultName": "knowledge"
           },
@@ -8323,6 +8404,7 @@
         },
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -8388,6 +8470,7 @@
       "links": [
         {
           "from": {
+            "id": "euj0yyfymzmig3lszs3vgow",
             "fname": "about me",
             "vaultName": "knowledge"
           },
@@ -8432,6 +8515,7 @@
       "links": [
         {
           "from": {
+            "id": "euj0yyfymzmig3lszs3vgow",
             "fname": "about me",
             "vaultName": "knowledge"
           },
@@ -8497,6 +8581,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -8541,6 +8626,7 @@
       "links": [
         {
           "from": {
+            "id": "i7qra5ip0gwchs30f5at7rx",
             "fname": "programming-languages.python",
             "vaultName": "knowledge"
           },
@@ -9007,6 +9093,7 @@
         },
         {
           "from": {
+            "id": "euj0yyfymzmig3lszs3vgow",
             "fname": "about me",
             "vaultName": "knowledge"
           },
@@ -9029,6 +9116,7 @@
         },
         {
           "from": {
+            "id": "20dxao0uf8892hiam7spier",
             "fname": "root",
             "vaultName": "knowledge"
           },
@@ -9717,6 +9805,7 @@
         },
         {
           "from": {
+            "id": "euj0yyfymzmig3lszs3vgow",
             "fname": "about me",
             "vaultName": "knowledge"
           },
@@ -9790,6 +9879,7 @@
       "links": [
         {
           "from": {
+            "id": "6l2hd19rhsbeqnqzifx5y8n",
             "fname": "basic.hardware",
             "vaultName": "knowledge"
           },
@@ -9879,6 +9969,7 @@
       "links": [
         {
           "from": {
+            "id": "6l2hd19rhsbeqnqzifx5y8n",
             "fname": "basic.hardware",
             "vaultName": "knowledge"
           },
@@ -9999,6 +10090,7 @@
       "links": [
         {
           "from": {
+            "id": "6l2hd19rhsbeqnqzifx5y8n",
             "fname": "basic.hardware",
             "vaultName": "knowledge"
           },
@@ -10068,6 +10160,7 @@
       "links": [
         {
           "from": {
+            "id": "euj0yyfymzmig3lszs3vgow",
             "fname": "about me",
             "vaultName": "knowledge"
           },
@@ -10874,6 +10967,7 @@
         },
         {
           "from": {
+            "id": "20dxao0uf8892hiam7spier",
             "fname": "root",
             "vaultName": "knowledge"
           },

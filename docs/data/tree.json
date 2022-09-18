@@ -1,1406 +1,1244 @@
 {
   "roots": [
     {
-      "key": "20dxao0uf8892hiam7spier",
-      "title": "个人知识库",
+      "key": "euj0yyfymzmig3lszs3vgow",
+      "title": "关于我",
       "icon": null,
       "hasTitleNumberOutlined": false,
       "vaultName": "knowledge",
-      "navExclude": false,
+      "children": []
+    },
+    {
+      "key": "6xsd9waf7ho7as5kzccut5h",
+      "title": "架构",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "knowledge",
       "children": [
         {
-          "key": "a44h4sj21jfb19ymoovvuzr",
-          "title": "信息安全",
+          "key": "jmyu2j127398lu5ze16czs7",
+          "title": "Cloud Native",
           "icon": null,
           "hasTitleNumberOutlined": false,
           "vaultName": "knowledge",
-          "navExclude": false,
           "children": [
             {
-              "key": "5li2av5xhjpvuv0t0by2yyl",
-              "title": "OWASP",
+              "key": "a601pg6wo1lhqjafh63mls4",
+              "title": "FaaS",
               "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "knowledge",
-              "navExclude": false,
               "children": []
             },
             {
-              "key": "jq0ulj3quh8dkrhncjgtpfa",
-              "title": "人因安全",
+              "key": "bpsbto9ra3e9vq6f0lvs7wl",
+              "title": "IaaS",
               "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "knowledge",
-              "navExclude": false,
               "children": []
             },
             {
-              "key": "o5k6hs4bz3d00393hr3mny0",
-              "title": "合规、法律和法规",
+              "key": "9o3hmdtpkxdveqtttdxfhcg",
+              "title": "PaaS",
               "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "a5qhaapggpqvb3mbef9qxws",
-              "title": "安全评估",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "nmz6sghas6qb5lqnvxac95r",
-              "title": "审计和问责",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "wibhrb0yg5q8gbhoslnllxp",
-              "title": "密码学",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "ihbgwin103gg7u3ha9jl7ug",
-              "title": "应用程序安全",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "90kk6w4dlyax9ywochuy6om",
-              "title": "授权与访问控制",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "cmktwzyj4333tdgoy3xbv2u",
-              "title": "操作系统安全",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "0pk7sya0jxuwokrkx1222ro",
-              "title": "移动、嵌入式和物联网安全",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "tz4qivejklsy3j3f6g9fzi4",
-              "title": "网络安全",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "suw6c5y5dd8ycq6bpqxzgi8",
-              "title": "身份识别与身份验证",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
               "children": []
             }
           ]
         },
         {
-          "key": "euj0yyfymzmig3lszs3vgow",
-          "title": "关于我",
+          "key": "m7gnr1kzd6q1pza1r7km5k7",
+          "title": "Domain Driven Design",
           "icon": null,
           "hasTitleNumberOutlined": false,
           "vaultName": "knowledge",
-          "navExclude": false,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "e8hgfaxvmfjj1h1wq7pe5he",
+      "title": "基础知识",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "knowledge",
+      "children": [
+        {
+          "key": "juqa13xh9vpcjjcwuaxpijf",
+          "title": "通信",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": [
+            {
+              "key": "j1p2133sxm8xqu7etqqv5u1",
+              "title": "编码",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "zcrks6hqodblp70de8kvm4b",
+              "title": "压缩",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "pqf7qvwgukb60h5r0vcmnzh",
+              "title": "网络",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": [
+                {
+                  "key": "bgetpnvnoqvfa3aahgz2kwh",
+                  "title": "DNS",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "children": []
+                },
+                {
+                  "key": "07vmn9ross3dwkjymi6vmcc",
+                  "title": "HTTP",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "children": []
+                },
+                {
+                  "key": "na2uf1zamwck4tfi1rcrmpv",
+                  "title": "HTTPS",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "children": []
+                },
+                {
+                  "key": "ltahj6egbdd3bc7tdrnym0p",
+                  "title": "TCP",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "children": []
+                },
+                {
+                  "key": "d8t3jc0pnaunziddujlfb2d",
+                  "title": "UDP",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "6l2hd19rhsbeqnqzifx5y8n",
+          "title": "硬件",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": [
+            {
+              "key": "e1jw5gg457mnhekpu6bw0ea",
+              "title": "IO Devices",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "y5kiwrofq5xhekxxqxajxas",
+              "title": "CPU",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": [
+                {
+                  "key": "o8vtdk26adi8wrh9i21g4cn",
+                  "title": "Instrution Set",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "children": []
+                },
+                {
+                  "key": "r5o6mkov9u86wetjlrz98fy",
+                  "title": "集成电路",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "children": []
+                },
+                {
+                  "key": "jgi61wg7dcnh322phvhaeja",
+                  "title": "逻辑门",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "2lpt87f6lkomzhl37o9laax",
+              "title": "存储",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": [
+                {
+                  "key": "m07b1g57xglwhwelv7vqdr6",
+                  "title": "Hard Disks And Secondary Storage",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "children": []
+                },
+                {
+                  "key": "kawc8oaxw4e7q3qlwq72mgt",
+                  "title": "RAM",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "dteprkzzkrstuocixsln0we",
+          "title": "软件",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": [
+            {
+              "key": "9nuy42p9er5xi25in7cy0vq",
+              "title": "操作系统",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": [
+                {
+                  "key": "e8q7nmga8vp8l0lwwjkk224",
+                  "title": "Concurrent",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "children": []
+                },
+                {
+                  "key": "ukb27ukhtep8q42aczhb2cz",
+                  "title": "IO Management",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "children": []
+                },
+                {
+                  "key": "2rkux2b95mg0618bx5vhz8s",
+                  "title": "Interprocess Communication",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "children": []
+                },
+                {
+                  "key": "lhye4vil5un8143hanrbkni",
+                  "title": "Memory Management",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "children": []
+                },
+                {
+                  "key": "sm3n32l3vnku7mk7ffncfx6",
+                  "title": "POSIX Basics",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "children": []
+                },
+                {
+                  "key": "788pm603l0e2jbhxfxnds7f",
+                  "title": "Process Management",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "children": []
+                },
+                {
+                  "key": "40au7lj9ck2m1xlcyvrqxre",
+                  "title": "Threads And Concurrency",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "knowledge",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "roizuhueed0r7bqvid0nz7l",
+      "title": "数据库",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "knowledge",
+      "children": [
+        {
+          "key": "43c10amadccvfinwdkpct2g",
+          "title": "ACID",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
           "children": []
         },
         {
-          "key": "e8hgfaxvmfjj1h1wq7pe5he",
-          "title": "基础知识",
+          "key": "y8ulhtvjnibnph2szwz5cv2",
+          "title": "CAP",
           "icon": null,
           "hasTitleNumberOutlined": false,
           "vaultName": "knowledge",
-          "navExclude": false,
-          "children": [
-            {
-              "key": "6l2hd19rhsbeqnqzifx5y8n",
-              "title": "硬件",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": [
-                {
-                  "key": "y5kiwrofq5xhekxxqxajxas",
-                  "title": "CPU",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": [
-                    {
-                      "key": "o8vtdk26adi8wrh9i21g4cn",
-                      "title": "Instrution Set",
-                      "icon": null,
-                      "hasTitleNumberOutlined": false,
-                      "vaultName": "knowledge",
-                      "navExclude": false,
-                      "children": []
-                    },
-                    {
-                      "key": "jgi61wg7dcnh322phvhaeja",
-                      "title": "逻辑门",
-                      "icon": null,
-                      "hasTitleNumberOutlined": false,
-                      "vaultName": "knowledge",
-                      "navExclude": false,
-                      "children": []
-                    },
-                    {
-                      "key": "r5o6mkov9u86wetjlrz98fy",
-                      "title": "集成电路",
-                      "icon": null,
-                      "hasTitleNumberOutlined": false,
-                      "vaultName": "knowledge",
-                      "navExclude": false,
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "key": "e1jw5gg457mnhekpu6bw0ea",
-                  "title": "IO Devices",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "2lpt87f6lkomzhl37o9laax",
-                  "title": "存储",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": [
-                    {
-                      "key": "m07b1g57xglwhwelv7vqdr6",
-                      "title": "Hard Disks And Secondary Storage",
-                      "icon": null,
-                      "hasTitleNumberOutlined": false,
-                      "vaultName": "knowledge",
-                      "navExclude": false,
-                      "children": []
-                    },
-                    {
-                      "key": "kawc8oaxw4e7q3qlwq72mgt",
-                      "title": "RAM",
-                      "icon": null,
-                      "hasTitleNumberOutlined": false,
-                      "vaultName": "knowledge",
-                      "navExclude": false,
-                      "children": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "key": "dteprkzzkrstuocixsln0we",
-              "title": "软件",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": [
-                {
-                  "key": "9nuy42p9er5xi25in7cy0vq",
-                  "title": "操作系统",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": [
-                    {
-                      "key": "e8q7nmga8vp8l0lwwjkk224",
-                      "title": "Concurrent",
-                      "icon": null,
-                      "hasTitleNumberOutlined": false,
-                      "vaultName": "knowledge",
-                      "navExclude": false,
-                      "children": []
-                    },
-                    {
-                      "key": "ukb27ukhtep8q42aczhb2cz",
-                      "title": "IO Management",
-                      "icon": null,
-                      "hasTitleNumberOutlined": false,
-                      "vaultName": "knowledge",
-                      "navExclude": false,
-                      "children": []
-                    },
-                    {
-                      "key": "2rkux2b95mg0618bx5vhz8s",
-                      "title": "Interprocess Communication",
-                      "icon": null,
-                      "hasTitleNumberOutlined": false,
-                      "vaultName": "knowledge",
-                      "navExclude": false,
-                      "children": []
-                    },
-                    {
-                      "key": "lhye4vil5un8143hanrbkni",
-                      "title": "Memory Management",
-                      "icon": null,
-                      "hasTitleNumberOutlined": false,
-                      "vaultName": "knowledge",
-                      "navExclude": false,
-                      "children": []
-                    },
-                    {
-                      "key": "sm3n32l3vnku7mk7ffncfx6",
-                      "title": "POSIX Basics",
-                      "icon": null,
-                      "hasTitleNumberOutlined": false,
-                      "vaultName": "knowledge",
-                      "navExclude": false,
-                      "children": []
-                    },
-                    {
-                      "key": "788pm603l0e2jbhxfxnds7f",
-                      "title": "Process Management",
-                      "icon": null,
-                      "hasTitleNumberOutlined": false,
-                      "vaultName": "knowledge",
-                      "navExclude": false,
-                      "children": []
-                    },
-                    {
-                      "key": "40au7lj9ck2m1xlcyvrqxre",
-                      "title": "Threads And Concurrency",
-                      "icon": null,
-                      "hasTitleNumberOutlined": false,
-                      "vaultName": "knowledge",
-                      "navExclude": false,
-                      "children": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "key": "juqa13xh9vpcjjcwuaxpijf",
-              "title": "通信",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": [
-                {
-                  "key": "zcrks6hqodblp70de8kvm4b",
-                  "title": "压缩",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "j1p2133sxm8xqu7etqqv5u1",
-                  "title": "编码",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "pqf7qvwgukb60h5r0vcmnzh",
-                  "title": "网络",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": [
-                    {
-                      "key": "bgetpnvnoqvfa3aahgz2kwh",
-                      "title": "DNS",
-                      "icon": null,
-                      "hasTitleNumberOutlined": false,
-                      "vaultName": "knowledge",
-                      "navExclude": false,
-                      "children": []
-                    },
-                    {
-                      "key": "07vmn9ross3dwkjymi6vmcc",
-                      "title": "HTTP",
-                      "icon": null,
-                      "hasTitleNumberOutlined": false,
-                      "vaultName": "knowledge",
-                      "navExclude": false,
-                      "children": []
-                    },
-                    {
-                      "key": "na2uf1zamwck4tfi1rcrmpv",
-                      "title": "HTTPS",
-                      "icon": null,
-                      "hasTitleNumberOutlined": false,
-                      "vaultName": "knowledge",
-                      "navExclude": false,
-                      "children": []
-                    },
-                    {
-                      "key": "ltahj6egbdd3bc7tdrnym0p",
-                      "title": "TCP",
-                      "icon": null,
-                      "hasTitleNumberOutlined": false,
-                      "vaultName": "knowledge",
-                      "navExclude": false,
-                      "children": []
-                    },
-                    {
-                      "key": "d8t3jc0pnaunziddujlfb2d",
-                      "title": "UDP",
-                      "icon": null,
-                      "hasTitleNumberOutlined": false,
-                      "vaultName": "knowledge",
-                      "navExclude": false,
-                      "children": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "children": []
         },
         {
-          "key": "p59utz7mf12ic3lqw8y8tbs",
-          "title": "开源",
+          "key": "wldafqi6ut0azf2kfwml6xz",
+          "title": "Graph Databases",
           "icon": null,
           "hasTitleNumberOutlined": false,
           "vaultName": "knowledge",
-          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "mwtn7djpfomvmia0fpc7h5a",
+          "title": "Indexes",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "t7855kfuaop93pqsjf3x0rg",
+          "title": "NoSQL",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
           "children": [
             {
-              "key": "jni6v9l7eg361jsmwiimvzv",
-              "title": "开源协议",
+              "key": "spnk7q99fqp771b4ku33y80",
+              "title": "MongoDB",
               "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "knowledge",
-              "navExclude": false,
               "children": []
             }
           ]
         },
         {
-          "key": "roizuhueed0r7bqvid0nz7l",
-          "title": "数据库",
+          "key": "7s217cy7iompjnsryjqwh6c",
+          "title": "ORMs",
           "icon": null,
           "hasTitleNumberOutlined": false,
           "vaultName": "knowledge",
-          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "dn79delz4v5n6rpf48x9166",
+          "title": "Relational Database",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
           "children": [
             {
-              "key": "43c10amadccvfinwdkpct2g",
-              "title": "ACID",
+              "key": "8ogr5cpwvdapyccvek09rx5",
+              "title": "MySQL",
               "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "knowledge",
-              "navExclude": false,
               "children": []
             },
             {
-              "key": "y8ulhtvjnibnph2szwz5cv2",
-              "title": "CAP",
+              "key": "07aamp2o6avoi9owmxhmn06",
+              "title": "SQLLite",
               "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "wldafqi6ut0azf2kfwml6xz",
-              "title": "Graph Databases",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "mwtn7djpfomvmia0fpc7h5a",
-              "title": "Indexes",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "t7855kfuaop93pqsjf3x0rg",
-              "title": "NoSQL",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": [
-                {
-                  "key": "spnk7q99fqp771b4ku33y80",
-                  "title": "MongoDB",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                }
-              ]
-            },
-            {
-              "key": "7s217cy7iompjnsryjqwh6c",
-              "title": "ORMs",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "dn79delz4v5n6rpf48x9166",
-              "title": "Relational Database",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": [
-                {
-                  "key": "8ogr5cpwvdapyccvek09rx5",
-                  "title": "MySQL",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "07aamp2o6avoi9owmxhmn06",
-                  "title": "SQLLite",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                }
-              ]
-            },
-            {
-              "key": "mnfy0gc6pw9onpkzq5wvniu",
-              "title": "Time Series Databases",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
               "children": []
             }
           ]
         },
         {
-          "key": "6xsd9waf7ho7as5kzccut5h",
-          "title": "架构",
+          "key": "mnfy0gc6pw9onpkzq5wvniu",
+          "title": "Time Series Databases",
           "icon": null,
           "hasTitleNumberOutlined": false,
           "vaultName": "knowledge",
-          "navExclude": false,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "p59utz7mf12ic3lqw8y8tbs",
+      "title": "开源",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "knowledge",
+      "children": [
+        {
+          "key": "jni6v9l7eg361jsmwiimvzv",
+          "title": "开源协议",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "oasz9131g7t831nyxuti1qf",
+      "title": "编程语言",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "knowledge",
+      "children": [
+        {
+          "key": "sqm9rnf6pqj48jq2dcmu0ru",
+          "title": "面向对象编程",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "w1i2dw4t9w6wg81gl79dpks",
+          "title": "结构化编程",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "timf6fz47pcux97itx9t9pz",
+          "title": "C",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "xxicc2psl6e5w1svw3bkh3u",
+          "title": "C#",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "969nhjubxljoqfh93w6cd8p",
+          "title": "C++",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "5ao7xb0vcwvs84380v8sbwh",
+          "title": "编程语言分类",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "q97jtd6kjanb5r4r31q1eva",
+          "title": "函数式编程",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "z1smovtlizxtgmha05vb7z1",
+          "title": "Golang",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "72lkyo4ytbsj2w2w7rkdor7",
+          "title": "Java",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "l0uijxo05lrlktn8uszxu3a",
+          "title": "JavaScript",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "qfmuh4r8hspzcvalako02we",
+          "title": "元编程",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "i7qra5ip0gwchs30f5at7rx",
+          "title": "Python",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
           "children": [
             {
-              "key": "jmyu2j127398lu5ze16czs7",
-              "title": "Cloud Native",
+              "key": "ndz4w8l4fs8gahzx7eanasg",
+              "title": "Ansible",
               "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "knowledge",
-              "navExclude": false,
-              "children": [
-                {
-                  "key": "a601pg6wo1lhqjafh63mls4",
-                  "title": "FaaS",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "bpsbto9ra3e9vq6f0lvs7wl",
-                  "title": "IaaS",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "9o3hmdtpkxdveqtttdxfhcg",
-                  "title": "PaaS",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                }
-              ]
+              "children": []
             },
             {
-              "key": "m7gnr1kzd6q1pza1r7km5k7",
-              "title": "Domain Driven Design",
+              "key": "hz65rlnypyne9wbids56z0z",
+              "title": "Django",
               "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "knowledge",
-              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "neh8ueqeh37oflgao2wk97c",
+              "title": "FastAPI",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "3gh56qxayzvht9saqgm7lve",
+              "title": "Flask",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "wz0gdaczrayeppp05rjbkbj",
+              "title": "PyQT5",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "b8e32zij9egyzswosocp3t8",
+              "title": "Pytorch",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "n7fz544n5iy18az4emy7oi0",
+              "title": "Tensorflow",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "1m3crqwnc01esh8ylao7cdj",
+              "title": "Zen of Python",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "oyrvr62f5kc782wgpoz5hgj",
+              "title": "Asyncio",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "vu4366q6sckejfdqgrqr3a5",
+              "title": "内置函数",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "gi59c2928gvbae6n3uniugg",
+              "title": "内置类型",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "cvbmy2r329wrtde0hs4b9r5",
+              "title": "Click",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "ukppn0c8e7ihvzi1s3ttqge",
+              "title": "上下文管理器",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "cer3q1dhci0eeh718l9svdi",
+              "title": "装饰器",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "uaqz2heac1kdcsqy127dqom",
+              "title": "生成器",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "dftloyxhwpi83dg622hxnw6",
+              "title": "Gevent",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "my8qzdf77zphq770aho85l7",
+              "title": "迭代器",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "cnu5owy75z10xsbawpj1hzw",
+              "title": "列表（字典， 集合）推导式",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "jin5kl3ogos778jevlg9gap",
+              "title": "标准库模块",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "hqpjbr4d16c7kr7aqxheoef",
+              "title": "Multithreading",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "0eb2n3ivbbyvd9l46ppovt7",
+              "title": "Mypy",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "g0c7wzttp1ja0x38ij826vl",
+              "title": "Numpy",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "f4hmvs8e1werbjphwfa7xls",
+              "title": "Pandas",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "vh4dp3cdgsq3rw64h6h1ird",
+              "title": "Pip",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "qtr8ummkyc6u05hou1kqspq",
+              "title": "Pipenv",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "zu4v6kmcz1am3bw54vkd6kk",
+              "title": "Playwright",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "8e3frajnix71f9lnu8ymch6",
+              "title": "Poetry",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "byj3ips5ts09csa2dtq7j3q",
+              "title": "Pydantic",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "mkt75t95m13kx0tdqaylp4n",
+              "title": "Requests",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "g3mb1k61rcsw8sjecivq9fk",
+              "title": "Scrapy",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "agx5nqdeeujae4czk9e9c67",
+              "title": "结构化模式匹配",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "np7uvlwz31o93nfu7er1dfu",
+              "title": "Type Hints",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "7aidp4clskcaj4w16ipr2gh",
+              "title": "Typer",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "se4tmj9t31kkax83l4wmprt",
+              "title": "Venv",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
               "children": []
             }
           ]
         },
         {
-          "key": "oasz9131g7t831nyxuti1qf",
-          "title": "编程语言",
+          "key": "n2k5mir21lfaxzegmq4vs47",
+          "title": "Rust",
           "icon": null,
           "hasTitleNumberOutlined": false,
           "vaultName": "knowledge",
-          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "1s674rtewls01u0m0zuze3n",
+          "title": "TypeScript",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "0cx4cn21i807ydan59xneso",
+      "title": "资源",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "knowledge",
+      "children": [
+        {
+          "key": "b553jla24o3crg47tric4yu",
+          "title": "Books",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "i3clsxzmhcj2jdbrg3opnkz",
+          "title": "Learn",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "ahciw5hvh28k50dw13ql1b4",
+          "title": "Links",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "yc6ke5ogun29lq9qevt5134",
+          "title": "Sites",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "a44h4sj21jfb19ymoovvuzr",
+      "title": "信息安全",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "knowledge",
+      "children": [
+        {
+          "key": "nmz6sghas6qb5lqnvxac95r",
+          "title": "审计和问责",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "90kk6w4dlyax9ywochuy6om",
+          "title": "授权与访问控制",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "wibhrb0yg5q8gbhoslnllxp",
+          "title": "密码学",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "jq0ulj3quh8dkrhncjgtpfa",
+          "title": "人因安全",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "5li2av5xhjpvuv0t0by2yyl",
+          "title": "OWASP",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "a5qhaapggpqvb3mbef9qxws",
+          "title": "安全评估",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "ihbgwin103gg7u3ha9jl7ug",
+          "title": "应用程序安全",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "o5k6hs4bz3d00393hr3mny0",
+          "title": "合规、法律和法规",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "suw6c5y5dd8ycq6bpqxzgi8",
+          "title": "身份识别与身份验证",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "0pk7sya0jxuwokrkx1222ro",
+          "title": "移动、嵌入式和物联网安全",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "tz4qivejklsy3j3f6g9fzi4",
+          "title": "网络安全",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "cmktwzyj4333tdgoy3xbv2u",
+          "title": "操作系统安全",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "i5z2gw9ou7tmimbwdsltnnz",
+      "title": "软件开发",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "knowledge",
+      "children": [
+        {
+          "key": "rmm2u11fx963i330c4adzsb",
+          "title": "API",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
           "children": [
             {
-              "key": "timf6fz47pcux97itx9t9pz",
-              "title": "C",
+              "key": "uyjg9t3i185v6fooeyjsj0m",
+              "title": "Authentication",
               "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "knowledge",
-              "navExclude": false,
               "children": []
             },
             {
-              "key": "xxicc2psl6e5w1svw3bkh3u",
-              "title": "C#",
+              "key": "orylzgbypdj9g3c2kxpw03i",
+              "title": "GraphQL",
               "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "knowledge",
-              "navExclude": false,
               "children": []
             },
             {
-              "key": "969nhjubxljoqfh93w6cd8p",
-              "title": "C++",
+              "key": "arfbr1udhmojggta8lrpeqs",
+              "title": "Open API Spec",
               "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "knowledge",
-              "navExclude": false,
               "children": []
             },
             {
-              "key": "z1smovtlizxtgmha05vb7z1",
-              "title": "Golang",
+              "key": "tv4vqfov2ijkqg2rvriiqun",
+              "title": "REST",
               "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "knowledge",
-              "navExclude": false,
               "children": []
             },
             {
-              "key": "72lkyo4ytbsj2w2w7rkdor7",
-              "title": "Java",
+              "key": "r44zlpkuq0s59ykohntdjhb",
+              "title": "gRPC",
               "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "l0uijxo05lrlktn8uszxu3a",
-              "title": "JavaScript",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "i7qra5ip0gwchs30f5at7rx",
-              "title": "Python",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": [
-                {
-                  "key": "ndz4w8l4fs8gahzx7eanasg",
-                  "title": "Ansible",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "oyrvr62f5kc782wgpoz5hgj",
-                  "title": "Asyncio",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "cvbmy2r329wrtde0hs4b9r5",
-                  "title": "Click",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "hz65rlnypyne9wbids56z0z",
-                  "title": "Django",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "neh8ueqeh37oflgao2wk97c",
-                  "title": "FastAPI",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "3gh56qxayzvht9saqgm7lve",
-                  "title": "Flask",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "dftloyxhwpi83dg622hxnw6",
-                  "title": "Gevent",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "hqpjbr4d16c7kr7aqxheoef",
-                  "title": "Multithreading",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "0eb2n3ivbbyvd9l46ppovt7",
-                  "title": "Mypy",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "g0c7wzttp1ja0x38ij826vl",
-                  "title": "Numpy",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "f4hmvs8e1werbjphwfa7xls",
-                  "title": "Pandas",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "vh4dp3cdgsq3rw64h6h1ird",
-                  "title": "Pip",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "qtr8ummkyc6u05hou1kqspq",
-                  "title": "Pipenv",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "zu4v6kmcz1am3bw54vkd6kk",
-                  "title": "Playwright",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "8e3frajnix71f9lnu8ymch6",
-                  "title": "Poetry",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "wz0gdaczrayeppp05rjbkbj",
-                  "title": "PyQT5",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "byj3ips5ts09csa2dtq7j3q",
-                  "title": "Pydantic",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "b8e32zij9egyzswosocp3t8",
-                  "title": "Pytorch",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "mkt75t95m13kx0tdqaylp4n",
-                  "title": "Requests",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "g3mb1k61rcsw8sjecivq9fk",
-                  "title": "Scrapy",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "n7fz544n5iy18az4emy7oi0",
-                  "title": "Tensorflow",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "np7uvlwz31o93nfu7er1dfu",
-                  "title": "Type Hints",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "7aidp4clskcaj4w16ipr2gh",
-                  "title": "Typer",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "se4tmj9t31kkax83l4wmprt",
-                  "title": "Venv",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "1m3crqwnc01esh8ylao7cdj",
-                  "title": "Zen of Python",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "ukppn0c8e7ihvzi1s3ttqge",
-                  "title": "上下文管理器",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "vu4366q6sckejfdqgrqr3a5",
-                  "title": "内置函数",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "gi59c2928gvbae6n3uniugg",
-                  "title": "内置类型",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "cnu5owy75z10xsbawpj1hzw",
-                  "title": "列表（字典， 集合）推导式",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "jin5kl3ogos778jevlg9gap",
-                  "title": "标准库模块",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "uaqz2heac1kdcsqy127dqom",
-                  "title": "生成器",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "agx5nqdeeujae4czk9e9c67",
-                  "title": "结构化模式匹配",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "cer3q1dhci0eeh718l9svdi",
-                  "title": "装饰器",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "my8qzdf77zphq770aho85l7",
-                  "title": "迭代器",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                }
-              ]
-            },
-            {
-              "key": "n2k5mir21lfaxzegmq4vs47",
-              "title": "Rust",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "1s674rtewls01u0m0zuze3n",
-              "title": "TypeScript",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "qfmuh4r8hspzcvalako02we",
-              "title": "元编程",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "q97jtd6kjanb5r4r31q1eva",
-              "title": "函数式编程",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "w1i2dw4t9w6wg81gl79dpks",
-              "title": "结构化编程",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "5ao7xb0vcwvs84380v8sbwh",
-              "title": "编程语言分类",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "sqm9rnf6pqj48jq2dcmu0ru",
-              "title": "面向对象编程",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
               "children": []
             }
           ]
         },
         {
-          "key": "0cx4cn21i807ydan59xneso",
-          "title": "资源",
+          "key": "czseabqijp0teh66cxifpxr",
+          "title": "持续部署",
           "icon": null,
           "hasTitleNumberOutlined": false,
           "vaultName": "knowledge",
-          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "oxntr7pomidy0b02jx0ch0k",
+          "title": "持续集成",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "i4aolyivyc5ooa7ldq2k3vu",
+          "title": "Testing",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
           "children": [
             {
-              "key": "b553jla24o3crg47tric4yu",
-              "title": "Books",
+              "key": "arbd8296q9vfp2tql29v3rf",
+              "title": "Unit Testing",
               "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "i3clsxzmhcj2jdbrg3opnkz",
-              "title": "Learn",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "ahciw5hvh28k50dw13ql1b4",
-              "title": "Links",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "yc6ke5ogun29lq9qevt5134",
-              "title": "Sites",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
               "children": []
             }
           ]
         },
         {
-          "key": "i5z2gw9ou7tmimbwdsltnnz",
-          "title": "软件开发",
+          "key": "olreo7137fdt59hwv5pnwe9",
+          "title": "VCS",
           "icon": null,
           "hasTitleNumberOutlined": false,
           "vaultName": "knowledge",
-          "navExclude": false,
           "children": [
             {
-              "key": "rmm2u11fx963i330c4adzsb",
-              "title": "API",
+              "key": "xxrwfft52a57a8c4tfrxnu3",
+              "title": "git",
               "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "knowledge",
-              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "qu30gr2fu9l2qy6dpy6wjs6",
+          "title": "Command Line Tools",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": [
+            {
+              "key": "e2xrw64bzmsaa2qxn1weydq",
+              "title": "Core Utils",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "d3p796eyci23b23gl69ao09",
+              "title": "Mordern Unix Tools",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "yphebsao2phhaxngn7to71f",
+          "title": "Config",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": [
+            {
+              "key": "ejwp7pv7cmw5m8efhkq5ah3",
+              "title": "Toml",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "fl710h5oacxibkom399srh1",
+          "title": "软件设计",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": [
+            {
+              "key": "mqujgpqpm0qo99kdvrlv2kx",
+              "title": "DRY",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "shs2x76gfjtvi20xxziz4k2",
+              "title": "设计模式",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
               "children": [
                 {
-                  "key": "uyjg9t3i185v6fooeyjsj0m",
-                  "title": "Authentication",
+                  "key": "b0yhqaf6sz4d7ef6llmskjj",
+                  "title": "行为型模式",
                   "icon": null,
                   "hasTitleNumberOutlined": false,
                   "vaultName": "knowledge",
-                  "navExclude": false,
                   "children": []
                 },
                 {
-                  "key": "orylzgbypdj9g3c2kxpw03i",
-                  "title": "GraphQL",
+                  "key": "21aud0t5f5hq4ahia694mc2",
+                  "title": "创建型模式",
                   "icon": null,
                   "hasTitleNumberOutlined": false,
                   "vaultName": "knowledge",
-                  "navExclude": false,
                   "children": []
                 },
                 {
-                  "key": "arfbr1udhmojggta8lrpeqs",
-                  "title": "Open API Spec",
+                  "key": "mi2yzsm134w3za8f9p0x1dx",
+                  "title": "结构型模式",
                   "icon": null,
                   "hasTitleNumberOutlined": false,
                   "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "tv4vqfov2ijkqg2rvriiqun",
-                  "title": "REST",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "r44zlpkuq0s59ykohntdjhb",
-                  "title": "gRPC",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
                   "children": []
                 }
               ]
             },
             {
-              "key": "qu30gr2fu9l2qy6dpy6wjs6",
-              "title": "Command Line Tools",
+              "key": "fduzrhulz557t4yjske07k9",
+              "title": "KISS",
               "icon": null,
               "hasTitleNumberOutlined": false,
               "vaultName": "knowledge",
-              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "v03c4xgyco81innvtbwsn60",
+              "title": "SOLID",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "tg8qotpb8mcbg975s6juars",
+              "title": "TDD",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            },
+            {
+              "key": "orjdxc68o38g2h5yennctf4",
+              "title": "YAGNI",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "mbqttms3dcvg0rrucdg1cfc",
+          "title": "Desktop Application",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "8pwefou38xgvyum1pfgl3r8",
+          "title": "Dev Ops",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "m86229vfqs59h7tbphp9j45",
+          "title": "前端",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "415pfd1z8i5k9amwp7gkzlp",
+          "title": "Mobile Application",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "l0n8p6a22ndk4hwpm176fnn",
+          "title": "重构",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": []
+        },
+        {
+          "key": "0cu9dg1bjx46x5iqhnr2ulv",
+          "title": "Tools",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "knowledge",
+          "children": [
+            {
+              "key": "j6uvrzfjjscajfmzbvgt71t",
+              "title": "Editor",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "knowledge",
               "children": [
                 {
-                  "key": "e2xrw64bzmsaa2qxn1weydq",
-                  "title": "Core Utils",
+                  "key": "5eo8fia4y528tgmocaspt14",
+                  "title": "Visual Studio Code",
                   "icon": null,
                   "hasTitleNumberOutlined": false,
                   "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "d3p796eyci23b23gl69ao09",
-                  "title": "Mordern Unix Tools",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
                   "children": []
                 }
               ]
-            },
-            {
-              "key": "zqa5tw5gkktqx25f2l3c4l3",
-              "title": "Config",
-              "icon": "plusOutlined",
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": [
-                {
-                  "key": "ejwp7pv7cmw5m8efhkq5ah3",
-                  "title": "Toml",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                }
-              ]
-            },
-            {
-              "key": "mbqttms3dcvg0rrucdg1cfc",
-              "title": "Desktop Application",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "8pwefou38xgvyum1pfgl3r8",
-              "title": "Dev Ops",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "415pfd1z8i5k9amwp7gkzlp",
-              "title": "Mobile Application",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "i4aolyivyc5ooa7ldq2k3vu",
-              "title": "Testing",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": [
-                {
-                  "key": "arbd8296q9vfp2tql29v3rf",
-                  "title": "Unit Testing",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                }
-              ]
-            },
-            {
-              "key": "0cu9dg1bjx46x5iqhnr2ulv",
-              "title": "Tools",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": [
-                {
-                  "key": "j6uvrzfjjscajfmzbvgt71t",
-                  "title": "Editor",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": [
-                    {
-                      "key": "5eo8fia4y528tgmocaspt14",
-                      "title": "Visual Studio Code",
-                      "icon": null,
-                      "hasTitleNumberOutlined": false,
-                      "vaultName": "knowledge",
-                      "navExclude": false,
-                      "children": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "key": "olreo7137fdt59hwv5pnwe9",
-              "title": "VCS",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": [
-                {
-                  "key": "xxrwfft52a57a8c4tfrxnu3",
-                  "title": "git",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                }
-              ]
-            },
-            {
-              "key": "m86229vfqs59h7tbphp9j45",
-              "title": "前端",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "czseabqijp0teh66cxifpxr",
-              "title": "持续部署",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "oxntr7pomidy0b02jx0ch0k",
-              "title": "持续集成",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
-            },
-            {
-              "key": "fl710h5oacxibkom399srh1",
-              "title": "软件设计",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": [
-                {
-                  "key": "mqujgpqpm0qo99kdvrlv2kx",
-                  "title": "DRY",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "fduzrhulz557t4yjske07k9",
-                  "title": "KISS",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "v03c4xgyco81innvtbwsn60",
-                  "title": "SOLID",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "tg8qotpb8mcbg975s6juars",
-                  "title": "TDD",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "orjdxc68o38g2h5yennctf4",
-                  "title": "YAGNI",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": []
-                },
-                {
-                  "key": "shs2x76gfjtvi20xxziz4k2",
-                  "title": "设计模式",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "navExclude": false,
-                  "children": [
-                    {
-                      "key": "21aud0t5f5hq4ahia694mc2",
-                      "title": "创建型模式",
-                      "icon": null,
-                      "hasTitleNumberOutlined": false,
-                      "vaultName": "knowledge",
-                      "navExclude": false,
-                      "children": []
-                    },
-                    {
-                      "key": "mi2yzsm134w3za8f9p0x1dx",
-                      "title": "结构型模式",
-                      "icon": null,
-                      "hasTitleNumberOutlined": false,
-                      "vaultName": "knowledge",
-                      "navExclude": false,
-                      "children": []
-                    },
-                    {
-                      "key": "b0yhqaf6sz4d7ef6llmskjj",
-                      "title": "行为型模式",
-                      "icon": null,
-                      "hasTitleNumberOutlined": false,
-                      "vaultName": "knowledge",
-                      "navExclude": false,
-                      "children": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "key": "l0n8p6a22ndk4hwpm176fnn",
-              "title": "重构",
-              "icon": null,
-              "hasTitleNumberOutlined": false,
-              "vaultName": "knowledge",
-              "navExclude": false,
-              "children": []
             }
           ]
         }
@@ -1408,159 +1246,311 @@
     }
   ],
   "child2parent": {
-    "403": null,
-    "20dxao0uf8892hiam7spier": null,
-    "i5z2gw9ou7tmimbwdsltnnz": "20dxao0uf8892hiam7spier",
-    "zqa5tw5gkktqx25f2l3c4l3": "i5z2gw9ou7tmimbwdsltnnz",
-    "ejwp7pv7cmw5m8efhkq5ah3": "zqa5tw5gkktqx25f2l3c4l3",
-    "0cu9dg1bjx46x5iqhnr2ulv": "i5z2gw9ou7tmimbwdsltnnz",
-    "j6uvrzfjjscajfmzbvgt71t": "0cu9dg1bjx46x5iqhnr2ulv",
-    "5eo8fia4y528tgmocaspt14": "j6uvrzfjjscajfmzbvgt71t",
-    "l0n8p6a22ndk4hwpm176fnn": "i5z2gw9ou7tmimbwdsltnnz",
-    "415pfd1z8i5k9amwp7gkzlp": "i5z2gw9ou7tmimbwdsltnnz",
-    "m86229vfqs59h7tbphp9j45": "i5z2gw9ou7tmimbwdsltnnz",
-    "8pwefou38xgvyum1pfgl3r8": "i5z2gw9ou7tmimbwdsltnnz",
-    "mbqttms3dcvg0rrucdg1cfc": "i5z2gw9ou7tmimbwdsltnnz",
-    "fl710h5oacxibkom399srh1": "i5z2gw9ou7tmimbwdsltnnz",
-    "orjdxc68o38g2h5yennctf4": "fl710h5oacxibkom399srh1",
-    "tg8qotpb8mcbg975s6juars": "fl710h5oacxibkom399srh1",
-    "v03c4xgyco81innvtbwsn60": "fl710h5oacxibkom399srh1",
-    "fduzrhulz557t4yjske07k9": "fl710h5oacxibkom399srh1",
-    "shs2x76gfjtvi20xxziz4k2": "fl710h5oacxibkom399srh1",
-    "mi2yzsm134w3za8f9p0x1dx": "shs2x76gfjtvi20xxziz4k2",
-    "21aud0t5f5hq4ahia694mc2": "shs2x76gfjtvi20xxziz4k2",
-    "b0yhqaf6sz4d7ef6llmskjj": "shs2x76gfjtvi20xxziz4k2",
-    "mqujgpqpm0qo99kdvrlv2kx": "fl710h5oacxibkom399srh1",
-    "qu30gr2fu9l2qy6dpy6wjs6": "i5z2gw9ou7tmimbwdsltnnz",
-    "d3p796eyci23b23gl69ao09": "qu30gr2fu9l2qy6dpy6wjs6",
-    "e2xrw64bzmsaa2qxn1weydq": "qu30gr2fu9l2qy6dpy6wjs6",
-    "olreo7137fdt59hwv5pnwe9": "i5z2gw9ou7tmimbwdsltnnz",
-    "xxrwfft52a57a8c4tfrxnu3": "olreo7137fdt59hwv5pnwe9",
-    "i4aolyivyc5ooa7ldq2k3vu": "i5z2gw9ou7tmimbwdsltnnz",
-    "arbd8296q9vfp2tql29v3rf": "i4aolyivyc5ooa7ldq2k3vu",
-    "oxntr7pomidy0b02jx0ch0k": "i5z2gw9ou7tmimbwdsltnnz",
-    "czseabqijp0teh66cxifpxr": "i5z2gw9ou7tmimbwdsltnnz",
-    "rmm2u11fx963i330c4adzsb": "i5z2gw9ou7tmimbwdsltnnz",
-    "r44zlpkuq0s59ykohntdjhb": "rmm2u11fx963i330c4adzsb",
-    "tv4vqfov2ijkqg2rvriiqun": "rmm2u11fx963i330c4adzsb",
-    "arfbr1udhmojggta8lrpeqs": "rmm2u11fx963i330c4adzsb",
-    "orylzgbypdj9g3c2kxpw03i": "rmm2u11fx963i330c4adzsb",
-    "uyjg9t3i185v6fooeyjsj0m": "rmm2u11fx963i330c4adzsb",
-    "a44h4sj21jfb19ymoovvuzr": "20dxao0uf8892hiam7spier",
-    "cmktwzyj4333tdgoy3xbv2u": "a44h4sj21jfb19ymoovvuzr",
-    "tz4qivejklsy3j3f6g9fzi4": "a44h4sj21jfb19ymoovvuzr",
-    "0pk7sya0jxuwokrkx1222ro": "a44h4sj21jfb19ymoovvuzr",
-    "suw6c5y5dd8ycq6bpqxzgi8": "a44h4sj21jfb19ymoovvuzr",
-    "o5k6hs4bz3d00393hr3mny0": "a44h4sj21jfb19ymoovvuzr",
-    "ihbgwin103gg7u3ha9jl7ug": "a44h4sj21jfb19ymoovvuzr",
-    "a5qhaapggpqvb3mbef9qxws": "a44h4sj21jfb19ymoovvuzr",
-    "5li2av5xhjpvuv0t0by2yyl": "a44h4sj21jfb19ymoovvuzr",
-    "jq0ulj3quh8dkrhncjgtpfa": "a44h4sj21jfb19ymoovvuzr",
-    "wibhrb0yg5q8gbhoslnllxp": "a44h4sj21jfb19ymoovvuzr",
-    "90kk6w4dlyax9ywochuy6om": "a44h4sj21jfb19ymoovvuzr",
-    "nmz6sghas6qb5lqnvxac95r": "a44h4sj21jfb19ymoovvuzr",
-    "0cx4cn21i807ydan59xneso": "20dxao0uf8892hiam7spier",
-    "yc6ke5ogun29lq9qevt5134": "0cx4cn21i807ydan59xneso",
-    "ahciw5hvh28k50dw13ql1b4": "0cx4cn21i807ydan59xneso",
-    "i3clsxzmhcj2jdbrg3opnkz": "0cx4cn21i807ydan59xneso",
-    "b553jla24o3crg47tric4yu": "0cx4cn21i807ydan59xneso",
-    "oasz9131g7t831nyxuti1qf": "20dxao0uf8892hiam7spier",
-    "1s674rtewls01u0m0zuze3n": "oasz9131g7t831nyxuti1qf",
-    "n2k5mir21lfaxzegmq4vs47": "oasz9131g7t831nyxuti1qf",
-    "i7qra5ip0gwchs30f5at7rx": "oasz9131g7t831nyxuti1qf",
-    "se4tmj9t31kkax83l4wmprt": "i7qra5ip0gwchs30f5at7rx",
-    "7aidp4clskcaj4w16ipr2gh": "i7qra5ip0gwchs30f5at7rx",
-    "np7uvlwz31o93nfu7er1dfu": "i7qra5ip0gwchs30f5at7rx",
-    "agx5nqdeeujae4czk9e9c67": "i7qra5ip0gwchs30f5at7rx",
-    "g3mb1k61rcsw8sjecivq9fk": "i7qra5ip0gwchs30f5at7rx",
-    "mkt75t95m13kx0tdqaylp4n": "i7qra5ip0gwchs30f5at7rx",
-    "byj3ips5ts09csa2dtq7j3q": "i7qra5ip0gwchs30f5at7rx",
-    "8e3frajnix71f9lnu8ymch6": "i7qra5ip0gwchs30f5at7rx",
-    "zu4v6kmcz1am3bw54vkd6kk": "i7qra5ip0gwchs30f5at7rx",
-    "qtr8ummkyc6u05hou1kqspq": "i7qra5ip0gwchs30f5at7rx",
-    "vh4dp3cdgsq3rw64h6h1ird": "i7qra5ip0gwchs30f5at7rx",
-    "f4hmvs8e1werbjphwfa7xls": "i7qra5ip0gwchs30f5at7rx",
-    "g0c7wzttp1ja0x38ij826vl": "i7qra5ip0gwchs30f5at7rx",
-    "0eb2n3ivbbyvd9l46ppovt7": "i7qra5ip0gwchs30f5at7rx",
-    "hqpjbr4d16c7kr7aqxheoef": "i7qra5ip0gwchs30f5at7rx",
-    "jin5kl3ogos778jevlg9gap": "i7qra5ip0gwchs30f5at7rx",
-    "cnu5owy75z10xsbawpj1hzw": "i7qra5ip0gwchs30f5at7rx",
-    "my8qzdf77zphq770aho85l7": "i7qra5ip0gwchs30f5at7rx",
-    "dftloyxhwpi83dg622hxnw6": "i7qra5ip0gwchs30f5at7rx",
-    "uaqz2heac1kdcsqy127dqom": "i7qra5ip0gwchs30f5at7rx",
-    "cer3q1dhci0eeh718l9svdi": "i7qra5ip0gwchs30f5at7rx",
-    "ukppn0c8e7ihvzi1s3ttqge": "i7qra5ip0gwchs30f5at7rx",
-    "cvbmy2r329wrtde0hs4b9r5": "i7qra5ip0gwchs30f5at7rx",
-    "gi59c2928gvbae6n3uniugg": "i7qra5ip0gwchs30f5at7rx",
-    "vu4366q6sckejfdqgrqr3a5": "i7qra5ip0gwchs30f5at7rx",
-    "oyrvr62f5kc782wgpoz5hgj": "i7qra5ip0gwchs30f5at7rx",
-    "1m3crqwnc01esh8ylao7cdj": "i7qra5ip0gwchs30f5at7rx",
-    "n7fz544n5iy18az4emy7oi0": "i7qra5ip0gwchs30f5at7rx",
-    "b8e32zij9egyzswosocp3t8": "i7qra5ip0gwchs30f5at7rx",
-    "wz0gdaczrayeppp05rjbkbj": "i7qra5ip0gwchs30f5at7rx",
-    "3gh56qxayzvht9saqgm7lve": "i7qra5ip0gwchs30f5at7rx",
-    "neh8ueqeh37oflgao2wk97c": "i7qra5ip0gwchs30f5at7rx",
-    "hz65rlnypyne9wbids56z0z": "i7qra5ip0gwchs30f5at7rx",
-    "ndz4w8l4fs8gahzx7eanasg": "i7qra5ip0gwchs30f5at7rx",
-    "qfmuh4r8hspzcvalako02we": "oasz9131g7t831nyxuti1qf",
-    "l0uijxo05lrlktn8uszxu3a": "oasz9131g7t831nyxuti1qf",
-    "72lkyo4ytbsj2w2w7rkdor7": "oasz9131g7t831nyxuti1qf",
-    "z1smovtlizxtgmha05vb7z1": "oasz9131g7t831nyxuti1qf",
-    "q97jtd6kjanb5r4r31q1eva": "oasz9131g7t831nyxuti1qf",
-    "5ao7xb0vcwvs84380v8sbwh": "oasz9131g7t831nyxuti1qf",
-    "timf6fz47pcux97itx9t9pz": "oasz9131g7t831nyxuti1qf",
-    "969nhjubxljoqfh93w6cd8p": "oasz9131g7t831nyxuti1qf",
-    "xxicc2psl6e5w1svw3bkh3u": "oasz9131g7t831nyxuti1qf",
-    "w1i2dw4t9w6wg81gl79dpks": "oasz9131g7t831nyxuti1qf",
-    "sqm9rnf6pqj48jq2dcmu0ru": "oasz9131g7t831nyxuti1qf",
-    "p59utz7mf12ic3lqw8y8tbs": "20dxao0uf8892hiam7spier",
-    "jni6v9l7eg361jsmwiimvzv": "p59utz7mf12ic3lqw8y8tbs",
-    "roizuhueed0r7bqvid0nz7l": "20dxao0uf8892hiam7spier",
-    "mnfy0gc6pw9onpkzq5wvniu": "roizuhueed0r7bqvid0nz7l",
-    "dn79delz4v5n6rpf48x9166": "roizuhueed0r7bqvid0nz7l",
-    "07aamp2o6avoi9owmxhmn06": "dn79delz4v5n6rpf48x9166",
-    "8ogr5cpwvdapyccvek09rx5": "dn79delz4v5n6rpf48x9166",
-    "7s217cy7iompjnsryjqwh6c": "roizuhueed0r7bqvid0nz7l",
-    "t7855kfuaop93pqsjf3x0rg": "roizuhueed0r7bqvid0nz7l",
-    "spnk7q99fqp771b4ku33y80": "t7855kfuaop93pqsjf3x0rg",
-    "mwtn7djpfomvmia0fpc7h5a": "roizuhueed0r7bqvid0nz7l",
-    "wldafqi6ut0azf2kfwml6xz": "roizuhueed0r7bqvid0nz7l",
-    "y8ulhtvjnibnph2szwz5cv2": "roizuhueed0r7bqvid0nz7l",
-    "43c10amadccvfinwdkpct2g": "roizuhueed0r7bqvid0nz7l",
-    "e8hgfaxvmfjj1h1wq7pe5he": "20dxao0uf8892hiam7spier",
+    "euj0yyfymzmig3lszs3vgow": null,
+    "6xsd9waf7ho7as5kzccut5h": null,
+    "jmyu2j127398lu5ze16czs7": "6xsd9waf7ho7as5kzccut5h",
+    "a601pg6wo1lhqjafh63mls4": "jmyu2j127398lu5ze16czs7",
+    "bpsbto9ra3e9vq6f0lvs7wl": "jmyu2j127398lu5ze16czs7",
+    "9o3hmdtpkxdveqtttdxfhcg": "jmyu2j127398lu5ze16czs7",
+    "m7gnr1kzd6q1pza1r7km5k7": "6xsd9waf7ho7as5kzccut5h",
+    "e8hgfaxvmfjj1h1wq7pe5he": null,
+    "juqa13xh9vpcjjcwuaxpijf": "e8hgfaxvmfjj1h1wq7pe5he",
+    "j1p2133sxm8xqu7etqqv5u1": "juqa13xh9vpcjjcwuaxpijf",
+    "zcrks6hqodblp70de8kvm4b": "juqa13xh9vpcjjcwuaxpijf",
+    "pqf7qvwgukb60h5r0vcmnzh": "juqa13xh9vpcjjcwuaxpijf",
+    "bgetpnvnoqvfa3aahgz2kwh": "pqf7qvwgukb60h5r0vcmnzh",
+    "07vmn9ross3dwkjymi6vmcc": "pqf7qvwgukb60h5r0vcmnzh",
+    "na2uf1zamwck4tfi1rcrmpv": "pqf7qvwgukb60h5r0vcmnzh",
+    "ltahj6egbdd3bc7tdrnym0p": "pqf7qvwgukb60h5r0vcmnzh",
+    "d8t3jc0pnaunziddujlfb2d": "pqf7qvwgukb60h5r0vcmnzh",
+    "6l2hd19rhsbeqnqzifx5y8n": "e8hgfaxvmfjj1h1wq7pe5he",
+    "e1jw5gg457mnhekpu6bw0ea": "6l2hd19rhsbeqnqzifx5y8n",
+    "y5kiwrofq5xhekxxqxajxas": "6l2hd19rhsbeqnqzifx5y8n",
+    "o8vtdk26adi8wrh9i21g4cn": "y5kiwrofq5xhekxxqxajxas",
+    "r5o6mkov9u86wetjlrz98fy": "y5kiwrofq5xhekxxqxajxas",
+    "jgi61wg7dcnh322phvhaeja": "y5kiwrofq5xhekxxqxajxas",
+    "2lpt87f6lkomzhl37o9laax": "6l2hd19rhsbeqnqzifx5y8n",
+    "m07b1g57xglwhwelv7vqdr6": "2lpt87f6lkomzhl37o9laax",
+    "kawc8oaxw4e7q3qlwq72mgt": "2lpt87f6lkomzhl37o9laax",
     "dteprkzzkrstuocixsln0we": "e8hgfaxvmfjj1h1wq7pe5he",
     "9nuy42p9er5xi25in7cy0vq": "dteprkzzkrstuocixsln0we",
-    "40au7lj9ck2m1xlcyvrqxre": "9nuy42p9er5xi25in7cy0vq",
-    "788pm603l0e2jbhxfxnds7f": "9nuy42p9er5xi25in7cy0vq",
-    "sm3n32l3vnku7mk7ffncfx6": "9nuy42p9er5xi25in7cy0vq",
-    "lhye4vil5un8143hanrbkni": "9nuy42p9er5xi25in7cy0vq",
-    "2rkux2b95mg0618bx5vhz8s": "9nuy42p9er5xi25in7cy0vq",
-    "ukb27ukhtep8q42aczhb2cz": "9nuy42p9er5xi25in7cy0vq",
     "e8q7nmga8vp8l0lwwjkk224": "9nuy42p9er5xi25in7cy0vq",
-    "6l2hd19rhsbeqnqzifx5y8n": "e8hgfaxvmfjj1h1wq7pe5he",
-    "2lpt87f6lkomzhl37o9laax": "6l2hd19rhsbeqnqzifx5y8n",
-    "kawc8oaxw4e7q3qlwq72mgt": "2lpt87f6lkomzhl37o9laax",
-    "m07b1g57xglwhwelv7vqdr6": "2lpt87f6lkomzhl37o9laax",
-    "y5kiwrofq5xhekxxqxajxas": "6l2hd19rhsbeqnqzifx5y8n",
-    "jgi61wg7dcnh322phvhaeja": "y5kiwrofq5xhekxxqxajxas",
-    "r5o6mkov9u86wetjlrz98fy": "y5kiwrofq5xhekxxqxajxas",
-    "o8vtdk26adi8wrh9i21g4cn": "y5kiwrofq5xhekxxqxajxas",
-    "e1jw5gg457mnhekpu6bw0ea": "6l2hd19rhsbeqnqzifx5y8n",
-    "juqa13xh9vpcjjcwuaxpijf": "e8hgfaxvmfjj1h1wq7pe5he",
-    "pqf7qvwgukb60h5r0vcmnzh": "juqa13xh9vpcjjcwuaxpijf",
-    "d8t3jc0pnaunziddujlfb2d": "pqf7qvwgukb60h5r0vcmnzh",
-    "ltahj6egbdd3bc7tdrnym0p": "pqf7qvwgukb60h5r0vcmnzh",
-    "na2uf1zamwck4tfi1rcrmpv": "pqf7qvwgukb60h5r0vcmnzh",
-    "07vmn9ross3dwkjymi6vmcc": "pqf7qvwgukb60h5r0vcmnzh",
-    "bgetpnvnoqvfa3aahgz2kwh": "pqf7qvwgukb60h5r0vcmnzh",
-    "zcrks6hqodblp70de8kvm4b": "juqa13xh9vpcjjcwuaxpijf",
-    "j1p2133sxm8xqu7etqqv5u1": "juqa13xh9vpcjjcwuaxpijf",
-    "6xsd9waf7ho7as5kzccut5h": "20dxao0uf8892hiam7spier",
-    "m7gnr1kzd6q1pza1r7km5k7": "6xsd9waf7ho7as5kzccut5h",
-    "jmyu2j127398lu5ze16czs7": "6xsd9waf7ho7as5kzccut5h",
-    "9o3hmdtpkxdveqtttdxfhcg": "jmyu2j127398lu5ze16czs7",
-    "bpsbto9ra3e9vq6f0lvs7wl": "jmyu2j127398lu5ze16czs7",
-    "a601pg6wo1lhqjafh63mls4": "jmyu2j127398lu5ze16czs7",
-    "euj0yyfymzmig3lszs3vgow": "20dxao0uf8892hiam7spier"
+    "ukb27ukhtep8q42aczhb2cz": "9nuy42p9er5xi25in7cy0vq",
+    "2rkux2b95mg0618bx5vhz8s": "9nuy42p9er5xi25in7cy0vq",
+    "lhye4vil5un8143hanrbkni": "9nuy42p9er5xi25in7cy0vq",
+    "sm3n32l3vnku7mk7ffncfx6": "9nuy42p9er5xi25in7cy0vq",
+    "788pm603l0e2jbhxfxnds7f": "9nuy42p9er5xi25in7cy0vq",
+    "40au7lj9ck2m1xlcyvrqxre": "9nuy42p9er5xi25in7cy0vq",
+    "roizuhueed0r7bqvid0nz7l": null,
+    "43c10amadccvfinwdkpct2g": "roizuhueed0r7bqvid0nz7l",
+    "y8ulhtvjnibnph2szwz5cv2": "roizuhueed0r7bqvid0nz7l",
+    "wldafqi6ut0azf2kfwml6xz": "roizuhueed0r7bqvid0nz7l",
+    "mwtn7djpfomvmia0fpc7h5a": "roizuhueed0r7bqvid0nz7l",
+    "t7855kfuaop93pqsjf3x0rg": "roizuhueed0r7bqvid0nz7l",
+    "spnk7q99fqp771b4ku33y80": "t7855kfuaop93pqsjf3x0rg",
+    "7s217cy7iompjnsryjqwh6c": "roizuhueed0r7bqvid0nz7l",
+    "dn79delz4v5n6rpf48x9166": "roizuhueed0r7bqvid0nz7l",
+    "8ogr5cpwvdapyccvek09rx5": "dn79delz4v5n6rpf48x9166",
+    "07aamp2o6avoi9owmxhmn06": "dn79delz4v5n6rpf48x9166",
+    "mnfy0gc6pw9onpkzq5wvniu": "roizuhueed0r7bqvid0nz7l",
+    "p59utz7mf12ic3lqw8y8tbs": null,
+    "jni6v9l7eg361jsmwiimvzv": "p59utz7mf12ic3lqw8y8tbs",
+    "oasz9131g7t831nyxuti1qf": null,
+    "sqm9rnf6pqj48jq2dcmu0ru": "oasz9131g7t831nyxuti1qf",
+    "w1i2dw4t9w6wg81gl79dpks": "oasz9131g7t831nyxuti1qf",
+    "timf6fz47pcux97itx9t9pz": "oasz9131g7t831nyxuti1qf",
+    "xxicc2psl6e5w1svw3bkh3u": "oasz9131g7t831nyxuti1qf",
+    "969nhjubxljoqfh93w6cd8p": "oasz9131g7t831nyxuti1qf",
+    "5ao7xb0vcwvs84380v8sbwh": "oasz9131g7t831nyxuti1qf",
+    "q97jtd6kjanb5r4r31q1eva": "oasz9131g7t831nyxuti1qf",
+    "z1smovtlizxtgmha05vb7z1": "oasz9131g7t831nyxuti1qf",
+    "72lkyo4ytbsj2w2w7rkdor7": "oasz9131g7t831nyxuti1qf",
+    "l0uijxo05lrlktn8uszxu3a": "oasz9131g7t831nyxuti1qf",
+    "qfmuh4r8hspzcvalako02we": "oasz9131g7t831nyxuti1qf",
+    "i7qra5ip0gwchs30f5at7rx": "oasz9131g7t831nyxuti1qf",
+    "ndz4w8l4fs8gahzx7eanasg": "i7qra5ip0gwchs30f5at7rx",
+    "hz65rlnypyne9wbids56z0z": "i7qra5ip0gwchs30f5at7rx",
+    "neh8ueqeh37oflgao2wk97c": "i7qra5ip0gwchs30f5at7rx",
+    "3gh56qxayzvht9saqgm7lve": "i7qra5ip0gwchs30f5at7rx",
+    "wz0gdaczrayeppp05rjbkbj": "i7qra5ip0gwchs30f5at7rx",
+    "b8e32zij9egyzswosocp3t8": "i7qra5ip0gwchs30f5at7rx",
+    "n7fz544n5iy18az4emy7oi0": "i7qra5ip0gwchs30f5at7rx",
+    "1m3crqwnc01esh8ylao7cdj": "i7qra5ip0gwchs30f5at7rx",
+    "oyrvr62f5kc782wgpoz5hgj": "i7qra5ip0gwchs30f5at7rx",
+    "vu4366q6sckejfdqgrqr3a5": "i7qra5ip0gwchs30f5at7rx",
+    "gi59c2928gvbae6n3uniugg": "i7qra5ip0gwchs30f5at7rx",
+    "cvbmy2r329wrtde0hs4b9r5": "i7qra5ip0gwchs30f5at7rx",
+    "ukppn0c8e7ihvzi1s3ttqge": "i7qra5ip0gwchs30f5at7rx",
+    "cer3q1dhci0eeh718l9svdi": "i7qra5ip0gwchs30f5at7rx",
+    "uaqz2heac1kdcsqy127dqom": "i7qra5ip0gwchs30f5at7rx",
+    "dftloyxhwpi83dg622hxnw6": "i7qra5ip0gwchs30f5at7rx",
+    "my8qzdf77zphq770aho85l7": "i7qra5ip0gwchs30f5at7rx",
+    "cnu5owy75z10xsbawpj1hzw": "i7qra5ip0gwchs30f5at7rx",
+    "jin5kl3ogos778jevlg9gap": "i7qra5ip0gwchs30f5at7rx",
+    "hqpjbr4d16c7kr7aqxheoef": "i7qra5ip0gwchs30f5at7rx",
+    "0eb2n3ivbbyvd9l46ppovt7": "i7qra5ip0gwchs30f5at7rx",
+    "g0c7wzttp1ja0x38ij826vl": "i7qra5ip0gwchs30f5at7rx",
+    "f4hmvs8e1werbjphwfa7xls": "i7qra5ip0gwchs30f5at7rx",
+    "vh4dp3cdgsq3rw64h6h1ird": "i7qra5ip0gwchs30f5at7rx",
+    "qtr8ummkyc6u05hou1kqspq": "i7qra5ip0gwchs30f5at7rx",
+    "zu4v6kmcz1am3bw54vkd6kk": "i7qra5ip0gwchs30f5at7rx",
+    "8e3frajnix71f9lnu8ymch6": "i7qra5ip0gwchs30f5at7rx",
+    "byj3ips5ts09csa2dtq7j3q": "i7qra5ip0gwchs30f5at7rx",
+    "mkt75t95m13kx0tdqaylp4n": "i7qra5ip0gwchs30f5at7rx",
+    "g3mb1k61rcsw8sjecivq9fk": "i7qra5ip0gwchs30f5at7rx",
+    "agx5nqdeeujae4czk9e9c67": "i7qra5ip0gwchs30f5at7rx",
+    "np7uvlwz31o93nfu7er1dfu": "i7qra5ip0gwchs30f5at7rx",
+    "7aidp4clskcaj4w16ipr2gh": "i7qra5ip0gwchs30f5at7rx",
+    "se4tmj9t31kkax83l4wmprt": "i7qra5ip0gwchs30f5at7rx",
+    "n2k5mir21lfaxzegmq4vs47": "oasz9131g7t831nyxuti1qf",
+    "1s674rtewls01u0m0zuze3n": "oasz9131g7t831nyxuti1qf",
+    "0cx4cn21i807ydan59xneso": null,
+    "b553jla24o3crg47tric4yu": "0cx4cn21i807ydan59xneso",
+    "i3clsxzmhcj2jdbrg3opnkz": "0cx4cn21i807ydan59xneso",
+    "ahciw5hvh28k50dw13ql1b4": "0cx4cn21i807ydan59xneso",
+    "yc6ke5ogun29lq9qevt5134": "0cx4cn21i807ydan59xneso",
+    "a44h4sj21jfb19ymoovvuzr": null,
+    "nmz6sghas6qb5lqnvxac95r": "a44h4sj21jfb19ymoovvuzr",
+    "90kk6w4dlyax9ywochuy6om": "a44h4sj21jfb19ymoovvuzr",
+    "wibhrb0yg5q8gbhoslnllxp": "a44h4sj21jfb19ymoovvuzr",
+    "jq0ulj3quh8dkrhncjgtpfa": "a44h4sj21jfb19ymoovvuzr",
+    "5li2av5xhjpvuv0t0by2yyl": "a44h4sj21jfb19ymoovvuzr",
+    "a5qhaapggpqvb3mbef9qxws": "a44h4sj21jfb19ymoovvuzr",
+    "ihbgwin103gg7u3ha9jl7ug": "a44h4sj21jfb19ymoovvuzr",
+    "o5k6hs4bz3d00393hr3mny0": "a44h4sj21jfb19ymoovvuzr",
+    "suw6c5y5dd8ycq6bpqxzgi8": "a44h4sj21jfb19ymoovvuzr",
+    "0pk7sya0jxuwokrkx1222ro": "a44h4sj21jfb19ymoovvuzr",
+    "tz4qivejklsy3j3f6g9fzi4": "a44h4sj21jfb19ymoovvuzr",
+    "cmktwzyj4333tdgoy3xbv2u": "a44h4sj21jfb19ymoovvuzr",
+    "i5z2gw9ou7tmimbwdsltnnz": null,
+    "rmm2u11fx963i330c4adzsb": "i5z2gw9ou7tmimbwdsltnnz",
+    "uyjg9t3i185v6fooeyjsj0m": "rmm2u11fx963i330c4adzsb",
+    "orylzgbypdj9g3c2kxpw03i": "rmm2u11fx963i330c4adzsb",
+    "arfbr1udhmojggta8lrpeqs": "rmm2u11fx963i330c4adzsb",
+    "tv4vqfov2ijkqg2rvriiqun": "rmm2u11fx963i330c4adzsb",
+    "r44zlpkuq0s59ykohntdjhb": "rmm2u11fx963i330c4adzsb",
+    "czseabqijp0teh66cxifpxr": "i5z2gw9ou7tmimbwdsltnnz",
+    "oxntr7pomidy0b02jx0ch0k": "i5z2gw9ou7tmimbwdsltnnz",
+    "i4aolyivyc5ooa7ldq2k3vu": "i5z2gw9ou7tmimbwdsltnnz",
+    "arbd8296q9vfp2tql29v3rf": "i4aolyivyc5ooa7ldq2k3vu",
+    "olreo7137fdt59hwv5pnwe9": "i5z2gw9ou7tmimbwdsltnnz",
+    "xxrwfft52a57a8c4tfrxnu3": "olreo7137fdt59hwv5pnwe9",
+    "qu30gr2fu9l2qy6dpy6wjs6": "i5z2gw9ou7tmimbwdsltnnz",
+    "e2xrw64bzmsaa2qxn1weydq": "qu30gr2fu9l2qy6dpy6wjs6",
+    "d3p796eyci23b23gl69ao09": "qu30gr2fu9l2qy6dpy6wjs6",
+    "yphebsao2phhaxngn7to71f": "i5z2gw9ou7tmimbwdsltnnz",
+    "ejwp7pv7cmw5m8efhkq5ah3": "yphebsao2phhaxngn7to71f",
+    "fl710h5oacxibkom399srh1": "i5z2gw9ou7tmimbwdsltnnz",
+    "mqujgpqpm0qo99kdvrlv2kx": "fl710h5oacxibkom399srh1",
+    "shs2x76gfjtvi20xxziz4k2": "fl710h5oacxibkom399srh1",
+    "b0yhqaf6sz4d7ef6llmskjj": "shs2x76gfjtvi20xxziz4k2",
+    "21aud0t5f5hq4ahia694mc2": "shs2x76gfjtvi20xxziz4k2",
+    "mi2yzsm134w3za8f9p0x1dx": "shs2x76gfjtvi20xxziz4k2",
+    "fduzrhulz557t4yjske07k9": "fl710h5oacxibkom399srh1",
+    "v03c4xgyco81innvtbwsn60": "fl710h5oacxibkom399srh1",
+    "tg8qotpb8mcbg975s6juars": "fl710h5oacxibkom399srh1",
+    "orjdxc68o38g2h5yennctf4": "fl710h5oacxibkom399srh1",
+    "mbqttms3dcvg0rrucdg1cfc": "i5z2gw9ou7tmimbwdsltnnz",
+    "8pwefou38xgvyum1pfgl3r8": "i5z2gw9ou7tmimbwdsltnnz",
+    "m86229vfqs59h7tbphp9j45": "i5z2gw9ou7tmimbwdsltnnz",
+    "415pfd1z8i5k9amwp7gkzlp": "i5z2gw9ou7tmimbwdsltnnz",
+    "l0n8p6a22ndk4hwpm176fnn": "i5z2gw9ou7tmimbwdsltnnz",
+    "0cu9dg1bjx46x5iqhnr2ulv": "i5z2gw9ou7tmimbwdsltnnz",
+    "j6uvrzfjjscajfmzbvgt71t": "0cu9dg1bjx46x5iqhnr2ulv",
+    "5eo8fia4y528tgmocaspt14": "j6uvrzfjjscajfmzbvgt71t"
+  },
+  "notesLabelById": {
+    "euj0yyfymzmig3lszs3vgow": "关于我",
+    "6xsd9waf7ho7as5kzccut5h": "架构",
+    "jmyu2j127398lu5ze16czs7": "Cloud Native",
+    "a601pg6wo1lhqjafh63mls4": "FaaS",
+    "bpsbto9ra3e9vq6f0lvs7wl": "IaaS",
+    "9o3hmdtpkxdveqtttdxfhcg": "PaaS",
+    "m7gnr1kzd6q1pza1r7km5k7": "Domain Driven Design",
+    "e8hgfaxvmfjj1h1wq7pe5he": "基础知识",
+    "juqa13xh9vpcjjcwuaxpijf": "通信",
+    "j1p2133sxm8xqu7etqqv5u1": "编码",
+    "zcrks6hqodblp70de8kvm4b": "压缩",
+    "pqf7qvwgukb60h5r0vcmnzh": "网络",
+    "bgetpnvnoqvfa3aahgz2kwh": "DNS",
+    "07vmn9ross3dwkjymi6vmcc": "HTTP",
+    "na2uf1zamwck4tfi1rcrmpv": "HTTPS",
+    "ltahj6egbdd3bc7tdrnym0p": "TCP",
+    "d8t3jc0pnaunziddujlfb2d": "UDP",
+    "6l2hd19rhsbeqnqzifx5y8n": "硬件",
+    "e1jw5gg457mnhekpu6bw0ea": "IO Devices",
+    "y5kiwrofq5xhekxxqxajxas": "CPU",
+    "o8vtdk26adi8wrh9i21g4cn": "Instrution Set",
+    "r5o6mkov9u86wetjlrz98fy": "集成电路",
+    "jgi61wg7dcnh322phvhaeja": "逻辑门",
+    "2lpt87f6lkomzhl37o9laax": "存储",
+    "m07b1g57xglwhwelv7vqdr6": "Hard Disks And Secondary Storage",
+    "kawc8oaxw4e7q3qlwq72mgt": "RAM",
+    "dteprkzzkrstuocixsln0we": "软件",
+    "9nuy42p9er5xi25in7cy0vq": "操作系统",
+    "e8q7nmga8vp8l0lwwjkk224": "Concurrent",
+    "ukb27ukhtep8q42aczhb2cz": "IO Management",
+    "2rkux2b95mg0618bx5vhz8s": "Interprocess Communication",
+    "lhye4vil5un8143hanrbkni": "Memory Management",
+    "sm3n32l3vnku7mk7ffncfx6": "POSIX Basics",
+    "788pm603l0e2jbhxfxnds7f": "Process Management",
+    "40au7lj9ck2m1xlcyvrqxre": "Threads And Concurrency",
+    "roizuhueed0r7bqvid0nz7l": "数据库",
+    "43c10amadccvfinwdkpct2g": "ACID",
+    "y8ulhtvjnibnph2szwz5cv2": "CAP",
+    "wldafqi6ut0azf2kfwml6xz": "Graph Databases",
+    "mwtn7djpfomvmia0fpc7h5a": "Indexes",
+    "t7855kfuaop93pqsjf3x0rg": "NoSQL",
+    "spnk7q99fqp771b4ku33y80": "MongoDB",
+    "7s217cy7iompjnsryjqwh6c": "ORMs",
+    "dn79delz4v5n6rpf48x9166": "Relational Database",
+    "8ogr5cpwvdapyccvek09rx5": "MySQL",
+    "07aamp2o6avoi9owmxhmn06": "SQLLite",
+    "mnfy0gc6pw9onpkzq5wvniu": "Time Series Databases",
+    "p59utz7mf12ic3lqw8y8tbs": "开源",
+    "jni6v9l7eg361jsmwiimvzv": "开源协议",
+    "oasz9131g7t831nyxuti1qf": "编程语言",
+    "sqm9rnf6pqj48jq2dcmu0ru": "面向对象编程",
+    "w1i2dw4t9w6wg81gl79dpks": "结构化编程",
+    "timf6fz47pcux97itx9t9pz": "C",
+    "xxicc2psl6e5w1svw3bkh3u": "C#",
+    "969nhjubxljoqfh93w6cd8p": "C++",
+    "5ao7xb0vcwvs84380v8sbwh": "编程语言分类",
+    "q97jtd6kjanb5r4r31q1eva": "函数式编程",
+    "z1smovtlizxtgmha05vb7z1": "Golang",
+    "72lkyo4ytbsj2w2w7rkdor7": "Java",
+    "l0uijxo05lrlktn8uszxu3a": "JavaScript",
+    "qfmuh4r8hspzcvalako02we": "元编程",
+    "i7qra5ip0gwchs30f5at7rx": "Python",
+    "ndz4w8l4fs8gahzx7eanasg": "Ansible",
+    "hz65rlnypyne9wbids56z0z": "Django",
+    "neh8ueqeh37oflgao2wk97c": "FastAPI",
+    "3gh56qxayzvht9saqgm7lve": "Flask",
+    "wz0gdaczrayeppp05rjbkbj": "PyQT5",
+    "b8e32zij9egyzswosocp3t8": "Pytorch",
+    "n7fz544n5iy18az4emy7oi0": "Tensorflow",
+    "1m3crqwnc01esh8ylao7cdj": "Zen of Python",
+    "oyrvr62f5kc782wgpoz5hgj": "Asyncio",
+    "vu4366q6sckejfdqgrqr3a5": "内置函数",
+    "gi59c2928gvbae6n3uniugg": "内置类型",
+    "cvbmy2r329wrtde0hs4b9r5": "Click",
+    "ukppn0c8e7ihvzi1s3ttqge": "上下文管理器",
+    "cer3q1dhci0eeh718l9svdi": "装饰器",
+    "uaqz2heac1kdcsqy127dqom": "生成器",
+    "dftloyxhwpi83dg622hxnw6": "Gevent",
+    "my8qzdf77zphq770aho85l7": "迭代器",
+    "cnu5owy75z10xsbawpj1hzw": "列表（字典， 集合）推导式",
+    "jin5kl3ogos778jevlg9gap": "标准库模块",
+    "hqpjbr4d16c7kr7aqxheoef": "Multithreading",
+    "0eb2n3ivbbyvd9l46ppovt7": "Mypy",
+    "g0c7wzttp1ja0x38ij826vl": "Numpy",
+    "f4hmvs8e1werbjphwfa7xls": "Pandas",
+    "vh4dp3cdgsq3rw64h6h1ird": "Pip",
+    "qtr8ummkyc6u05hou1kqspq": "Pipenv",
+    "zu4v6kmcz1am3bw54vkd6kk": "Playwright",
+    "8e3frajnix71f9lnu8ymch6": "Poetry",
+    "byj3ips5ts09csa2dtq7j3q": "Pydantic",
+    "mkt75t95m13kx0tdqaylp4n": "Requests",
+    "g3mb1k61rcsw8sjecivq9fk": "Scrapy",
+    "agx5nqdeeujae4czk9e9c67": "结构化模式匹配",
+    "np7uvlwz31o93nfu7er1dfu": "Type Hints",
+    "7aidp4clskcaj4w16ipr2gh": "Typer",
+    "se4tmj9t31kkax83l4wmprt": "Venv",
+    "n2k5mir21lfaxzegmq4vs47": "Rust",
+    "1s674rtewls01u0m0zuze3n": "TypeScript",
+    "0cx4cn21i807ydan59xneso": "资源",
+    "b553jla24o3crg47tric4yu": "Books",
+    "i3clsxzmhcj2jdbrg3opnkz": "Learn",
+    "ahciw5hvh28k50dw13ql1b4": "Links",
+    "yc6ke5ogun29lq9qevt5134": "Sites",
+    "a44h4sj21jfb19ymoovvuzr": "信息安全",
+    "nmz6sghas6qb5lqnvxac95r": "审计和问责",
+    "90kk6w4dlyax9ywochuy6om": "授权与访问控制",
+    "wibhrb0yg5q8gbhoslnllxp": "密码学",
+    "jq0ulj3quh8dkrhncjgtpfa": "人因安全",
+    "5li2av5xhjpvuv0t0by2yyl": "OWASP",
+    "a5qhaapggpqvb3mbef9qxws": "安全评估",
+    "ihbgwin103gg7u3ha9jl7ug": "应用程序安全",
+    "o5k6hs4bz3d00393hr3mny0": "合规、法律和法规",
+    "suw6c5y5dd8ycq6bpqxzgi8": "身份识别与身份验证",
+    "0pk7sya0jxuwokrkx1222ro": "移动、嵌入式和物联网安全",
+    "tz4qivejklsy3j3f6g9fzi4": "网络安全",
+    "cmktwzyj4333tdgoy3xbv2u": "操作系统安全",
+    "i5z2gw9ou7tmimbwdsltnnz": "软件开发",
+    "rmm2u11fx963i330c4adzsb": "API",
+    "uyjg9t3i185v6fooeyjsj0m": "Authentication",
+    "orylzgbypdj9g3c2kxpw03i": "GraphQL",
+    "arfbr1udhmojggta8lrpeqs": "Open API Spec",
+    "tv4vqfov2ijkqg2rvriiqun": "REST",
+    "r44zlpkuq0s59ykohntdjhb": "gRPC",
+    "czseabqijp0teh66cxifpxr": "持续部署",
+    "oxntr7pomidy0b02jx0ch0k": "持续集成",
+    "i4aolyivyc5ooa7ldq2k3vu": "Testing",
+    "arbd8296q9vfp2tql29v3rf": "Unit Testing",
+    "olreo7137fdt59hwv5pnwe9": "VCS",
+    "xxrwfft52a57a8c4tfrxnu3": "git",
+    "qu30gr2fu9l2qy6dpy6wjs6": "Command Line Tools",
+    "e2xrw64bzmsaa2qxn1weydq": "Core Utils",
+    "d3p796eyci23b23gl69ao09": "Mordern Unix Tools",
+    "yphebsao2phhaxngn7to71f": "Config",
+    "ejwp7pv7cmw5m8efhkq5ah3": "Toml",
+    "fl710h5oacxibkom399srh1": "软件设计",
+    "mqujgpqpm0qo99kdvrlv2kx": "DRY",
+    "shs2x76gfjtvi20xxziz4k2": "设计模式",
+    "b0yhqaf6sz4d7ef6llmskjj": "行为型模式",
+    "21aud0t5f5hq4ahia694mc2": "创建型模式",
+    "mi2yzsm134w3za8f9p0x1dx": "结构型模式",
+    "fduzrhulz557t4yjske07k9": "KISS",
+    "v03c4xgyco81innvtbwsn60": "SOLID",
+    "tg8qotpb8mcbg975s6juars": "TDD",
+    "orjdxc68o38g2h5yennctf4": "YAGNI",
+    "mbqttms3dcvg0rrucdg1cfc": "Desktop Application",
+    "8pwefou38xgvyum1pfgl3r8": "Dev Ops",
+    "m86229vfqs59h7tbphp9j45": "前端",
+    "415pfd1z8i5k9amwp7gkzlp": "Mobile Application",
+    "l0n8p6a22ndk4hwpm176fnn": "重构",
+    "0cu9dg1bjx46x5iqhnr2ulv": "Tools",
+    "j6uvrzfjjscajfmzbvgt71t": "Editor",
+    "5eo8fia4y528tgmocaspt14": "Visual Studio Code"
   }
 }
