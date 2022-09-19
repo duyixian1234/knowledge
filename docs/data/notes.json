@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1663480922211,
-      "created": 1663480922211,
+      "updated": 1663589645363,
+      "created": 1663589645363,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -297,12 +297,12 @@
         "415pfd1z8i5k9amwp7gkzlp",
         "l0n8p6a22ndk4hwpm176fnn",
         "0cu9dg1bjx46x5iqhnr2ulv",
-        "yphebsao2phhaxngn7to71f"
+        "v4n09w6jfpg1211p712unkv"
       ],
       "parent": "20dxao0uf8892hiam7spier",
       "data": {}
     },
-    "yphebsao2phhaxngn7to71f": {
+    "v4n09w6jfpg1211p712unkv": {
       "fname": "software-develop.config",
       "stub": true,
       "vault": {
@@ -312,9 +312,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1663480919996,
-      "created": 1663480919996,
-      "id": "yphebsao2phhaxngn7to71f",
+      "updated": 1663589643716,
+      "created": 1663589643717,
+      "id": "v4n09w6jfpg1211p712unkv",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -367,7 +367,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "yphebsao2phhaxngn7to71f",
+      "parent": "v4n09w6jfpg1211p712unkv",
       "data": {}
     },
     "0cu9dg1bjx46x5iqhnr2ulv": {
@@ -1853,7 +1853,7 @@
       "id": "olreo7137fdt59hwv5pnwe9",
       "title": "VCS",
       "desc": "",
-      "updated": 1660279200442,
+      "updated": 1663574684441,
       "created": 1660279200442,
       "custom": {},
       "fname": "software-develop.VCS",
@@ -1863,9 +1863,79 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "2ecd4e5ab90cc84b04745472c88696e9",
-      "links": [],
-      "anchors": {},
+      "contentHash": "8791aa2756672cd0f7204eb5c70fa2f1",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "software-develop.VCS",
+            "id": "olreo7137fdt59hwv5pnwe9",
+            "vaultName": "knowledge"
+          },
+          "value": "software-develop.VCS.git",
+          "alias": "software-develop.VCS.git",
+          "position": {
+            "start": {
+              "line": 24,
+              "column": 3,
+              "offset": 319
+            },
+            "end": {
+              "line": 24,
+              "column": 31,
+              "offset": 347
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "software-develop.VCS.git"
+          }
+        }
+      ],
+      "anchors": {
+        "版本控制": {
+          "type": "header",
+          "text": "版本控制",
+          "value": "版本控制",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "分类": {
+          "type": "header",
+          "text": "分类",
+          "value": "分类",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "本地版本控制系统": {
+          "type": "header",
+          "text": "本地版本控制系统",
+          "value": "本地版本控制系统",
+          "line": 14,
+          "column": 0,
+          "depth": 3
+        },
+        "集中化版本控制系统": {
+          "type": "header",
+          "text": "集中化版本控制系统",
+          "value": "集中化版本控制系统",
+          "line": 19,
+          "column": 0,
+          "depth": 3
+        },
+        "分布式版本控制系统": {
+          "type": "header",
+          "text": "分布式版本控制系统",
+          "value": "分布式版本控制系统",
+          "line": 26,
+          "column": 0,
+          "depth": 3
+        }
+      },
       "children": [
         "xxrwfft52a57a8c4tfrxnu3"
       ],
@@ -1876,7 +1946,7 @@
       "id": "xxrwfft52a57a8c4tfrxnu3",
       "title": "git",
       "desc": "",
-      "updated": 1660279209410,
+      "updated": 1663589561401,
       "created": 1660279209410,
       "custom": {},
       "fname": "software-develop.VCS.git",
@@ -1886,8 +1956,35 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "fa9ffd17dd2d672c8d75f548428eefad",
+      "contentHash": "e8364d877d02dd834e5a595d655c8360",
       "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "software-develop.VCS.git",
+            "id": "xxrwfft52a57a8c4tfrxnu3",
+            "vaultName": "knowledge"
+          },
+          "value": "resources.links",
+          "position": {
+            "start": {
+              "line": 70,
+              "column": 1,
+              "offset": 1770
+            },
+            "end": {
+              "line": 70,
+              "column": 28,
+              "offset": 1797
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "resources.links",
+            "anchorHeader": "git:#*"
+          }
+        },
         {
           "from": {
             "id": "euj0yyfymzmig3lszs3vgow",
@@ -1933,9 +2030,121 @@
           },
           "value": "software-develop.VCS.git",
           "alias": "software-develop.VCS.git"
+        },
+        {
+          "from": {
+            "id": "olreo7137fdt59hwv5pnwe9",
+            "fname": "software-develop.VCS",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 24,
+              "column": 3,
+              "offset": 319
+            },
+            "end": {
+              "line": 24,
+              "column": 31,
+              "offset": 347
+            },
+            "indent": []
+          },
+          "value": "software-develop.VCS.git",
+          "alias": "software-develop.VCS.git"
         }
       ],
-      "anchors": {},
+      "anchors": {
+        "介绍": {
+          "type": "header",
+          "text": "介绍",
+          "value": "介绍",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        },
+        "历史": {
+          "type": "header",
+          "text": "历史",
+          "value": "历史",
+          "line": 11,
+          "column": 0,
+          "depth": 3
+        },
+        "git-是什么": {
+          "type": "header",
+          "text": "Git 是什么",
+          "value": "git-是什么",
+          "line": 27,
+          "column": 0,
+          "depth": 2
+        },
+        "状态": {
+          "type": "header",
+          "text": "状态",
+          "value": "状态",
+          "line": 34,
+          "column": 0,
+          "depth": 3
+        },
+        "工作区暂存区以及-git-目录": {
+          "type": "header",
+          "text": "工作区、暂存区以及 Git 目录",
+          "value": "工作区暂存区以及-git-目录",
+          "line": 40,
+          "column": 0,
+          "depth": 3
+        },
+        "基本的-git-工作流程": {
+          "type": "header",
+          "text": "基本的 Git 工作流程",
+          "value": "基本的-git-工作流程",
+          "line": 50,
+          "column": 0,
+          "depth": 3
+        },
+        "git-基础": {
+          "type": "header",
+          "text": "Git 基础",
+          "value": "git-基础",
+          "line": 56,
+          "column": 0,
+          "depth": 2
+        },
+        "配置": {
+          "type": "header",
+          "text": "配置",
+          "value": "配置",
+          "line": 58,
+          "column": 0,
+          "depth": 3
+        },
+        "配置位置": {
+          "type": "header",
+          "text": "配置位置",
+          "value": "配置位置",
+          "line": 60,
+          "column": 0,
+          "depth": 4
+        },
+        "配置项": {
+          "type": "header",
+          "text": "配置项",
+          "value": "配置项",
+          "line": 68,
+          "column": 0,
+          "depth": 4
+        },
+        "资源": {
+          "type": "header",
+          "text": "资源",
+          "value": "资源",
+          "line": 74,
+          "column": 0,
+          "depth": 2
+        }
+      },
       "children": [],
       "parent": "olreo7137fdt59hwv5pnwe9",
       "data": {}
@@ -3566,7 +3775,7 @@
       "id": "ahciw5hvh28k50dw13ql1b4",
       "title": "Links",
       "desc": "",
-      "updated": 1662989155604,
+      "updated": 1663589606436,
       "created": 1660288319060,
       "custom": {},
       "fname": "resources.links",
@@ -3576,7 +3785,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "760f5bac3ad450f6cdf4a3ee8eb05521",
+      "contentHash": "819a5e939aa217ac8aba15ab74590e76",
       "links": [
         {
           "from": {
@@ -3595,6 +3804,28 @@
               "line": 64,
               "column": 31,
               "offset": 2270
+            },
+            "indent": []
+          },
+          "value": "resources.links"
+        },
+        {
+          "from": {
+            "id": "xxrwfft52a57a8c4tfrxnu3",
+            "fname": "software-develop.VCS.git",
+            "vaultName": "knowledge"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 70,
+              "column": 1,
+              "offset": 1770
+            },
+            "end": {
+              "line": 70,
+              "column": 28,
+              "offset": 1797
             },
             "indent": []
           },
@@ -3637,6 +3868,14 @@
           "text": "设计模式",
           "value": "设计模式",
           "line": 13,
+          "column": 0,
+          "depth": 2
+        },
+        "git": {
+          "type": "header",
+          "text": "Git",
+          "value": "git",
+          "line": 17,
           "column": 0,
           "depth": 2
         }

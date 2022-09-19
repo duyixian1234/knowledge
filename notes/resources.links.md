@@ -2,7 +2,7 @@
 id: ahciw5hvh28k50dw13ql1b4
 title: Links
 desc: ""
-updated: 1662989155604
+updated: 1663589606436
 created: 1660288319060
 ---
 
@@ -14,3 +14,7 @@ created: 1660288319060
 ## 设计模式
 
 - [设计模式](https://refactoringguru.cn/design-patterns)
+
+## Git
+
+- [Git - Book](https://git-scm.com/book/zh/v2)
