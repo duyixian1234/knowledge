@@ -1,14 +1,18 @@
 ---
 id: euj0yyfymzmig3lszs3vgow
 title: 关于我
-desc: ''
-updated: 1660358818895
+desc: ""
+updated: 1663590661855
 created: 1660271259547
 ---
 
 ## 简介
 
 我是[杜逸先](https://github.com/duyixian1234)，95 年出生的陕西汉子，17 年毕业于浙江大学软件工程专业，目前作为一个研发工程师生活在杭州。
+
+## 个人网站
+
+- [博客](https://www.duyixian.cn)
 
 ## 技能
 
@@ -68,3 +72,13 @@ created: 1660271259547
 - [Visual Studio Code](https://code.visualstudio.com/)
 
 ## 项目经历
+
+| 项目               | 技术栈                  | 内容 | 挑战 |
+| ------------------ | ----------------------- | ---- | ---- |
+| GIS 算法           | Java                    | ——   | ——   |
+| GIS 资源平台       | Spring Boot             | ——   | ——   |
+| 抽奖平台           | Python Flask Celery     | ——   | ——   |
+| 互动玩法           | Python Flask Celery     | ——   | ——   |
+| 签到系统           | Python Flask Celery     | ——   | ——   |
+| 低代码页面配置系统 | Python Fastapi Dramatiq | ——   | ——   |
+| 游戏               | Node.js TypeScript      | ——   | ——   |

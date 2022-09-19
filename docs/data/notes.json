@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1663589645363,
-      "created": 1663589645363,
+      "updated": 1663590774913,
+      "created": 1663590774913,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -297,12 +297,12 @@
         "415pfd1z8i5k9amwp7gkzlp",
         "l0n8p6a22ndk4hwpm176fnn",
         "0cu9dg1bjx46x5iqhnr2ulv",
-        "v4n09w6jfpg1211p712unkv"
+        "d6dqwbd9z31vcih8j9nqf0j"
       ],
       "parent": "20dxao0uf8892hiam7spier",
       "data": {}
     },
-    "v4n09w6jfpg1211p712unkv": {
+    "d6dqwbd9z31vcih8j9nqf0j": {
       "fname": "software-develop.config",
       "stub": true,
       "vault": {
@@ -312,9 +312,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1663589643716,
-      "created": 1663589643717,
-      "id": "v4n09w6jfpg1211p712unkv",
+      "updated": 1663590773256,
+      "created": 1663590773256,
+      "id": "d6dqwbd9z31vcih8j9nqf0j",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -367,7 +367,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "v4n09w6jfpg1211p712unkv",
+      "parent": "d6dqwbd9z31vcih8j9nqf0j",
       "data": {}
     },
     "0cu9dg1bjx46x5iqhnr2ulv": {
@@ -486,19 +486,18 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 47,
+              "line": 51,
               "column": 3,
-              "offset": 1613
+              "offset": 1655
             },
             "end": {
-              "line": 47,
+              "line": 51,
               "column": 35,
-              "offset": 1645
+              "offset": 1687
             },
             "indent": []
           },
-          "value": "software-develop.refactoring",
-          "alias": "software-develop.refactoring"
+          "value": "software-develop.refactoring"
         }
       ],
       "anchors": {},
@@ -878,19 +877,18 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 46,
+              "line": 50,
               "column": 3,
-              "offset": 1579
+              "offset": 1621
             },
             "end": {
-              "line": 46,
+              "line": 50,
               "column": 34,
-              "offset": 1610
+              "offset": 1652
             },
             "indent": []
           },
-          "value": "software-develop.design.TDD",
-          "alias": "software-develop.design.TDD"
+          "value": "software-develop.design.TDD"
         }
       ],
       "anchors": {},
@@ -1994,19 +1992,18 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 53,
+              "line": 57,
               "column": 3,
-              "offset": 1762
+              "offset": 1804
             },
             "end": {
-              "line": 53,
+              "line": 57,
               "column": 31,
-              "offset": 1790
+              "offset": 1832
             },
             "indent": []
           },
-          "value": "software-develop.VCS.git",
-          "alias": "software-develop.VCS.git"
+          "value": "software-develop.VCS.git"
         },
         {
           "from": {
@@ -2218,19 +2215,18 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 52,
+              "line": 56,
               "column": 3,
-              "offset": 1712
+              "offset": 1754
             },
             "end": {
-              "line": 52,
+              "line": 56,
               "column": 26,
-              "offset": 1735
+              "offset": 1777
             },
             "indent": []
           },
-          "value": "software-develop.CI",
-          "alias": "software-develop.CI"
+          "value": "software-develop.CI"
         }
       ],
       "anchors": {},
@@ -2263,19 +2259,18 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 52,
+              "line": 56,
               "column": 27,
-              "offset": 1736
+              "offset": 1778
             },
             "end": {
-              "line": 52,
+              "line": 56,
               "column": 50,
-              "offset": 1759
+              "offset": 1801
             },
             "indent": []
           },
-          "value": "software-develop.CD",
-          "alias": "software-develop.CD"
+          "value": "software-develop.CD"
         }
       ],
       "anchors": {},
@@ -4231,19 +4226,18 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 20,
+              "line": 24,
               "column": 3,
-              "offset": 477
+              "offset": 519
             },
             "end": {
-              "line": 20,
+              "line": 24,
               "column": 39,
-              "offset": 513
+              "offset": 555
             },
             "indent": []
           },
-          "value": "programming-languages.typescript",
-          "alias": "programming-languages.typescript"
+          "value": "programming-languages.typescript"
         }
       ],
       "anchors": {},
@@ -4276,19 +4270,18 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 24,
+              "line": 28,
               "column": 3,
-              "offset": 747
+              "offset": 789
             },
             "end": {
-              "line": 24,
+              "line": 28,
               "column": 33,
-              "offset": 777
+              "offset": 819
             },
             "indent": []
           },
-          "value": "programming-languages.rust",
-          "alias": "programming-languages.rust"
+          "value": "programming-languages.rust"
         }
       ],
       "anchors": {},
@@ -5436,19 +5429,18 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 18,
+              "line": 22,
               "column": 3,
-              "offset": 345
+              "offset": 387
             },
             "end": {
-              "line": 18,
+              "line": 22,
               "column": 35,
-              "offset": 377
+              "offset": 419
             },
             "indent": []
           },
-          "value": "programming-languages.python",
-          "alias": "programming-languages.python"
+          "value": "programming-languages.python"
         },
         {
           "from": {
@@ -8492,19 +8484,18 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 19,
+              "line": 23,
               "column": 3,
-              "offset": 411
+              "offset": 453
             },
             "end": {
-              "line": 19,
+              "line": 23,
               "column": 39,
-              "offset": 447
+              "offset": 489
             },
             "indent": []
           },
-          "value": "programming-languages.javascript",
-          "alias": "programming-languages.javascript"
+          "value": "programming-languages.javascript"
         }
       ],
       "anchors": {},
@@ -8537,19 +8528,18 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 21,
+              "line": 25,
               "column": 3,
-              "offset": 543
+              "offset": 585
             },
             "end": {
-              "line": 21,
+              "line": 25,
               "column": 33,
-              "offset": 573
+              "offset": 615
             },
             "indent": []
           },
-          "value": "programming-languages.java",
-          "alias": "programming-languages.java"
+          "value": "programming-languages.java"
         }
       ],
       "anchors": {},
@@ -8582,19 +8572,18 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 25,
+              "line": 29,
               "column": 3,
-              "offset": 813
+              "offset": 855
             },
             "end": {
-              "line": 25,
+              "line": 29,
               "column": 35,
-              "offset": 845
+              "offset": 887
             },
             "indent": []
           },
-          "value": "programming-languages.golang",
-          "alias": "programming-languages.golang"
+          "value": "programming-languages.golang"
         }
       ],
       "anchors": {},
@@ -8627,19 +8616,18 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 48,
+              "line": 52,
               "column": 3,
-              "offset": 1648
+              "offset": 1690
             },
             "end": {
-              "line": 48,
+              "line": 52,
               "column": 51,
-              "offset": 1696
+              "offset": 1738
             },
             "indent": []
           },
-          "value": "programming-languages.functional programming",
-          "alias": "programming-languages.functional programming"
+          "value": "programming-languages.functional programming"
         },
         {
           "from": {
@@ -8716,19 +8704,18 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 22,
+              "line": 26,
               "column": 3,
-              "offset": 611
+              "offset": 653
             },
             "end": {
-              "line": 22,
+              "line": 26,
               "column": 30,
-              "offset": 638
+              "offset": 680
             },
             "indent": []
           },
-          "value": "programming-languages.c",
-          "alias": "programming-languages.c"
+          "value": "programming-languages.c"
         }
       ],
       "anchors": {},
@@ -8761,19 +8748,18 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 23,
+              "line": 27,
               "column": 3,
-              "offset": 679
+              "offset": 721
             },
             "end": {
-              "line": 23,
+              "line": 27,
               "column": 32,
-              "offset": 708
+              "offset": 750
             },
             "indent": []
           },
-          "value": "programming-languages.c++",
-          "alias": "programming-languages.c++"
+          "value": "programming-languages.c++"
         }
       ],
       "anchors": {},
@@ -9339,19 +9325,18 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 10,
+              "line": 14,
               "column": 3,
-              "offset": 115
+              "offset": 157
             },
             "end": {
-              "line": 10,
+              "line": 14,
               "column": 38,
-              "offset": 150
+              "offset": 192
             },
             "indent": []
           },
-          "value": "basic.software.operating-system",
-          "alias": "basic.software.operating-system"
+          "value": "basic.software.operating-system"
         },
         {
           "from": {
@@ -10051,19 +10036,18 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 12,
+              "line": 16,
               "column": 3,
-              "offset": 187
+              "offset": 229
             },
             "end": {
-              "line": 12,
+              "line": 16,
               "column": 21,
-              "offset": 205
+              "offset": 247
             },
             "indent": []
           },
-          "value": "basic.hardware",
-          "alias": "basic.hardware"
+          "value": "basic.hardware"
         }
       ],
       "anchors": {
@@ -10406,19 +10390,18 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 11,
+              "line": 15,
               "column": 3,
-              "offset": 153
+              "offset": 195
             },
             "end": {
-              "line": 11,
+              "line": 15,
               "column": 34,
-              "offset": 184
+              "offset": 226
             },
             "indent": []
           },
-          "value": "basic.communication.network",
-          "alias": "basic.communication.network"
+          "value": "basic.communication.network"
         }
       ],
       "anchors": {},
@@ -10716,7 +10699,7 @@
       "id": "euj0yyfymzmig3lszs3vgow",
       "title": "关于我",
       "desc": "",
-      "updated": 1660358818895,
+      "updated": 1663590661855,
       "created": 1660271259547,
       "custom": {},
       "fname": "about me",
@@ -10726,7 +10709,7 @@
         "selfContained": true,
         "name": "knowledge"
       },
-      "contentHash": "89d1371e36c40ba3d7d2c64ae650fc0c",
+      "contentHash": "940cc3efa26288ee25881433318916df",
       "links": [
         {
           "type": "wiki",
@@ -10736,17 +10719,16 @@
             "vaultName": "knowledge"
           },
           "value": "basic.software.operating-system",
-          "alias": "basic.software.operating-system",
           "position": {
             "start": {
-              "line": 10,
+              "line": 14,
               "column": 3,
-              "offset": 115
+              "offset": 157
             },
             "end": {
-              "line": 10,
+              "line": 14,
               "column": 38,
-              "offset": 150
+              "offset": 192
             },
             "indent": []
           },
@@ -10764,17 +10746,16 @@
             "vaultName": "knowledge"
           },
           "value": "basic.communication.network",
-          "alias": "basic.communication.network",
           "position": {
             "start": {
-              "line": 11,
+              "line": 15,
               "column": 3,
-              "offset": 153
+              "offset": 195
             },
             "end": {
-              "line": 11,
+              "line": 15,
               "column": 34,
-              "offset": 184
+              "offset": 226
             },
             "indent": []
           },
@@ -10792,17 +10773,16 @@
             "vaultName": "knowledge"
           },
           "value": "basic.hardware",
-          "alias": "basic.hardware",
           "position": {
             "start": {
-              "line": 12,
+              "line": 16,
               "column": 3,
-              "offset": 187
+              "offset": 229
             },
             "end": {
-              "line": 12,
+              "line": 16,
               "column": 21,
-              "offset": 205
+              "offset": 247
             },
             "indent": []
           },
@@ -10820,17 +10800,16 @@
             "vaultName": "knowledge"
           },
           "value": "programming-languages.python",
-          "alias": "programming-languages.python",
           "position": {
             "start": {
-              "line": 18,
+              "line": 22,
               "column": 3,
-              "offset": 345
+              "offset": 387
             },
             "end": {
-              "line": 18,
+              "line": 22,
               "column": 35,
-              "offset": 377
+              "offset": 419
             },
             "indent": []
           },
@@ -10848,17 +10827,16 @@
             "vaultName": "knowledge"
           },
           "value": "programming-languages.javascript",
-          "alias": "programming-languages.javascript",
           "position": {
             "start": {
-              "line": 19,
+              "line": 23,
               "column": 3,
-              "offset": 411
+              "offset": 453
             },
             "end": {
-              "line": 19,
+              "line": 23,
               "column": 39,
-              "offset": 447
+              "offset": 489
             },
             "indent": []
           },
@@ -10876,17 +10854,16 @@
             "vaultName": "knowledge"
           },
           "value": "programming-languages.typescript",
-          "alias": "programming-languages.typescript",
           "position": {
             "start": {
-              "line": 20,
+              "line": 24,
               "column": 3,
-              "offset": 477
+              "offset": 519
             },
             "end": {
-              "line": 20,
+              "line": 24,
               "column": 39,
-              "offset": 513
+              "offset": 555
             },
             "indent": []
           },
@@ -10904,17 +10881,16 @@
             "vaultName": "knowledge"
           },
           "value": "programming-languages.java",
-          "alias": "programming-languages.java",
           "position": {
             "start": {
-              "line": 21,
+              "line": 25,
               "column": 3,
-              "offset": 543
+              "offset": 585
             },
             "end": {
-              "line": 21,
+              "line": 25,
               "column": 33,
-              "offset": 573
+              "offset": 615
             },
             "indent": []
           },
@@ -10932,17 +10908,16 @@
             "vaultName": "knowledge"
           },
           "value": "programming-languages.c",
-          "alias": "programming-languages.c",
           "position": {
             "start": {
-              "line": 22,
+              "line": 26,
               "column": 3,
-              "offset": 611
+              "offset": 653
             },
             "end": {
-              "line": 22,
+              "line": 26,
               "column": 30,
-              "offset": 638
+              "offset": 680
             },
             "indent": []
           },
@@ -10960,17 +10935,16 @@
             "vaultName": "knowledge"
           },
           "value": "programming-languages.c++",
-          "alias": "programming-languages.c++",
           "position": {
             "start": {
-              "line": 23,
+              "line": 27,
               "column": 3,
-              "offset": 679
+              "offset": 721
             },
             "end": {
-              "line": 23,
+              "line": 27,
               "column": 32,
-              "offset": 708
+              "offset": 750
             },
             "indent": []
           },
@@ -10988,17 +10962,16 @@
             "vaultName": "knowledge"
           },
           "value": "programming-languages.rust",
-          "alias": "programming-languages.rust",
           "position": {
             "start": {
-              "line": 24,
+              "line": 28,
               "column": 3,
-              "offset": 747
+              "offset": 789
             },
             "end": {
-              "line": 24,
+              "line": 28,
               "column": 33,
-              "offset": 777
+              "offset": 819
             },
             "indent": []
           },
@@ -11016,17 +10989,16 @@
             "vaultName": "knowledge"
           },
           "value": "programming-languages.golang",
-          "alias": "programming-languages.golang",
           "position": {
             "start": {
-              "line": 25,
+              "line": 29,
               "column": 3,
-              "offset": 813
+              "offset": 855
             },
             "end": {
-              "line": 25,
+              "line": 29,
               "column": 35,
-              "offset": 845
+              "offset": 887
             },
             "indent": []
           },
@@ -11044,17 +11016,16 @@
             "vaultName": "knowledge"
           },
           "value": "software-develop.design.TDD",
-          "alias": "software-develop.design.TDD",
           "position": {
             "start": {
-              "line": 46,
+              "line": 50,
               "column": 3,
-              "offset": 1579
+              "offset": 1621
             },
             "end": {
-              "line": 46,
+              "line": 50,
               "column": 34,
-              "offset": 1610
+              "offset": 1652
             },
             "indent": []
           },
@@ -11072,17 +11043,16 @@
             "vaultName": "knowledge"
           },
           "value": "software-develop.refactoring",
-          "alias": "software-develop.refactoring",
           "position": {
             "start": {
-              "line": 47,
+              "line": 51,
               "column": 3,
-              "offset": 1613
+              "offset": 1655
             },
             "end": {
-              "line": 47,
+              "line": 51,
               "column": 35,
-              "offset": 1645
+              "offset": 1687
             },
             "indent": []
           },
@@ -11100,17 +11070,16 @@
             "vaultName": "knowledge"
           },
           "value": "programming-languages.functional programming",
-          "alias": "programming-languages.functional programming",
           "position": {
             "start": {
-              "line": 48,
+              "line": 52,
               "column": 3,
-              "offset": 1648
+              "offset": 1690
             },
             "end": {
-              "line": 48,
+              "line": 52,
               "column": 51,
-              "offset": 1696
+              "offset": 1738
             },
             "indent": []
           },
@@ -11128,17 +11097,16 @@
             "vaultName": "knowledge"
           },
           "value": "software-develop.CI",
-          "alias": "software-develop.CI",
           "position": {
             "start": {
-              "line": 52,
+              "line": 56,
               "column": 3,
-              "offset": 1712
+              "offset": 1754
             },
             "end": {
-              "line": 52,
+              "line": 56,
               "column": 26,
-              "offset": 1735
+              "offset": 1777
             },
             "indent": []
           },
@@ -11156,17 +11124,16 @@
             "vaultName": "knowledge"
           },
           "value": "software-develop.CD",
-          "alias": "software-develop.CD",
           "position": {
             "start": {
-              "line": 52,
+              "line": 56,
               "column": 27,
-              "offset": 1736
+              "offset": 1778
             },
             "end": {
-              "line": 52,
+              "line": 56,
               "column": 50,
-              "offset": 1759
+              "offset": 1801
             },
             "indent": []
           },
@@ -11184,17 +11151,16 @@
             "vaultName": "knowledge"
           },
           "value": "software-develop.VCS.git",
-          "alias": "software-develop.VCS.git",
           "position": {
             "start": {
-              "line": 53,
+              "line": 57,
               "column": 3,
-              "offset": 1762
+              "offset": 1804
             },
             "end": {
-              "line": 53,
+              "line": 57,
               "column": 31,
-              "offset": 1790
+              "offset": 1832
             },
             "indent": []
           },
@@ -11236,11 +11202,19 @@
           "column": 0,
           "depth": 2
         },
+        "个人网站": {
+          "type": "header",
+          "text": "个人网站",
+          "value": "个人网站",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
         "技能": {
           "type": "header",
           "text": "技能",
           "value": "技能",
-          "line": 12,
+          "line": 16,
           "column": 0,
           "depth": 2
         },
@@ -11248,7 +11222,7 @@
           "type": "header",
           "text": "基础",
           "value": "基础",
-          "line": 14,
+          "line": 18,
           "column": 0,
           "depth": 3
         },
@@ -11256,7 +11230,7 @@
           "type": "header",
           "text": "编程语言",
           "value": "编程语言",
-          "line": 20,
+          "line": 24,
           "column": 0,
           "depth": 3
         },
@@ -11264,7 +11238,7 @@
           "type": "header",
           "text": "框架",
           "value": "框架",
-          "line": 33,
+          "line": 37,
           "column": 0,
           "depth": 3
         },
@@ -11272,7 +11246,7 @@
           "type": "header",
           "text": "后端框架",
           "value": "后端框架",
-          "line": 35,
+          "line": 39,
           "column": 0,
           "depth": 4
         },
@@ -11280,7 +11254,7 @@
           "type": "header",
           "text": "前端框架",
           "value": "前端框架",
-          "line": 43,
+          "line": 47,
           "column": 0,
           "depth": 4
         },
@@ -11288,7 +11262,7 @@
           "type": "header",
           "text": "软件开发",
           "value": "软件开发",
-          "line": 50,
+          "line": 54,
           "column": 0,
           "depth": 3
         },
@@ -11296,7 +11270,7 @@
           "type": "header",
           "text": "DevOps",
           "value": "devops",
-          "line": 56,
+          "line": 60,
           "column": 0,
           "depth": 3
         },
@@ -11304,7 +11278,7 @@
           "type": "header",
           "text": "平台与工具",
           "value": "平台与工具",
-          "line": 64,
+          "line": 68,
           "column": 0,
           "depth": 4
         },
@@ -11312,7 +11286,7 @@
           "type": "header",
           "text": "项目经历",
           "value": "项目经历",
-          "line": 69,
+          "line": 73,
           "column": 0,
           "depth": 2
         }
