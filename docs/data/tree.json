@@ -1078,7 +1078,7 @@
           ]
         },
         {
-          "key": "d6dqwbd9z31vcih8j9nqf0j",
+          "key": "czdit5fym3h5vioyewnp8kn",
           "title": "Config",
           "icon": "plusOutlined",
           "hasTitleNumberOutlined": false,
@@ -1378,8 +1378,8 @@
     "qu30gr2fu9l2qy6dpy6wjs6": "i5z2gw9ou7tmimbwdsltnnz",
     "e2xrw64bzmsaa2qxn1weydq": "qu30gr2fu9l2qy6dpy6wjs6",
     "d3p796eyci23b23gl69ao09": "qu30gr2fu9l2qy6dpy6wjs6",
-    "d6dqwbd9z31vcih8j9nqf0j": "i5z2gw9ou7tmimbwdsltnnz",
-    "ejwp7pv7cmw5m8efhkq5ah3": "d6dqwbd9z31vcih8j9nqf0j",
+    "czdit5fym3h5vioyewnp8kn": "i5z2gw9ou7tmimbwdsltnnz",
+    "ejwp7pv7cmw5m8efhkq5ah3": "czdit5fym3h5vioyewnp8kn",
     "fl710h5oacxibkom399srh1": "i5z2gw9ou7tmimbwdsltnnz",
     "mqujgpqpm0qo99kdvrlv2kx": "fl710h5oacxibkom399srh1",
     "shs2x76gfjtvi20xxziz4k2": "fl710h5oacxibkom399srh1",
@@ -1532,7 +1532,7 @@
     "qu30gr2fu9l2qy6dpy6wjs6": "Command Line Tools",
     "e2xrw64bzmsaa2qxn1weydq": "Core Utils",
     "d3p796eyci23b23gl69ao09": "Mordern Unix Tools",
-    "d6dqwbd9z31vcih8j9nqf0j": "Config",
+    "czdit5fym3h5vioyewnp8kn": "Config",
     "ejwp7pv7cmw5m8efhkq5ah3": "Toml",
     "fl710h5oacxibkom399srh1": "软件设计",
     "mqujgpqpm0qo99kdvrlv2kx": "DRY",

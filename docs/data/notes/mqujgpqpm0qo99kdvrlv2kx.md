@@ -1,3 +1,4 @@
+
 ## Don’t Repeat Yourself
 
 > The DRY principle stands for “Don’t Repeat Yourself” and was first introduced to the masses by Andy Hunt and Dave Thomas in the book The Pragmatic Programmer, their definition of the DRY principle is as follows:

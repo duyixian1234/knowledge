@@ -88,8 +88,7 @@
     "enableEditorDecorations": true,
     "maxPreviewsCached": 10,
     "maxNoteLength": 204800,
-    "enableFullHierarchyNoteTitle": false,
-    "enableSmartRefs": true
+    "enableFullHierarchyNoteTitle": false
   },
   "preview": {
     "enableFMTitle": true,
@@ -113,12 +112,13 @@
     ],
     "writeStubs": false,
     "siteRootDir": "docs",
+    "siteUrl": "http://knowledge.duyixian.cn",
     "seo": {
       "title": "Dendron",
       "description": "Personal Knowledge Space"
     },
     "github": {
-      "enableEditLink": true,
+      "enableEditLink": false,
       "editLinkText": "Edit this page on GitHub",
       "editBranch": "main",
       "editViewMode": "tree"
@@ -129,7 +129,6 @@
     "enableRandomlyColoredTags": true,
     "enableTaskNotes": true,
     "enablePrettyLinks": true,
-    "siteUrl": "localhost:3000",
     "siteFaviconPath": "favicon.ico",
     "siteIndex": "root"
   }

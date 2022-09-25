@@ -71,7 +71,6 @@ workspace:
   maxPreviewsCached: 10
   maxNoteLength: 204800
   enableFullHierarchyNoteTitle: false
-  enableSmartRefs: true
 preview:
   enableFMTitle: true
   enableNoteTitleForLink: true
@@ -92,14 +91,12 @@ publishing:
     - root
   writeStubs: false
   siteRootDir: docs
+  siteUrl: http://knowledge.duyixian.cn
   seo:
     title: Dendron
     description: Personal Knowledge Space
   github:
-    enableEditLink: true
-    editLinkText: Edit this page on GitHub
-    editBranch: main
-    editViewMode: tree
+    enableEditLink: false
   enableSiteLastModified: true
   enableFrontmatterTags: true
   enableHashesForFMTags: false

@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: localhost:3000
+Host: http://knowledge.duyixian.cn
 
 # Sitemaps
-Sitemap: localhost:3000/sitemap.xml
+Sitemap: http://knowledge.duyixian.cn/sitemap.xml
