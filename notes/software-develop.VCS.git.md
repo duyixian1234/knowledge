@@ -2,7 +2,7 @@
 id: xxrwfft52a57a8c4tfrxnu3
 title: git
 desc: ""
-updated: 1664094931997
+updated: 1665301491003
 created: 1660279209410
 ---
 
@@ -325,6 +325,135 @@ $ git config --global alias.st status
 ```
 
 或者编辑`.gitconfig`文件的 alias 部分。
+
+## Git 分支
+
+### Git 对象
+
+- blob：文件内容
+- tree：目录结构
+- commit：提交信息
+
+![commit-and-tree](https://git-scm.com/book/en/v2/images/commit-and-tree.png)
+
+Git 的分支，其实本质上仅仅是指向提交对象的可变指针。
+
+> Git 的 master 分支并不是一个特殊分支。它就跟其它分支完全没有区别。之所以几乎每一个仓库都有 master 分支，是因为 git init 命令默认创建它，并且大多数人都懒得去改动它。
+
+### 分支创建
+
+本质是创建一个可以移动的新的指针。
+
+```bash
+$ git branch <branch-name>
+```
+
+![two-branches](https://git-scm.com/book/en/v2/images/two-branches.png)
+
+#### HEAD 指针
+
+HEAD 指针指向当前所在的本地分支。
+
+![head-to-master](https://git-scm.com/book/en/v2/images/head-to-master.png)
+
+### 分支切换
+
+```bash
+$ git checkout <branch-name>
+```
+
+![head-to-testing](https://git-scm.com/book/en/v2/images/head-to-testing.png)
+
+创建分支并同时切换
+
+```bash
+$ git checkout -b <branch-name>
+```
+
+#### 项目分叉
+
+在不同的分支上进行改动并提交，会造成项目分叉。
+
+![divergent_history](https://git-scm.com/book/en/v2/images/advance-master.png)
+
+### 分支合并
+
+```bash
+$ git checkout master
+$ git merge <branch-name>
+```
+
+#### 冲突处理
+
+手动修改有冲突的文件或使用图形化工具。
+
+```bash
+$ git mergetool
+```
+
+### 分支管理
+
+`git branch` 命令
+
+- `--merged`：已经合并到当前分支的分支
+- `--no-merged`：尚未合并到当前分支的分支
+- `-d`：删除已经合并的分支
+- `-D`：强制删除分支
+- `-m`：重命名分支
+
+### 分支开发工作流
+
+#### 长期分支
+
+![long-term-branches](https://git-scm.com/book/en/v2/images/lr-branches-2.png)
+
+#### 主题分支（功能分支）
+
+主题分支是一种短期分支，用来实现单一特性或其相关工作。
+
+### 远程分支
+
+远程引用是对远程仓库的引用（指针），包括分支、标签等等。
+
+#### 推送
+
+```bash
+$ git push <remote> <branch>
+```
+
+#### 拉取
+
+fetch：从远程仓库获取数据，但不会自动合并到当前分支。
+
+```bash
+$ git fetch <remote> <branch>
+```
+
+pull：从远程仓库获取数据并自动合并到当前分支。
+
+```bash
+$ git pull <remote> <branch>
+```
+
+#### 删除远程分支
+
+```bash
+$ git push <remote> --delete <branch>
+```
+
+### 变基
+
+提取其他分支的提交并将其应用到当前分支。
+
+```bash
+$ git rebase <branch>
+```
+
+#### 变基的风险
+
+如果提交存在于你的仓库之外，而别人可能基于这些提交进行开发，那么不要执行变基。
+
+`git pull --rebase`：在拉取时执行变基。
 
 ## 资源
 

@@ -1,5 +1,4 @@
 
-
 ## Python
 
 - [Building Large Scale Systems and Products with Python | Soroco Engineering](https://engineering.soroco.com/building-large-scale-systems-and-products-with-python/)

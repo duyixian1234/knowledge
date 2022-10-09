@@ -1,5 +1,4 @@
 
-
 ## 设计理念
 
 - [[software-develop.design.SOLID]]

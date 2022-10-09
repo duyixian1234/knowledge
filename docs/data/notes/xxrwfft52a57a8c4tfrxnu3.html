@@ -295,6 +295,80 @@ $ <span class="token function">git</span> config --global alias.ci commit
 $ <span class="token function">git</span> config --global alias.st status
 </code></pre>
 <p>或者编辑<code>.gitconfig</code>文件的 alias 部分。</p>
+<h2 id="git-分支"><a aria-hidden="true" class="anchor-heading icon-link" href="#git-分支"></a>Git 分支</h2>
+<h3 id="git-对象"><a aria-hidden="true" class="anchor-heading icon-link" href="#git-对象"></a>Git 对象</h3>
+<ul>
+<li>blob：文件内容</li>
+<li>tree：目录结构</li>
+<li>commit：提交信息</li>
+</ul>
+<p><img src="https://git-scm.com/book/en/v2/images/commit-and-tree.png" alt="commit-and-tree"></p>
+<p>Git 的分支，其实本质上仅仅是指向提交对象的可变指针。</p>
+<blockquote>
+<p>Git 的 master 分支并不是一个特殊分支。它就跟其它分支完全没有区别。之所以几乎每一个仓库都有 master 分支，是因为 git init 命令默认创建它，并且大多数人都懒得去改动它。</p>
+</blockquote>
+<h3 id="分支创建"><a aria-hidden="true" class="anchor-heading icon-link" href="#分支创建"></a>分支创建</h3>
+<p>本质是创建一个可以移动的新的指针。</p>
+<pre class="language-bash"><code class="language-bash">$ <span class="token function">git</span> branch <span class="token operator">&#x3C;</span>branch-name<span class="token operator">></span>
+</code></pre>
+<p><img src="https://git-scm.com/book/en/v2/images/two-branches.png" alt="two-branches"></p>
+<h4 id="head-指针"><a aria-hidden="true" class="anchor-heading icon-link" href="#head-指针"></a>HEAD 指针</h4>
+<p>HEAD 指针指向当前所在的本地分支。</p>
+<p><img src="https://git-scm.com/book/en/v2/images/head-to-master.png" alt="head-to-master"></p>
+<h3 id="分支切换"><a aria-hidden="true" class="anchor-heading icon-link" href="#分支切换"></a>分支切换</h3>
+<pre class="language-bash"><code class="language-bash">$ <span class="token function">git</span> checkout <span class="token operator">&#x3C;</span>branch-name<span class="token operator">></span>
+</code></pre>
+<p><img src="https://git-scm.com/book/en/v2/images/head-to-testing.png" alt="head-to-testing"></p>
+<p>创建分支并同时切换</p>
+<pre class="language-bash"><code class="language-bash">$ <span class="token function">git</span> checkout -b <span class="token operator">&#x3C;</span>branch-name<span class="token operator">></span>
+</code></pre>
+<h4 id="项目分叉"><a aria-hidden="true" class="anchor-heading icon-link" href="#项目分叉"></a>项目分叉</h4>
+<p>在不同的分支上进行改动并提交，会造成项目分叉。</p>
+<p><img src="https://git-scm.com/book/en/v2/images/advance-master.png" alt="divergent_history"></p>
+<h3 id="分支合并"><a aria-hidden="true" class="anchor-heading icon-link" href="#分支合并"></a>分支合并</h3>
+<pre class="language-bash"><code class="language-bash">$ <span class="token function">git</span> checkout master
+$ <span class="token function">git</span> merge <span class="token operator">&#x3C;</span>branch-name<span class="token operator">></span>
+</code></pre>
+<h4 id="冲突处理"><a aria-hidden="true" class="anchor-heading icon-link" href="#冲突处理"></a>冲突处理</h4>
+<p>手动修改有冲突的文件或使用图形化工具。</p>
+<pre class="language-bash"><code class="language-bash">$ <span class="token function">git</span> mergetool
+</code></pre>
+<h3 id="分支管理"><a aria-hidden="true" class="anchor-heading icon-link" href="#分支管理"></a>分支管理</h3>
+<p><code>git branch</code> 命令</p>
+<ul>
+<li><code>--merged</code>：已经合并到当前分支的分支</li>
+<li><code>--no-merged</code>：尚未合并到当前分支的分支</li>
+<li><code>-d</code>：删除已经合并的分支</li>
+<li><code>-D</code>：强制删除分支</li>
+<li><code>-m</code>：重命名分支</li>
+</ul>
+<h3 id="分支开发工作流"><a aria-hidden="true" class="anchor-heading icon-link" href="#分支开发工作流"></a>分支开发工作流</h3>
+<h4 id="长期分支"><a aria-hidden="true" class="anchor-heading icon-link" href="#长期分支"></a>长期分支</h4>
+<p><img src="https://git-scm.com/book/en/v2/images/lr-branches-2.png" alt="long-term-branches"></p>
+<h4 id="主题分支功能分支"><a aria-hidden="true" class="anchor-heading icon-link" href="#主题分支功能分支"></a>主题分支（功能分支）</h4>
+<p>主题分支是一种短期分支，用来实现单一特性或其相关工作。</p>
+<h3 id="远程分支"><a aria-hidden="true" class="anchor-heading icon-link" href="#远程分支"></a>远程分支</h3>
+<p>远程引用是对远程仓库的引用（指针），包括分支、标签等等。</p>
+<h4 id="推送"><a aria-hidden="true" class="anchor-heading icon-link" href="#推送"></a>推送</h4>
+<pre class="language-bash"><code class="language-bash">$ <span class="token function">git</span> push <span class="token operator">&#x3C;</span>remote<span class="token operator">></span> <span class="token operator">&#x3C;</span>branch<span class="token operator">></span>
+</code></pre>
+<h4 id="拉取"><a aria-hidden="true" class="anchor-heading icon-link" href="#拉取"></a>拉取</h4>
+<p>fetch：从远程仓库获取数据，但不会自动合并到当前分支。</p>
+<pre class="language-bash"><code class="language-bash">$ <span class="token function">git</span> fetch <span class="token operator">&#x3C;</span>remote<span class="token operator">></span> <span class="token operator">&#x3C;</span>branch<span class="token operator">></span>
+</code></pre>
+<p>pull：从远程仓库获取数据并自动合并到当前分支。</p>
+<pre class="language-bash"><code class="language-bash">$ <span class="token function">git</span> pull <span class="token operator">&#x3C;</span>remote<span class="token operator">></span> <span class="token operator">&#x3C;</span>branch<span class="token operator">></span>
+</code></pre>
+<h4 id="删除远程分支"><a aria-hidden="true" class="anchor-heading icon-link" href="#删除远程分支"></a>删除远程分支</h4>
+<pre class="language-bash"><code class="language-bash">$ <span class="token function">git</span> push <span class="token operator">&#x3C;</span>remote<span class="token operator">></span> --delete <span class="token operator">&#x3C;</span>branch<span class="token operator">></span>
+</code></pre>
+<h3 id="变基"><a aria-hidden="true" class="anchor-heading icon-link" href="#变基"></a>变基</h3>
+<p>提取其他分支的提交并将其应用到当前分支。</p>
+<pre class="language-bash"><code class="language-bash">$ <span class="token function">git</span> rebase <span class="token operator">&#x3C;</span>branch<span class="token operator">></span>
+</code></pre>
+<h4 id="变基的风险"><a aria-hidden="true" class="anchor-heading icon-link" href="#变基的风险"></a>变基的风险</h4>
+<p>如果提交存在于你的仓库之外，而别人可能基于这些提交进行开发，那么不要执行变基。</p>
+<p><code>git pull --rebase</code>：在拉取时执行变基。</p>
 <h2 id="资源"><a aria-hidden="true" class="anchor-heading icon-link" href="#资源"></a>资源</h2>
 <p></p><p></p><div class="portal-container">
 <div class="portal-head">
