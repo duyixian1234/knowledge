@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1665301526567,
-      "created": 1665301526568,
+      "updated": 1667205676799,
+      "created": 1667205676799,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -297,12 +297,12 @@
         "415pfd1z8i5k9amwp7gkzlp",
         "l0n8p6a22ndk4hwpm176fnn",
         "0cu9dg1bjx46x5iqhnr2ulv",
-        "9jlnbhc8y9orb4l0q556pbt"
+        "eyeqf9q5k5lwgv0tidempnk"
       ],
       "parent": "20dxao0uf8892hiam7spier",
       "data": {}
     },
-    "9jlnbhc8y9orb4l0q556pbt": {
+    "eyeqf9q5k5lwgv0tidempnk": {
       "fname": "software-develop.config",
       "stub": true,
       "vault": {
@@ -312,9 +312,9 @@
       },
       "schemaStub": false,
       "type": "note",
-      "updated": 1665301525117,
-      "created": 1665301525117,
-      "id": "9jlnbhc8y9orb4l0q556pbt",
+      "updated": 1667205675170,
+      "created": 1667205675170,
+      "id": "eyeqf9q5k5lwgv0tidempnk",
       "desc": "",
       "links": [],
       "anchors": {},
@@ -367,7 +367,7 @@
       ],
       "anchors": {},
       "children": [],
-      "parent": "9jlnbhc8y9orb4l0q556pbt",
+      "parent": "eyeqf9q5k5lwgv0tidempnk",
       "data": {}
     },
     "0cu9dg1bjx46x5iqhnr2ulv": {
@@ -9847,34 +9847,10 @@
       "children": [
         "e8q7nmga8vp8l0lwwjkk224",
         "ukb27ukhtep8q42aczhb2cz",
-        "2rkux2b95mg0618bx5vhz8s",
         "lhye4vil5un8143hanrbkni",
-        "sm3n32l3vnku7mk7ffncfx6",
-        "788pm603l0e2jbhxfxnds7f",
-        "40au7lj9ck2m1xlcyvrqxre"
+        "788pm603l0e2jbhxfxnds7f"
       ],
       "parent": "dteprkzzkrstuocixsln0we",
-      "data": {}
-    },
-    "40au7lj9ck2m1xlcyvrqxre": {
-      "id": "40au7lj9ck2m1xlcyvrqxre",
-      "title": "Threads And Concurrency",
-      "desc": "",
-      "updated": 1660280860593,
-      "created": 1660280860593,
-      "custom": {},
-      "fname": "basic.software.operating-system.Threads And Concurrency",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "5f611e23915b25ae05081f9b12b10bfa",
-      "links": [],
-      "anchors": {},
-      "children": [],
-      "parent": "9nuy42p9er5xi25in7cy0vq",
       "data": {}
     },
     "788pm603l0e2jbhxfxnds7f": {
@@ -9983,27 +9959,6 @@
           "depth": 3
         }
       },
-      "children": [],
-      "parent": "9nuy42p9er5xi25in7cy0vq",
-      "data": {}
-    },
-    "sm3n32l3vnku7mk7ffncfx6": {
-      "id": "sm3n32l3vnku7mk7ffncfx6",
-      "title": "POSIX Basics",
-      "desc": "",
-      "updated": 1660280876680,
-      "created": 1660280876680,
-      "custom": {},
-      "fname": "basic.software.operating-system.POSIX Basics",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "9ab9823de195cde1f947ad08e2e79f32",
-      "links": [],
-      "anchors": {},
       "children": [],
       "parent": "9nuy42p9er5xi25in7cy0vq",
       "data": {}
@@ -10138,27 +10093,6 @@
           "depth": 4
         }
       },
-      "children": [],
-      "parent": "9nuy42p9er5xi25in7cy0vq",
-      "data": {}
-    },
-    "2rkux2b95mg0618bx5vhz8s": {
-      "id": "2rkux2b95mg0618bx5vhz8s",
-      "title": "Interprocess Communication",
-      "desc": "",
-      "updated": 1660280915380,
-      "created": 1660280900453,
-      "custom": {},
-      "fname": "basic.software.operating-system.Interprocess Communication",
-      "type": "note",
-      "vault": {
-        "fsPath": ".",
-        "selfContained": true,
-        "name": "knowledge"
-      },
-      "contentHash": "c2c0f811d15fc6b0d7ce2d03966899e4",
-      "links": [],
-      "anchors": {},
       "children": [],
       "parent": "9nuy42p9er5xi25in7cy0vq",
       "data": {}

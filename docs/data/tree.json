@@ -245,14 +245,6 @@
                   "children": []
                 },
                 {
-                  "key": "2rkux2b95mg0618bx5vhz8s",
-                  "title": "Interprocess Communication",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "children": []
-                },
-                {
                   "key": "lhye4vil5un8143hanrbkni",
                   "title": "Memory Management",
                   "icon": null,
@@ -261,24 +253,8 @@
                   "children": []
                 },
                 {
-                  "key": "sm3n32l3vnku7mk7ffncfx6",
-                  "title": "POSIX Basics",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "children": []
-                },
-                {
                   "key": "788pm603l0e2jbhxfxnds7f",
                   "title": "Process Management",
-                  "icon": null,
-                  "hasTitleNumberOutlined": false,
-                  "vaultName": "knowledge",
-                  "children": []
-                },
-                {
-                  "key": "40au7lj9ck2m1xlcyvrqxre",
-                  "title": "Threads And Concurrency",
                   "icon": null,
                   "hasTitleNumberOutlined": false,
                   "vaultName": "knowledge",
@@ -1078,7 +1054,7 @@
           ]
         },
         {
-          "key": "9jlnbhc8y9orb4l0q556pbt",
+          "key": "eyeqf9q5k5lwgv0tidempnk",
           "title": "Config",
           "icon": "plusOutlined",
           "hasTitleNumberOutlined": false,
@@ -1276,11 +1252,8 @@
     "9nuy42p9er5xi25in7cy0vq": "dteprkzzkrstuocixsln0we",
     "e8q7nmga8vp8l0lwwjkk224": "9nuy42p9er5xi25in7cy0vq",
     "ukb27ukhtep8q42aczhb2cz": "9nuy42p9er5xi25in7cy0vq",
-    "2rkux2b95mg0618bx5vhz8s": "9nuy42p9er5xi25in7cy0vq",
     "lhye4vil5un8143hanrbkni": "9nuy42p9er5xi25in7cy0vq",
-    "sm3n32l3vnku7mk7ffncfx6": "9nuy42p9er5xi25in7cy0vq",
     "788pm603l0e2jbhxfxnds7f": "9nuy42p9er5xi25in7cy0vq",
-    "40au7lj9ck2m1xlcyvrqxre": "9nuy42p9er5xi25in7cy0vq",
     "roizuhueed0r7bqvid0nz7l": null,
     "43c10amadccvfinwdkpct2g": "roizuhueed0r7bqvid0nz7l",
     "y8ulhtvjnibnph2szwz5cv2": "roizuhueed0r7bqvid0nz7l",
@@ -1378,8 +1351,8 @@
     "qu30gr2fu9l2qy6dpy6wjs6": "i5z2gw9ou7tmimbwdsltnnz",
     "e2xrw64bzmsaa2qxn1weydq": "qu30gr2fu9l2qy6dpy6wjs6",
     "d3p796eyci23b23gl69ao09": "qu30gr2fu9l2qy6dpy6wjs6",
-    "9jlnbhc8y9orb4l0q556pbt": "i5z2gw9ou7tmimbwdsltnnz",
-    "ejwp7pv7cmw5m8efhkq5ah3": "9jlnbhc8y9orb4l0q556pbt",
+    "eyeqf9q5k5lwgv0tidempnk": "i5z2gw9ou7tmimbwdsltnnz",
+    "ejwp7pv7cmw5m8efhkq5ah3": "eyeqf9q5k5lwgv0tidempnk",
     "fl710h5oacxibkom399srh1": "i5z2gw9ou7tmimbwdsltnnz",
     "mqujgpqpm0qo99kdvrlv2kx": "fl710h5oacxibkom399srh1",
     "shs2x76gfjtvi20xxziz4k2": "fl710h5oacxibkom399srh1",
@@ -1430,11 +1403,8 @@
     "9nuy42p9er5xi25in7cy0vq": "操作系统",
     "e8q7nmga8vp8l0lwwjkk224": "Concurrent",
     "ukb27ukhtep8q42aczhb2cz": "IO Management",
-    "2rkux2b95mg0618bx5vhz8s": "Interprocess Communication",
     "lhye4vil5un8143hanrbkni": "Memory Management",
-    "sm3n32l3vnku7mk7ffncfx6": "POSIX Basics",
     "788pm603l0e2jbhxfxnds7f": "Process Management",
-    "40au7lj9ck2m1xlcyvrqxre": "Threads And Concurrency",
     "roizuhueed0r7bqvid0nz7l": "数据库",
     "43c10amadccvfinwdkpct2g": "ACID",
     "y8ulhtvjnibnph2szwz5cv2": "CAP",
@@ -1532,7 +1502,7 @@
     "qu30gr2fu9l2qy6dpy6wjs6": "Command Line Tools",
     "e2xrw64bzmsaa2qxn1weydq": "Core Utils",
     "d3p796eyci23b23gl69ao09": "Mordern Unix Tools",
-    "9jlnbhc8y9orb4l0q556pbt": "Config",
+    "eyeqf9q5k5lwgv0tidempnk": "Config",
     "ejwp7pv7cmw5m8efhkq5ah3": "Toml",
     "fl710h5oacxibkom399srh1": "软件设计",
     "mqujgpqpm0qo99kdvrlv2kx": "DRY",
