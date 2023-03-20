@@ -1,4 +1,5 @@
 
+
 ## 适配器模式
 
 [适配器模式](https://refactoringguru.cn/design-patterns/adapter)

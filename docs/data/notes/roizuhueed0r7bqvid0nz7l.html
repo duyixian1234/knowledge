@@ -1,8 +1,87 @@
 <h1 id="数据库"><a aria-hidden="true" class="anchor-heading icon-link" href="#数据库"></a>数据库</h1>
+<h2 id="数据库架构"><a aria-hidden="true" class="anchor-heading icon-link" href="#数据库架构"></a>数据库架构</h2>
+<ul>
+<li>C/S 架构</li>
+<li>传输子系统</li>
+<li>查询处理器</li>
+<li>查询优化器</li>
+<li>执行计划与执行引擎</li>
+<li>存储引擎
+<ul>
+<li>事务管理器</li>
+<li>锁管理器</li>
+<li>访问模式，存储结构（B 树，LSM 树）</li>
+<li>缓冲管理器</li>
+<li>恢复管理器</li>
+</ul>
+</li>
+</ul>
+<h3 id="内存数据库与磁盘数据库"><a aria-hidden="true" class="anchor-heading icon-link" href="#内存数据库与磁盘数据库"></a>内存数据库与磁盘数据库</h3>
+<h4 id="内存数据库"><a aria-hidden="true" class="anchor-heading icon-link" href="#内存数据库"></a>内存数据库</h4>
+<p>持久化（预写日志）</p>
+<h4 id="磁盘数据库"><a aria-hidden="true" class="anchor-heading icon-link" href="#磁盘数据库"></a>磁盘数据库</h4>
+<h3 id="面向行的数据库与面向列的数据库"><a aria-hidden="true" class="anchor-heading icon-link" href="#面向行的数据库与面向列的数据库"></a>面向行的数据库与面向列的数据库</h3>
+<p>空间局部性</p>
+<ul>
+<li>面向行的数据布局
+<ul>
+<li>整行存在一起</li>
+<li>面向行的文件格式（CSV）</li>
+</ul>
+</li>
+<li>面向列的数据布局
+<ul>
+<li>整列存在一起</li>
+<li>提高压缩率</li>
+<li>SIMD 优化</li>
+<li>分析性工作负载</li>
+<li>面向列的文件格式（<a href="https://parquet.apache.org/">Apache Parquet</a>，<a href="https://orc.apache.org/">Apache ORC • High-Performance Columnar Storage for Hadoop</a>）</li>
+</ul>
+</li>
+<li>宽列存储
+<ul>
+<li>BigTable</li>
+<li>列族</li>
+</ul>
+</li>
+</ul>
+<h3 id="数据文件和索引文件"><a aria-hidden="true" class="anchor-heading icon-link" href="#数据文件和索引文件"></a>数据文件和索引文件</h3>
+<p>存储效率，访问效率，更新效率</p>
+<ul>
+<li>数据文件
+<ul>
+<li>索引组织表，堆组织表，哈希组织表</li>
+</ul>
+</li>
+<li>索引为念
+<ul>
+<li>主索引
+<ul>
+<li>主键</li>
+</ul>
+</li>
+<li>二级索引</li>
+<li>聚簇索引</li>
+<li>非聚簇索引</li>
+</ul>
+</li>
+</ul>
+<h2 id="缓冲不可变性与有序性"><a aria-hidden="true" class="anchor-heading icon-link" href="#缓冲不可变性与有序性"></a>缓冲，不可变性与有序性</h2>
+<ul>
+<li>缓冲
+<ul>
+<li>LSM</li>
+</ul>
+</li>
+<li>不可变性</li>
+<li>有序性</li>
+</ul>
+<h2 id="b-tree"><a aria-hidden="true" class="anchor-heading icon-link" href="#b-tree"></a><a href="/notes/9wdl2xhthwcs19dlttn0bue">B-Tree</a></h2>
 <hr>
 <strong>Children</strong>
 <ol>
 <li><a href="/notes/43c10amadccvfinwdkpct2g">ACID</a></li>
+<li><a href="/notes/9wdl2xhthwcs19dlttn0bue">B-Tree</a></li>
 <li><a href="/notes/y8ulhtvjnibnph2szwz5cv2">CAP</a></li>
 <li><a href="/notes/wldafqi6ut0azf2kfwml6xz">Graph Databases</a></li>
 <li><a href="/notes/mwtn7djpfomvmia0fpc7h5a">Indexes</a></li>
@@ -11,3 +90,8 @@
 <li><a href="/notes/dn79delz4v5n6rpf48x9166">Relational Database</a></li>
 <li><a href="/notes/mnfy0gc6pw9onpkzq5wvniu">Time Series Databases</a></li>
 </ol>
+<hr>
+<strong>Backlinks</strong>
+<ul>
+<li><a href="/">个人知识库</a></li>
+</ul>

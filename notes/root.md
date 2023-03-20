@@ -2,7 +2,7 @@
 id: 20dxao0uf8892hiam7spier
 title: 个人知识库
 desc: ""
-updated: 1663479223433
+updated: 1679314898323
 created: 1660230632683
 ---
 
@@ -21,3 +21,4 @@ created: 1660230632683
 ## 施工中
 
 - [[software-develop.VCS.git]]
+- [[database]]

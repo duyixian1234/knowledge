@@ -1,4 +1,5 @@
 
+
 ## 介绍
 
 [生成器类型](https://docs.python.org/zh-cn/3/library/stdtypes.html#generator-types)
